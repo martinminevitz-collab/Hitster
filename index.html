@@ -207,8 +207,8 @@ const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
 const SEATS={2:[1,0,1,0],3:[1,1,0,1],4:[1,1,1,1],5:[2,1,1,1],6:[2,1,2,1],7:[2,2,2,1],8:[2,2,2,2]};
 
 let state=null;
-let setup={names:["Jugador 1","Jugador 2","Jugador 3","Jugador 4"],target:10,tokens:2};
-let ui={modal:null,flyFrom:null,flipDone:false,dropPid:null,angle:null};
+let setup={names:["Jugador 1","Jugador 2","Jugador 3","Jugador 4"],target:10,tokens:2,start:"begin",device:null};
+let ui={modal:null,flyFrom:null,flipDone:false,dropPid:null,angle:null,screen:null,dev:{loading:false,list:[],error:null},audio:{st:"loading"}};
 
 const $app=document.getElementById("app");
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -235,7 +235,7 @@ function draw(){
 function newGame(){
   const names=setup.names.map(n=>n.trim()).filter(Boolean);
   if(names.length<2){toast("Hacen falta al menos 2 jugadores");return}
-  state={phase:"turn",target:setup.target,deck:shuffle(SONGS.map(s=>s.id)),discard:[],current:0,
+  state={phase:"turn",target:setup.target,startMode:setup.start,device:setup.device,deck:shuffle(SONGS.map(s=>s.id)),discard:[],current:0,
     players:names.map((n,i)=>({id:i,name:n,color:PCOLORS[i%PCOLORS.length],timeline:[],tokens:setup.tokens}))};
   state.players.forEach(p=>p.timeline.push(draw()));
   state.current=Math.floor(Math.random()*state.players.length);
@@ -243,9 +243,35 @@ function newGame(){
 }
 function startTurn(){
   Object.assign(state,{phase:"turn",card:draw(),placement:null,challenges:[],pending:null,result:null,guess:null,snap:null});
-  ui.flipDone=false;
-  if(state.card===null){state.phase="win";state.winner=null}
-  render();
+  ui.flipDone=false;ui.audio={st:"loading"};
+  if(state.card===null){state.phase="win";state.winner=null;stopMusic()}
+  render();playCurrent();
+}
+/* ---------- música (Spotify Connect) ---------- */
+let playSeq=0;
+function playCurrent(){
+  if(!state||state.phase!=="turn"||state.card===null)return;
+  const seq=++playSeq,id=state.card;
+  if(!state.device){ui.audio={st:"error",msg:"No hay un dispositivo elegido para la música."};updateAudio();return}
+  ui.audio={st:"loading"};updateAudio();
+  Spotify.play(song(id),state.device.id,state.startMode)
+    .then(()=>{if(seq===playSeq){ui.audio={st:"playing"};updateAudio()}})
+    .catch(e=>{if(seq===playSeq){ui.audio={st:"error",msg:Spotify.playError(e)};updateAudio()}});
+}
+function stopMusic(){playSeq++;if(state&&state.device)Spotify.pause(state.device.id)}
+function audioHTML(){
+  const a=ui.audio;
+  if(a.st==="playing")return `<span class="playing"><span class="eq" aria-hidden="true"><i></i><i></i><i></i></span>Sonando</span>`;
+  if(a.st==="error")return `<span style="font-size:13px;color:var(--bad);font-weight:600">${esc(a.msg)}</span><div><button class="btn small" data-act="replay">Reintentar</button></div>`;
+  return `<span class="playing">Poniendo el tema…</span>`;
+}
+function updateAudio(){const el=document.getElementById("audio");if(el)el.innerHTML=audioHTML()}
+function loadDevices(){
+  ui.dev={loading:true,list:[],error:null};render();
+  if(!Spotify.connected()){ui.dev.loading=false;render();return}
+  Spotify.devices().then(list=>{ui.dev={loading:false,list,error:null}})
+    .catch(e=>{ui.dev={loading:false,list:[],error:Spotify.playError(e)}})
+    .finally(()=>{if(!state&&ui.screen==="devices")render()});
 }
 function anchorRect(){const el=document.querySelector('[data-anchor="placed"]')||document.querySelector('[data-anchor="mystery"]');return el?el.getBoundingClientRect():null}
 function place(slot){
@@ -275,21 +301,21 @@ function nextTurn(){
   const a=cur();
   if(state.guess===true&&a.tokens<MAX_TOKENS)a.tokens++;
   const w=state.players.find(p=>p.timeline.length>=state.target);
-  if(w){state.phase="win";state.winner=w.id;render();return}
+  if(w){state.phase="win";state.winner=w.id;stopMusic();render();return}
   state.current=(state.current+1)%state.players.length;startTurn();
 }
 function skip(){
   const a=cur();if(a.tokens<1||state.placement!==null)return;
   a.tokens--;state.discard.push(state.card);state.card=draw();
-  if(state.card===null){state.phase="win";state.winner=null}
-  toast(`${a.name} gastó 1 ficha y salteó el tema`);render();
+  if(state.card===null){state.phase="win";state.winner=null;stopMusic()}
+  toast(`${a.name} gastó 1 ficha y salteó el tema`);render();playCurrent();
 }
 function buy(){
   const a=cur();if(a.tokens<3||state.placement!==null)return;
   const c=draw();if(c===null){toast("No quedan cartas en el mazo");return}
   a.tokens-=3;insertSorted(a.timeline,c);
   toast(`${a.name} canjeó 3 fichas: suma “${song(c).t}” (${song(c).y})`);
-  if(a.timeline.length>=state.target){state.phase="win";state.winner=a.id}
+  if(a.timeline.length>=state.target){state.phase="win";state.winner=a.id;stopMusic()}
   render();
 }
 
@@ -383,7 +409,7 @@ function stageInner(cw){
   else msg=state.challenges.length?`¿Alguien más canta Hitster? Si no, denla vuelta.`:`¿Todos de acuerdo? Si no, ¡Hitster!`;
   return `<div class="pair">${pile}${placed?`<div class="card" style="--w:${cw*1.15}px;visibility:hidden"></div>`:cardDown("wobble",`data-anchor="mystery" style="--w:${cw*1.15}px"`)}</div>
     <div class="note" style="--pc:${a.color}">
-      <span class="playing"><span class="eq" aria-hidden="true"><i></i><i></i><i></i></span>Sonando</span>
+      <div id="audio" style="display:grid;gap:6px;justify-items:center">${audioHTML()}</div>
       <h2>Turno de <span>${esc(a.name)}</span></h2>
       <p>${msg}</p>
       ${choosing?`<div><button class="btn small" data-act="cancelpend">Cancelar Hitster</button></div>`:""}
@@ -422,6 +448,7 @@ function viewSetup(){
     <div class="opts">
       <div class="opt"><label>Cartas para ganar</label><div class="stepper"><button class="btn small" data-act="tgt" data-d="-1" aria-label="Menos">−</button><output class="mono">${setup.target}</output><button class="btn small" data-act="tgt" data-d="1" aria-label="Más">+</button></div></div>
       <div class="opt"><label>Fichas al empezar</label><div class="stepper"><button class="btn small" data-act="tok" data-d="-1" aria-label="Menos">−</button><output class="mono">${setup.tokens}</output><button class="btn small" data-act="tok" data-d="1" aria-label="Más">+</button></div></div>
+      <div class="opt"><label>El tema arranca</label><div class="stepper"><button class="btn small ${setup.start==="begin"?"sel":""}" data-act="smode" data-v="begin" aria-pressed="${setup.start==="begin"}">Del principio</button><button class="btn small ${setup.start==="random"?"sel":""}" data-act="smode" data-v="random" aria-pressed="${setup.start==="random"}">En un punto al azar</button></div></div>
     </div>
     <div class="btnrow"><button class="btn dark" data-act="start">Arrancar partida</button></div>
   </div>
@@ -434,9 +461,26 @@ function viewSetup(){
       <li>Si decís <b>tema y artista</b> antes de darla vuelta, ganás 1 ficha (máximo ${MAX_TOKENS}).</li>
       <li>Con fichas también podés <b>saltear un tema</b> (1) o <b>canjear 3</b> por una carta que entra directo a tu línea.</li>
     </ul>
-    <p class="hint">Prototipo: todavía no suena nada. La música llega cuando conectemos Spotify.</p>
+    <p class="hint">La música suena por Spotify en el dispositivo que elijan antes de arrancar. El tema y el artista no aparecen hasta que se da vuelta la carta.</p>
   </div>
 </div>`;
+}
+
+const DEVTYPE={Smartphone:"Celular",Tablet:"Tablet",Computer:"Computadora",Speaker:"Parlante",TV:"Tele",CastAudio:"Parlante",CastVideo:"Tele",AVR:"Equipo de audio",Automobile:"Auto"};
+function viewDevices(){
+  const d=ui.dev,last=Spotify.lastDevice();
+  let body;
+  if(!Spotify.connected())body=`<p class="hint">Primero hay que conectar Spotify.</p><div class="btnrow"><button class="btn dark" data-act="spconnect">Conectar Spotify</button></div>`;
+  else if(d.loading)body=`<p class="soft" style="margin:0">Buscando dispositivos…</p>`;
+  else if(d.error)body=`<p class="hint">${esc(d.error)}</p>`;
+  else if(!d.list.length)body=`<p class="hint">No aparece ningún dispositivo. Abrí la app de Spotify en la tablet (si sigue sin aparecer, poné cualquier tema un segundo y pausalo) y tocá Actualizar.</p>`;
+  else body=`<div class="plist">${d.list.map(v=>`<button class="btn" style="justify-content:space-between;border-radius:14px;text-align:left;flex-wrap:wrap" data-act="device" data-id="${esc(v.id)}" ${v.is_restricted||!v.id?"disabled":""}><b>${esc(v.name)}</b><span class="soft" style="font-size:13px">${esc(DEVTYPE[v.type]||v.type)}${last&&last.id===v.id?" · el último que usaron":""}${v.is_restricted?" · no se puede controlar":""}</span></button>`).join("")}</div>`;
+  return `<div class="page"><div class="panel">
+    <h3>¿Dónde suena la música?</h3>
+    <p class="hint">Elegí la tablet que queda en el medio de la mesa (la que tiene el parlante bluetooth conectado). La app de Spotify tiene que estar abierta en ella.</p>
+    ${body}
+    <div class="btnrow">${Spotify.connected()?`<button class="btn small" data-act="devrefresh">Actualizar</button>`:""}<button class="btn small" data-act="devback">Volver</button></div>
+  </div></div>`;
 }
 
 let geo=null,stageAngle=0;
@@ -486,7 +530,7 @@ function viewWin(){
 function render(){
   const inGame=state&&state.phase!=="win";
   $app.style.overflowY=inGame?"hidden":"auto";
-  $app.innerHTML=!state?viewSetup():state.phase==="win"?viewWin():viewGame();
+  $app.innerHTML=!state?(ui.screen==="devices"?viewDevices():viewSetup()):state.phase==="win"?viewWin():viewGame();
   save();
   if(!inGame)return;
   // la carta del centro gira hacia el jugador de turno
@@ -526,10 +570,15 @@ document.addEventListener("click",e=>{
     case "rm":setup.names.splice(+b.dataset.i,1);render();break;
     case "tgt":setup.target=Math.min(20,Math.max(3,setup.target+ +b.dataset.d));render();break;
     case "tok":setup.tokens=Math.min(MAX_TOKENS,Math.max(0,setup.tokens+ +b.dataset.d));render();break;
-    case "start":newGame();break;
+    case "start":if(setup.names.filter(n=>n.trim()).length<2){toast("Hacen falta al menos 2 jugadores");break}ui.screen="devices";loadDevices();break;
+    case "smode":setup.start=b.dataset.v;render();break;
+    case "devrefresh":loadDevices();break;
+    case "devback":ui.screen=null;render();break;
+    case "device":{const v=ui.dev.list.find(x=>x.id===b.dataset.id);if(!v)break;setup.device={id:v.id,name:v.name};Spotify.rememberDevice(v);ui.screen=null;newGame();break}
+    case "replay":playCurrent();break;
     case "spconnect":Spotify.login();break;
     case "spdisconnect":Spotify.logout();break;
-    case "resume":state=loadSaved();ui.flipDone=true;ui.angle=null;keepAwake();render();break;
+    case "resume":state=loadSaved();ui.flipDone=true;ui.angle=null;keepAwake();render();playCurrent();break;
     case "discard":state=null;save();render();break;
     case "place":place(+b.dataset.slot);break;
     case "hitster":ui.modal="hitster";render();break;
@@ -541,8 +590,8 @@ document.addEventListener("click",e=>{
     case "next":nextTurn();break;
     case "skip":skip();break;
     case "buy":buy();break;
-    case "again":setup.names=state.players.map(p=>p.name);state=null;newGame();break;
-    case "quit":if(state)setup.names=state.players.map(p=>p.name);state=null;ui.modal=null;save();render();break;
+    case "again":setup.names=state.players.map(p=>p.name);setup.device=state.device||setup.device;setup.start=state.startMode||setup.start;state=null;newGame();break;
+    case "quit":if(state){setup.names=state.players.map(p=>p.name);if(state.phase!=="win")stopMusic()}state=null;ui.modal=null;save();render();break;
   }
 });
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&ui.modal){ui.modal=null;render()}});

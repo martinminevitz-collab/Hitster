@@ -111,5 +111,82 @@ const Spotify = (() => {
     if (read(TOKENS_KEY)) await loadProfile();
   }
 
-  return { init, login, logout, api, status, connected: () => status.state === "connected" };
+  /* ---------- Spotify Connect: dispositivos y reproducción ---------- */
+  const DEVICE_KEY = "hitster-spotify-device";
+  const CACHE_KEY = "hitster-spotify-found"; // temas encontrados por la búsqueda provisoria
+  const lastDevice = () => read(DEVICE_KEY);
+  const rememberDevice = d => write(DEVICE_KEY, d && { id: d.id, name: d.name });
+
+  async function devices() {
+    const d = await api("/me/player/devices");
+    return (d && d.devices) || [];
+  }
+
+  /* Búsqueda provisoria hasta que el punto 4 complete los IDs verificados en songs.json:
+     evita remasters, vivos y compilados, y entre lo que queda se queda con el lanzamiento más viejo. */
+  const LIVE = /en vivo|\bvivo\b|\blive\b|directo|concierto|\bgira\b|tour|en obras|unplugged|ac[uú]stic|sesi[oó]n|demo|karaoke|instrumental|\bmix\b|\bedit\b/i;
+  const COMP = /[eé]xitos|grandes|obras cumbres|obras fundamentales|lo mejor|antolog|best of|colecci[oó]n|\bhits\b|esencial/i;
+  const REMASTER = /remaster/i;
+  const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9 ]/g, "").replace(/\s+/g, " ").trim();
+  const base = s => norm(s.split(/ - |\(/)[0]); // "Nada Personal - Remasterizado 2007" -> "nada personal"
+  async function searchTrack(s) {
+    const find = async (q, offset = 0) => { const d = await api("/search?" + new URLSearchParams({ q, type: "track", limit: "10", offset: String(offset) })); return (d && d.tracks && d.tracks.items) || []; };
+    const strict = `track:${s.t} artist:${s.a}`;
+    let items = [...await find(strict), ...await find(strict, 10)];
+    if (!items.length) items = await find(`${s.t} ${s.a}`); // segundo intento, menos estricto
+    const want = base(s.t), artist = norm(s.a);
+    const pool = items.filter(t => {
+      const got = base(t.name);
+      const titleOk = got === want || got.replace(/^el |^la |^los |^las /, "") === want.replace(/^el |^la |^los |^las /, "");
+      const artistOk = t.artists.some(a => norm(a.name).includes(artist) || artist.includes(norm(a.name)));
+      return titleOk && artistOk;
+    });
+    const score = t => (LIVE.test(t.name) || LIVE.test(t.album.name) ? 8 : 0)
+      + (t.album.album_type === "compilation" || COMP.test(t.album.name) ? 4 : 0)
+      + (/feat\.|\bft\.|\bcon\b.*\)/i.test(t.name) ? 4 : 0)
+      + (norm(t.name) !== base(t.name) && !REMASTER.test(t.name) ? 3 : 0) // algo extra en el título: "(SEP7IMO DIA)", "- Versión 2010"...
+      + (REMASTER.test(t.name) || REMASTER.test(t.album.name) ? 1 : 0);
+    pool.sort((x, y) => score(x) - score(y) || String(x.album.release_date).localeCompare(String(y.album.release_date)));
+    return pool[0] || null;
+  }
+
+  async function resolve(s) {
+    if (s.spotify) {
+      return { uri: "spotify:track:" + s.spotify, dur: s.dur || null, id: s.spotify };
+    }
+    const cache = read(CACHE_KEY) || {}, key = s.a + " — " + s.t;
+    if (cache[key]) return cache[key];
+    const t = await searchTrack(s);
+    if (!t) { const e = new Error("No encontré el tema en Spotify"); e.notFound = true; throw e; }
+    cache[key] = { uri: t.uri, dur: t.duration_ms, id: t.id, name: t.name, album: t.album.name, date: t.album.release_date };
+    write(CACHE_KEY, cache);
+    return cache[key];
+  }
+
+  /* Pone el tema en el dispositivo elegido. mode: "begin" (desde el principio) o "random" (punto al azar). */
+  async function play(s, deviceId, mode) {
+    const r = await resolve(s);
+    let pos = 0;
+    if (mode === "random") {
+      let dur = r.dur;
+      if (!dur) { const t = await api("/tracks/" + r.id); dur = t.duration_ms; }
+      const from = 20000, to = Math.max(from, dur - 40000);
+      pos = Math.floor(from + Math.random() * (to - from));
+    }
+    await api("/me/player/play?device_id=" + encodeURIComponent(deviceId), { method: "PUT", body: JSON.stringify({ uris: [r.uri], position_ms: pos }) });
+  }
+
+  async function pause(deviceId) {
+    try { await api("/me/player/pause?device_id=" + encodeURIComponent(deviceId), { method: "PUT" }); } catch (e) {}
+  }
+
+  function playError(e) {
+    if (e.notFound) return "No encontré este tema en Spotify.";
+    if (e.status === 404) return "No encuentro el dispositivo. Abrí la app de Spotify en la tablet y reintentá.";
+    if (e.status === 403) return "Spotify no dejó reproducir (hace falta Premium y que el dispositivo se pueda controlar).";
+    return friendly(e);
+  }
+
+  return { init, login, logout, api, status, connected: () => status.state === "connected",
+    devices, play, pause, playError, lastDevice, rememberDevice, resolve };
 })();
