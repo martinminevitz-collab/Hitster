@@ -182,18 +182,25 @@ button.slot.hot{border-color:var(--pc);color:var(--pc);background:rgba(255,250,2
 
 <script src="spotify.js"></script>
 <script>
-/* Los temas viven en songs.json (los arma tools/biblioteca.mjs). Cada partida usa un mazo. */
-const MAZO="rock-nacional";
-let MAZO_NOMBRE="";
-let SONGS=[];
+/* Los temas viven en songs.json (los arma tools/biblioteca.mjs). Cada partida usa un mazo, o todos mezclados. */
+const TODOS="todos",MAZO_KEY="hitster-mazo";
+let LIB={mazos:[],temas:[]},MAZOS=[],MAZO="rock-nacional",MAZO_NOMBRE="",SONGS=[];
+function buildDeck(id){
+  const deck=LIB.temas.filter(t=>(id===TODOS||t.mazo===id)&&!t.fuera&&t.spotify);
+  const vistos=new Set(); // en "todos" un mismo tema puede estar en dos mazos
+  return deck.filter(t=>{const k=t.spotify;if(vistos.has(k))return false;vistos.add(k);return true})
+    .map((t,i)=>({id:i,key:t.id,t:t.titulo,a:t.artista,y:t.anio,spotify:t.spotify,dur:t.duracion_ms||null}));
+}
+function useMazo(id){
+  if(id!==TODOS&&!MAZOS.some(m=>m.id===id))id=(MAZOS[0]||{}).id||id;
+  MAZO=id;SONGS=buildDeck(id);
+  MAZO_NOMBRE=id===TODOS?"Todos los mazos":((MAZOS.find(m=>m.id===id)||{}).nombre||"");
+}
 async function loadSongs(){
-  try{
-    const d=await (await fetch("songs.json",{cache:"no-cache"})).json();
-    const deck=d.temas.filter(t=>t.mazo===MAZO&&!t.fuera);
-    const conId=deck.filter(t=>t.spotify);
-    MAZO_NOMBRE=((d.mazos||[]).find(m=>m.id===MAZO)||{}).nombre||"";
-    SONGS=(conId.length?conId:deck).map((t,i)=>({id:i,key:t.id,t:t.titulo,a:t.artista,y:t.anio,spotify:t.spotify||null,dur:t.duracion_ms||null}));
-  }catch(e){SONGS=[];console.error(e)}
+  try{LIB=await (await fetch("songs.json",{cache:"no-cache"})).json()}catch(e){LIB={mazos:[],temas:[]};console.error(e)}
+  MAZOS=(LIB.mazos||[]).map(m=>({...m,n:buildDeck(m.id).length})).filter(m=>m.n>0);
+  let pref=null;try{pref=localStorage.getItem(MAZO_KEY)}catch(e){}
+  useMazo(pref||MAZO);
 }
 
 const PCOLORS=["#B8362E","#2A5DA8","#2E7D4F","#D9A21E","#7A4FA6","#D46F2A","#1F8A8A","#C2507E"];
@@ -216,9 +223,9 @@ const cur=()=>state.players[state.current];
 const jitter=id=>(((id*37)%7)-3)*.6+"deg";
 
 function save(){try{state?localStorage.setItem(KEY,JSON.stringify(state)):localStorage.removeItem(KEY)}catch(e){}}
-const deckSig=()=>SONGS.map(s=>s.key).join(",");
-// una partida guardada solo sirve si el mazo no cambió (las cartas se guardan por posición)
-function loadSaved(){try{const s=JSON.parse(localStorage.getItem(KEY)||"null");return s&&s.phase&&s.phase!=="win"&&s.sig===deckSig()?s:null}catch(e){return null}}
+const deckSig=(list=SONGS)=>list.map(s=>s.key).join(",");
+// una partida guardada solo sirve si su mazo no cambió (las cartas se guardan por posición)
+function loadSaved(){try{const s=JSON.parse(localStorage.getItem(KEY)||"null");return s&&s.phase&&s.phase!=="win"&&s.sig===deckSig(buildDeck(s.mazo||"rock-nacional"))?s:null}catch(e){return null}}
 let toastT;function toast(m){const t=document.getElementById("toast");t.textContent=m;t.hidden=false;clearTimeout(toastT);toastT=setTimeout(()=>t.hidden=true,2600)}
 async function keepAwake(){try{await navigator.wakeLock?.request("screen")}catch(e){}}
 document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"&&state&&state.phase!=="win")keepAwake()});
@@ -234,7 +241,7 @@ function newGame(){
   const names=setup.names.map(n=>n.trim()).filter(Boolean);
   if(names.length<2){toast("Hacen falta al menos 2 jugadores");return}
   if(!SONGS.length){toast("No se pudieron cargar los temas. Revisá la conexión y recargá.");return}
-  state={phase:"turn",sig:deckSig(),target:setup.target,startMode:setup.start,device:setup.device,deck:shuffle(SONGS.map(s=>s.id)),discard:[],current:0,
+  state={phase:"turn",mazo:MAZO,sig:deckSig(),target:setup.target,startMode:setup.start,device:setup.device,deck:shuffle(SONGS.map(s=>s.id)),discard:[],current:0,
     players:names.map((n,i)=>({id:i,name:n,color:PCOLORS[i%PCOLORS.length],timeline:[],tokens:setup.tokens}))};
   state.players.forEach(p=>p.timeline.push(draw()));
   state.current=Math.floor(Math.random()*state.players.length);
@@ -439,7 +446,7 @@ function viewSetup(){
   <div class="panel hero">
     <div class="fan">${SONGS.length?[0,1,2,3,4,5].map(k=>cardUp(SONGS.slice().sort((a,b)=>a.y-b.y)[Math.floor(k*(SONGS.length-1)/5)].id)).join(""):""}</div>
     <h1>Hitster</h1>
-    <p>La tablet va en el medio de la mesa y hace de DJ. Cada uno tiene su línea del tiempo de su lado, mirando hacia él, y la carta del centro gira hacia el que le toca. ${SONGS.length?`Mazo ${esc(MAZO_NOMBRE)}: ${SONGS.length} temas, de ${Math.min(...SONGS.map(s=>s.y))} a ${Math.max(...SONGS.map(s=>s.y))}.`:"Cargando temas…"}</p>
+    <p>La tablet va en el medio de la mesa y hace de DJ. Cada uno tiene su línea del tiempo de su lado, mirando hacia él, y la carta del centro gira hacia el que le toca. ${SONGS.length?`${MAZO===TODOS?"Todos los mazos mezclados":"Mazo "+esc(MAZO_NOMBRE)}: ${SONGS.length} temas, de ${Math.min(...SONGS.map(s=>s.y))} a ${Math.max(...SONGS.map(s=>s.y))}.`:"Cargando temas…"}</p>
   </div>
   ${spotifyPanel()}
   ${saved?`<div class="panel"><h3>Hay una partida a medias</h3><div class="btnrow"><button class="btn dark" data-act="resume">Seguir partida</button><button class="btn" data-act="discard">Empezar de cero</button></div></div>`:""}
@@ -448,6 +455,7 @@ function viewSetup(){
     <p class="hint">Primero el que tiene enfrente el lado de abajo de la tablet, y después siguiendo como las agujas del reloj. Así cada línea queda mirando a su dueño y los turnos van en ronda.</p>
     <div class="plist">${setup.names.map((n,i)=>`<div class="prow" style="--pc:${PCOLORS[i]}"><span class="dot"></span><input id="name-${i}" data-name="${i}" value="${esc(n)}" maxlength="14" aria-label="Nombre del jugador ${i+1}">${setup.names.length>2?`<button class="btn small" data-act="rm" data-i="${i}" aria-label="Sacar jugador">✕</button>`:""}</div>`).join("")}</div>
     ${setup.names.length<8?`<div><button class="btn small" data-act="add">+ Sumar jugador</button></div>`:""}
+    ${MAZOS.length?`<div class="opt"><label>Mazo</label><div class="tools" style="justify-content:flex-start">${[...MAZOS,...(MAZOS.length>1?[{id:TODOS,nombre:"Todos mezclados",n:buildDeck(TODOS).length}]:[])].map(m=>`<button class="btn small ${MAZO===m.id?"sel":""}" data-act="mazo" data-v="${esc(m.id)}" aria-pressed="${MAZO===m.id}">${esc(m.nombre)} <span class="cost" style="color:inherit;opacity:.7">${m.n}</span></button>`).join("")}</div></div>`:""}
     <div class="opts">
       <div class="opt"><label>Cartas para ganar</label><div class="stepper"><button class="btn small" data-act="tgt" data-d="-1" aria-label="Menos">−</button><output class="mono">${setup.target}</output><button class="btn small" data-act="tgt" data-d="1" aria-label="Más">+</button></div></div>
       <div class="opt"><label>Fichas al empezar</label><div class="stepper"><button class="btn small" data-act="tok" data-d="-1" aria-label="Menos">−</button><output class="mono">${setup.tokens}</output><button class="btn small" data-act="tok" data-d="1" aria-label="Más">+</button></div></div>
@@ -604,13 +612,14 @@ document.addEventListener("click",e=>{
     case "tok":setup.tokens=Math.min(MAX_TOKENS,Math.max(0,setup.tokens+ +b.dataset.d));render();break;
     case "start":if(setup.names.filter(n=>n.trim()).length<2){toast("Hacen falta al menos 2 jugadores");break}ui.screen="devices";loadDevices();break;
     case "smode":setup.start=b.dataset.v;render();break;
+    case "mazo":useMazo(b.dataset.v);try{localStorage.setItem(MAZO_KEY,MAZO)}catch(e){}render();break;
     case "devrefresh":loadDevices();break;
     case "devback":ui.screen=null;render();break;
     case "device":{const v=ui.dev.list.find(x=>x.id===b.dataset.id);if(!v)break;setup.device={id:v.id,name:v.name};Spotify.rememberDevice(v);ui.screen=null;newGame();break}
     case "replay":playCurrent();break;
     case "spconnect":Spotify.login();break;
     case "spdisconnect":Spotify.logout();break;
-    case "resume":state=loadSaved();ui.flipDone=true;ui.stealDone=true;ui.angle=null;keepAwake();render();playCurrent();break;
+    case "resume":state=loadSaved();if(!state){render();break}useMazo(state.mazo||"rock-nacional");ui.flipDone=true;ui.stealDone=true;ui.angle=null;keepAwake();render();playCurrent();break;
     case "discard":state=null;save();render();break;
     case "place":place(+b.dataset.slot);break;
     case "hitster":ui.modal="hitster";render();break;
@@ -629,7 +638,7 @@ document.addEventListener("click",e=>{
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&ui.modal){ui.modal=null;render()}});
 let rz;addEventListener("resize",()=>{clearTimeout(rz);rz=setTimeout(()=>{if(state&&state.phase!=="win"){ui.flipDone=true;if(!ui.stealT)ui.stealDone=true;render()}},150)});
 
-async function start(data){await loadSongs();if(data&&data.state){state=data.state;ui.flipDone=true}render();Spotify.init(()=>{if(!state)render()})}
+async function start(data){await loadSongs();if(data&&data.state){state=data.state;useMazo(state.mazo||"rock-nacional");ui.flipDone=true}render();Spotify.init(()=>{if(!state)render()})}
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 window.claude?.hot?.snapshot?.(()=>({state}));
 window.claude?.hot?.ready?window.claude.hot.ready(start):start(window.claude?.hot?.data??{});

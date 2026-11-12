@@ -37,6 +37,11 @@ const args = process.argv.slice(2);
 const TODOS = args.includes("--todos");
 const SOLO_MAZO = args.includes("--mazo") ? args[args.indexOf("--mazo") + 1] : null;
 const SIN_BUSCAR = args.includes("--sin-buscar"); // no usa internet: solo recalcula el informe con lo ya guardado
+const arg = n => (args.includes(n) ? args[args.indexOf(n) + 1] : null);
+const PLAYLIST = arg("--playlist");   // link o ID de una playlist propia o colaborativa
+const NOMBRE_MAZO = arg("--nombre");   // nombre visible del mazo nuevo, por ejemplo "Rock Inglés"
+const SCOPES = "playlist-read-private playlist-read-collaborative";
+const pistas = new Map(); // tracks ya leídos de una playlist: así no se vuelven a pedir
 
 /* Qué motivos siguen pendientes, teniendo en cuenta lo que ya se confirmó a mano en la lista. */
 function pendientesDe(t) {
@@ -114,7 +119,7 @@ async function pedirToken(params) {
   const d = await res.json().catch(() => ({}));
   if (!res.ok) throw new Error(`Spotify token: ${d.error_description || d.error || res.status}`);
   const viejo = leerToken() || {};
-  const t = { access: d.access_token, refresh: d.refresh_token || viejo.refresh, expiresAt: Date.now() + (d.expires_in - 60) * 1000 };
+  const t = { access: d.access_token, refresh: d.refresh_token || viejo.refresh, scope: d.scope ?? viejo.scope ?? "", expiresAt: Date.now() + (d.expires_in - 60) * 1000 };
   guardarToken(t);
   return t;
 }
@@ -124,7 +129,7 @@ function loginEnNavegador() {
   const challenge = crypto.createHash("sha256").update(verifier).digest("base64url");
   const state = crypto.randomBytes(8).toString("hex");
   const url = "https://accounts.spotify.com/authorize?" + new URLSearchParams({
-    client_id: CLIENT_ID, response_type: "code", redirect_uri: REDIRECT, code_challenge_method: "S256", code_challenge: challenge, state
+    client_id: CLIENT_ID, response_type: "code", redirect_uri: REDIRECT, code_challenge_method: "S256", code_challenge: challenge, state, scope: SCOPES
   });
   return new Promise((resolve, reject) => {
     const server = http.createServer(async (req, res) => {
@@ -145,6 +150,8 @@ function loginEnNavegador() {
 
 async function token() {
   let t = leerToken();
+  // para leer playlists hace falta un permiso que la primera sesión no pidió: en ese caso se vuelve a loguear
+  if (t && PLAYLIST && !String(t.scope || "").includes("playlist-read-private")) { console.log("Para leer playlists hace falta autorizar un permiso nuevo en Spotify."); t = null; guardarToken({}); }
   if (t && t.access && Date.now() < t.expiresAt) return t.access;
   if (t && t.refresh) { try { return (await pedirToken({ grant_type: "refresh_token", refresh_token: t.refresh })).access; } catch (e) { console.log("La sesión guardada venció, hay que loguearse de nuevo."); } }
   return (await loginEnNavegador()).access;
@@ -161,6 +168,8 @@ async function spotify(ruta) {
       console.log(`  Spotify pidió esperar ${espera / 1000}s…`); await sleep(espera); continue;
     }
     if (res.status === 401) { const t = leerToken(); if (t) { t.expiresAt = 0; guardarToken(t); } continue; }
+    if ((res.status === 403 || res.status === 404) && ruta.startsWith("/playlists/"))
+      throw new Error("Spotify no deja leer esa playlist. Tiene que ser tuya o colaborativa (si es de otra persona, copiala: ⋯ → Agregar a otra playlist → Nueva playlist).");
     if (!res.ok) throw new Error(`Spotify ${res.status} en ${ruta}`);
     return res.json();
   }
@@ -245,8 +254,8 @@ async function anioMusicBrainz(t, isrc) {
 async function verificar(t) {
   const v = { fecha: new Date().toISOString().slice(0, 10), estado: "ok", motivos: [] };
   let elegido = null;
-  if (t.opciones?.spotify) { // ID fijado a mano: no gasta búsquedas
-    const x = await spotify("/tracks/" + encodeURIComponent(t.opciones.spotify));
+  if (t.opciones?.spotify) { // ID fijado a mano o traído de una playlist: no gasta búsquedas
+    const x = pistas.get(t.opciones.spotify) || await spotify("/tracks/" + encodeURIComponent(t.opciones.spotify));
     elegido = { x, p: 0, motivos: ["elegido a mano"] };
   }
   else try { elegido = await buscarEnSpotify(t); } catch (e) { if (/cupo/.test(e.message)) throw e; v.motivos.push("error al buscar en Spotify: " + e.message); }
@@ -302,8 +311,53 @@ Las correcciones se hacen en \`tools/mazos/*.txt\`: el año en la 3ª columna, y
     temas.filter(t => t.verificacion?.motivos.some(x => x.startsWith("error"))).map(t => `\n- Error con ${t.artista} – ${t.titulo}: ${t.verificacion.motivos.filter(x => x.startsWith("error")).join("; ")}`).join("");
 }
 
+/* ---------------- importar una playlist a un mazo ---------------- */
+const tituloLimpio = s => String(s).split(/ - (?=.*(remaster|versi[oó]n|version|mono|stereo|single|edit|\d{4}))/i)[0]
+  .replace(/\s*[\(\[][^\)\]]*(remaster|versi[oó]n|version|mono|stereo|single edit|\d{4})[^\)\]]*[\)\]]/gi, "").trim();
+const slug = s => norm(s).replace(/ /g, "-");
+
+async function importarPlaylist(link, mazoArg, nombreArg) {
+  const id = String(link).replace(/^spotify:playlist:/, "").replace(/^.*\/playlist\//, "").replace(/[?#].*$/, "");
+  if (!/^[A-Za-z0-9]{10,}$/.test(id)) throw new Error("No entiendo ese link de playlist: " + link);
+  const nombre = nombreArg || mazoArg;
+  if (!nombre) throw new Error("Indicá el nombre del mazo con --nombre \"Rock Inglés\" (y si querés el ID con --mazo rock-ingles).");
+  const mazo = mazoArg || slug(nombre);
+  const archivo = path.join(MAZOS_DIR, mazo + ".txt");
+  const existe = fs.existsSync(archivo);
+  const lineas = existe ? fs.readFileSync(archivo, "utf8").split(/\r?\n/) : [`# nombre: ${nombre}`, "# formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)"];
+  const ya = new Set(lineas.filter(l => l.includes("|") && !l.startsWith("#")).flatMap(l => {
+    const [a, t, , o = ""] = l.split("|").map(x => x.trim());
+    return [`${norm(a)}|${norm(t)}`, (o.match(/spotify:(\w+)/) || [])[1]].filter(Boolean);
+  }));
+  let nuevos = 0, repetidos = 0, otros = 0, offset = 0;
+  console.log(`Leyendo la playlist para el mazo "${nombre}"…`);
+  while (true) {
+    const d = await spotify(`/playlists/${id}/items?` + new URLSearchParams({ limit: "50", offset: String(offset), additional_types: "track" }));
+    const items = d?.items || [];
+    for (const it of items) {
+      const x = it.item || it.track;
+      if (!x || x.type !== "track" || x.is_local || !x.id) { otros++; continue; }
+      const artista = x.artists[0]?.name || "", titulo = tituloLimpio(x.name);
+      if (ya.has(x.id) || ya.has(`${norm(artista)}|${norm(titulo)}`)) { repetidos++; continue; }
+      ya.add(x.id); ya.add(`${norm(artista)}|${norm(titulo)}`);
+      pistas.set(x.id, x);
+      lineas.push(`${artista} | ${titulo} | ${anio(x.album?.release_date) || ""} | spotify:${x.id}`);
+      nuevos++;
+    }
+    offset += items.length;
+    if (!d?.next || !items.length) break;
+  }
+  fs.mkdirSync(MAZOS_DIR, { recursive: true });
+  fs.writeFileSync(archivo, lineas.join("\n").replace(/\n*$/, "\n"));
+  console.log(`${nuevos} temas nuevos en tools/mazos/${mazo}.txt` + (repetidos ? `, ${repetidos} ya estaban` : "") + (otros ? `, ${otros} ignorados (podcasts o archivos locales)` : "") + ".");
+  console.log("Ojo: el año que se pone al importar es el del disco en Spotify; MusicBrainz lo verifica ahora.\n");
+  return mazo;
+}
+
 /* ---------------- principal ---------------- */
 async function main() {
+  // al importar una playlist se procesa solo ese mazo (no gasta búsquedas en los pendientes de otros)
+  const filtroMazo = PLAYLIST ? await importarPlaylist(PLAYLIST, SOLO_MAZO, NOMBRE_MAZO) : SOLO_MAZO;
   const previo = fs.existsSync(SONGS) ? JSON.parse(fs.readFileSync(SONGS, "utf8")) : null;
   const data = combinar(previo, leerMazos());
   // si se corrigió un año en la lista, se recalcula sin volver a buscar
@@ -313,7 +367,7 @@ async function main() {
     if (v.anio_mb && t.anio && v.anio_mb !== t.anio) v.motivos.push("anio_distinto");
     v.estado = estado(t);
   }
-  const pendientes = data.temas.filter(t => !t.fuera && (!SOLO_MAZO || t.mazo === SOLO_MAZO) && (TODOS || !t.verificacion || t.verificacion.motivos.some(x => x.startsWith("error"))));
+  const pendientes = data.temas.filter(t => !t.fuera && (!filtroMazo || t.mazo === filtroMazo) && (TODOS || !t.verificacion || t.verificacion.motivos.some(x => x.startsWith("error"))));
   if (SIN_BUSCAR) { pendientes.length = 0; console.log("--sin-buscar: solo se regeneran songs.json y revision.md."); }
   console.log(`${data.temas.length} temas en total, ${pendientes.length} para procesar.`);
   const guardar = () => { fs.writeFileSync(SONGS, JSON.stringify(data, null, 2) + "\n"); fs.writeFileSync(REVISION, informe(data)); };
