@@ -175,6 +175,7 @@ button.slot.hot{border-color:var(--pc);color:var(--pc);background:rgba(255,250,2
 <div id="app"></div>
 <div id="toast" class="toast" hidden></div>
 
+<script src="spotify.js"></script>
 <script>
 /* Mazo de prueba: rock nacional. y = año de lanzamiento original del tema (a verificar contra MusicBrainz antes de la versión final). spotify: se completa al conectar. */
 const SONGS = [
@@ -395,6 +396,14 @@ function stageInner(cw){
 }
 
 /* ---------- vistas ---------- */
+function spotifyPanel(){
+  const s=Spotify.status;
+  let body;
+  if(s.state==="connected")body=`<p class="soft" style="margin:0">Conectado como <b style="color:var(--ink)">${esc(s.name)}</b>.</p><div class="btnrow"><button class="btn small" data-act="spdisconnect">Desconectar Spotify</button></div>`;
+  else if(s.state==="working")body=`<p class="soft" style="margin:0">Conectando con Spotify…</p>`;
+  else body=`${s.error?`<p class="hint">${esc(s.error)}</p>`:`<p class="soft" style="margin:0">Hace falta una sola vez en esta tablet: después entra solo.</p>`}<div class="btnrow"><button class="btn dark" data-act="spconnect">Conectar Spotify</button>${s.state==="error"?`<button class="btn small" data-act="spdisconnect">Borrar sesión guardada</button>`:""}</div>`;
+  return `<div class="panel"><h3>Spotify</h3>${body}</div>`;
+}
 function viewSetup(){
   const saved=loadSaved();
   return `<div class="page">
@@ -403,6 +412,7 @@ function viewSetup(){
     <h1>Hitster <span>Rock Nacional</span></h1>
     <p>La tablet va en el medio de la mesa y hace de DJ. Cada uno tiene su línea del tiempo de su lado, mirando hacia él, y la carta del centro gira hacia el que le toca. Mazo de prueba: ${SONGS.length} temas, de 1967 a 2008.</p>
   </div>
+  ${spotifyPanel()}
   ${saved?`<div class="panel"><h3>Hay una partida a medias</h3><div class="btnrow"><button class="btn dark" data-act="resume">Seguir partida</button><button class="btn" data-act="discard">Empezar de cero</button></div></div>`:""}
   <div class="panel">
     <h3>Jugadores, en el orden de la ronda</h3>
@@ -517,6 +527,8 @@ document.addEventListener("click",e=>{
     case "tgt":setup.target=Math.min(20,Math.max(3,setup.target+ +b.dataset.d));render();break;
     case "tok":setup.tokens=Math.min(MAX_TOKENS,Math.max(0,setup.tokens+ +b.dataset.d));render();break;
     case "start":newGame();break;
+    case "spconnect":Spotify.login();break;
+    case "spdisconnect":Spotify.logout();break;
     case "resume":state=loadSaved();ui.flipDone=true;ui.angle=null;keepAwake();render();break;
     case "discard":state=null;save();render();break;
     case "place":place(+b.dataset.slot);break;
@@ -536,7 +548,7 @@ document.addEventListener("click",e=>{
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&ui.modal){ui.modal=null;render()}});
 let rz;addEventListener("resize",()=>{clearTimeout(rz);rz=setTimeout(()=>{if(state&&state.phase!=="win"){ui.flipDone=true;render()}},150)});
 
-function start(data){if(data&&data.state){state=data.state;ui.flipDone=true}render()}
+function start(data){if(data&&data.state){state=data.state;ui.flipDone=true}render();Spotify.init(()=>{if(!state)render()})}
 window.claude?.hot?.snapshot?.(()=>({state}));
 window.claude?.hot?.ready?window.claude.hot.ready(start):start(window.claude?.hot?.data??{});
 </script>
