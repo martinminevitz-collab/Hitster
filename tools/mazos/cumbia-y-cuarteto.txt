@@ -1,0 +1,45 @@
+# nombre: Cumbia y cuarteto
+# formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
+Los Mirlos | La danza de los mirlos | 1974
+Los Palmeras | Soy sabalero | 1985
+La Mona Jiménez | Quién se ha tomado todo el vino | 1984
+La Mona Jiménez | Beso a beso | 1988
+La Sonora Dinamita | Mi cucu | 1990
+Los Palmeras | La suavecita | 1990
+Gilda | Se me ha perdido un corazón | 1993
+Gilda | Paisaje | 1993
+Gilda | No me arrepiento de este amor | 1995
+Gilda | Fuiste | 1995
+Gilda | Corazón valiente | 1995
+Los Charros | Una calle nos separa | 1996
+Antonio Ríos | Nunca me faltes | 1998
+Rodrigo | Lo mejor del amor | 1998
+Rodrigo | Fuego y pasión | 1998
+Rodrigo | Ocho cuarenta | 1999
+Rodrigo | Cómo le digo | 1999
+Rodrigo | Amor clasificado | 1999
+Ráfaga | Mentirosa | 1999
+Rodrigo | La mano de Dios | 2000
+Rodrigo | Soy cordobés | 2000
+Amar Azul | Yo me enamoré | 2000
+Damas Gratis | Se te ve la tanga | 2000
+Yerba Brava | La cumbia de los trapos | 2000
+Flor de Piedra | La vamo a tomar | 2000
+Pibes Chorros | Llegamos los Pibes Chorros | 2001
+Walter Olmos | Por lo que yo te quiero | 2001
+Celso Piña | Cumbia sobre el río | 2001
+Damas Gratis | El humo de mi fasito | 2002
+Ráfaga | Una cerveza | 2002
+Leo Mattioli | Llorarás más de diez veces | 2004
+Karina | Corazón mentiroso | 2008
+Los Palmeras | El bombón asesino | 2009
+Américo | Te vas | 2008
+Chico Trujillo | Loca | 2008
+Bomba Estéreo | Fuego | 2008
+Grupo 5 | Motor y motivo | 2015
+Marama | Loquita | 2016
+Rombai | Locuras contigo | 2016
+Los Ángeles Azules | Nunca es suficiente | 2018
+Ke Personajes | Pensando en ti | 2019
+La K'onga | Universo paralelo | 2021
+L-Gante | L-Gante RKT | 2021

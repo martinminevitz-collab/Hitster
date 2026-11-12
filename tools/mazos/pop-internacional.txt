@@ -1,0 +1,102 @@
+# nombre: Pop internacional
+# formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
+ABBA | Mamma Mia | 1975
+ABBA | Dancing Queen | 1976
+Bee Gees | Stayin' Alive | 1977
+Village People | Y.M.C.A. | 1978
+Gloria Gaynor | I Will Survive | 1978
+Earth, Wind & Fire | September | 1978
+Donna Summer | Hot Stuff | 1979
+Kool & The Gang | Celebration | 1980
+Phil Collins | In the Air Tonight | 1981
+Michael Jackson | Billie Jean | 1982
+Michael Jackson | Beat It | 1982
+Michael Jackson | Thriller | 1982
+Duran Duran | Hungry Like the Wolf | 1982
+Eurythmics | Sweet Dreams (Are Made of This) | 1983
+Cyndi Lauper | Girls Just Want to Have Fun | 1983
+Culture Club | Karma Chameleon | 1983
+Bonnie Tyler | Total Eclipse of the Heart | 1983
+Irene Cara | Flashdance... What a Feeling | 1983
+Lionel Richie | All Night Long (All Night) | 1983
+Madonna | Like a Virgin | 1984
+Prince | Purple Rain | 1984
+Wham! | Wake Me Up Before You Go-Go | 1984
+George Michael | Careless Whisper | 1984
+Stevie Wonder | I Just Called to Say I Love You | 1984
+Tina Turner | What's Love Got to Do with It | 1984
+Kenny Loggins | Footloose | 1984
+a-ha | Take On Me | 1985
+Tears for Fears | Everybody Wants to Rule the World | 1985
+Pet Shop Boys | West End Girls | 1985
+Whitney Houston | I Wanna Dance with Somebody (Who Loves Me) | 1987
+Michael Jackson | Smooth Criminal | 1987
+Rick Astley | Never Gonna Give You Up | 1987
+Madonna | Like a Prayer | 1989
+Roxette | The Look | 1989
+Madonna | Vogue | 1990
+Ace of Base | All That She Wants | 1992
+Whitney Houston | I Will Always Love You | 1992
+Haddaway | What Is Love | 1993
+Mariah Carey | Hero | 1993
+No Doubt | Don't Speak | 1995
+Alanis Morissette | Ironic | 1995
+Spice Girls | Wannabe | 1996
+Aqua | Barbie Girl | 1997
+Celine Dion | My Heart Will Go On | 1997
+Robbie Williams | Angels | 1997
+Britney Spears | ...Baby One More Time | 1998
+Eiffel 65 | Blue (Da Ba Dee) | 1998
+Backstreet Boys | I Want It That Way | 1999
+Christina Aguilera | Genie in a Bottle | 1999
+Ricky Martin | Livin' la Vida Loca | 1999
+TLC | No Scrubs | 1999
+Destiny's Child | Say My Name | 1999
+Nelly Furtado | I'm Like a Bird | 2000
+Kylie Minogue | Can't Get You Out of My Head | 2001
+Eminem | Lose Yourself | 2002
+Beyoncé | Crazy in Love | 2003
+Britney Spears | Toxic | 2003
+OutKast | Hey Ya! | 2003
+Black Eyed Peas | Where Is the Love? | 2003
+James Blunt | You're Beautiful | 2004
+Gwen Stefani | Hollaback Girl | 2005
+Madonna | Hung Up | 2005
+Justin Timberlake | SexyBack | 2006
+Nelly Furtado | Promiscuous | 2006
+Amy Winehouse | Rehab | 2006
+Rihanna | Umbrella | 2007
+Mika | Grace Kelly | 2007
+Lady Gaga | Poker Face | 2008
+Katy Perry | I Kissed a Girl | 2008
+Taylor Swift | Love Story | 2008
+Lady Gaga | Bad Romance | 2009
+Black Eyed Peas | I Gotta Feeling | 2009
+Adele | Rolling in the Deep | 2010
+Bruno Mars | Just the Way You Are | 2010
+Adele | Someone Like You | 2011
+LMFAO | Party Rock Anthem | 2011
+Gotye | Somebody That I Used to Know | 2011
+Carly Rae Jepsen | Call Me Maybe | 2011
+PSY | Gangnam Style | 2012
+Rihanna | Diamonds | 2012
+Daft Punk | Get Lucky | 2013
+Pharrell Williams | Happy | 2013
+Avicii | Wake Me Up | 2013
+Katy Perry | Roar | 2013
+Mark Ronson | Uptown Funk | 2014
+Taylor Swift | Shake It Off | 2014
+Sia | Chandelier | 2014
+Adele | Hello | 2015
+Justin Bieber | Sorry | 2015
+Ed Sheeran | Shape of You | 2017
+Ed Sheeran | Perfect | 2017
+Dua Lipa | New Rules | 2017
+Lewis Capaldi | Someone You Loved | 2018
+Billie Eilish | bad guy | 2019
+The Weeknd | Blinding Lights | 2019
+Dua Lipa | Levitating | 2020
+Olivia Rodrigo | drivers license | 2021
+Harry Styles | As It Was | 2022
+Taylor Swift | Anti-Hero | 2022
+Miley Cyrus | Flowers | 2023

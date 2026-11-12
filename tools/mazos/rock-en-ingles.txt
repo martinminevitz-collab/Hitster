@@ -1,0 +1,103 @@
+# nombre: Rock en inglés
+# formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
+The Beatles | Twist and Shout | 1963
+The Beatles | Help! | 1965
+The Beatles | Yesterday | 1965
+The Beatles | Hey Jude | 1968
+The Beatles | Here Comes the Sun | 1969
+The Beatles | Let It Be | 1970
+The Rolling Stones | (I Can't Get No) Satisfaction | 1965
+The Rolling Stones | Paint It Black | 1966
+The Rolling Stones | Start Me Up | 1981
+The Kinks | You Really Got Me | 1964
+The Animals | The House of the Rising Sun | 1964
+The Who | My Generation | 1965
+The Who | Baba O'Riley | 1971
+The Doors | Light My Fire | 1967
+The Doors | Riders on the Storm | 1971
+The Jimi Hendrix Experience | Purple Haze | 1967
+Cream | Sunshine of Your Love | 1967
+Creedence Clearwater Revival | Proud Mary | 1969
+Creedence Clearwater Revival | Have You Ever Seen the Rain | 1970
+Led Zeppelin | Whole Lotta Love | 1969
+Led Zeppelin | Immigrant Song | 1970
+Led Zeppelin | Stairway to Heaven | 1971
+Black Sabbath | Paranoid | 1970
+Deep Purple | Smoke on the Water | 1972
+David Bowie | Space Oddity | 1969
+David Bowie | Heroes | 1977
+David Bowie | Let's Dance | 1983
+Pink Floyd | Money | 1973
+Pink Floyd | Wish You Were Here | 1975
+Pink Floyd | Another Brick in the Wall, Pt. 2 | 1979
+Elton John | Rocket Man | 1972
+Lynyrd Skynyrd | Sweet Home Alabama | 1974
+Queen | Bohemian Rhapsody | 1975
+Queen | We Will Rock You | 1977
+Queen | Don't Stop Me Now | 1978
+Queen | Another One Bites the Dust | 1980
+Queen | Under Pressure | 1981
+Boston | More Than a Feeling | 1976
+Eagles | Hotel California | 1976
+Fleetwood Mac | Dreams | 1977
+Fleetwood Mac | Go Your Own Way | 1977
+Talking Heads | Psycho Killer | 1977
+The Police | Roxanne | 1978
+The Police | Every Breath You Take | 1983
+Dire Straits | Sultans of Swing | 1978
+Dire Straits | Money for Nothing | 1985
+Kiss | I Was Made for Lovin' You | 1979
+AC/DC | Highway to Hell | 1979
+AC/DC | Back in Black | 1980
+AC/DC | Thunderstruck | 1990
+The Clash | London Calling | 1979
+The Clash | Should I Stay or Should I Go | 1982
+The Cure | Boys Don't Cry | 1979
+The Cure | Friday I'm in Love | 1992
+Joy Division | Love Will Tear Us Apart | 1980
+Survivor | Eye of the Tiger | 1982
+Toto | Africa | 1982
+U2 | Sunday Bloody Sunday | 1983
+U2 | With or Without You | 1987
+U2 | One | 1991
+Bruce Springsteen | Dancing in the Dark | 1984
+Bruce Springsteen | Born in the U.S.A. | 1984
+The Smiths | There Is a Light That Never Goes Out | 1986
+Bon Jovi | Livin' on a Prayer | 1986
+Europe | The Final Countdown | 1986
+Guns N' Roses | Welcome to the Jungle | 1987
+Guns N' Roses | Sweet Child O' Mine | 1987
+Guns N' Roses | November Rain | 1991
+Def Leppard | Pour Some Sugar on Me | 1987
+INXS | Need You Tonight | 1987
+R.E.M. | Losing My Religion | 1991
+Metallica | Enter Sandman | 1991
+Metallica | Nothing Else Matters | 1991
+Nirvana | Smells Like Teen Spirit | 1991
+Nirvana | Come as You Are | 1991
+Pearl Jam | Alive | 1991
+Red Hot Chili Peppers | Under the Bridge | 1992
+Red Hot Chili Peppers | Californication | 1999
+Radiohead | Creep | 1992
+Radiohead | Karma Police | 1997
+The Cranberries | Zombie | 1994
+Green Day | Basket Case | 1994
+Oasis | Wonderwall | 1995
+Oasis | Don't Look Back in Anger | 1996
+Blur | Song 2 | 1997
+The Verve | Bitter Sweet Symphony | 1997
+Foo Fighters | Everlong | 1997
+The Offspring | The Kids Aren't Alright | 1998
+Lenny Kravitz | Fly Away | 1998
+Linkin Park | In the End | 2000
+Coldplay | Yellow | 2000
+The Strokes | Last Nite | 2001
+The White Stripes | Seven Nation Army | 2003
+The Killers | Mr. Brightside | 2003
+Franz Ferdinand | Take Me Out | 2004
+Arctic Monkeys | I Bet You Look Good on the Dancefloor | 2005
+Muse | Supermassive Black Hole | 2006
+Coldplay | Viva la Vida | 2008
+Kings of Leon | Sex on Fire | 2008
+Imagine Dragons | Radioactive | 2012
+Arctic Monkeys | Do I Wanna Know? | 2013

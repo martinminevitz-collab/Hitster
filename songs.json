@@ -1,11 +1,5858 @@
 {
   "mazos": [
     {
+      "id": "cumbia-y-cuarteto",
+      "nombre": "Cumbia y cuarteto"
+    },
+    {
+      "id": "pop-internacional",
+      "nombre": "Pop internacional"
+    },
+    {
+      "id": "pop-y-rock-latino",
+      "nombre": "Pop y rock latino"
+    },
+    {
+      "id": "rock-en-ingles",
+      "nombre": "Rock en inglés"
+    },
+    {
       "id": "rock-nacional",
       "nombre": "Rock Nacional"
     }
   ],
   "temas": [
+    {
+      "id": "cumbia-y-cuarteto-001",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Los Mirlos",
+      "titulo": "La danza de los mirlos",
+      "anio": 1974,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-002",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Los Palmeras",
+      "titulo": "Soy sabalero",
+      "anio": 1985,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-003",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "La Mona Jiménez",
+      "titulo": "Quién se ha tomado todo el vino",
+      "anio": 1984,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-004",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "La Mona Jiménez",
+      "titulo": "Beso a beso",
+      "anio": 1988,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-005",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "La Sonora Dinamita",
+      "titulo": "Mi cucu",
+      "anio": 1990,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-006",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Los Palmeras",
+      "titulo": "La suavecita",
+      "anio": 1990,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-007",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Gilda",
+      "titulo": "Se me ha perdido un corazón",
+      "anio": 1993,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-008",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Gilda",
+      "titulo": "Paisaje",
+      "anio": 1993,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-009",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Gilda",
+      "titulo": "No me arrepiento de este amor",
+      "anio": 1995,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-010",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Gilda",
+      "titulo": "Fuiste",
+      "anio": 1995,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-011",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Gilda",
+      "titulo": "Corazón valiente",
+      "anio": 1995,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-012",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Los Charros",
+      "titulo": "Una calle nos separa",
+      "anio": 1996,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-013",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Antonio Ríos",
+      "titulo": "Nunca me faltes",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-014",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Rodrigo",
+      "titulo": "Lo mejor del amor",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-015",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Rodrigo",
+      "titulo": "Fuego y pasión",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-016",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Rodrigo",
+      "titulo": "Ocho cuarenta",
+      "anio": 1999,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-017",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Rodrigo",
+      "titulo": "Cómo le digo",
+      "anio": 1999,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-018",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Rodrigo",
+      "titulo": "Amor clasificado",
+      "anio": 1999,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-019",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Ráfaga",
+      "titulo": "Mentirosa",
+      "anio": 1999,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-020",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Rodrigo",
+      "titulo": "La mano de Dios",
+      "anio": 2000,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-021",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Rodrigo",
+      "titulo": "Soy cordobés",
+      "anio": 2000,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-022",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Amar Azul",
+      "titulo": "Yo me enamoré",
+      "anio": 2000,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-023",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Damas Gratis",
+      "titulo": "Se te ve la tanga",
+      "anio": 2000,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-024",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Yerba Brava",
+      "titulo": "La cumbia de los trapos",
+      "anio": 2000,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-025",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Flor de Piedra",
+      "titulo": "La vamo a tomar",
+      "anio": 2000,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-026",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Pibes Chorros",
+      "titulo": "Llegamos los Pibes Chorros",
+      "anio": 2001,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-027",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Walter Olmos",
+      "titulo": "Por lo que yo te quiero",
+      "anio": 2001,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-028",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Celso Piña",
+      "titulo": "Cumbia sobre el río",
+      "anio": 2001,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-029",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Damas Gratis",
+      "titulo": "El humo de mi fasito",
+      "anio": 2002,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-030",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Ráfaga",
+      "titulo": "Una cerveza",
+      "anio": 2002,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-031",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Leo Mattioli",
+      "titulo": "Llorarás más de diez veces",
+      "anio": 2004,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-032",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Karina",
+      "titulo": "Corazón mentiroso",
+      "anio": 2008,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-033",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Los Palmeras",
+      "titulo": "El bombón asesino",
+      "anio": 2009,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-034",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Américo",
+      "titulo": "Te vas",
+      "anio": 2008,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-035",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Chico Trujillo",
+      "titulo": "Loca",
+      "anio": 2008,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-036",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Bomba Estéreo",
+      "titulo": "Fuego",
+      "anio": 2008,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-037",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Grupo 5",
+      "titulo": "Motor y motivo",
+      "anio": 2015,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-038",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Marama",
+      "titulo": "Loquita",
+      "anio": 2016,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-039",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Rombai",
+      "titulo": "Locuras contigo",
+      "anio": 2016,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-040",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Los Ángeles Azules",
+      "titulo": "Nunca es suficiente",
+      "anio": 2018,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-041",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "Ke Personajes",
+      "titulo": "Pensando en ti",
+      "anio": 2019,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-042",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "La K'onga",
+      "titulo": "Universo paralelo",
+      "anio": 2021,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "cumbia-y-cuarteto-043",
+      "mazo": "cumbia-y-cuarteto",
+      "artista": "L-Gante",
+      "titulo": "L-Gante RKT",
+      "anio": 2021,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-001",
+      "mazo": "pop-internacional",
+      "artista": "ABBA",
+      "titulo": "Mamma Mia",
+      "anio": 1975,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-002",
+      "mazo": "pop-internacional",
+      "artista": "ABBA",
+      "titulo": "Dancing Queen",
+      "anio": 1976,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-003",
+      "mazo": "pop-internacional",
+      "artista": "Bee Gees",
+      "titulo": "Stayin' Alive",
+      "anio": 1977,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-004",
+      "mazo": "pop-internacional",
+      "artista": "Village People",
+      "titulo": "Y.M.C.A.",
+      "anio": 1978,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-005",
+      "mazo": "pop-internacional",
+      "artista": "Gloria Gaynor",
+      "titulo": "I Will Survive",
+      "anio": 1978,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-006",
+      "mazo": "pop-internacional",
+      "artista": "Earth, Wind & Fire",
+      "titulo": "September",
+      "anio": 1978,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-007",
+      "mazo": "pop-internacional",
+      "artista": "Donna Summer",
+      "titulo": "Hot Stuff",
+      "anio": 1979,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-008",
+      "mazo": "pop-internacional",
+      "artista": "Kool & The Gang",
+      "titulo": "Celebration",
+      "anio": 1980,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-009",
+      "mazo": "pop-internacional",
+      "artista": "Phil Collins",
+      "titulo": "In the Air Tonight",
+      "anio": 1981,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-010",
+      "mazo": "pop-internacional",
+      "artista": "Michael Jackson",
+      "titulo": "Billie Jean",
+      "anio": 1982,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-011",
+      "mazo": "pop-internacional",
+      "artista": "Michael Jackson",
+      "titulo": "Beat It",
+      "anio": 1982,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-012",
+      "mazo": "pop-internacional",
+      "artista": "Michael Jackson",
+      "titulo": "Thriller",
+      "anio": 1982,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-013",
+      "mazo": "pop-internacional",
+      "artista": "Duran Duran",
+      "titulo": "Hungry Like the Wolf",
+      "anio": 1982,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-014",
+      "mazo": "pop-internacional",
+      "artista": "Eurythmics",
+      "titulo": "Sweet Dreams (Are Made of This)",
+      "anio": 1983,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-015",
+      "mazo": "pop-internacional",
+      "artista": "Cyndi Lauper",
+      "titulo": "Girls Just Want to Have Fun",
+      "anio": 1983,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-016",
+      "mazo": "pop-internacional",
+      "artista": "Culture Club",
+      "titulo": "Karma Chameleon",
+      "anio": 1983,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-017",
+      "mazo": "pop-internacional",
+      "artista": "Bonnie Tyler",
+      "titulo": "Total Eclipse of the Heart",
+      "anio": 1983,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-018",
+      "mazo": "pop-internacional",
+      "artista": "Irene Cara",
+      "titulo": "Flashdance... What a Feeling",
+      "anio": 1983,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-019",
+      "mazo": "pop-internacional",
+      "artista": "Lionel Richie",
+      "titulo": "All Night Long (All Night)",
+      "anio": 1983,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-020",
+      "mazo": "pop-internacional",
+      "artista": "Madonna",
+      "titulo": "Like a Virgin",
+      "anio": 1984,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-021",
+      "mazo": "pop-internacional",
+      "artista": "Prince",
+      "titulo": "Purple Rain",
+      "anio": 1984,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-022",
+      "mazo": "pop-internacional",
+      "artista": "Wham!",
+      "titulo": "Wake Me Up Before You Go-Go",
+      "anio": 1984,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-023",
+      "mazo": "pop-internacional",
+      "artista": "George Michael",
+      "titulo": "Careless Whisper",
+      "anio": 1984,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-024",
+      "mazo": "pop-internacional",
+      "artista": "Stevie Wonder",
+      "titulo": "I Just Called to Say I Love You",
+      "anio": 1984,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-025",
+      "mazo": "pop-internacional",
+      "artista": "Tina Turner",
+      "titulo": "What's Love Got to Do with It",
+      "anio": 1984,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-026",
+      "mazo": "pop-internacional",
+      "artista": "Kenny Loggins",
+      "titulo": "Footloose",
+      "anio": 1984,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-027",
+      "mazo": "pop-internacional",
+      "artista": "a-ha",
+      "titulo": "Take On Me",
+      "anio": 1985,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-028",
+      "mazo": "pop-internacional",
+      "artista": "Tears for Fears",
+      "titulo": "Everybody Wants to Rule the World",
+      "anio": 1985,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-029",
+      "mazo": "pop-internacional",
+      "artista": "Pet Shop Boys",
+      "titulo": "West End Girls",
+      "anio": 1985,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-030",
+      "mazo": "pop-internacional",
+      "artista": "Whitney Houston",
+      "titulo": "I Wanna Dance with Somebody (Who Loves Me)",
+      "anio": 1987,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-031",
+      "mazo": "pop-internacional",
+      "artista": "Michael Jackson",
+      "titulo": "Smooth Criminal",
+      "anio": 1987,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-032",
+      "mazo": "pop-internacional",
+      "artista": "Rick Astley",
+      "titulo": "Never Gonna Give You Up",
+      "anio": 1987,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-033",
+      "mazo": "pop-internacional",
+      "artista": "Madonna",
+      "titulo": "Like a Prayer",
+      "anio": 1989,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-034",
+      "mazo": "pop-internacional",
+      "artista": "Roxette",
+      "titulo": "The Look",
+      "anio": 1989,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-035",
+      "mazo": "pop-internacional",
+      "artista": "Madonna",
+      "titulo": "Vogue",
+      "anio": 1990,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-036",
+      "mazo": "pop-internacional",
+      "artista": "Ace of Base",
+      "titulo": "All That She Wants",
+      "anio": 1992,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-037",
+      "mazo": "pop-internacional",
+      "artista": "Whitney Houston",
+      "titulo": "I Will Always Love You",
+      "anio": 1992,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-038",
+      "mazo": "pop-internacional",
+      "artista": "Haddaway",
+      "titulo": "What Is Love",
+      "anio": 1993,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-039",
+      "mazo": "pop-internacional",
+      "artista": "Mariah Carey",
+      "titulo": "Hero",
+      "anio": 1993,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-040",
+      "mazo": "pop-internacional",
+      "artista": "No Doubt",
+      "titulo": "Don't Speak",
+      "anio": 1995,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-041",
+      "mazo": "pop-internacional",
+      "artista": "Alanis Morissette",
+      "titulo": "Ironic",
+      "anio": 1995,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-042",
+      "mazo": "pop-internacional",
+      "artista": "Spice Girls",
+      "titulo": "Wannabe",
+      "anio": 1996,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-043",
+      "mazo": "pop-internacional",
+      "artista": "Aqua",
+      "titulo": "Barbie Girl",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-044",
+      "mazo": "pop-internacional",
+      "artista": "Celine Dion",
+      "titulo": "My Heart Will Go On",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-045",
+      "mazo": "pop-internacional",
+      "artista": "Robbie Williams",
+      "titulo": "Angels",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-046",
+      "mazo": "pop-internacional",
+      "artista": "Britney Spears",
+      "titulo": "...Baby One More Time",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-047",
+      "mazo": "pop-internacional",
+      "artista": "Eiffel 65",
+      "titulo": "Blue (Da Ba Dee)",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-048",
+      "mazo": "pop-internacional",
+      "artista": "Backstreet Boys",
+      "titulo": "I Want It That Way",
+      "anio": 1999,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-049",
+      "mazo": "pop-internacional",
+      "artista": "Christina Aguilera",
+      "titulo": "Genie in a Bottle",
+      "anio": 1999,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-050",
+      "mazo": "pop-internacional",
+      "artista": "Ricky Martin",
+      "titulo": "Livin' la Vida Loca",
+      "anio": 1999,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-051",
+      "mazo": "pop-internacional",
+      "artista": "TLC",
+      "titulo": "No Scrubs",
+      "anio": 1999,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-052",
+      "mazo": "pop-internacional",
+      "artista": "Destiny's Child",
+      "titulo": "Say My Name",
+      "anio": 1999,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-053",
+      "mazo": "pop-internacional",
+      "artista": "Nelly Furtado",
+      "titulo": "I'm Like a Bird",
+      "anio": 2000,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-054",
+      "mazo": "pop-internacional",
+      "artista": "Kylie Minogue",
+      "titulo": "Can't Get You Out of My Head",
+      "anio": 2001,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-055",
+      "mazo": "pop-internacional",
+      "artista": "Eminem",
+      "titulo": "Lose Yourself",
+      "anio": 2002,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-056",
+      "mazo": "pop-internacional",
+      "artista": "Beyoncé",
+      "titulo": "Crazy in Love",
+      "anio": 2003,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-057",
+      "mazo": "pop-internacional",
+      "artista": "Britney Spears",
+      "titulo": "Toxic",
+      "anio": 2003,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-058",
+      "mazo": "pop-internacional",
+      "artista": "OutKast",
+      "titulo": "Hey Ya!",
+      "anio": 2003,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-059",
+      "mazo": "pop-internacional",
+      "artista": "Black Eyed Peas",
+      "titulo": "Where Is the Love?",
+      "anio": 2003,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-060",
+      "mazo": "pop-internacional",
+      "artista": "James Blunt",
+      "titulo": "You're Beautiful",
+      "anio": 2004,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-061",
+      "mazo": "pop-internacional",
+      "artista": "Gwen Stefani",
+      "titulo": "Hollaback Girl",
+      "anio": 2005,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-062",
+      "mazo": "pop-internacional",
+      "artista": "Madonna",
+      "titulo": "Hung Up",
+      "anio": 2005,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-063",
+      "mazo": "pop-internacional",
+      "artista": "Justin Timberlake",
+      "titulo": "SexyBack",
+      "anio": 2006,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-064",
+      "mazo": "pop-internacional",
+      "artista": "Nelly Furtado",
+      "titulo": "Promiscuous",
+      "anio": 2006,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-065",
+      "mazo": "pop-internacional",
+      "artista": "Amy Winehouse",
+      "titulo": "Rehab",
+      "anio": 2006,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-066",
+      "mazo": "pop-internacional",
+      "artista": "Rihanna",
+      "titulo": "Umbrella",
+      "anio": 2007,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-067",
+      "mazo": "pop-internacional",
+      "artista": "Mika",
+      "titulo": "Grace Kelly",
+      "anio": 2007,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-068",
+      "mazo": "pop-internacional",
+      "artista": "Lady Gaga",
+      "titulo": "Poker Face",
+      "anio": 2008,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-069",
+      "mazo": "pop-internacional",
+      "artista": "Katy Perry",
+      "titulo": "I Kissed a Girl",
+      "anio": 2008,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-070",
+      "mazo": "pop-internacional",
+      "artista": "Taylor Swift",
+      "titulo": "Love Story",
+      "anio": 2008,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-071",
+      "mazo": "pop-internacional",
+      "artista": "Lady Gaga",
+      "titulo": "Bad Romance",
+      "anio": 2009,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-072",
+      "mazo": "pop-internacional",
+      "artista": "Black Eyed Peas",
+      "titulo": "I Gotta Feeling",
+      "anio": 2009,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-073",
+      "mazo": "pop-internacional",
+      "artista": "Adele",
+      "titulo": "Rolling in the Deep",
+      "anio": 2010,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-074",
+      "mazo": "pop-internacional",
+      "artista": "Bruno Mars",
+      "titulo": "Just the Way You Are",
+      "anio": 2010,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-075",
+      "mazo": "pop-internacional",
+      "artista": "Adele",
+      "titulo": "Someone Like You",
+      "anio": 2011,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-076",
+      "mazo": "pop-internacional",
+      "artista": "LMFAO",
+      "titulo": "Party Rock Anthem",
+      "anio": 2011,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-077",
+      "mazo": "pop-internacional",
+      "artista": "Gotye",
+      "titulo": "Somebody That I Used to Know",
+      "anio": 2011,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-078",
+      "mazo": "pop-internacional",
+      "artista": "Carly Rae Jepsen",
+      "titulo": "Call Me Maybe",
+      "anio": 2011,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-079",
+      "mazo": "pop-internacional",
+      "artista": "PSY",
+      "titulo": "Gangnam Style",
+      "anio": 2012,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-080",
+      "mazo": "pop-internacional",
+      "artista": "Rihanna",
+      "titulo": "Diamonds",
+      "anio": 2012,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-081",
+      "mazo": "pop-internacional",
+      "artista": "Daft Punk",
+      "titulo": "Get Lucky",
+      "anio": 2013,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-082",
+      "mazo": "pop-internacional",
+      "artista": "Pharrell Williams",
+      "titulo": "Happy",
+      "anio": 2013,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-083",
+      "mazo": "pop-internacional",
+      "artista": "Avicii",
+      "titulo": "Wake Me Up",
+      "anio": 2013,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-084",
+      "mazo": "pop-internacional",
+      "artista": "Katy Perry",
+      "titulo": "Roar",
+      "anio": 2013,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-085",
+      "mazo": "pop-internacional",
+      "artista": "Mark Ronson",
+      "titulo": "Uptown Funk",
+      "anio": 2014,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-086",
+      "mazo": "pop-internacional",
+      "artista": "Taylor Swift",
+      "titulo": "Shake It Off",
+      "anio": 2014,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-087",
+      "mazo": "pop-internacional",
+      "artista": "Sia",
+      "titulo": "Chandelier",
+      "anio": 2014,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-088",
+      "mazo": "pop-internacional",
+      "artista": "Adele",
+      "titulo": "Hello",
+      "anio": 2015,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-089",
+      "mazo": "pop-internacional",
+      "artista": "Justin Bieber",
+      "titulo": "Sorry",
+      "anio": 2015,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-090",
+      "mazo": "pop-internacional",
+      "artista": "Ed Sheeran",
+      "titulo": "Shape of You",
+      "anio": 2017,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-091",
+      "mazo": "pop-internacional",
+      "artista": "Ed Sheeran",
+      "titulo": "Perfect",
+      "anio": 2017,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-092",
+      "mazo": "pop-internacional",
+      "artista": "Dua Lipa",
+      "titulo": "New Rules",
+      "anio": 2017,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-093",
+      "mazo": "pop-internacional",
+      "artista": "Lewis Capaldi",
+      "titulo": "Someone You Loved",
+      "anio": 2018,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-094",
+      "mazo": "pop-internacional",
+      "artista": "Billie Eilish",
+      "titulo": "bad guy",
+      "anio": 2019,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-095",
+      "mazo": "pop-internacional",
+      "artista": "The Weeknd",
+      "titulo": "Blinding Lights",
+      "anio": 2019,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-096",
+      "mazo": "pop-internacional",
+      "artista": "Dua Lipa",
+      "titulo": "Levitating",
+      "anio": 2020,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-097",
+      "mazo": "pop-internacional",
+      "artista": "Olivia Rodrigo",
+      "titulo": "drivers license",
+      "anio": 2021,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-098",
+      "mazo": "pop-internacional",
+      "artista": "Harry Styles",
+      "titulo": "As It Was",
+      "anio": 2022,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-099",
+      "mazo": "pop-internacional",
+      "artista": "Taylor Swift",
+      "titulo": "Anti-Hero",
+      "anio": 2022,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-internacional-100",
+      "mazo": "pop-internacional",
+      "artista": "Miley Cyrus",
+      "titulo": "Flowers",
+      "anio": 2023,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-001",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Ritchie Valens",
+      "titulo": "La Bamba",
+      "anio": 1958,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-002",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Raphael",
+      "titulo": "Mi gran noche",
+      "anio": 1967,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-003",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Santana",
+      "titulo": "Oye como va",
+      "anio": 1970,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-004",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Nino Bravo",
+      "titulo": "Libre",
+      "anio": 1972,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-005",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Julio Iglesias",
+      "titulo": "Soy un truhán, soy un señor",
+      "anio": 1978,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-006",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Camilo Sesto",
+      "titulo": "Vivir así es morir de amor",
+      "anio": 1978,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-007",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Miguel Bosé",
+      "titulo": "Amante bandido",
+      "anio": 1984,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-008",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Hombres G",
+      "titulo": "Devuélveme a mi chica",
+      "anio": 1985,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-009",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Miami Sound Machine",
+      "titulo": "Conga",
+      "anio": 1985,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-010",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Mecano",
+      "titulo": "Hijo de la Luna",
+      "anio": 1986,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-011",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Mecano",
+      "titulo": "Cruz de navajas",
+      "anio": 1986,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-012",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Los Prisioneros",
+      "titulo": "El baile de los que sobran",
+      "anio": 1986,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-013",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Luis Miguel",
+      "titulo": "Ahora te puedes marchar",
+      "anio": 1987,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-014",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Gipsy Kings",
+      "titulo": "Bamboléo",
+      "anio": 1987,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-015",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Caifanes",
+      "titulo": "La negra Tomasa",
+      "anio": 1988,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-016",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Luis Miguel",
+      "titulo": "La incondicional",
+      "anio": 1989,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-017",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Juan Luis Guerra",
+      "titulo": "Ojalá que llueva café",
+      "anio": 1989,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-018",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Juan Luis Guerra",
+      "titulo": "La bilirrubina",
+      "anio": 1990,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-019",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Maná",
+      "titulo": "Rayando el sol",
+      "anio": 1990,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-020",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Héroes del Silencio",
+      "titulo": "Entre dos tierras",
+      "anio": 1990,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-021",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Héroes del Silencio",
+      "titulo": "Maldito duende",
+      "anio": 1990,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-022",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Maná",
+      "titulo": "Oye mi amor",
+      "anio": 1992,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-023",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Selena",
+      "titulo": "Como la flor",
+      "anio": 1992,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-024",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Carlos Vives",
+      "titulo": "La gota fría",
+      "anio": 1993,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-025",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Gloria Estefan",
+      "titulo": "Mi tierra",
+      "anio": 1993,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-026",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Ricardo Arjona",
+      "titulo": "Historia de taxi",
+      "anio": 1993,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-027",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Los del Río",
+      "titulo": "Macarena",
+      "anio": 1993,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-028",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Café Tacvba",
+      "titulo": "La ingrata",
+      "anio": 1994,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-029",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Caifanes",
+      "titulo": "Afuera",
+      "anio": 1994,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-030",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Selena",
+      "titulo": "Amor prohibido",
+      "anio": 1994,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-031",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Shakira",
+      "titulo": "Estoy aquí",
+      "anio": 1995,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-032",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Enrique Iglesias",
+      "titulo": "Experiencia religiosa",
+      "anio": 1995,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-033",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Ricky Martin",
+      "titulo": "María",
+      "anio": 1995,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-034",
+      "mazo": "pop-y-rock-latino",
+      "artista": "La Ley",
+      "titulo": "El duelo",
+      "anio": 1995,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-035",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Aterciopelados",
+      "titulo": "Bolero falaz",
+      "anio": 1995,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-036",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Jarabe de Palo",
+      "titulo": "La flaca",
+      "anio": 1996,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-037",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Maná",
+      "titulo": "Clavado en un bar",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-038",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Molotov",
+      "titulo": "Puto",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-039",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Alejandro Sanz",
+      "titulo": "Corazón partío",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-040",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Alejandro Sanz",
+      "titulo": "Amiga mía",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-041",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Thalía",
+      "titulo": "Amor a la mexicana",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-042",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Shakira",
+      "titulo": "Ojos así",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-043",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Ricky Martin",
+      "titulo": "La copa de la vida",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-044",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Chayanne",
+      "titulo": "Salomé",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-045",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Elvis Crespo",
+      "titulo": "Suavemente",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-046",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Celia Cruz",
+      "titulo": "La vida es un carnaval",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-047",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Santana",
+      "titulo": "Smooth",
+      "anio": 1999,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-048",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Juanes",
+      "titulo": "A Dios le pido",
+      "anio": 2002,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-049",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Chayanne",
+      "titulo": "Torero",
+      "anio": 2002,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-050",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Bacilos",
+      "titulo": "Mi primer millón",
+      "anio": 2002,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-051",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Sin Bandera",
+      "titulo": "Entra en mi vida",
+      "anio": 2002,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-052",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Aventura",
+      "titulo": "Obsesión",
+      "anio": 2002,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-053",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Café Tacvba",
+      "titulo": "Eres",
+      "anio": 2003,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-054",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Molotov",
+      "titulo": "Frijolero",
+      "anio": 2003,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-055",
+      "mazo": "pop-y-rock-latino",
+      "artista": "La Oreja de Van Gogh",
+      "titulo": "Rosas",
+      "anio": 2003,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-056",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Daddy Yankee",
+      "titulo": "Gasolina",
+      "anio": 2004,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-057",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Juanes",
+      "titulo": "La camisa negra",
+      "anio": 2004,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-058",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Alejandro Fernández",
+      "titulo": "Me dediqué a perderte",
+      "anio": 2004,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-059",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Shakira",
+      "titulo": "La tortura",
+      "anio": 2005,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-060",
+      "mazo": "pop-y-rock-latino",
+      "artista": "El Canto del Loco",
+      "titulo": "Zapatillas",
+      "anio": 2005,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-061",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Calle 13",
+      "titulo": "Atrévete-te-te",
+      "anio": 2005,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-062",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Wisin & Yandel",
+      "titulo": "Rakata",
+      "anio": 2005,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-063",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Reik",
+      "titulo": "Yo quisiera",
+      "anio": 2005,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-064",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Shakira",
+      "titulo": "Hips Don't Lie",
+      "anio": 2006,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-065",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Maná",
+      "titulo": "Labios compartidos",
+      "anio": 2006,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-066",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Julieta Venegas",
+      "titulo": "Me voy",
+      "anio": 2006,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-067",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Julieta Venegas",
+      "titulo": "Limón y sal",
+      "anio": 2006,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-068",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Paulina Rubio",
+      "titulo": "Ni una sola palabra",
+      "anio": 2006,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-069",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Zoé",
+      "titulo": "Labios rotos",
+      "anio": 2006,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-070",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Shakira",
+      "titulo": "Waka Waka (Esto es África)",
+      "anio": 2010,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-071",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Don Omar",
+      "titulo": "Danza Kuduro",
+      "anio": 2010,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-072",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Jesse & Joy",
+      "titulo": "¡Corre!",
+      "anio": 2011,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-073",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Marc Anthony",
+      "titulo": "Vivir mi vida",
+      "anio": 2013,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-074",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Romeo Santos",
+      "titulo": "Propuesta indecente",
+      "anio": 2013,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-075",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Enrique Iglesias",
+      "titulo": "Bailando",
+      "anio": 2014,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-076",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Natalia Lafourcade",
+      "titulo": "Hasta la raíz",
+      "anio": 2015,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-077",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Nicky Jam",
+      "titulo": "El perdón",
+      "anio": 2015,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-078",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Gente de Zona",
+      "titulo": "La gozadera",
+      "anio": 2015,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-079",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Mon Laferte",
+      "titulo": "Tu falta de querer",
+      "anio": 2015,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-080",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Carlos Vives",
+      "titulo": "La bicicleta",
+      "anio": 2016,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-081",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Sebastián Yatra",
+      "titulo": "Traicionera",
+      "anio": 2016,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-082",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Morat",
+      "titulo": "Cómo te atreves",
+      "anio": 2016,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-083",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Luis Fonsi",
+      "titulo": "Despacito",
+      "anio": 2017,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-084",
+      "mazo": "pop-y-rock-latino",
+      "artista": "J Balvin",
+      "titulo": "Mi gente",
+      "anio": 2017,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-085",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Maluma",
+      "titulo": "Felices los 4",
+      "anio": 2017,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-086",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Rosalía",
+      "titulo": "Malamente",
+      "anio": 2018,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-087",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Karol G",
+      "titulo": "Tusa",
+      "anio": 2019,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-088",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Bad Bunny",
+      "titulo": "Dakiti",
+      "anio": 2020,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-089",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Bad Bunny",
+      "titulo": "Tití me preguntó",
+      "anio": 2022,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-090",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Rosalía",
+      "titulo": "Despechá",
+      "anio": 2022,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-091",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Luis Miguel",
+      "titulo": "Cuando calienta el sol",
+      "anio": 1988,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-092",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Chayanne",
+      "titulo": "Tiempo de vals",
+      "anio": 1990,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-093",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Gloria Trevi",
+      "titulo": "Pelo suelto",
+      "anio": 1991,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-094",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Shakira",
+      "titulo": "Pies descalzos, sueños blancos",
+      "anio": 1995,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-095",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Maná",
+      "titulo": "En el muelle de San Blas",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-096",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Ricky Martin",
+      "titulo": "Vuelve",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-097",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Carlos Vives",
+      "titulo": "Fruta fresca",
+      "anio": 1999,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-098",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Shakira",
+      "titulo": "Suerte",
+      "anio": 2001,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "pop-y-rock-latino-099",
+      "mazo": "pop-y-rock-latino",
+      "artista": "Juanes",
+      "titulo": "Es por ti",
+      "anio": 2002,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-001",
+      "mazo": "rock-en-ingles",
+      "artista": "The Beatles",
+      "titulo": "Twist and Shout",
+      "anio": 1963,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-002",
+      "mazo": "rock-en-ingles",
+      "artista": "The Beatles",
+      "titulo": "Help!",
+      "anio": 1965,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-003",
+      "mazo": "rock-en-ingles",
+      "artista": "The Beatles",
+      "titulo": "Yesterday",
+      "anio": 1965,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-004",
+      "mazo": "rock-en-ingles",
+      "artista": "The Beatles",
+      "titulo": "Hey Jude",
+      "anio": 1968,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-005",
+      "mazo": "rock-en-ingles",
+      "artista": "The Beatles",
+      "titulo": "Here Comes the Sun",
+      "anio": 1969,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-006",
+      "mazo": "rock-en-ingles",
+      "artista": "The Beatles",
+      "titulo": "Let It Be",
+      "anio": 1970,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-007",
+      "mazo": "rock-en-ingles",
+      "artista": "The Rolling Stones",
+      "titulo": "(I Can't Get No) Satisfaction",
+      "anio": 1965,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-008",
+      "mazo": "rock-en-ingles",
+      "artista": "The Rolling Stones",
+      "titulo": "Paint It Black",
+      "anio": 1966,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-009",
+      "mazo": "rock-en-ingles",
+      "artista": "The Rolling Stones",
+      "titulo": "Start Me Up",
+      "anio": 1981,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-010",
+      "mazo": "rock-en-ingles",
+      "artista": "The Kinks",
+      "titulo": "You Really Got Me",
+      "anio": 1964,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-011",
+      "mazo": "rock-en-ingles",
+      "artista": "The Animals",
+      "titulo": "The House of the Rising Sun",
+      "anio": 1964,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-012",
+      "mazo": "rock-en-ingles",
+      "artista": "The Who",
+      "titulo": "My Generation",
+      "anio": 1965,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-013",
+      "mazo": "rock-en-ingles",
+      "artista": "The Who",
+      "titulo": "Baba O'Riley",
+      "anio": 1971,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-014",
+      "mazo": "rock-en-ingles",
+      "artista": "The Doors",
+      "titulo": "Light My Fire",
+      "anio": 1967,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-015",
+      "mazo": "rock-en-ingles",
+      "artista": "The Doors",
+      "titulo": "Riders on the Storm",
+      "anio": 1971,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-016",
+      "mazo": "rock-en-ingles",
+      "artista": "The Jimi Hendrix Experience",
+      "titulo": "Purple Haze",
+      "anio": 1967,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-017",
+      "mazo": "rock-en-ingles",
+      "artista": "Cream",
+      "titulo": "Sunshine of Your Love",
+      "anio": 1967,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-018",
+      "mazo": "rock-en-ingles",
+      "artista": "Creedence Clearwater Revival",
+      "titulo": "Proud Mary",
+      "anio": 1969,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-019",
+      "mazo": "rock-en-ingles",
+      "artista": "Creedence Clearwater Revival",
+      "titulo": "Have You Ever Seen the Rain",
+      "anio": 1970,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-020",
+      "mazo": "rock-en-ingles",
+      "artista": "Led Zeppelin",
+      "titulo": "Whole Lotta Love",
+      "anio": 1969,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-021",
+      "mazo": "rock-en-ingles",
+      "artista": "Led Zeppelin",
+      "titulo": "Immigrant Song",
+      "anio": 1970,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-022",
+      "mazo": "rock-en-ingles",
+      "artista": "Led Zeppelin",
+      "titulo": "Stairway to Heaven",
+      "anio": 1971,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-023",
+      "mazo": "rock-en-ingles",
+      "artista": "Black Sabbath",
+      "titulo": "Paranoid",
+      "anio": 1970,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-024",
+      "mazo": "rock-en-ingles",
+      "artista": "Deep Purple",
+      "titulo": "Smoke on the Water",
+      "anio": 1972,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-025",
+      "mazo": "rock-en-ingles",
+      "artista": "David Bowie",
+      "titulo": "Space Oddity",
+      "anio": 1969,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-026",
+      "mazo": "rock-en-ingles",
+      "artista": "David Bowie",
+      "titulo": "Heroes",
+      "anio": 1977,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-027",
+      "mazo": "rock-en-ingles",
+      "artista": "David Bowie",
+      "titulo": "Let's Dance",
+      "anio": 1983,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-028",
+      "mazo": "rock-en-ingles",
+      "artista": "Pink Floyd",
+      "titulo": "Money",
+      "anio": 1973,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-029",
+      "mazo": "rock-en-ingles",
+      "artista": "Pink Floyd",
+      "titulo": "Wish You Were Here",
+      "anio": 1975,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-030",
+      "mazo": "rock-en-ingles",
+      "artista": "Pink Floyd",
+      "titulo": "Another Brick in the Wall, Pt. 2",
+      "anio": 1979,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-031",
+      "mazo": "rock-en-ingles",
+      "artista": "Elton John",
+      "titulo": "Rocket Man",
+      "anio": 1972,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-032",
+      "mazo": "rock-en-ingles",
+      "artista": "Lynyrd Skynyrd",
+      "titulo": "Sweet Home Alabama",
+      "anio": 1974,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-033",
+      "mazo": "rock-en-ingles",
+      "artista": "Queen",
+      "titulo": "Bohemian Rhapsody",
+      "anio": 1975,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-034",
+      "mazo": "rock-en-ingles",
+      "artista": "Queen",
+      "titulo": "We Will Rock You",
+      "anio": 1977,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-035",
+      "mazo": "rock-en-ingles",
+      "artista": "Queen",
+      "titulo": "Don't Stop Me Now",
+      "anio": 1978,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-036",
+      "mazo": "rock-en-ingles",
+      "artista": "Queen",
+      "titulo": "Another One Bites the Dust",
+      "anio": 1980,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-037",
+      "mazo": "rock-en-ingles",
+      "artista": "Queen",
+      "titulo": "Under Pressure",
+      "anio": 1981,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-038",
+      "mazo": "rock-en-ingles",
+      "artista": "Boston",
+      "titulo": "More Than a Feeling",
+      "anio": 1976,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-039",
+      "mazo": "rock-en-ingles",
+      "artista": "Eagles",
+      "titulo": "Hotel California",
+      "anio": 1976,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-040",
+      "mazo": "rock-en-ingles",
+      "artista": "Fleetwood Mac",
+      "titulo": "Dreams",
+      "anio": 1977,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-041",
+      "mazo": "rock-en-ingles",
+      "artista": "Fleetwood Mac",
+      "titulo": "Go Your Own Way",
+      "anio": 1977,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-042",
+      "mazo": "rock-en-ingles",
+      "artista": "Talking Heads",
+      "titulo": "Psycho Killer",
+      "anio": 1977,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-043",
+      "mazo": "rock-en-ingles",
+      "artista": "The Police",
+      "titulo": "Roxanne",
+      "anio": 1978,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-044",
+      "mazo": "rock-en-ingles",
+      "artista": "The Police",
+      "titulo": "Every Breath You Take",
+      "anio": 1983,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-045",
+      "mazo": "rock-en-ingles",
+      "artista": "Dire Straits",
+      "titulo": "Sultans of Swing",
+      "anio": 1978,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-046",
+      "mazo": "rock-en-ingles",
+      "artista": "Dire Straits",
+      "titulo": "Money for Nothing",
+      "anio": 1985,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-047",
+      "mazo": "rock-en-ingles",
+      "artista": "Kiss",
+      "titulo": "I Was Made for Lovin' You",
+      "anio": 1979,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-048",
+      "mazo": "rock-en-ingles",
+      "artista": "AC/DC",
+      "titulo": "Highway to Hell",
+      "anio": 1979,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-049",
+      "mazo": "rock-en-ingles",
+      "artista": "AC/DC",
+      "titulo": "Back in Black",
+      "anio": 1980,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-050",
+      "mazo": "rock-en-ingles",
+      "artista": "AC/DC",
+      "titulo": "Thunderstruck",
+      "anio": 1990,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-051",
+      "mazo": "rock-en-ingles",
+      "artista": "The Clash",
+      "titulo": "London Calling",
+      "anio": 1979,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-052",
+      "mazo": "rock-en-ingles",
+      "artista": "The Clash",
+      "titulo": "Should I Stay or Should I Go",
+      "anio": 1982,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-053",
+      "mazo": "rock-en-ingles",
+      "artista": "The Cure",
+      "titulo": "Boys Don't Cry",
+      "anio": 1979,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-054",
+      "mazo": "rock-en-ingles",
+      "artista": "The Cure",
+      "titulo": "Friday I'm in Love",
+      "anio": 1992,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-055",
+      "mazo": "rock-en-ingles",
+      "artista": "Joy Division",
+      "titulo": "Love Will Tear Us Apart",
+      "anio": 1980,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-056",
+      "mazo": "rock-en-ingles",
+      "artista": "Survivor",
+      "titulo": "Eye of the Tiger",
+      "anio": 1982,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-057",
+      "mazo": "rock-en-ingles",
+      "artista": "Toto",
+      "titulo": "Africa",
+      "anio": 1982,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-058",
+      "mazo": "rock-en-ingles",
+      "artista": "U2",
+      "titulo": "Sunday Bloody Sunday",
+      "anio": 1983,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-059",
+      "mazo": "rock-en-ingles",
+      "artista": "U2",
+      "titulo": "With or Without You",
+      "anio": 1987,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-060",
+      "mazo": "rock-en-ingles",
+      "artista": "U2",
+      "titulo": "One",
+      "anio": 1991,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-061",
+      "mazo": "rock-en-ingles",
+      "artista": "Bruce Springsteen",
+      "titulo": "Dancing in the Dark",
+      "anio": 1984,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-062",
+      "mazo": "rock-en-ingles",
+      "artista": "Bruce Springsteen",
+      "titulo": "Born in the U.S.A.",
+      "anio": 1984,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-063",
+      "mazo": "rock-en-ingles",
+      "artista": "The Smiths",
+      "titulo": "There Is a Light That Never Goes Out",
+      "anio": 1986,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-064",
+      "mazo": "rock-en-ingles",
+      "artista": "Bon Jovi",
+      "titulo": "Livin' on a Prayer",
+      "anio": 1986,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-065",
+      "mazo": "rock-en-ingles",
+      "artista": "Europe",
+      "titulo": "The Final Countdown",
+      "anio": 1986,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-066",
+      "mazo": "rock-en-ingles",
+      "artista": "Guns N' Roses",
+      "titulo": "Welcome to the Jungle",
+      "anio": 1987,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-067",
+      "mazo": "rock-en-ingles",
+      "artista": "Guns N' Roses",
+      "titulo": "Sweet Child O' Mine",
+      "anio": 1987,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-068",
+      "mazo": "rock-en-ingles",
+      "artista": "Guns N' Roses",
+      "titulo": "November Rain",
+      "anio": 1991,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-069",
+      "mazo": "rock-en-ingles",
+      "artista": "Def Leppard",
+      "titulo": "Pour Some Sugar on Me",
+      "anio": 1987,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-070",
+      "mazo": "rock-en-ingles",
+      "artista": "INXS",
+      "titulo": "Need You Tonight",
+      "anio": 1987,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-071",
+      "mazo": "rock-en-ingles",
+      "artista": "R.E.M.",
+      "titulo": "Losing My Religion",
+      "anio": 1991,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-072",
+      "mazo": "rock-en-ingles",
+      "artista": "Metallica",
+      "titulo": "Enter Sandman",
+      "anio": 1991,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-073",
+      "mazo": "rock-en-ingles",
+      "artista": "Metallica",
+      "titulo": "Nothing Else Matters",
+      "anio": 1991,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-074",
+      "mazo": "rock-en-ingles",
+      "artista": "Nirvana",
+      "titulo": "Smells Like Teen Spirit",
+      "anio": 1991,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-075",
+      "mazo": "rock-en-ingles",
+      "artista": "Nirvana",
+      "titulo": "Come as You Are",
+      "anio": 1991,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-076",
+      "mazo": "rock-en-ingles",
+      "artista": "Pearl Jam",
+      "titulo": "Alive",
+      "anio": 1991,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-077",
+      "mazo": "rock-en-ingles",
+      "artista": "Red Hot Chili Peppers",
+      "titulo": "Under the Bridge",
+      "anio": 1992,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-078",
+      "mazo": "rock-en-ingles",
+      "artista": "Red Hot Chili Peppers",
+      "titulo": "Californication",
+      "anio": 1999,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-079",
+      "mazo": "rock-en-ingles",
+      "artista": "Radiohead",
+      "titulo": "Creep",
+      "anio": 1992,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-080",
+      "mazo": "rock-en-ingles",
+      "artista": "Radiohead",
+      "titulo": "Karma Police",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-081",
+      "mazo": "rock-en-ingles",
+      "artista": "The Cranberries",
+      "titulo": "Zombie",
+      "anio": 1994,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-082",
+      "mazo": "rock-en-ingles",
+      "artista": "Green Day",
+      "titulo": "Basket Case",
+      "anio": 1994,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-083",
+      "mazo": "rock-en-ingles",
+      "artista": "Oasis",
+      "titulo": "Wonderwall",
+      "anio": 1995,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-084",
+      "mazo": "rock-en-ingles",
+      "artista": "Oasis",
+      "titulo": "Don't Look Back in Anger",
+      "anio": 1996,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-085",
+      "mazo": "rock-en-ingles",
+      "artista": "Blur",
+      "titulo": "Song 2",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-086",
+      "mazo": "rock-en-ingles",
+      "artista": "The Verve",
+      "titulo": "Bitter Sweet Symphony",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-087",
+      "mazo": "rock-en-ingles",
+      "artista": "Foo Fighters",
+      "titulo": "Everlong",
+      "anio": 1997,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-088",
+      "mazo": "rock-en-ingles",
+      "artista": "The Offspring",
+      "titulo": "The Kids Aren't Alright",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-089",
+      "mazo": "rock-en-ingles",
+      "artista": "Lenny Kravitz",
+      "titulo": "Fly Away",
+      "anio": 1998,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-090",
+      "mazo": "rock-en-ingles",
+      "artista": "Linkin Park",
+      "titulo": "In the End",
+      "anio": 2000,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-091",
+      "mazo": "rock-en-ingles",
+      "artista": "Coldplay",
+      "titulo": "Yellow",
+      "anio": 2000,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-092",
+      "mazo": "rock-en-ingles",
+      "artista": "The Strokes",
+      "titulo": "Last Nite",
+      "anio": 2001,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-093",
+      "mazo": "rock-en-ingles",
+      "artista": "The White Stripes",
+      "titulo": "Seven Nation Army",
+      "anio": 2003,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-094",
+      "mazo": "rock-en-ingles",
+      "artista": "The Killers",
+      "titulo": "Mr. Brightside",
+      "anio": 2003,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-095",
+      "mazo": "rock-en-ingles",
+      "artista": "Franz Ferdinand",
+      "titulo": "Take Me Out",
+      "anio": 2004,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-096",
+      "mazo": "rock-en-ingles",
+      "artista": "Arctic Monkeys",
+      "titulo": "I Bet You Look Good on the Dancefloor",
+      "anio": 2005,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-097",
+      "mazo": "rock-en-ingles",
+      "artista": "Muse",
+      "titulo": "Supermassive Black Hole",
+      "anio": 2006,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-098",
+      "mazo": "rock-en-ingles",
+      "artista": "Coldplay",
+      "titulo": "Viva la Vida",
+      "anio": 2008,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-099",
+      "mazo": "rock-en-ingles",
+      "artista": "Kings of Leon",
+      "titulo": "Sex on Fire",
+      "anio": 2008,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-100",
+      "mazo": "rock-en-ingles",
+      "artista": "Imagine Dragons",
+      "titulo": "Radioactive",
+      "anio": 2012,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "rock-en-ingles-101",
+      "mazo": "rock-en-ingles",
+      "artista": "Arctic Monkeys",
+      "titulo": "Do I Wanna Know?",
+      "anio": 2013,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
     {
       "id": "rock-nacional-001",
       "mazo": "rock-nacional",

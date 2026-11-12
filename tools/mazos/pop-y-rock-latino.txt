@@ -1,0 +1,101 @@
+# nombre: Pop y rock latino
+# formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
+Ritchie Valens | La Bamba | 1958
+Raphael | Mi gran noche | 1967
+Santana | Oye como va | 1970
+Nino Bravo | Libre | 1972
+Julio Iglesias | Soy un truhán, soy un señor | 1978
+Camilo Sesto | Vivir así es morir de amor | 1978
+Miguel Bosé | Amante bandido | 1984
+Hombres G | Devuélveme a mi chica | 1985
+Miami Sound Machine | Conga | 1985
+Mecano | Hijo de la Luna | 1986
+Mecano | Cruz de navajas | 1986
+Los Prisioneros | El baile de los que sobran | 1986
+Luis Miguel | Ahora te puedes marchar | 1987
+Gipsy Kings | Bamboléo | 1987
+Caifanes | La negra Tomasa | 1988
+Luis Miguel | La incondicional | 1989
+Juan Luis Guerra | Ojalá que llueva café | 1989
+Juan Luis Guerra | La bilirrubina | 1990
+Maná | Rayando el sol | 1990
+Héroes del Silencio | Entre dos tierras | 1990
+Héroes del Silencio | Maldito duende | 1990
+Maná | Oye mi amor | 1992
+Selena | Como la flor | 1992
+Carlos Vives | La gota fría | 1993
+Gloria Estefan | Mi tierra | 1993
+Ricardo Arjona | Historia de taxi | 1993
+Los del Río | Macarena | 1993
+Café Tacvba | La ingrata | 1994
+Caifanes | Afuera | 1994
+Selena | Amor prohibido | 1994
+Shakira | Estoy aquí | 1995
+Enrique Iglesias | Experiencia religiosa | 1995
+Ricky Martin | María | 1995
+La Ley | El duelo | 1995
+Aterciopelados | Bolero falaz | 1995
+Jarabe de Palo | La flaca | 1996
+Maná | Clavado en un bar | 1997
+Molotov | Puto | 1997
+Alejandro Sanz | Corazón partío | 1997
+Alejandro Sanz | Amiga mía | 1997
+Thalía | Amor a la mexicana | 1997
+Shakira | Ojos así | 1998
+Ricky Martin | La copa de la vida | 1998
+Chayanne | Salomé | 1998
+Elvis Crespo | Suavemente | 1998
+Celia Cruz | La vida es un carnaval | 1998
+Santana | Smooth | 1999
+Juanes | A Dios le pido | 2002
+Chayanne | Torero | 2002
+Bacilos | Mi primer millón | 2002
+Sin Bandera | Entra en mi vida | 2002
+Aventura | Obsesión | 2002
+Café Tacvba | Eres | 2003
+Molotov | Frijolero | 2003
+La Oreja de Van Gogh | Rosas | 2003
+Daddy Yankee | Gasolina | 2004
+Juanes | La camisa negra | 2004
+Alejandro Fernández | Me dediqué a perderte | 2004
+Shakira | La tortura | 2005
+El Canto del Loco | Zapatillas | 2005
+Calle 13 | Atrévete-te-te | 2005
+Wisin & Yandel | Rakata | 2005
+Reik | Yo quisiera | 2005
+Shakira | Hips Don't Lie | 2006
+Maná | Labios compartidos | 2006
+Julieta Venegas | Me voy | 2006
+Julieta Venegas | Limón y sal | 2006
+Paulina Rubio | Ni una sola palabra | 2006
+Zoé | Labios rotos | 2006
+Shakira | Waka Waka (Esto es África) | 2010
+Don Omar | Danza Kuduro | 2010
+Jesse & Joy | ¡Corre! | 2011
+Marc Anthony | Vivir mi vida | 2013
+Romeo Santos | Propuesta indecente | 2013
+Enrique Iglesias | Bailando | 2014
+Natalia Lafourcade | Hasta la raíz | 2015
+Nicky Jam | El perdón | 2015
+Gente de Zona | La gozadera | 2015
+Mon Laferte | Tu falta de querer | 2015
+Carlos Vives | La bicicleta | 2016
+Sebastián Yatra | Traicionera | 2016
+Morat | Cómo te atreves | 2016
+Luis Fonsi | Despacito | 2017
+J Balvin | Mi gente | 2017
+Maluma | Felices los 4 | 2017
+Rosalía | Malamente | 2018
+Karol G | Tusa | 2019
+Bad Bunny | Dakiti | 2020
+Bad Bunny | Tití me preguntó | 2022
+Rosalía | Despechá | 2022
+Luis Miguel | Cuando calienta el sol | 1988
+Chayanne | Tiempo de vals | 1990
+Gloria Trevi | Pelo suelto | 1991
+Shakira | Pies descalzos, sueños blancos | 1995
+Maná | En el muelle de San Blas | 1997
+Ricky Martin | Vuelve | 1998
+Carlos Vives | Fruta fresca | 1999
+Shakira | Suerte | 2001
+Juanes | Es por ti | 2002
