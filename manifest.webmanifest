@@ -1,0 +1,17 @@
+{
+  "name": "Hitster Rock Nacional",
+  "short_name": "Hitster",
+  "description": "Juego de líneas del tiempo musicales para jugar con la tablet en el medio de la mesa.",
+  "lang": "es-AR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "background_color": "#CC9356",
+  "theme_color": "#CC9356",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

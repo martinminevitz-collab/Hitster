@@ -1,5 +1,10 @@
 <title>Hitster Rock Nacional</title>
 <meta name="claude:viewport-fit-sides" content="cover">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#CC9356">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;700;800&family=DM+Mono:wght@500&family=Figtree:wght@400;500;600;700&display=swap">
@@ -295,7 +300,7 @@ function reveal(){
     if(w){insertSorted(P(w.pid).timeline,state.card);r={type:"challenger",pid:w.pid}}
     else{state.discard.push(state.card);r={type:"none"}}
   }
-  state.result=r;state.phase="reveal";ui.flipDone=false;render();
+  state.result=r;state.phase="reveal";ui.flipDone=false;ui.stealDone=r.type!=="challenger";render();
 }
 function nextTurn(){
   const a=cur();
@@ -350,7 +355,8 @@ function currentLine(){
     const ch=state.challenges.filter(c=>c.slot===i);
     const marks=ch.map(c=>{const p=P(c.pid);let cls=c.pid===ui.dropPid?"drop":"";if(rev)cls+=state.result.type==="challenger"&&state.result.pid===c.pid?" win":" lose";return chip(p,cls)}).join("");
     if(rev){
-      if(i===state.placement)h+=`<div class="slot">${cardFlip(state.card,(ui.flipDone?"flipped noanim ":"")+(fits(tl,i,y)?"ring-ok":"ring-ko"),'data-anchor="reveal"')}${marks}</div>`;
+      if(i===state.placement&&state.result.type==="challenger"&&ui.stealDone)h+=`<div class="slot">${marks}</div>`;
+      else if(i===state.placement)h+=`<div class="slot">${cardFlip(state.card,(ui.flipDone?"flipped noanim ":"")+(fits(tl,i,y)?"ring-ok":"ring-ko"),'data-anchor="reveal"')}${marks}</div>`;
       else if(fits(tl,i,y)&&state.result.type!=="active")h+=`<div class="slot should">acá iba</div>${marks?`<div class="slot">${marks}</div>`:""}`;
       else if(marks)h+=`<div class="slot">${marks}</div>`;
     } else if(i===state.placement){
@@ -375,7 +381,10 @@ function railHTML(p,seat,T){
   const slotsW=on?(tl.length+1)*25:0;
   const maxW=(T-38)/1.36;
   const cw=Math.max(32,Math.min(maxW,(seat.L-24-slotsW-k*5)/k));
-  const inner=on?currentLine():p.timeline.map(id=>cardUp(id,"tilt",`--r:${jitter(id)}`)).join("");
+  const stolen=state.phase==="reveal"&&state.result&&state.result.type==="challenger"&&state.result.pid===p.id?state.card:null;
+  const inner=on?currentLine():p.timeline.map(id=>id===stolen
+    ?`<div class="card tilt" data-anchor="stolen" style="--r:${jitter(id)};${ui.stealDone?"":"visibility:hidden"}">${front(id)}</div>`
+    :cardUp(id,"tilt",`--r:${jitter(id)}`)).join("");
   return `<div class="rail ${on?"on":""}" style="left:${seat.cx}px;top:${seat.cy}px;width:${seat.L}px;height:${T}px;--rot:${seat.rot}deg;--pc:${p.color};--cw:${cw.toFixed(1)}px">
     <div class="row">${inner}</div>
     <div class="tag"><span class="dot"></span><b>${esc(p.name)}</b><span class="mono">${p.timeline.length}/${state.target}</span>${tokensHTML(p.tokens)}</div>
@@ -556,7 +565,36 @@ function render(){
     const el=document.querySelector('[data-anchor="reveal"]');
     if(el){el.getBoundingClientRect();requestAnimationFrame(()=>requestAnimationFrame(()=>el.classList.add("flipped")))}
     ui.flipDone=true;
-  }
+    // si alguien la robó: cuando termina de darse vuelta, vuela hasta la línea del que cantó Hitster
+    if(!ui.stealDone){clearTimeout(ui.stealT);ui.stealT=setTimeout(steal,reduce?0:1050)}
+  } else if(state.phase==="reveal"&&!ui.stealDone&&!ui.stealT){ui.stealDone=true;render()}
+}
+function steal(){
+  ui.stealT=null;
+  if(!state||state.phase!=="reveal"||ui.stealDone)return;
+  ui.stealDone=true;
+  const src=document.querySelector('[data-anchor="reveal"]'),dst=document.querySelector('[data-anchor="stolen"]');
+  if(reduce||!src||!dst){render();return}
+  const row=dst.closest(".row");if(row)row.scrollLeft=dst.offsetLeft-row.clientWidth/2+dst.offsetWidth/2; // solo esa fila, no la mesa
+  const a=src.getBoundingClientRect(),b=dst.getBoundingClientRect();
+  const r0=geo.seats[state.current].rot,r1=geo.seats[state.result.pid].rot+parseFloat(jitter(state.card));
+  const turn=((r1-r0)%360+540)%360-180; // gira por el lado más corto
+  const w0=src.offsetWidth,w1=dst.offsetWidth;
+  const fly=document.createElement("div");
+  fly.className="card";fly.innerHTML=front(state.card);
+  Object.assign(fly.style,{position:"fixed",left:(a.left+a.width/2)+"px",top:(a.top+a.height/2)+"px",margin:"0",zIndex:"15",pointerEvents:"none",boxShadow:"0 0 0 3px var(--good),0 14px 30px var(--shadow)"});
+  fly.style.setProperty("--w",w0+"px");
+  document.body.appendChild(fly);
+  src.style.visibility="hidden";
+  const dx=(b.left+b.width/2)-(a.left+a.width/2),dy=(b.top+b.height/2)-(a.top+a.height/2);
+  fly.animate([
+    {transform:`translate(-50%,-50%) rotate(${r0}deg) scale(1)`},
+    {transform:`translate(calc(-50% + ${dx*.5}px),calc(-50% + ${dy*.5}px)) rotate(${r0+turn*.5}deg) scale(${Math.max(1.25,w1/w0*1.25)})`,offset:.45},
+    {transform:`translate(calc(-50% + ${dx}px),calc(-50% + ${dy}px)) rotate(${r0+turn}deg) scale(${w1/w0})`}
+  ],{duration:1000,easing:"cubic-bezier(.45,.05,.3,1)"}).onfinish=()=>{
+    src.style.display="none"; // queda igual que el próximo render: en esa línea solo las fichas
+    dst.style.visibility="";dst.classList.add("drop");fly.remove();
+  };
 }
 
 /* ---------- eventos ---------- */
@@ -578,7 +616,7 @@ document.addEventListener("click",e=>{
     case "replay":playCurrent();break;
     case "spconnect":Spotify.login();break;
     case "spdisconnect":Spotify.logout();break;
-    case "resume":state=loadSaved();ui.flipDone=true;ui.angle=null;keepAwake();render();playCurrent();break;
+    case "resume":state=loadSaved();ui.flipDone=true;ui.stealDone=true;ui.angle=null;keepAwake();render();playCurrent();break;
     case "discard":state=null;save();render();break;
     case "place":place(+b.dataset.slot);break;
     case "hitster":ui.modal="hitster";render();break;
@@ -595,9 +633,10 @@ document.addEventListener("click",e=>{
   }
 });
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&ui.modal){ui.modal=null;render()}});
-let rz;addEventListener("resize",()=>{clearTimeout(rz);rz=setTimeout(()=>{if(state&&state.phase!=="win"){ui.flipDone=true;render()}},150)});
+let rz;addEventListener("resize",()=>{clearTimeout(rz);rz=setTimeout(()=>{if(state&&state.phase!=="win"){ui.flipDone=true;if(!ui.stealT)ui.stealDone=true;render()}},150)});
 
 function start(data){if(data&&data.state){state=data.state;ui.flipDone=true}render();Spotify.init(()=>{if(!state)render()})}
+if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 window.claude?.hot?.snapshot?.(()=>({state}));
 window.claude?.hot?.ready?window.claude.hot.ready(start):start(window.claude?.hot?.data??{});
 </script>
