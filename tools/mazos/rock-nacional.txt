@@ -1,0 +1,149 @@
+# nombre: Rock Nacional
+# formato: artista | tema | año (el año se verifica con MusicBrainz)
+Los Gatos | La balsa | 1967
+Almendra | Muchacha (ojos de papel) | 1969
+Manal | Jugo de tomate frío | 1970 | fuera
+Sui Generis | Canción para mi muerte | 1972
+Sui Generis | Rasguña las piedras | 1973
+Pescado Rabioso | Cantata de puentes amarillos | 1973
+Invisible | Durazno sangrando | 1975
+León Gieco | Sólo le pido a Dios | 1978 | ok-año
+Serú Girán | Seminare | 1978
+Serú Girán | Canción de Alicia en el país | 1980
+Virus | Wadu wadu | 1981
+Charly García | Inconsciente colectivo | 1982 | ok-año
+Charly García | Los dinosaurios | 1983
+Charly García | Nos siguen pegando abajo | 1983
+Los Abuelos de la Nada | Mil horas | 1983
+Los Twist | Pensé que se trataba de cieguitos | 1983
+Charly García | Demoliendo hoteles | 1984
+Soda Stereo | Nada personal | 1985
+Soda Stereo | Cuando pase el temblor | 1985
+Fito Páez | 11 y 6 | 1985
+Virus | Una luna de miel en la mano | 1985 | fuera
+Sumo | Divididos por la felicidad | 1985 | ok-año, ok-versión
+Soda Stereo | Persiana americana | 1986
+Soda Stereo | Prófugos | 1986
+Patricio Rey y sus Redonditos de Ricota | Ji ji ji | 1986 | ok-año
+Luis Alberto Spinetta | Seguir viviendo sin tu amor | 1991
+Enanitos Verdes | La muralla verde | 1986
+Sumo | Mañana en el Abasto | 1987
+Charly García | Rezo por vos | 1987
+Charly García | Cerca de la revolución | 1984
+Soda Stereo | En la ciudad de la furia | 1988
+Patricio Rey y sus Redonditos de Ricota | Vencedores vencidos | 1988 | ok-año
+Soda Stereo | De música ligera | 1990
+Soda Stereo | Té para tres | 1990 | ok-año, ok-versión
+Fito Páez | Y dale alegría a mi corazón | 1990
+Fito Páez | El amor después del amor | 1992
+Patricio Rey y sus Redonditos de Ricota | Un poco de amor francés | 1991
+Los Fabulosos Cadillacs | Matador | 1993 | ok-versión
+Los Rodríguez | Sin documentos | 1993
+Divididos | Qué ves | 1993
+Enanitos Verdes | Lamento boliviano | 1994
+Fito Páez | Mariposa Tecknicolor | 1994
+Los Fabulosos Cadillacs | Mal bicho | 1995
+La Renga | La balada del diablo y la muerte | 1996 | ok-año
+Andrés Calamaro | Flaca | 1997
+Bersuit Vergarabat | Mi novia tiene bíceps | 1998 | fuera
+Bersuit Vergarabat | Se viene | 1998
+Andrés Calamaro | Crímenes perfectos | 1997
+Gustavo Cerati | Puente | 1999
+Babasónicos | Irresponsables | 2003
+Gustavo Cerati | Crimen | 2006
+Gustavo Cerati | Adiós | 2006
+Babasónicos | Yegua | 2005
+Los Gatos | Ayer nomás | 1967
+Almendra | Ana no duerme | 1969
+Almendra | Laura va | 1969
+Manal | Avellaneda blues | 1970
+Vox Dei | Presente (El tiempo es veloz) | 1970
+Arco Iris | Mañana campestre | 1972
+Sui Generis | Bienvenidos al tren | 1973
+Sui Generis | Aprendizaje | 1973
+Sui Generis | Instituciones | 1974
+Pescado Rabioso | Bajan | 1973
+La Máquina de Hacer Pájaros | Cómo mata el viento norte | 1976
+Serú Girán | Eiti Leda | 1978
+Serú Girán | Viernes 3 AM | 1979 | fuera
+Serú Girán | Desarma y sangra | 1980
+Serú Girán | Peperina | 1981
+Spinetta Jade | Alma de diamante | 1980
+Luis Alberto Spinetta | Barro tal vez | 1982
+Riff | Susy Cadillac | 1982
+Raúl Porchetto | Algo de paz | 1980
+Charly García | Yendo de la cama al living | 1982
+Charly García | Promesas sobre el bidet | 1984
+Charly García | Raros peinados nuevos | 1984
+Charly García | No voy en tren | 1987
+Charly García | Fanky | 1989
+Los Twist | Cleopatra, la reina del twist | 1983
+Los Violadores | Uno, dos, ultraviolento | 1985 | fuera
+Virus | Qué hago en Manila | 1983
+Virus | Imágenes paganas | 1985 | fuera
+Los Abuelos de la Nada | Costumbres argentinas | 1984 | fuera
+Los Abuelos de la Nada | Lunes por la madrugada | 1984 | ok-versión
+GIT | Siempre es lo mismo, nada es igual | 1984 | fuera
+Soda Stereo | Sobredosis de TV | 1984 | fuera
+Soda Stereo | Trátame suavemente | 1984
+Soda Stereo | Signos | 1986
+Soda Stereo | Corazón delator | 1988
+Soda Stereo | Un millón de años luz | 1990
+Soda Stereo | Ella usó mi cabeza como un revólver | 1995
+Soda Stereo | Zoom | 1995
+Miguel Mateos | Cuando seas grande | 1986
+León Gieco | Cinco siglos igual | 1992
+Sumo | La rubia tarada | 1985 | ok-año, ok-versión
+Sumo | Mejor no hablar de ciertas cosas | 1985
+Fito Páez | Giros | 1985
+Fito Páez | Ciudad de pobres corazones | 1987
+Fito Páez | A rodar mi vida | 1992
+Fito Páez | Dar es dar | 1996 | ok-año
+Patricio Rey y sus Redonditos de Ricota | Todo un palo | 1988
+Patricio Rey y sus Redonditos de Ricota | Juguetes perdidos | 1996
+Patricio Rey y sus Redonditos de Ricota | Nuestro amo juega al esclavo | 1989
+Los Fabulosos Cadillacs | Yo no me sentaría en tu mesa | 1987
+Los Fabulosos Cadillacs | Vasos vacíos | 1988
+Los Fabulosos Cadillacs | Manuel Santillán, el León | 1992
+Enanitos Verdes | Tus viejas cartas | 1986
+Enanitos Verdes | Luz de día | 1987 | fuera
+Enanitos Verdes | Por el resto | 1987
+Rata Blanca | La leyenda del hada y el mago | 1990 | ok-versión
+Rata Blanca | Mujer amante | 1990 | ok-versión
+Attaque 77 | Hacelo por mí | 1990
+Attaque 77 | Donde las águilas se atreven | 1990
+Los Ratones Paranoicos | Para siempre | 1993 | fuera
+Divididos | Spaghetti del rock | 1991 | fuera
+Divididos | El arriero | 1993
+Divididos | Ala delta | 1991
+Los Rodríguez | Para no olvidar | 1995
+Vilma Palma e Vampiros | La pachanga | 1991
+Los Piojos | Muévelo | 1996
+Los Piojos | Tan solo | 1992 | ok-año
+Los Piojos | Como Alí | 2003
+La Renga | Panic show | 2000
+La Renga | El revelde | 1998
+La Renga | Hablando de la libertad | 1996
+Los Pericos | Runaway | 1994
+Los Pericos | Pupilas lejanas | 1998
+Los Auténticos Decadentes | La guitarra | 1995
+Viejas Locas | Me gustas mucho | 1999
+Andrés Calamaro | Alta suciedad | 1997
+Andrés Calamaro | Media verónica | 1997
+Andrés Calamaro | Loco | 1999
+Los Caballeros de la Quema | Avanti morocha | 1998
+Bersuit Vergarabat | Sr. Cobranza | 1998
+Bersuit Vergarabat | La bolsa | 2000
+Kapanga | El mono relojero | 1997
+Gustavo Cerati | Engaña | 1999
+Gustavo Cerati | Cosas imposibles | 2002
+Gustavo Cerati | Fuerza natural | 2009
+Babasónicos | Putita | 2001
+Babasónicos | El loco | 2003
+Intoxicados | Una vela | 2005
+Miranda! | Don | 2004
+Turf | Casanova | 2005
+Las Pelotas | Será | 2003
+Ciro y los Persas | Antes y después | 2010
+El Mató a un Policía Motorizado | Mujeres bellas y fuertes | 2017
+Airbag | Por mil noches | 2008

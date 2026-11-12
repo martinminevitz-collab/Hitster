@@ -182,31 +182,20 @@ button.slot.hot{border-color:var(--pc);color:var(--pc);background:rgba(255,250,2
 
 <script src="spotify.js"></script>
 <script>
-/* Mazo de prueba: rock nacional. y = año de lanzamiento original del tema (a verificar contra MusicBrainz antes de la versión final). spotify: se completa al conectar. */
-const SONGS = [
-  ["La balsa","Los Gatos",1967],["Muchacha (ojos de papel)","Almendra",1969],["Jugo de tomate frío","Manal",1970],
-  ["Canción para mi muerte","Sui Generis",1972],["Rasguña las piedras","Sui Generis",1973],["Cantata de puentes amarillos","Pescado Rabioso",1973],
-  ["Durazno sangrando","Invisible",1975],["Sólo le pido a Dios","León Gieco",1978],["Seminare","Serú Girán",1978],
-  ["Canción de Alicia en el país","Serú Girán",1980],["Wadu wadu","Virus",1981],["Inconsciente colectivo","Charly García",1982],
-  ["Los dinosaurios","Charly García",1983],["Nos siguen pegando abajo","Charly García",1983],["Mil horas","Los Abuelos de la Nada",1983],
-  ["Pensé que se trataba de cieguitos","Los Twist",1983],["Demoliendo hoteles","Charly García",1984],["Nada personal","Soda Stereo",1985],
-  ["Cuando pase el temblor","Soda Stereo",1985],["11 y 6","Fito Páez",1985],["Una luna de miel en la mano","Virus",1985],
-  ["Divididos por la felicidad","Sumo",1985],["Persiana americana","Soda Stereo",1986],["Prófugos","Soda Stereo",1986],
-  ["Ji ji ji","Patricio Rey y sus Redonditos de Ricota",1986],["Seguir viviendo sin tu amor","Luis Alberto Spinetta",1986],
-  ["La muralla verde","Enanitos Verdes",1986],["Mañana en el Abasto","Sumo",1987],["Rezo por vos","Charly García",1987],
-  ["Cerca de la revolución","Charly García",1987],["En la ciudad de la furia","Soda Stereo",1988],
-  ["Vencedores vencidos","Patricio Rey y sus Redonditos de Ricota",1988],["De música ligera","Soda Stereo",1990],
-  ["Té para tres","Soda Stereo",1990],["Y dale alegría a mi corazón","Fito Páez",1990],["El amor después del amor","Fito Páez",1992],
-  ["Un poco de amor francés","Patricio Rey y sus Redonditos de Ricota",1993],["Matador","Los Fabulosos Cadillacs",1993],
-  ["Sin documentos","Los Rodríguez",1993],["Qué ves","Divididos",1993],["Lamento boliviano","Enanitos Verdes",1994],
-  ["Mariposa Tecknicolor","Fito Páez",1994],["Mal bicho","Los Fabulosos Cadillacs",1995],
-  ["La balada del diablo y la muerte","La Renga",1996],["Flaca","Andrés Calamaro",1997],["Mi novia tiene bíceps","Bersuit Vergarabat",1998],
-  ["Se viene","Bersuit Vergarabat",1998],["Crímenes perfectos","Andrés Calamaro",1999],["Puente","Gustavo Cerati",2002],
-  ["Irresponsables","Babasónicos",2003],["Crimen","Gustavo Cerati",2006],["Adiós","Gustavo Cerati",2006],["Yegua","Babasónicos",2008]
-].map(([t,a,y],i)=>({id:i,t,a,y,spotify:null}));
+/* Los temas viven en songs.json (los arma tools/biblioteca.mjs). Cada partida usa un mazo. */
+const MAZO="rock-nacional";
+let SONGS=[];
+async function loadSongs(){
+  try{
+    const d=await (await fetch("songs.json",{cache:"no-cache"})).json();
+    const deck=d.temas.filter(t=>t.mazo===MAZO&&!t.fuera);
+    const conId=deck.filter(t=>t.spotify);
+    SONGS=(conId.length?conId:deck).map((t,i)=>({id:i,key:t.id,t:t.titulo,a:t.artista,y:t.anio,spotify:t.spotify||null,dur:t.duracion_ms||null}));
+  }catch(e){SONGS=[];console.error(e)}
+}
 
 const PCOLORS=["#B8362E","#2A5DA8","#2E7D4F","#D9A21E","#7A4FA6","#D46F2A","#1F8A8A","#C2507E"];
-const MAX_TOKENS=5, KEY="hitster-rocknac-v3";
+const MAX_TOKENS=5, KEY="hitster-rocknac-v4";
 const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
 /* asientos por borde [abajo, izquierda, arriba, derecha] según cantidad de jugadores */
 const SEATS={2:[1,0,1,0],3:[1,1,0,1],4:[1,1,1,1],5:[2,1,1,1],6:[2,1,2,1],7:[2,2,2,1],8:[2,2,2,2]};
@@ -225,7 +214,9 @@ const cur=()=>state.players[state.current];
 const jitter=id=>(((id*37)%7)-3)*.6+"deg";
 
 function save(){try{state?localStorage.setItem(KEY,JSON.stringify(state)):localStorage.removeItem(KEY)}catch(e){}}
-function loadSaved(){try{const s=JSON.parse(localStorage.getItem(KEY)||"null");return s&&s.phase&&s.phase!=="win"?s:null}catch(e){return null}}
+const deckSig=()=>SONGS.map(s=>s.key).join(",");
+// una partida guardada solo sirve si el mazo no cambió (las cartas se guardan por posición)
+function loadSaved(){try{const s=JSON.parse(localStorage.getItem(KEY)||"null");return s&&s.phase&&s.phase!=="win"&&s.sig===deckSig()?s:null}catch(e){return null}}
 let toastT;function toast(m){const t=document.getElementById("toast");t.textContent=m;t.hidden=false;clearTimeout(toastT);toastT=setTimeout(()=>t.hidden=true,2600)}
 async function keepAwake(){try{await navigator.wakeLock?.request("screen")}catch(e){}}
 document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"&&state&&state.phase!=="win")keepAwake()});
@@ -240,7 +231,8 @@ function draw(){
 function newGame(){
   const names=setup.names.map(n=>n.trim()).filter(Boolean);
   if(names.length<2){toast("Hacen falta al menos 2 jugadores");return}
-  state={phase:"turn",target:setup.target,startMode:setup.start,device:setup.device,deck:shuffle(SONGS.map(s=>s.id)),discard:[],current:0,
+  if(!SONGS.length){toast("No se pudieron cargar los temas. Revisá la conexión y recargá.");return}
+  state={phase:"turn",sig:deckSig(),target:setup.target,startMode:setup.start,device:setup.device,deck:shuffle(SONGS.map(s=>s.id)),discard:[],current:0,
     players:names.map((n,i)=>({id:i,name:n,color:PCOLORS[i%PCOLORS.length],timeline:[],tokens:setup.tokens}))};
   state.players.forEach(p=>p.timeline.push(draw()));
   state.current=Math.floor(Math.random()*state.players.length);
@@ -443,9 +435,9 @@ function viewSetup(){
   const saved=loadSaved();
   return `<div class="page">
   <div class="panel hero">
-    <div class="fan">${[1,12,22,36,45,50].map(id=>cardUp(id)).join("")}</div>
+    <div class="fan">${SONGS.length?[0,1,2,3,4,5].map(k=>cardUp(SONGS.slice().sort((a,b)=>a.y-b.y)[Math.floor(k*(SONGS.length-1)/5)].id)).join(""):""}</div>
     <h1>Hitster <span>Rock Nacional</span></h1>
-    <p>La tablet va en el medio de la mesa y hace de DJ. Cada uno tiene su línea del tiempo de su lado, mirando hacia él, y la carta del centro gira hacia el que le toca. Mazo de prueba: ${SONGS.length} temas, de 1967 a 2008.</p>
+    <p>La tablet va en el medio de la mesa y hace de DJ. Cada uno tiene su línea del tiempo de su lado, mirando hacia él, y la carta del centro gira hacia el que le toca. ${SONGS.length?`Mazo: ${SONGS.length} temas, de ${Math.min(...SONGS.map(s=>s.y))} a ${Math.max(...SONGS.map(s=>s.y))}.`:"Cargando temas…"}</p>
   </div>
   ${spotifyPanel()}
   ${saved?`<div class="panel"><h3>Hay una partida a medias</h3><div class="btnrow"><button class="btn dark" data-act="resume">Seguir partida</button><button class="btn" data-act="discard">Empezar de cero</button></div></div>`:""}
@@ -635,7 +627,7 @@ document.addEventListener("click",e=>{
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&ui.modal){ui.modal=null;render()}});
 let rz;addEventListener("resize",()=>{clearTimeout(rz);rz=setTimeout(()=>{if(state&&state.phase!=="win"){ui.flipDone=true;if(!ui.stealT)ui.stealDone=true;render()}},150)});
 
-function start(data){if(data&&data.state){state=data.state;ui.flipDone=true}render();Spotify.init(()=>{if(!state)render()})}
+async function start(data){await loadSongs();if(data&&data.state){state=data.state;ui.flipDone=true}render();Spotify.init(()=>{if(!state)render()})}
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 window.claude?.hot?.snapshot?.(()=>({state}));
 window.claude?.hot?.ready?window.claude.hot.ready(start):start(window.claude?.hot?.data??{});

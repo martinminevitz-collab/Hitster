@@ -1,0 +1,5018 @@
+{
+  "mazos": [
+    {
+      "id": "rock-nacional",
+      "nombre": "Rock Nacional"
+    }
+  ],
+  "temas": [
+    {
+      "id": "rock-nacional-001",
+      "mazo": "rock-nacional",
+      "artista": "Los Gatos",
+      "titulo": "La balsa",
+      "anio": 1967,
+      "spotify": "4J2xMy0kakU9sAin1uppxb",
+      "duracion_ms": 176000,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4J2xMy0kakU9sAin1uppxb",
+          "nombre": "La Balsa",
+          "artistas": "Los Gatos",
+          "disco": "Los Gatos",
+          "tipo": "album",
+          "fecha": "1967-02-13",
+          "isrc": "ARF036700025"
+        },
+        "musicbrainz": {
+          "fecha": "1967-07-03",
+          "grabacion": "1e40dccb-b519-4e1b-ba4d-57dbda676770",
+          "via": "isrc"
+        },
+        "anio_mb": 1967
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-002",
+      "mazo": "rock-nacional",
+      "artista": "Almendra",
+      "titulo": "Muchacha (ojos de papel)",
+      "anio": 1969,
+      "spotify": "6GPkBUXMrGSkwK3TrrHHXN",
+      "duracion_ms": 184480,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6GPkBUXMrGSkwK3TrrHHXN",
+          "nombre": "Muchacha (Ojos de Papel)",
+          "artistas": "Almendra",
+          "disco": "Almendra (50 Años)",
+          "tipo": "album",
+          "fecha": "1970",
+          "isrc": "ARF036900019"
+        },
+        "musicbrainz": {
+          "fecha": "1969-11-29",
+          "grabacion": "b0f51286-1fe2-49d6-9dfd-07920e129f3c",
+          "via": "isrc"
+        },
+        "anio_mb": 1969
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-003",
+      "mazo": "rock-nacional",
+      "artista": "Manal",
+      "titulo": "Jugo de tomate frío",
+      "anio": 1970,
+      "spotify": "1UUm1Poj4Abv446FkrhF8r",
+      "duracion_ms": 171813,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: vivo/versión",
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "1UUm1Poj4Abv446FkrhF8r",
+          "nombre": "Jugo de tomate frío - En Vivo",
+          "artistas": "Manal",
+          "disco": "En Obras 1980 (En Vivo)",
+          "tipo": "album",
+          "fecha": "1980-03-15",
+          "isrc": "ARA232300048"
+        }
+      },
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-004",
+      "mazo": "rock-nacional",
+      "artista": "Sui Generis",
+      "titulo": "Canción para mi muerte",
+      "anio": 1972,
+      "spotify": "0t0Kl5jxxV3s8bdpILkgmd",
+      "duracion_ms": 215906,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0t0Kl5jxxV3s8bdpILkgmd",
+          "nombre": "Canción para Mi Muerte",
+          "artistas": "Sui Generis",
+          "disco": "Vida",
+          "tipo": "album",
+          "fecha": "1972-06-22",
+          "isrc": "ARF109700684"
+        },
+        "musicbrainz": {
+          "fecha": "1972",
+          "grabacion": "6be1f4d5-f18a-4611-9275-3d608b99dfc2",
+          "via": "isrc"
+        },
+        "anio_mb": 1972
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-005",
+      "mazo": "rock-nacional",
+      "artista": "Sui Generis",
+      "titulo": "Rasguña las piedras",
+      "anio": 1973,
+      "spotify": "3lvAzKmRH8vzXQ4xm19v78",
+      "duracion_ms": 191226,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3lvAzKmRH8vzXQ4xm19v78",
+          "nombre": "Rasguña las Piedras",
+          "artistas": "Sui Generis",
+          "disco": "Confesiones De Invierno",
+          "tipo": "album",
+          "fecha": "1973-06-22",
+          "isrc": "ARF109700692"
+        },
+        "musicbrainz": {
+          "fecha": "1973",
+          "grabacion": "a92aa3e8-f617-4466-9425-772579e3863a",
+          "via": "isrc"
+        },
+        "anio_mb": 1973
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-006",
+      "mazo": "rock-nacional",
+      "artista": "Pescado Rabioso",
+      "titulo": "Cantata de puentes amarillos",
+      "anio": 1973,
+      "spotify": "7BCQ7bfdNpCdLmlvEGUfSG",
+      "duracion_ms": 547960,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7BCQ7bfdNpCdLmlvEGUfSG",
+          "nombre": "Cantata de Puentes Amarillos",
+          "artistas": "Pescado Rabioso",
+          "disco": "Artaud",
+          "tipo": "album",
+          "fecha": "1973-05-07",
+          "isrc": "ARF109902851"
+        },
+        "musicbrainz": {
+          "fecha": "1973-10",
+          "grabacion": "64016c8c-9d4b-41db-80c4-f16b6664d821",
+          "via": "isrc"
+        },
+        "anio_mb": 1973
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-007",
+      "mazo": "rock-nacional",
+      "artista": "Invisible",
+      "titulo": "Durazno sangrando",
+      "anio": 1975,
+      "spotify": "6pjbkrGImw09Nv5Ji3emkr",
+      "duracion_ms": 219186,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6pjbkrGImw09Nv5Ji3emkr",
+          "nombre": "Durazno Sangrando",
+          "artistas": "Invisible",
+          "disco": "Durazno Sangrando",
+          "tipo": "album",
+          "fecha": "1975-05-07",
+          "isrc": "ARF109902272"
+        },
+        "musicbrainz": {
+          "fecha": "1975-09",
+          "grabacion": "1bf1bf0c-8e43-44ee-84d7-4bfe17e8e8f7",
+          "via": "isrc"
+        },
+        "anio_mb": 1975
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-008",
+      "mazo": "rock-nacional",
+      "artista": "León Gieco",
+      "titulo": "Sólo le pido a Dios",
+      "anio": 1978,
+      "spotify": "23ibUqoOsNdiOymw2fqGeH",
+      "duracion_ms": 303925,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "23ibUqoOsNdiOymw2fqGeH",
+          "nombre": "Sólo Le Pido A Dios",
+          "artistas": "León Gieco",
+          "disco": "4º LP",
+          "tipo": "album",
+          "fecha": "1978-01-01",
+          "isrc": "ARXP71600074"
+        },
+        "musicbrainz": {
+          "fecha": "1979-07",
+          "grabacion": "dbea5ebe-f62b-4908-b260-5f6f9f102604",
+          "via": "isrc"
+        },
+        "anio_mb": 1979
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-009",
+      "mazo": "rock-nacional",
+      "artista": "Serú Girán",
+      "titulo": "Seminare",
+      "anio": 1978,
+      "spotify": "7yPsoib9EoQVmK3loJgptI",
+      "duracion_ms": 202513,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "7yPsoib9EoQVmK3loJgptI",
+          "nombre": "Seminare - 2021 Remasterizado",
+          "artistas": "Serú Girán",
+          "disco": "Serú Girán (Remasterizado 2021)",
+          "tipo": "album",
+          "fecha": "2021-12-22",
+          "isrc": "ARXP71600006"
+        },
+        "musicbrainz": {
+          "fecha": "1978",
+          "grabacion": "e2613894-486b-455a-b83c-03c576639165",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1978
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-010",
+      "mazo": "rock-nacional",
+      "artista": "Serú Girán",
+      "titulo": "Canción de Alicia en el país",
+      "anio": 1980,
+      "spotify": "519WGo9DQCtYP72a7Lmprj",
+      "duracion_ms": 264333,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "519WGo9DQCtYP72a7Lmprj",
+          "nombre": "Canción De Alicia En El País - Remastered 2012",
+          "artistas": "Serú Girán",
+          "disco": "Bicicleta (Remastered 2012)",
+          "tipo": "album",
+          "fecha": "1980-11-01",
+          "isrc": "ARUM70600486"
+        },
+        "musicbrainz": {
+          "fecha": "1980",
+          "grabacion": "5ba9f339-c41d-4ebb-a538-6d4364280fac",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1980
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-011",
+      "mazo": "rock-nacional",
+      "artista": "Virus",
+      "titulo": "Wadu wadu",
+      "anio": 1981,
+      "spotify": "76ibxRco0AGhgavIY4zSRh",
+      "duracion_ms": 156306,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "76ibxRco0AGhgavIY4zSRh",
+          "nombre": "Wadu Wadu",
+          "artistas": "Virus",
+          "disco": "Wadu Wadu",
+          "tipo": "album",
+          "fecha": "1981-04-29",
+          "isrc": "ARF109500357"
+        },
+        "musicbrainz": {
+          "fecha": "1981-12",
+          "grabacion": "95bef067-b66e-4e5d-9254-72f4ba76c0d3",
+          "via": "isrc"
+        },
+        "anio_mb": 1981
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-012",
+      "mazo": "rock-nacional",
+      "artista": "Charly García",
+      "titulo": "Inconsciente colectivo",
+      "anio": 1982,
+      "spotify": "1JTKEiTpAtlK01CEwRRals",
+      "duracion_ms": 234293,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "1JTKEiTpAtlK01CEwRRals",
+          "nombre": "Inconsciente Colectivo",
+          "artistas": "Charly García",
+          "disco": "Pubis Angelical / Yendo De La Cama Al Living",
+          "tipo": "album",
+          "fecha": "1982-10-28",
+          "isrc": "ARF098200032"
+        },
+        "musicbrainz": {
+          "fecha": "1994",
+          "grabacion": "d3590361-81ba-4c90-9485-77954ac517b9",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1994
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-013",
+      "mazo": "rock-nacional",
+      "artista": "Charly García",
+      "titulo": "Los dinosaurios",
+      "anio": 1983,
+      "spotify": "3VCKdfJAL8DTDlwZw5O6Ik",
+      "duracion_ms": 208093,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3VCKdfJAL8DTDlwZw5O6Ik",
+          "nombre": "Los Dinosaurios",
+          "artistas": "Charly García",
+          "disco": "Clics Modernos",
+          "tipo": "album",
+          "fecha": "1983-11-05",
+          "isrc": "ARF098300014"
+        },
+        "musicbrainz": {
+          "fecha": "1983-11-05",
+          "grabacion": "628e9f96-487e-43e5-bcb4-017829a3da73",
+          "via": "isrc"
+        },
+        "anio_mb": 1983
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-014",
+      "mazo": "rock-nacional",
+      "artista": "Charly García",
+      "titulo": "Nos siguen pegando abajo",
+      "anio": 1983,
+      "spotify": "4VikOud5ZmdmHH6h7uQeDB",
+      "duracion_ms": 206720,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4VikOud5ZmdmHH6h7uQeDB",
+          "nombre": "Nos Siguen Pegando Abajo",
+          "artistas": "Charly García",
+          "disco": "Clics Modernos",
+          "tipo": "album",
+          "fecha": "1983-11-05",
+          "isrc": "ARF098300015"
+        },
+        "musicbrainz": {
+          "fecha": "1983-11-05",
+          "grabacion": "eabc67c9-1035-46bf-89d4-46bf66779e19",
+          "via": "isrc"
+        },
+        "anio_mb": 1983
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-015",
+      "mazo": "rock-nacional",
+      "artista": "Los Abuelos de la Nada",
+      "titulo": "Mil horas",
+      "anio": 1983,
+      "spotify": "7Mj6R7TjsPxeLYu0Xdvl73",
+      "duracion_ms": 170546,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7Mj6R7TjsPxeLYu0Xdvl73",
+          "nombre": "Mil Horas",
+          "artistas": "Los Abuelos De La Nada",
+          "disco": "Vasos Y Besos",
+          "tipo": "album",
+          "fecha": "1983-12-09",
+          "isrc": "ARF098300013"
+        },
+        "musicbrainz": {
+          "fecha": "1983",
+          "grabacion": "515bc443-880d-421e-9c77-ba1e589bf0cc",
+          "via": "isrc"
+        },
+        "anio_mb": 1983
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-016",
+      "mazo": "rock-nacional",
+      "artista": "Los Twist",
+      "titulo": "Pensé que se trataba de cieguitos",
+      "anio": 1983,
+      "spotify": "4vTjD2aIaRySj7tVo70w4D",
+      "duracion_ms": 140840,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4vTjD2aIaRySj7tVo70w4D",
+          "nombre": "Pensé Que Se Trataba De Cieguitos",
+          "artistas": "Los Twist",
+          "disco": "La Dicha En Movimiento",
+          "tipo": "album",
+          "fecha": "1983",
+          "isrc": "ARF098300097"
+        },
+        "musicbrainz": {
+          "fecha": "1983-10-17",
+          "grabacion": "e159460c-beac-47de-9b1e-5bae7fb7cbe0",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1983
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-017",
+      "mazo": "rock-nacional",
+      "artista": "Charly García",
+      "titulo": "Demoliendo hoteles",
+      "anio": 1984,
+      "spotify": "29iIRrSuANyjnwag69PHOJ",
+      "duracion_ms": 135973,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "29iIRrSuANyjnwag69PHOJ",
+          "nombre": "Demoliendo Hoteles",
+          "artistas": "Charly García",
+          "disco": "Piano Bar",
+          "tipo": "album",
+          "fecha": "1984-01-01",
+          "isrc": "ARF140300026"
+        },
+        "musicbrainz": {
+          "fecha": "1984-11-22",
+          "grabacion": "ebd9683e-ba03-45a7-bb8f-dc15b57b7325",
+          "via": "isrc"
+        },
+        "anio_mb": 1984
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-018",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "Nada personal",
+      "anio": 1985,
+      "spotify": "4PBou1i63krEp3jKCPhxVD",
+      "duracion_ms": 292573,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "4PBou1i63krEp3jKCPhxVD",
+          "nombre": "Nada Personal - Remasterizado 2007",
+          "artistas": "Soda Stereo",
+          "disco": "Nada Personal (Remastered)",
+          "tipo": "album",
+          "fecha": "1985-10-09",
+          "isrc": "ARFSB0700889"
+        },
+        "musicbrainz": {
+          "fecha": "1985",
+          "grabacion": "faa8afe1-fa7b-4ca1-a9bb-ecc0cd981216",
+          "via": "isrc"
+        },
+        "anio_mb": 1985
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-019",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "Cuando pase el temblor",
+      "anio": 1985,
+      "spotify": "3uMYq07Kj5m564OQwdSCrD",
+      "duracion_ms": 229160,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "3uMYq07Kj5m564OQwdSCrD",
+          "nombre": "Cuando Pase El Temblor - Remasterizado 2007",
+          "artistas": "Soda Stereo",
+          "disco": "Nada Personal (Remastered)",
+          "tipo": "album",
+          "fecha": "1985-10-09",
+          "isrc": "ARFSB0700891"
+        },
+        "musicbrainz": {
+          "fecha": "1985",
+          "grabacion": "c0d41885-2b17-4d3c-a737-22e774406f4c",
+          "via": "isrc"
+        },
+        "anio_mb": 1985
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-020",
+      "mazo": "rock-nacional",
+      "artista": "Fito Páez",
+      "titulo": "11 y 6",
+      "anio": 1985,
+      "spotify": "2PkTjm1QAJCZbJ9MqC4RqA",
+      "duracion_ms": 178266,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2PkTjm1QAJCZbJ9MqC4RqA",
+          "nombre": "11 Y 6",
+          "artistas": "Fito Paez",
+          "disco": "Giros",
+          "tipo": "album",
+          "fecha": "1985-01-01",
+          "isrc": "ARF049602466"
+        },
+        "musicbrainz": {
+          "fecha": "1985",
+          "grabacion": "94f4f81f-1622-4110-9ec5-4e3adce3c0c1",
+          "via": "isrc"
+        },
+        "anio_mb": 1985
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-021",
+      "mazo": "rock-nacional",
+      "artista": "Virus",
+      "titulo": "Una luna de miel en la mano",
+      "anio": 1985,
+      "spotify": "1g02x46MYE1gclJfGQiQbA",
+      "duracion_ms": 335240,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: vivo/versión, compilado"
+        ],
+        "spotify": {
+          "id": "1g02x46MYE1gclJfGQiQbA",
+          "nombre": "Una Luna de Miel en la Mano - En Vivo",
+          "artistas": "Virus, Ale Sergi",
+          "disco": "Caja Negra",
+          "tipo": "album",
+          "fecha": "2007-01-01",
+          "isrc": "ARF840600943"
+        },
+        "musicbrainz": {
+          "fecha": "1985",
+          "grabacion": "718b0716-5419-4fda-b926-a03a79f63b08",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1985
+      },
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-022",
+      "mazo": "rock-nacional",
+      "artista": "Sumo",
+      "titulo": "Divididos por la felicidad",
+      "anio": 1985,
+      "spotify": "3flkRKcEZISJOXSvTvK9PT",
+      "duracion_ms": 300080,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "3flkRKcEZISJOXSvTvK9PT",
+          "nombre": "Divididos por la Felicidad",
+          "artistas": "Sumo",
+          "disco": "Divididos Por La Felicidad",
+          "tipo": "album",
+          "fecha": "1985-04-29",
+          "isrc": "ARF109400166"
+        },
+        "musicbrainz": {
+          "fecha": "1983-11",
+          "grabacion": "3424eba0-d49e-4d72-a35f-856bec376468",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1983
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-023",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "Persiana americana",
+      "anio": 1986,
+      "spotify": "71awpJoi5bqGMBrTkHDDoL",
+      "duracion_ms": 292266,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "71awpJoi5bqGMBrTkHDDoL",
+          "nombre": "Persiana Americana - Remasterizado 2007",
+          "artistas": "Soda Stereo",
+          "disco": "Signos (Remastered)",
+          "tipo": "album",
+          "fecha": "1986-10-09",
+          "isrc": "ARFSB0700903"
+        },
+        "musicbrainz": {
+          "fecha": "1986",
+          "grabacion": "b2e5e3ac-520b-4239-acde-743908142e21",
+          "via": "isrc"
+        },
+        "anio_mb": 1986
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-024",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "Prófugos",
+      "anio": 1986,
+      "spotify": "1Tja3miBbbENpqIOAqGWXa",
+      "duracion_ms": 317613,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "1Tja3miBbbENpqIOAqGWXa",
+          "nombre": "Prófugos - Remasterizado 2007",
+          "artistas": "Soda Stereo",
+          "disco": "Signos (Remastered)",
+          "tipo": "album",
+          "fecha": "1986-10-09",
+          "isrc": "ARFSB0700901"
+        },
+        "musicbrainz": {
+          "fecha": "1986",
+          "grabacion": "a9bf0e6b-4a51-471a-bcc2-8dfe3e772c22",
+          "via": "isrc"
+        },
+        "anio_mb": 1986
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-025",
+      "mazo": "rock-nacional",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "titulo": "Ji ji ji",
+      "anio": 1986,
+      "spotify": "0VWBsKl936U9OO0zypvRCZ",
+      "duracion_ms": 334600,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0VWBsKl936U9OO0zypvRCZ",
+          "nombre": "Ji Ji Ji",
+          "artistas": "Patricio Rey y sus Redonditos de Ricota",
+          "disco": "Oktubre",
+          "tipo": "album",
+          "fecha": "1986-01-10",
+          "isrc": "AR5CC8600007"
+        },
+        "musicbrainz": {
+          "fecha": "1989",
+          "grabacion": "14b7ff1e-5f7a-4b3b-b522-000dcfe78434",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1989
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-026",
+      "mazo": "rock-nacional",
+      "artista": "Luis Alberto Spinetta",
+      "titulo": "Seguir viviendo sin tu amor",
+      "anio": 1991,
+      "spotify": "2qBirMakpTdz9ymxrZEyzg",
+      "duracion_ms": 160866,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2qBirMakpTdz9ymxrZEyzg",
+          "nombre": "Seguir Viviendo Sin Tu Amor",
+          "artistas": "Luis Alberto Spinetta",
+          "disco": "Peluson Of Milk",
+          "tipo": "album",
+          "fecha": "1991-01-01",
+          "isrc": "ARF049600386"
+        },
+        "musicbrainz": {
+          "fecha": "1991",
+          "grabacion": "c829be11-968a-44ce-927b-b807311e2134",
+          "via": "isrc"
+        },
+        "anio_mb": 1991
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-027",
+      "mazo": "rock-nacional",
+      "artista": "Enanitos Verdes",
+      "titulo": "La muralla verde",
+      "anio": 1986,
+      "spotify": "6OKhBvddAlWxxFnjbpilhu",
+      "duracion_ms": 161440,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6OKhBvddAlWxxFnjbpilhu",
+          "nombre": "La Muralla Verde",
+          "artistas": "Los Enanitos Verdes",
+          "disco": "Contrareloj",
+          "tipo": "album",
+          "fecha": "1986-11-20",
+          "isrc": "ARF109400173"
+        },
+        "musicbrainz": {
+          "fecha": "1986-11-20",
+          "grabacion": "7672c07b-6e58-4b78-87ae-be777b2c3e35",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1986
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-028",
+      "mazo": "rock-nacional",
+      "artista": "Sumo",
+      "titulo": "Mañana en el Abasto",
+      "anio": 1987,
+      "spotify": "6ZOzWPUbMxH24uWHP1k5Eq",
+      "duracion_ms": 248306,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6ZOzWPUbMxH24uWHP1k5Eq",
+          "nombre": "Mañana en el Abasto",
+          "artistas": "Sumo",
+          "disco": "After Chabon",
+          "tipo": "album",
+          "fecha": "1987-04-29",
+          "isrc": "ARF109901870"
+        },
+        "musicbrainz": {
+          "fecha": "1987",
+          "grabacion": "6f37c670-f41a-4ef3-add0-2d083ef1c80f",
+          "via": "isrc"
+        },
+        "anio_mb": 1987
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-029",
+      "mazo": "rock-nacional",
+      "artista": "Charly García",
+      "titulo": "Rezo por vos",
+      "anio": 1987,
+      "spotify": "6dOzqs6o4DNzXs4jF2v1Yq",
+      "duracion_ms": 269053,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6dOzqs6o4DNzXs4jF2v1Yq",
+          "nombre": "Rezo por Vos",
+          "artistas": "Charly García",
+          "disco": "Parte De La Religion",
+          "tipo": "album",
+          "fecha": "1987-04-29",
+          "isrc": "ARF100300947"
+        },
+        "musicbrainz": {
+          "fecha": "1987",
+          "grabacion": "e6f58150-bd34-467d-b3e0-118205ad8f24",
+          "via": "isrc"
+        },
+        "anio_mb": 1987
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-030",
+      "mazo": "rock-nacional",
+      "artista": "Charly García",
+      "titulo": "Cerca de la revolución",
+      "anio": 1984,
+      "spotify": "66grIvFLGrI4tNhggO2DAd",
+      "duracion_ms": 280546,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "66grIvFLGrI4tNhggO2DAd",
+          "nombre": "Cerca De La Revolucion",
+          "artistas": "Charly García",
+          "disco": "Piano Bar",
+          "tipo": "album",
+          "fecha": "1984-01-01",
+          "isrc": "ARF140300034"
+        },
+        "musicbrainz": {
+          "fecha": "1984-11-22",
+          "grabacion": "27e59ea2-e32d-401d-9a80-fcee00837309",
+          "via": "isrc"
+        },
+        "anio_mb": 1984
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-031",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "En la ciudad de la furia",
+      "anio": 1988,
+      "spotify": "7J2885UBOaG6x3LLkp2YGf",
+      "duracion_ms": 346053,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "7J2885UBOaG6x3LLkp2YGf",
+          "nombre": "En La Ciudad De La Furia - Remasterizado 2007",
+          "artistas": "Soda Stereo",
+          "disco": "Doble Vida (Remastered)",
+          "tipo": "album",
+          "fecha": "1988-10-09",
+          "isrc": "ARFSB0700917"
+        },
+        "musicbrainz": {
+          "fecha": "1988",
+          "grabacion": "00843b29-d238-4c12-ba25-2d03a648fd67",
+          "via": "isrc"
+        },
+        "anio_mb": 1988
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-032",
+      "mazo": "rock-nacional",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "titulo": "Vencedores vencidos",
+      "anio": 1988,
+      "spotify": "1nYD14iq9R9CBUK8UvBjkK",
+      "duracion_ms": 208400,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "1nYD14iq9R9CBUK8UvBjkK",
+          "nombre": "Vencedores Vencidos",
+          "artistas": "Patricio Rey y sus Redonditos de Ricota",
+          "disco": "Un Baión para el Ojo Idiota",
+          "tipo": "album",
+          "fecha": "1988-09-05",
+          "isrc": "AR5CC8800005"
+        },
+        "musicbrainz": {
+          "fecha": "1987-05-23",
+          "grabacion": "489b2b93-017f-4746-b807-2972431bb5e8",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1987
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-033",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "De música ligera",
+      "anio": 1990,
+      "spotify": "2lpIh6Gr6HYjg1CFBaucS5",
+      "duracion_ms": 212746,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "2lpIh6Gr6HYjg1CFBaucS5",
+          "nombre": "De Música Ligera - Remasterizado 2007",
+          "artistas": "Soda Stereo",
+          "disco": "Canción Animal (Remastered)",
+          "tipo": "album",
+          "fecha": "1990-10-09",
+          "isrc": "ARFSB0700930"
+        },
+        "musicbrainz": {
+          "fecha": "1990",
+          "grabacion": "86069a0c-0275-4589-800f-9805f702d25f",
+          "via": "isrc"
+        },
+        "anio_mb": 1990
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-034",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "Té para tres",
+      "anio": 1990,
+      "spotify": "5M4Kx9qHgdTQlKovj4hK9O",
+      "duracion_ms": 144306,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado",
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "5M4Kx9qHgdTQlKovj4hK9O",
+          "nombre": "Té para Tres",
+          "artistas": "Soda Stereo",
+          "disco": "Obras Cumbres",
+          "tipo": "compilation",
+          "fecha": "2001-01-29",
+          "isrc": "ARF109900288"
+        }
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-035",
+      "mazo": "rock-nacional",
+      "artista": "Fito Páez",
+      "titulo": "Y dale alegría a mi corazón",
+      "anio": 1990,
+      "spotify": "48YvbZN5ndSIQuVorf48fM",
+      "duracion_ms": 311946,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "48YvbZN5ndSIQuVorf48fM",
+          "nombre": "Y dale alegría a mi corazón",
+          "artistas": "Fito Paez",
+          "disco": "Tercer Mundo",
+          "tipo": "album",
+          "fecha": "1990-06-24",
+          "isrc": "ARF119400080"
+        },
+        "musicbrainz": {
+          "fecha": "1990",
+          "grabacion": "15890615-59a3-400d-8a1e-78e3ee2da185",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1990
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-036",
+      "mazo": "rock-nacional",
+      "artista": "Fito Páez",
+      "titulo": "El amor después del amor",
+      "anio": 1992,
+      "spotify": "1PQzZbitOJ6XPFg7FFzsKQ",
+      "duracion_ms": 311893,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1PQzZbitOJ6XPFg7FFzsKQ",
+          "nombre": "El amor después del amor",
+          "artistas": "Fito Paez",
+          "disco": "El Amor Después del Amor",
+          "tipo": "album",
+          "fecha": "1992",
+          "isrc": "ARF119400081"
+        },
+        "musicbrainz": {
+          "fecha": "1992-02-01",
+          "grabacion": "0202b21e-a82f-4170-815d-9ce87dc184c2",
+          "via": "isrc"
+        },
+        "anio_mb": 1992
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-037",
+      "mazo": "rock-nacional",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "titulo": "Un poco de amor francés",
+      "anio": 1991,
+      "spotify": "14rcLGX83RpsORAIzC4U4g",
+      "duracion_ms": 206200,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "14rcLGX83RpsORAIzC4U4g",
+          "nombre": "Un Poco de Amor Francés",
+          "artistas": "Patricio Rey y sus Redonditos de Ricota",
+          "disco": "La Mosca y la Sopa",
+          "tipo": "album",
+          "fecha": "1991-09-27",
+          "isrc": "AR5CC9100003"
+        },
+        "musicbrainz": {
+          "fecha": "1991-10-27",
+          "grabacion": "b3a94319-c088-42e3-b58f-749c6b8a603b",
+          "via": "isrc"
+        },
+        "anio_mb": 1991
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-038",
+      "mazo": "rock-nacional",
+      "artista": "Los Fabulosos Cadillacs",
+      "titulo": "Matador",
+      "anio": 1993,
+      "spotify": "3EsjrObXPhXA79Cr4QixY8",
+      "duracion_ms": 274093,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "3EsjrObXPhXA79Cr4QixY8",
+          "nombre": "El Matador",
+          "artistas": "Los Fabulosos Cadillacs",
+          "disco": "20 Grandes Exitos",
+          "tipo": "compilation",
+          "fecha": "1998-06-05",
+          "isrc": "ARF109700582"
+        },
+        "musicbrainz": {
+          "fecha": "1993-09-23",
+          "grabacion": "72db51cf-d099-4e69-9975-83c6d71c4aed",
+          "via": "isrc"
+        },
+        "anio_mb": 1993
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-039",
+      "mazo": "rock-nacional",
+      "artista": "Los Rodríguez",
+      "titulo": "Sin documentos",
+      "anio": 1993,
+      "spotify": "6eOT73H5zfEwTCe1Y0FDCc",
+      "duracion_ms": 285093,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6eOT73H5zfEwTCe1Y0FDCc",
+          "nombre": "Sin documentos",
+          "artistas": "Los Rodriguez",
+          "disco": "Sin Documentos",
+          "tipo": "album",
+          "fecha": "1993",
+          "isrc": "ES5019364003"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "9ec2f3f5-d93a-421c-a76d-80deaf53f000",
+          "via": "isrc"
+        },
+        "anio_mb": 1993
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-040",
+      "mazo": "rock-nacional",
+      "artista": "Divididos",
+      "titulo": "Qué ves",
+      "anio": 1993,
+      "spotify": "0aad6vDkOmu9d1aFNvOwYC",
+      "duracion_ms": 313733,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0aad6vDkOmu9d1aFNvOwYC",
+          "nombre": "¿Qué Ves?",
+          "artistas": "Divididos",
+          "disco": "La Era De La Boludez",
+          "tipo": "album",
+          "fecha": "1993",
+          "isrc": "ARF099300073"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "6803e2dd-8202-4fd0-bc46-5061b8a6552b",
+          "via": "isrc"
+        },
+        "anio_mb": 1993
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-041",
+      "mazo": "rock-nacional",
+      "artista": "Enanitos Verdes",
+      "titulo": "Lamento boliviano",
+      "anio": 1994,
+      "spotify": "6Pur3hWy6Nzc27ilmsp5HA",
+      "duracion_ms": 222226,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6Pur3hWy6Nzc27ilmsp5HA",
+          "nombre": "Lamento Boliviano",
+          "artistas": "Los Enanitos Verdes",
+          "disco": "Big Bang",
+          "tipo": "album",
+          "fecha": "1994-01-01",
+          "isrc": "ARF049400245"
+        },
+        "musicbrainz": {
+          "fecha": "1994",
+          "grabacion": "96a18f4d-d366-484b-93ac-285ef6abbcd0",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1994
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-042",
+      "mazo": "rock-nacional",
+      "artista": "Fito Páez",
+      "titulo": "Mariposa Tecknicolor",
+      "anio": 1994,
+      "spotify": "2RognU2ViRdA6HxnpAITJl",
+      "duracion_ms": 222346,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2RognU2ViRdA6HxnpAITJl",
+          "nombre": "Mariposa tecknicolor",
+          "artistas": "Fito Paez",
+          "disco": "Circo Beat",
+          "tipo": "album",
+          "fecha": "1994",
+          "isrc": "ARF119400002"
+        },
+        "musicbrainz": {
+          "fecha": "1994",
+          "grabacion": "d521d91d-e235-419d-b5ec-0946d59053d7",
+          "via": "isrc"
+        },
+        "anio_mb": 1994
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-043",
+      "mazo": "rock-nacional",
+      "artista": "Los Fabulosos Cadillacs",
+      "titulo": "Mal bicho",
+      "anio": 1995,
+      "spotify": "5nofWp3plvxYX1xgHpe4fi",
+      "duracion_ms": 243720,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "5nofWp3plvxYX1xgHpe4fi",
+          "nombre": "Mal Bicho - Remasterizado 2008",
+          "artistas": "Los Fabulosos Cadillacs",
+          "disco": "Rey Azúcar",
+          "tipo": "album",
+          "fecha": "1995-06-18",
+          "isrc": "ARFSB0800352"
+        },
+        "musicbrainz": {
+          "fecha": "1995-06-20",
+          "grabacion": "4eaa6110-0e11-4a79-be49-424c37b80141",
+          "via": "isrc"
+        },
+        "anio_mb": 1995
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-044",
+      "mazo": "rock-nacional",
+      "artista": "La Renga",
+      "titulo": "La balada del diablo y la muerte",
+      "anio": 1996,
+      "spotify": "4ObkiTmpsSU31gqGhTb8SH",
+      "duracion_ms": 336360,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "4ObkiTmpsSU31gqGhTb8SH",
+          "nombre": "Balada Del Diablo y La Muerte",
+          "artistas": "La Renga",
+          "disco": "Despedazado Por Mil Partes",
+          "tipo": "album",
+          "fecha": "1996-01-01",
+          "isrc": "ARF099600129"
+        }
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-045",
+      "mazo": "rock-nacional",
+      "artista": "Andrés Calamaro",
+      "titulo": "Flaca",
+      "anio": 1997,
+      "spotify": "1p7m9H4H8s0Y7SgRm7j3ED",
+      "duracion_ms": 277653,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1p7m9H4H8s0Y7SgRm7j3ED",
+          "nombre": "Flaca",
+          "artistas": "Andrés Calamaro",
+          "disco": "Alta Suciedad",
+          "tipo": "album",
+          "fecha": "1997",
+          "isrc": "ES5019753004"
+        },
+        "musicbrainz": {
+          "fecha": "1997-09-07",
+          "grabacion": "a7e70ebf-5369-42a0-b6ec-a6c28c683270",
+          "via": "isrc"
+        },
+        "anio_mb": 1997
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-046",
+      "mazo": "rock-nacional",
+      "artista": "Bersuit Vergarabat",
+      "titulo": "Mi novia tiene bíceps",
+      "anio": 1998,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "no_musicbrainz"
+        ]
+      },
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-047",
+      "mazo": "rock-nacional",
+      "artista": "Bersuit Vergarabat",
+      "titulo": "Se viene",
+      "anio": 1998,
+      "spotify": "3sDmwlRdEdsb1BLDChJSJV",
+      "duracion_ms": 205946,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3sDmwlRdEdsb1BLDChJSJV",
+          "nombre": "Se Viene",
+          "artistas": "Bersuit Vergarabat",
+          "disco": "Libertinaje",
+          "tipo": "album",
+          "fecha": "1998-01-01",
+          "isrc": "ARF149800006"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "4c474a62-4ab6-4eee-8022-84afbd342b3b",
+          "via": "isrc"
+        },
+        "anio_mb": 1998
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-048",
+      "mazo": "rock-nacional",
+      "artista": "Andrés Calamaro",
+      "titulo": "Crímenes perfectos",
+      "anio": 1997,
+      "spotify": "6guoJhM9n5Fm7npXJ1rfsM",
+      "duracion_ms": 264840,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6guoJhM9n5Fm7npXJ1rfsM",
+          "nombre": "Crímenes perfectos",
+          "artistas": "Andrés Calamaro",
+          "disco": "Alta Suciedad",
+          "tipo": "album",
+          "fecha": "1997",
+          "isrc": "ES5019753011"
+        },
+        "musicbrainz": {
+          "fecha": "1997-09-07",
+          "grabacion": "fa14834b-c315-425c-97d6-2df42d0d2e9c",
+          "via": "isrc"
+        },
+        "anio_mb": 1997
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-049",
+      "mazo": "rock-nacional",
+      "artista": "Gustavo Cerati",
+      "titulo": "Puente",
+      "anio": 1999,
+      "spotify": "6gwaa6ElIixNTvu6RwkMyo",
+      "duracion_ms": 274444,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6gwaa6ElIixNTvu6RwkMyo",
+          "nombre": "Puente",
+          "artistas": "Gustavo Cerati",
+          "disco": "Bocanada",
+          "tipo": "album",
+          "fecha": "1999-06-01",
+          "isrc": "ARF039900910"
+        },
+        "musicbrainz": {
+          "fecha": "1999-06-28",
+          "grabacion": "a6acba70-b795-48bc-b77d-fb88223a2f25",
+          "via": "isrc"
+        },
+        "anio_mb": 1999
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-050",
+      "mazo": "rock-nacional",
+      "artista": "Babasónicos",
+      "titulo": "Irresponsables",
+      "anio": 2003,
+      "spotify": "0dsViRiDTIuexAL42Nc1Kh",
+      "duracion_ms": 156197,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0dsViRiDTIuexAL42Nc1Kh",
+          "nombre": "Irresponsables",
+          "artistas": "Babasonicos",
+          "disco": "Infame",
+          "tipo": "album",
+          "fecha": "2003-10-19",
+          "isrc": "ARF470400014"
+        },
+        "musicbrainz": {
+          "fecha": "2003",
+          "grabacion": "f2aecb3a-4344-4240-bc3e-befc0da657f6",
+          "via": "isrc"
+        },
+        "anio_mb": 2003
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-051",
+      "mazo": "rock-nacional",
+      "artista": "Gustavo Cerati",
+      "titulo": "Crimen",
+      "anio": 2006,
+      "spotify": "3oqWr0jDWNXxWufNogGREp",
+      "duracion_ms": 232026,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3oqWr0jDWNXxWufNogGREp",
+          "nombre": "Crimen",
+          "artistas": "Gustavo Cerati",
+          "disco": "Ahí Vamos",
+          "tipo": "album",
+          "fecha": "2006-04-04",
+          "isrc": "ARF030600057"
+        },
+        "musicbrainz": {
+          "fecha": "2006-04-04",
+          "grabacion": "6cb3cc94-0233-40d5-9e40-ca1699563aab",
+          "via": "isrc"
+        },
+        "anio_mb": 2006
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-052",
+      "mazo": "rock-nacional",
+      "artista": "Gustavo Cerati",
+      "titulo": "Adiós",
+      "anio": 2006,
+      "spotify": "1rh4kDY9T4fHVDum8Foi5k",
+      "duracion_ms": 233746,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1rh4kDY9T4fHVDum8Foi5k",
+          "nombre": "Adiós",
+          "artistas": "Gustavo Cerati",
+          "disco": "Ahí Vamos",
+          "tipo": "album",
+          "fecha": "2006-04-04",
+          "isrc": "ARF030600049"
+        },
+        "musicbrainz": {
+          "fecha": "2006-04-04",
+          "grabacion": "cb71701a-adde-45da-a129-69e8760ec029",
+          "via": "isrc"
+        },
+        "anio_mb": 2006
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-053",
+      "mazo": "rock-nacional",
+      "artista": "Babasónicos",
+      "titulo": "Yegua",
+      "anio": 2005,
+      "spotify": "4KEvPNXtfhZlGXNErRDLd5",
+      "duracion_ms": 149560,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4KEvPNXtfhZlGXNErRDLd5",
+          "nombre": "Yegua",
+          "artistas": "Babasonicos",
+          "disco": "Anoche",
+          "tipo": "album",
+          "fecha": "2005",
+          "isrc": "ARUM70500004"
+        },
+        "musicbrainz": {
+          "fecha": "2005-11-08",
+          "grabacion": "b0f29f77-bab3-4bdd-a310-5c4cf66b6036",
+          "via": "isrc"
+        },
+        "anio_mb": 2005
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-054",
+      "mazo": "rock-nacional",
+      "artista": "Los Gatos",
+      "titulo": "Ayer nomás",
+      "anio": 1967,
+      "spotify": "20ILhYY5QbmsNc8KKBf8w5",
+      "duracion_ms": 130213,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "20ILhYY5QbmsNc8KKBf8w5",
+          "nombre": "Ayer Nomás",
+          "artistas": "Los Gatos",
+          "disco": "Los Gatos",
+          "tipo": "album",
+          "fecha": "1967-02-13",
+          "isrc": "ARF036700024"
+        },
+        "musicbrainz": {
+          "fecha": "1967-07-03",
+          "grabacion": "9950b898-f23b-4a8b-9bbd-0749e6dbae0a",
+          "via": "isrc"
+        },
+        "anio_mb": 1967
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-055",
+      "mazo": "rock-nacional",
+      "artista": "Almendra",
+      "titulo": "Ana no duerme",
+      "anio": 1969,
+      "spotify": "2P2tl8JT698TJJ55ScKyku",
+      "duracion_ms": 162093,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2P2tl8JT698TJJ55ScKyku",
+          "nombre": "Ana No Duerme",
+          "artistas": "Almendra",
+          "disco": "Almendra (50 Años)",
+          "tipo": "album",
+          "fecha": "1970",
+          "isrc": "ARF036900020"
+        },
+        "musicbrainz": {
+          "fecha": "1969-11-29",
+          "grabacion": "6c25e9f0-1ea9-43f3-a05d-584c303fdcac",
+          "via": "isrc"
+        },
+        "anio_mb": 1969
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-056",
+      "mazo": "rock-nacional",
+      "artista": "Almendra",
+      "titulo": "Laura va",
+      "anio": 1969,
+      "spotify": "5P5oru5iaMtaBdWzyPwb88",
+      "duracion_ms": 167906,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5P5oru5iaMtaBdWzyPwb88",
+          "nombre": "Laura Va",
+          "artistas": "Almendra",
+          "disco": "Almendra (50 Años)",
+          "tipo": "album",
+          "fecha": "1970",
+          "isrc": "ARF036900022"
+        },
+        "musicbrainz": {
+          "fecha": "1969-11-29",
+          "grabacion": "10f0e830-cdc6-4937-ae0d-7672649240c5",
+          "via": "isrc"
+        },
+        "anio_mb": 1969
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-057",
+      "mazo": "rock-nacional",
+      "artista": "Manal",
+      "titulo": "Avellaneda blues",
+      "anio": 1970,
+      "spotify": "2SeUS7JmN0oLjHPHGvDZFA",
+      "duracion_ms": 333680,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2SeUS7JmN0oLjHPHGvDZFA",
+          "nombre": "Avellaneda Blues",
+          "artistas": "Manal",
+          "disco": "Manal",
+          "tipo": "album",
+          "fecha": "1970-05-27",
+          "isrc": "ARF100100152"
+        },
+        "musicbrainz": {
+          "fecha": "1970",
+          "grabacion": "7b02e3ab-d55a-4964-8e65-f747cbb7c905",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1970
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-058",
+      "mazo": "rock-nacional",
+      "artista": "Vox Dei",
+      "titulo": "Presente (El tiempo es veloz)",
+      "anio": 1970,
+      "spotify": "1VmfQgVk7WRkXKxiUWGoHi",
+      "duracion_ms": 222609,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1VmfQgVk7WRkXKxiUWGoHi",
+          "nombre": "Presente",
+          "artistas": "Vox Dei",
+          "disco": "Caliente",
+          "tipo": "album",
+          "fecha": "1970-06-04",
+          "isrc": "ART0G1204103"
+        },
+        "musicbrainz": {
+          "fecha": "1970",
+          "grabacion": "8ff78e38-84fb-4ae7-bcaa-5ff1857a5b1c",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1970
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-059",
+      "mazo": "rock-nacional",
+      "artista": "Arco Iris",
+      "titulo": "Mañana campestre",
+      "anio": 1972,
+      "spotify": "1f3uOzmizXQfkezHCdu53L",
+      "duracion_ms": 169525,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1f3uOzmizXQfkezHCdu53L",
+          "nombre": "Mañana Campestre",
+          "artistas": "Arco Iris",
+          "disco": "Tiempo de Resurrección",
+          "tipo": "album",
+          "fecha": "1972",
+          "isrc": "ARXP71600216"
+        },
+        "musicbrainz": {
+          "fecha": "1972",
+          "grabacion": "93df06a8-9995-445a-843d-537c8d2c2d55",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1972
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-060",
+      "mazo": "rock-nacional",
+      "artista": "Sui Generis",
+      "titulo": "Bienvenidos al tren",
+      "anio": 1973,
+      "spotify": "1aXdFFTTUBMdcKsAX2q3vq",
+      "duracion_ms": 194333,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1aXdFFTTUBMdcKsAX2q3vq",
+          "nombre": "Bienvenidos al Tren",
+          "artistas": "Sui Generis",
+          "disco": "Confesiones De Invierno",
+          "tipo": "album",
+          "fecha": "1973-06-22",
+          "isrc": "ARF109700683"
+        },
+        "musicbrainz": {
+          "fecha": "1973",
+          "grabacion": "bd8ae1f3-2b1b-4306-b552-d2a9fc13f30f",
+          "via": "isrc"
+        },
+        "anio_mb": 1973
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-061",
+      "mazo": "rock-nacional",
+      "artista": "Sui Generis",
+      "titulo": "Aprendizaje",
+      "anio": 1973,
+      "spotify": "1ER1laT8sGa3uSifgRaL5u",
+      "duracion_ms": 225400,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1ER1laT8sGa3uSifgRaL5u",
+          "nombre": "Aprendizaje",
+          "artistas": "Sui Generis",
+          "disco": "Confesiones De Invierno",
+          "tipo": "album",
+          "fecha": "1973-06-22",
+          "isrc": "ARF109700695"
+        },
+        "musicbrainz": {
+          "fecha": "1973",
+          "grabacion": "7edfddc3-de4e-4e72-b304-5004e91d546a",
+          "via": "isrc"
+        },
+        "anio_mb": 1973
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-062",
+      "mazo": "rock-nacional",
+      "artista": "Sui Generis",
+      "titulo": "Instituciones",
+      "anio": 1974,
+      "spotify": "0RPoVlxtkhJPaeeCNHTy85",
+      "duracion_ms": 291333,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0RPoVlxtkhJPaeeCNHTy85",
+          "nombre": "Instituciones",
+          "artistas": "Sui Generis",
+          "disco": "Pequenas Anécdotas Sobre Las Instituciones",
+          "tipo": "album",
+          "fecha": "1974",
+          "isrc": "ARF109902233"
+        },
+        "musicbrainz": {
+          "fecha": "1974-12-16",
+          "grabacion": "8e30f2d1-0325-4a73-a7eb-491d679caf47",
+          "via": "isrc"
+        },
+        "anio_mb": 1974
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-063",
+      "mazo": "rock-nacional",
+      "artista": "Pescado Rabioso",
+      "titulo": "Bajan",
+      "anio": 1973,
+      "spotify": "6hmYi0E6EBEmDeztQHaH0C",
+      "duracion_ms": 204466,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6hmYi0E6EBEmDeztQHaH0C",
+          "nombre": "Bajan",
+          "artistas": "Pescado Rabioso",
+          "disco": "Artaud",
+          "tipo": "album",
+          "fecha": "1973-05-07",
+          "isrc": "ARF109902852"
+        },
+        "musicbrainz": {
+          "fecha": "1973-10",
+          "grabacion": "895c9850-3b84-4a0e-9a48-b0e51aaa55c1",
+          "via": "isrc"
+        },
+        "anio_mb": 1973
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-064",
+      "mazo": "rock-nacional",
+      "artista": "La Máquina de Hacer Pájaros",
+      "titulo": "Cómo mata el viento norte",
+      "anio": 1976,
+      "spotify": "7BbpLe12HpkoZJcJs1A3SP",
+      "duracion_ms": 164440,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7BbpLe12HpkoZJcJs1A3SP",
+          "nombre": "Como Mata el Viento Norte",
+          "artistas": "La Maquina De Hacer Pájaros",
+          "disco": "La Máquina de Hacer Pájaros",
+          "tipo": "album",
+          "fecha": "1976-04-29",
+          "isrc": "ARF109400190"
+        },
+        "musicbrainz": {
+          "fecha": "1976",
+          "grabacion": "66d30078-02d2-42fa-90c5-9b52fb4ca7e1",
+          "via": "isrc"
+        },
+        "anio_mb": 1976
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-065",
+      "mazo": "rock-nacional",
+      "artista": "Serú Girán",
+      "titulo": "Eiti Leda",
+      "anio": 1978,
+      "spotify": "5G76OBTD8vkr7Ns6Nrq8gc",
+      "duracion_ms": 418442,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "5G76OBTD8vkr7Ns6Nrq8gc",
+          "nombre": "Eiti-Leda - 2021 Remasterizado",
+          "artistas": "Serú Girán",
+          "disco": "Serú Girán (Remasterizado 2021)",
+          "tipo": "album",
+          "fecha": "2021-12-22",
+          "isrc": "ARXP71600001"
+        },
+        "musicbrainz": {
+          "fecha": "1978",
+          "grabacion": "2419ab7b-0d2f-4dc9-9e94-2378a1800d54",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1978
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-066",
+      "mazo": "rock-nacional",
+      "artista": "Serú Girán",
+      "titulo": "Viernes 3 AM",
+      "anio": 1979,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify"
+        ],
+        "musicbrainz": {
+          "fecha": "1979-08-19",
+          "grabacion": "2dac5522-570e-4dc1-9ed5-45e587e0d080",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1979
+      },
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-067",
+      "mazo": "rock-nacional",
+      "artista": "Serú Girán",
+      "titulo": "Desarma y sangra",
+      "anio": 1980,
+      "spotify": "2LmFypafhOlB3z2WRsrHjA",
+      "duracion_ms": 222266,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "2LmFypafhOlB3z2WRsrHjA",
+          "nombre": "Desarma Y Sangra - Remastered 2012",
+          "artistas": "Serú Girán",
+          "disco": "Bicicleta (Remastered 2012)",
+          "tipo": "album",
+          "fecha": "1980-11-01",
+          "isrc": "ARUM70600489"
+        },
+        "musicbrainz": {
+          "fecha": "1980",
+          "grabacion": "e4926c52-1210-41b7-8d00-c376b0f7e2d0",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1980
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-068",
+      "mazo": "rock-nacional",
+      "artista": "Serú Girán",
+      "titulo": "Peperina",
+      "anio": 1981,
+      "spotify": "3kL99Fpliaj8HWigniTIp7",
+      "duracion_ms": 220280,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3kL99Fpliaj8HWigniTIp7",
+          "nombre": "Peperina",
+          "artistas": "Serú Girán",
+          "disco": "Peperina",
+          "tipo": "album",
+          "fecha": "1981-08-01",
+          "isrc": "ARF098200381"
+        },
+        "musicbrainz": {
+          "fecha": "1981",
+          "grabacion": "1dca625d-f86c-4437-b0d4-eda51b3343ef",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1981
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-069",
+      "mazo": "rock-nacional",
+      "artista": "Spinetta Jade",
+      "titulo": "Alma de diamante",
+      "anio": 1980,
+      "spotify": "6F3VxUPgfcvDDpk2UxsJ5a",
+      "duracion_ms": 257573,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6F3VxUPgfcvDDpk2UxsJ5a",
+          "nombre": "Alma de Diamante",
+          "artistas": "Spinetta Jade",
+          "disco": "Alma de Diamante",
+          "tipo": "album",
+          "fecha": "1980-04-08",
+          "isrc": "ARP1D8000002"
+        },
+        "musicbrainz": {
+          "fecha": "1980-08",
+          "grabacion": "d0970fd9-5f74-45f9-acc0-373c467061bb",
+          "via": "isrc"
+        },
+        "anio_mb": 1980
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-070",
+      "mazo": "rock-nacional",
+      "artista": "Luis Alberto Spinetta",
+      "titulo": "Barro tal vez",
+      "anio": 1982,
+      "spotify": "1y96w7WDPlwByq9aISEi6G",
+      "duracion_ms": 197746,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1y96w7WDPlwByq9aISEi6G",
+          "nombre": "Barro Tal Vez",
+          "artistas": "Luis Alberto Spinetta",
+          "disco": "Kamikaze",
+          "tipo": "album",
+          "fecha": "1982-04-08",
+          "isrc": "ARP1D8200006"
+        },
+        "musicbrainz": {
+          "fecha": "1982",
+          "grabacion": "f5da59ae-0342-43fd-a428-e2f7fbce1e02",
+          "via": "isrc"
+        },
+        "anio_mb": 1982
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-071",
+      "mazo": "rock-nacional",
+      "artista": "Riff",
+      "titulo": "Susy Cadillac",
+      "anio": 1982,
+      "spotify": "5vJBDEkzpgbWC9Gz4KWYIw",
+      "duracion_ms": 239560,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5vJBDEkzpgbWC9Gz4KWYIw",
+          "nombre": "Susy Cadillac",
+          "artistas": "Riff",
+          "disco": "Contenidos",
+          "tipo": "album",
+          "fecha": "1982-01-01",
+          "isrc": "ARG601012751"
+        },
+        "musicbrainz": {
+          "fecha": "1982-10-20",
+          "grabacion": "662eb448-91d1-4c11-b28e-3d98c7e29bc0",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1982
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-072",
+      "mazo": "rock-nacional",
+      "artista": "Raúl Porchetto",
+      "titulo": "Algo de paz",
+      "anio": 1980,
+      "spotify": "70UI5FZ45cuq9cKfWXxSAd",
+      "duracion_ms": 197302,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "70UI5FZ45cuq9cKfWXxSAd",
+          "nombre": "Algo de paz",
+          "artistas": "Raul Porchetto",
+          "disco": "Metegol",
+          "tipo": "album",
+          "fecha": "1980-07-31",
+          "isrc": "ARP7T2200008"
+        },
+        "musicbrainz": {
+          "fecha": "1980",
+          "grabacion": "9c6399a8-3289-4408-99e9-ffb019061706",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1980
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-073",
+      "mazo": "rock-nacional",
+      "artista": "Charly García",
+      "titulo": "Yendo de la cama al living",
+      "anio": 1982,
+      "spotify": "13tz2i3p3x2dMK9906nVFk",
+      "duracion_ms": 285213,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "13tz2i3p3x2dMK9906nVFk",
+          "nombre": "Yendo De La Cama Al Living",
+          "artistas": "Charly García",
+          "disco": "Pubis Angelical / Yendo De La Cama Al Living",
+          "tipo": "album",
+          "fecha": "1982-10-28",
+          "isrc": "ARF098200029"
+        },
+        "musicbrainz": {
+          "fecha": "1982-10-28",
+          "grabacion": "7a6e702a-fefa-417b-bc23-5cd4796e043d",
+          "via": "isrc"
+        },
+        "anio_mb": 1982
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-074",
+      "mazo": "rock-nacional",
+      "artista": "Charly García",
+      "titulo": "Promesas sobre el bidet",
+      "anio": 1984,
+      "spotify": "2MXqrO1RBfek6RoijghYYp",
+      "duracion_ms": 164360,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2MXqrO1RBfek6RoijghYYp",
+          "nombre": "Promesas Sobre El Bidet",
+          "artistas": "Charly García",
+          "disco": "Piano Bar",
+          "tipo": "album",
+          "fecha": "1984-01-01",
+          "isrc": "ARF140300027"
+        },
+        "musicbrainz": {
+          "fecha": "1984-11-22",
+          "grabacion": "2888f17a-54f5-407b-a10f-1e7a5368835d",
+          "via": "isrc"
+        },
+        "anio_mb": 1984
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-075",
+      "mazo": "rock-nacional",
+      "artista": "Charly García",
+      "titulo": "Raros peinados nuevos",
+      "anio": 1984,
+      "spotify": "7mnf5omGMUwSfpwZrt5AZ0",
+      "duracion_ms": 214760,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7mnf5omGMUwSfpwZrt5AZ0",
+          "nombre": "Raros Peinados Nuevos",
+          "artistas": "Charly García",
+          "disco": "Piano Bar",
+          "tipo": "album",
+          "fecha": "1984-01-01",
+          "isrc": "ARF140300028"
+        },
+        "musicbrainz": {
+          "fecha": "1984-11-22",
+          "grabacion": "05efa8ca-a97b-4225-aa95-7b292bf794df",
+          "via": "isrc"
+        },
+        "anio_mb": 1984
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-076",
+      "mazo": "rock-nacional",
+      "artista": "Charly García",
+      "titulo": "No voy en tren",
+      "anio": 1987,
+      "spotify": "0rliTXrA8nLBuJcxDuueWU",
+      "duracion_ms": 181600,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0rliTXrA8nLBuJcxDuueWU",
+          "nombre": "No Voy en Tren",
+          "artistas": "Charly García",
+          "disco": "Parte De La Religion",
+          "tipo": "album",
+          "fecha": "1987-04-29",
+          "isrc": "ARF109400196"
+        },
+        "musicbrainz": {
+          "fecha": "1987",
+          "grabacion": "9340e97e-9f6c-41c0-9f13-5098dec7bc7e",
+          "via": "isrc"
+        },
+        "anio_mb": 1987
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-077",
+      "mazo": "rock-nacional",
+      "artista": "Charly García",
+      "titulo": "Fanky",
+      "anio": 1989,
+      "spotify": "5iVRdHAUDp3cW2I8d6czBS",
+      "duracion_ms": 284733,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5iVRdHAUDp3cW2I8d6czBS",
+          "nombre": "Fanky",
+          "artistas": "Charly García",
+          "disco": "Como Conseguir Chicas",
+          "tipo": "album",
+          "fecha": "1989-05-07",
+          "isrc": "ARF109400198"
+        },
+        "musicbrainz": {
+          "fecha": "1989-02-16",
+          "grabacion": "896d7d2c-bccb-42c6-be41-873330c9ebc0",
+          "via": "isrc"
+        },
+        "anio_mb": 1989
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-078",
+      "mazo": "rock-nacional",
+      "artista": "Los Twist",
+      "titulo": "Cleopatra, la reina del twist",
+      "anio": 1983,
+      "spotify": "6XxKFdLiQG5g4xPfnBV1H5",
+      "duracion_ms": 149560,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6XxKFdLiQG5g4xPfnBV1H5",
+          "nombre": "Cleopatra, La Reina Del Twist",
+          "artistas": "Los Twist",
+          "disco": "La Dicha En Movimiento",
+          "tipo": "album",
+          "fecha": "1983",
+          "isrc": "ARF098300096"
+        },
+        "musicbrainz": {
+          "fecha": "1983-10-17",
+          "grabacion": "4d9e2ba1-6dc6-4e12-bd55-5f2829ef7bfc",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1983
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-079",
+      "mazo": "rock-nacional",
+      "artista": "Los Violadores",
+      "titulo": "Uno, dos, ultraviolento",
+      "anio": 1985,
+      "spotify": "72D12oeReTwXn5TAl0UTIe",
+      "duracion_ms": 250133,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: vivo/versión",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "72D12oeReTwXn5TAl0UTIe",
+          "nombre": "Uno, Dos, Ultraviolento - En Vivo",
+          "artistas": "Los Violadores",
+          "disco": "Uno Dos UltraVioladores",
+          "tipo": "album",
+          "fecha": "1986-01-01",
+          "isrc": "ES71G1753688"
+        },
+        "musicbrainz": {
+          "fecha": "2002-10-17",
+          "grabacion": "ab87e80f-bc27-48be-b42b-aef80f4df0ce",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2002
+      },
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-080",
+      "mazo": "rock-nacional",
+      "artista": "Virus",
+      "titulo": "Qué hago en Manila",
+      "anio": 1983,
+      "spotify": "4fmwH88pFFZ7KCfneOeXxR",
+      "duracion_ms": 280453,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4fmwH88pFFZ7KCfneOeXxR",
+          "nombre": "Que Hago en Manila?",
+          "artistas": "Virus",
+          "disco": "Agujero Interior",
+          "tipo": "album",
+          "fecha": "1983",
+          "isrc": "ES71G1856923"
+        },
+        "musicbrainz": {
+          "fecha": "1983",
+          "grabacion": "6c13d522-47b9-4ba2-a81e-c8c03cd6d34e",
+          "via": "isrc"
+        },
+        "anio_mb": 1983
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-081",
+      "mazo": "rock-nacional",
+      "artista": "Virus",
+      "titulo": "Imágenes paganas",
+      "anio": 1985,
+      "spotify": "1BweuW1Vx7eP6VUSXijezL",
+      "duracion_ms": 268360,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "revisar",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "1BweuW1Vx7eP6VUSXijezL",
+          "nombre": "Imágenes Paganas",
+          "artistas": "Virus",
+          "disco": "Nuestras 30 Mejores Canciones",
+          "tipo": "album",
+          "fecha": "1999-06-24",
+          "isrc": "ARF109500361"
+        },
+        "musicbrainz": {
+          "fecha": "1986",
+          "grabacion": "ab946afe-f34c-4e78-be7d-f30419d92985",
+          "via": "isrc"
+        },
+        "anio_mb": 1986
+      },
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-082",
+      "mazo": "rock-nacional",
+      "artista": "Los Abuelos de la Nada",
+      "titulo": "Costumbres argentinas",
+      "anio": 1984,
+      "spotify": "4gjSEIBYgtsKyrkSMPKnTB",
+      "duracion_ms": 161167,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "revisar",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "4gjSEIBYgtsKyrkSMPKnTB",
+          "nombre": "Costumbres Argentinas",
+          "artistas": "Los Abuelos De La Nada, Benjamín Amadeo",
+          "disco": "Costumbres Argentinas",
+          "tipo": "single",
+          "fecha": "2020-10-30",
+          "isrc": "AR22T2000004"
+        },
+        "musicbrainz": {
+          "fecha": "2021-08-18",
+          "grabacion": "1d6f444b-c2b1-411d-8d90-b6faa502a206",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2021
+      },
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-083",
+      "mazo": "rock-nacional",
+      "artista": "Los Abuelos de la Nada",
+      "titulo": "Lunes por la madrugada",
+      "anio": 1984,
+      "spotify": "6Vjxx2oGhC1jS5zkeIjoSX",
+      "duracion_ms": 194026,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "6Vjxx2oGhC1jS5zkeIjoSX",
+          "nombre": "Lunes Por La Madrugada",
+          "artistas": "Los Abuelos De La Nada",
+          "disco": "El Album",
+          "tipo": "album",
+          "fecha": "1988-01-01",
+          "isrc": "ARF098400021"
+        },
+        "musicbrainz": {
+          "fecha": "1984",
+          "grabacion": "416a425f-af90-4daa-adb8-88b87d3eb554",
+          "via": "isrc"
+        },
+        "anio_mb": 1984
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-084",
+      "mazo": "rock-nacional",
+      "artista": "GIT",
+      "titulo": "Siempre es lo mismo, nada es igual",
+      "anio": 1984,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "no_musicbrainz"
+        ]
+      },
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-085",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "Sobredosis de TV",
+      "anio": 1984,
+      "spotify": "62yy6JPlQk9srv9zJyMipA",
+      "duracion_ms": 328933,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: compilado, título con agregado"
+        ],
+        "spotify": {
+          "id": "62yy6JPlQk9srv9zJyMipA",
+          "nombre": "Sobredosis De TV - Outtakes 2005 Release",
+          "artistas": "Soda Stereo",
+          "disco": "Obras Cumbres (Parte 2)",
+          "tipo": "compilation",
+          "fecha": "2006-10-31",
+          "isrc": "ARF030500174"
+        },
+        "musicbrainz": {
+          "fecha": "1984",
+          "grabacion": "73565037-de26-4964-8bfc-8f00999d8152",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1984
+      },
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-086",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "Trátame suavemente",
+      "anio": 1984,
+      "spotify": "65DBZofI0b79kfHTcWWDuU",
+      "duracion_ms": 200800,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "65DBZofI0b79kfHTcWWDuU",
+          "nombre": "Trátame Suavemente - Remasterizado 2007",
+          "artistas": "Soda Stereo",
+          "disco": "Soda Stereo (Remastered)",
+          "tipo": "album",
+          "fecha": "1984-02-06",
+          "isrc": "ARFSB0700881"
+        },
+        "musicbrainz": {
+          "fecha": "1984",
+          "grabacion": "95b922e7-661c-4e76-82a8-55bda68c5b9c",
+          "via": "isrc"
+        },
+        "anio_mb": 1984
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-087",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "Signos",
+      "anio": 1986,
+      "spotify": "09L0jTQCVyvR07arr9Gn6u",
+      "duracion_ms": 315346,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "09L0jTQCVyvR07arr9Gn6u",
+          "nombre": "Signos - Remasterizado 2007",
+          "artistas": "Soda Stereo",
+          "disco": "Signos (Remastered)",
+          "tipo": "album",
+          "fecha": "1986-10-09",
+          "isrc": "ARFSB0700905"
+        },
+        "musicbrainz": {
+          "fecha": "1986",
+          "grabacion": "5114aaeb-7145-4997-ae04-715aa72a863b",
+          "via": "isrc"
+        },
+        "anio_mb": 1986
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-088",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "Corazón delator",
+      "anio": 1988,
+      "spotify": "2zaZ81JI8KbYaL7210BB0U",
+      "duracion_ms": 312840,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "2zaZ81JI8KbYaL7210BB0U",
+          "nombre": "Corazón Delator - Remasterizado 2007",
+          "artistas": "Soda Stereo",
+          "disco": "Doble Vida (Remastered)",
+          "tipo": "album",
+          "fecha": "1988-10-09",
+          "isrc": "ARFSB0700922"
+        },
+        "musicbrainz": {
+          "fecha": "1988",
+          "grabacion": "8149bce0-973b-4a5d-985e-acbc7b3b5a51",
+          "via": "isrc"
+        },
+        "anio_mb": 1988
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-089",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "Un millón de años luz",
+      "anio": 1990,
+      "spotify": "0nJrTGcXdJWkKz02UMQdzO",
+      "duracion_ms": 304053,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "0nJrTGcXdJWkKz02UMQdzO",
+          "nombre": "Un Millón De Años Luz - Remasterizado 2007",
+          "artistas": "Soda Stereo",
+          "disco": "Canción Animal (Remastered)",
+          "tipo": "album",
+          "fecha": "1990-10-09",
+          "isrc": "ARFSB0700926"
+        },
+        "musicbrainz": {
+          "fecha": "1990",
+          "grabacion": "090416f7-d67c-4e6a-b90f-749a4d66e1cd",
+          "via": "isrc"
+        },
+        "anio_mb": 1990
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-090",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "Ella usó mi cabeza como un revólver",
+      "anio": 1995,
+      "spotify": "5RzXSxR7BUhEtpqh77lMbR",
+      "duracion_ms": 269760,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "5RzXSxR7BUhEtpqh77lMbR",
+          "nombre": "Ella Usó Mi Cabeza Como Un Revólver - Remasterizado 2007",
+          "artistas": "Soda Stereo",
+          "disco": "Sueño Stereo (Remastered)",
+          "tipo": "album",
+          "fecha": "1995-10-09",
+          "isrc": "ARFSB0700954"
+        },
+        "musicbrainz": {
+          "fecha": "1995-08-15",
+          "grabacion": "a5bd7277-fd0a-42ce-a652-e58977e4c295",
+          "via": "isrc"
+        },
+        "anio_mb": 1995
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-091",
+      "mazo": "rock-nacional",
+      "artista": "Soda Stereo",
+      "titulo": "Zoom",
+      "anio": 1995,
+      "spotify": "1djou52IdL1mVEE7gTauxo",
+      "duracion_ms": 206306,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "1djou52IdL1mVEE7gTauxo",
+          "nombre": "Zoom - Remasterizado 2007",
+          "artistas": "Soda Stereo",
+          "disco": "Sueño Stereo (Remastered)",
+          "tipo": "album",
+          "fecha": "1995-10-09",
+          "isrc": "ARFSB0700956"
+        },
+        "musicbrainz": {
+          "fecha": "1995-08-15",
+          "grabacion": "d49f2bd6-4308-40dd-9f5e-2433951a5f53",
+          "via": "isrc"
+        },
+        "anio_mb": 1995
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-092",
+      "mazo": "rock-nacional",
+      "artista": "Miguel Mateos",
+      "titulo": "Cuando seas grande",
+      "anio": 1986,
+      "spotify": "25NeGSHqObqSJg79oir7pB",
+      "duracion_ms": 265706,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "25NeGSHqObqSJg79oir7pB",
+          "nombre": "Cuando Seas Grande",
+          "artistas": "Miguel Mateos - Zas",
+          "disco": "Solos en América",
+          "tipo": "album",
+          "fecha": "1986-09-01",
+          "isrc": "ARXP71600062"
+        },
+        "musicbrainz": {
+          "fecha": "1986",
+          "grabacion": "019d85c4-94ec-47c6-87e2-dd10a432ffd8",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1986
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-093",
+      "mazo": "rock-nacional",
+      "artista": "León Gieco",
+      "titulo": "Cinco siglos igual",
+      "anio": 1992,
+      "spotify": "3fL89NetmOyr0q8c4eg8XD",
+      "duracion_ms": 253200,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3fL89NetmOyr0q8c4eg8XD",
+          "nombre": "Cinco Siglos Igual",
+          "artistas": "León Gieco",
+          "disco": "Mensajes Del Alma",
+          "tipo": "album",
+          "fecha": "1992-01-01",
+          "isrc": "ARF049200010"
+        },
+        "musicbrainz": {
+          "fecha": "1992-12",
+          "grabacion": "d10bbf84-db61-46e9-9425-94204ddd2dec",
+          "via": "isrc"
+        },
+        "anio_mb": 1992
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-094",
+      "mazo": "rock-nacional",
+      "artista": "Sumo",
+      "titulo": "La rubia tarada",
+      "anio": 1985,
+      "spotify": "0RaRyvHA4z1VWq9BJhA65s",
+      "duracion_ms": 222533,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0RaRyvHA4z1VWq9BJhA65s",
+          "nombre": "La Rubia Tarada",
+          "artistas": "Sumo",
+          "disco": "Divididos Por La Felicidad",
+          "tipo": "album",
+          "fecha": "1985-04-29",
+          "isrc": "ARF109400158"
+        },
+        "musicbrainz": {
+          "fecha": "1983-11",
+          "grabacion": "87086e93-383d-4938-b419-56d34101d66d",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1983
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-095",
+      "mazo": "rock-nacional",
+      "artista": "Sumo",
+      "titulo": "Mejor no hablar de ciertas cosas",
+      "anio": 1985,
+      "spotify": "0FHpUs8anxUWl3pMXMhmXj",
+      "duracion_ms": 286813,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0FHpUs8anxUWl3pMXMhmXj",
+          "nombre": "Mejor No Hablar de Ciertas Cosas",
+          "artistas": "Sumo",
+          "disco": "Divididos Por La Felicidad",
+          "tipo": "album",
+          "fecha": "1985-04-29",
+          "isrc": "ARF109400155"
+        },
+        "musicbrainz": {
+          "fecha": "1985",
+          "grabacion": "48a845de-1793-4e17-b017-fd67ba6aa9c2",
+          "via": "isrc"
+        },
+        "anio_mb": 1985
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-096",
+      "mazo": "rock-nacional",
+      "artista": "Fito Páez",
+      "titulo": "Giros",
+      "anio": 1985,
+      "spotify": "0XeDFZzIpnhUT4OAXsFjfx",
+      "duracion_ms": 225240,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0XeDFZzIpnhUT4OAXsFjfx",
+          "nombre": "Giros",
+          "artistas": "Fito Paez",
+          "disco": "Giros",
+          "tipo": "album",
+          "fecha": "1985-01-01",
+          "isrc": "ARF049601435"
+        },
+        "musicbrainz": {
+          "fecha": "1985",
+          "grabacion": "efb737ca-fd1e-4704-9f04-9f346798d808",
+          "via": "isrc"
+        },
+        "anio_mb": 1985
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-097",
+      "mazo": "rock-nacional",
+      "artista": "Fito Páez",
+      "titulo": "Ciudad de pobres corazones",
+      "anio": 1987,
+      "spotify": "1PSsStvZmJsU3CiJg8hRAx",
+      "duracion_ms": 328800,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1PSsStvZmJsU3CiJg8hRAx",
+          "nombre": "Ciudad De Pobres Corazones",
+          "artistas": "Fito Paez",
+          "disco": "Ciudad De Pobres Corazones",
+          "tipo": "album",
+          "fecha": "1987-01-01",
+          "isrc": "ARF049601430"
+        },
+        "musicbrainz": {
+          "fecha": "1987-06-30",
+          "grabacion": "8813ce09-ca64-4f6b-9920-5242af59a150",
+          "via": "isrc"
+        },
+        "anio_mb": 1987
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-098",
+      "mazo": "rock-nacional",
+      "artista": "Fito Páez",
+      "titulo": "A rodar mi vida",
+      "anio": 1992,
+      "spotify": "24LCJ8C0D8kx6iplic9SDV",
+      "duracion_ms": 281520,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "24LCJ8C0D8kx6iplic9SDV",
+          "nombre": "A rodar mi vida",
+          "artistas": "Fito Paez",
+          "disco": "El Amor Después del Amor",
+          "tipo": "album",
+          "fecha": "1992",
+          "isrc": "ARF119400094"
+        },
+        "musicbrainz": {
+          "fecha": "1992-02-01",
+          "grabacion": "f3ddc301-278c-4a44-8d36-3feafa707ee7",
+          "via": "isrc"
+        },
+        "anio_mb": 1992
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-099",
+      "mazo": "rock-nacional",
+      "artista": "Fito Páez",
+      "titulo": "Dar es dar",
+      "anio": 1996,
+      "spotify": "58tnDTHguRpHhoe6Ft6B83",
+      "duracion_ms": 188093,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "58tnDTHguRpHhoe6Ft6B83",
+          "nombre": "Dar es dar",
+          "artistas": "Fito Paez",
+          "disco": "Euforia",
+          "tipo": "album",
+          "fecha": "1996",
+          "isrc": "ARF119600056"
+        },
+        "musicbrainz": {
+          "fecha": "2004",
+          "grabacion": "c35bc177-895e-4bfa-939a-90c6f408a3ca",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2004
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-100",
+      "mazo": "rock-nacional",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "titulo": "Todo un palo",
+      "anio": 1988,
+      "spotify": "5etBIAwIW3m3Ei1K50kfSw",
+      "duracion_ms": 440560,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5etBIAwIW3m3Ei1K50kfSw",
+          "nombre": "Todo un Palo",
+          "artistas": "Patricio Rey y sus Redonditos de Ricota",
+          "disco": "Un Baión para el Ojo Idiota",
+          "tipo": "album",
+          "fecha": "1988-09-05",
+          "isrc": "AR5CC8800008"
+        },
+        "musicbrainz": {
+          "fecha": "1988-05-09",
+          "grabacion": "9eb2b694-7394-405d-8941-73e51fe9d673",
+          "via": "isrc"
+        },
+        "anio_mb": 1988
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-101",
+      "mazo": "rock-nacional",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "titulo": "Juguetes perdidos",
+      "anio": 1996,
+      "spotify": "2BYIXjDOaPtvEKsZLMeJsO",
+      "duracion_ms": 429400,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2BYIXjDOaPtvEKsZLMeJsO",
+          "nombre": "Juguetes Perdidos",
+          "artistas": "Patricio Rey y sus Redonditos de Ricota",
+          "disco": "Luzbelito",
+          "tipo": "album",
+          "fecha": "1996-10-07",
+          "isrc": "AR5CC9600011"
+        },
+        "musicbrainz": {
+          "fecha": "1996-08-01",
+          "grabacion": "13b5d376-9866-4573-903d-6833179acc1c",
+          "via": "isrc"
+        },
+        "anio_mb": 1996
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-102",
+      "mazo": "rock-nacional",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "titulo": "Nuestro amo juega al esclavo",
+      "anio": 1989,
+      "spotify": "14UY2VvUlmEmSd9ILCqyUz",
+      "duracion_ms": 239906,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "14UY2VvUlmEmSd9ILCqyUz",
+          "nombre": "Nuestro Amo Juega al Esclavo",
+          "artistas": "Patricio Rey y sus Redonditos de Ricota",
+          "disco": "¡Bang! ¡Bang!... Estás Liquidado",
+          "tipo": "album",
+          "fecha": "1989-07-04",
+          "isrc": "AR5CC8900009"
+        },
+        "musicbrainz": {
+          "fecha": "1989-10-07",
+          "grabacion": "3a1e5247-679d-4cb0-a856-1b971d731970",
+          "via": "isrc"
+        },
+        "anio_mb": 1989
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-103",
+      "mazo": "rock-nacional",
+      "artista": "Los Fabulosos Cadillacs",
+      "titulo": "Yo no me sentaría en tu mesa",
+      "anio": 1987,
+      "spotify": "7Jy41XI7wVBnXvOifdoaxG",
+      "duracion_ms": 174306,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "7Jy41XI7wVBnXvOifdoaxG",
+          "nombre": "Yo No Me Sentaría en Tu Mesa - Remasterizado 2008",
+          "artistas": "Los Fabulosos Cadillacs",
+          "disco": "Yo Te Avisé",
+          "tipo": "album",
+          "fecha": "1987-06-18",
+          "isrc": "ARFSB0800278"
+        },
+        "musicbrainz": {
+          "fecha": "1987",
+          "grabacion": "23ab8f8f-e8dc-405b-9dbb-aa499e9004d0",
+          "via": "isrc"
+        },
+        "anio_mb": 1987
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-104",
+      "mazo": "rock-nacional",
+      "artista": "Los Fabulosos Cadillacs",
+      "titulo": "Vasos vacíos",
+      "anio": 1988,
+      "spotify": "198qSChSMQFuSimdeeY9gK",
+      "duracion_ms": 279986,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "198qSChSMQFuSimdeeY9gK",
+          "nombre": "Vasos Vacíos - Remasterizado 2008",
+          "artistas": "Los Fabulosos Cadillacs",
+          "disco": "El Ritmo Mundial",
+          "tipo": "album",
+          "fecha": "1988-06-18",
+          "isrc": "ARFSB0800285"
+        },
+        "musicbrainz": {
+          "fecha": "1988",
+          "grabacion": "c844ebbe-7439-47b7-9017-05853e911930",
+          "via": "isrc"
+        },
+        "anio_mb": 1988
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-105",
+      "mazo": "rock-nacional",
+      "artista": "Los Fabulosos Cadillacs",
+      "titulo": "Manuel Santillán, el León",
+      "anio": 1992,
+      "spotify": "3n8btBStluwMXd2T20m6Mu",
+      "duracion_ms": 203120,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "3n8btBStluwMXd2T20m6Mu",
+          "nombre": "Manuel Santillán, El León (Tumbao) (Salsa) - Remasterizado 2008",
+          "artistas": "Los Fabulosos Cadillacs",
+          "disco": "El León",
+          "tipo": "album",
+          "fecha": "1992-06-18",
+          "isrc": "ARFSB0800331"
+        },
+        "musicbrainz": {
+          "fecha": "1992-09-10",
+          "grabacion": "42283056-f69e-49c7-85ad-69f1d4ca4c35",
+          "via": "isrc"
+        },
+        "anio_mb": 1992
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-106",
+      "mazo": "rock-nacional",
+      "artista": "Enanitos Verdes",
+      "titulo": "Tus viejas cartas",
+      "anio": 1986,
+      "spotify": "4HfB46YTIChEV3Z3LoOFCD",
+      "duracion_ms": 210653,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4HfB46YTIChEV3Z3LoOFCD",
+          "nombre": "Tus Viejas Cartas",
+          "artistas": "Los Enanitos Verdes",
+          "disco": "Contrareloj",
+          "tipo": "album",
+          "fecha": "1986-11-20",
+          "isrc": "ARF109400169"
+        },
+        "musicbrainz": {
+          "fecha": "1986-11-20",
+          "grabacion": "1a96603a-d132-4270-a22c-06675611b3e9",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1986
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-107",
+      "mazo": "rock-nacional",
+      "artista": "Enanitos Verdes",
+      "titulo": "Luz de día",
+      "anio": 1987,
+      "spotify": "6TqXieeBcZZHyaO14hQpKx",
+      "duracion_ms": 268866,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "revisar",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "6TqXieeBcZZHyaO14hQpKx",
+          "nombre": "Luz De Dia",
+          "artistas": "Los Enanitos Verdes",
+          "disco": "Nectar",
+          "tipo": "album",
+          "fecha": "1999-01-01",
+          "isrc": "USWWW0202711"
+        },
+        "musicbrainz": {
+          "fecha": "1997",
+          "grabacion": "c39496d9-5855-41a6-b2e9-5c39d715aa0c",
+          "via": "isrc"
+        },
+        "anio_mb": 1997
+      },
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-108",
+      "mazo": "rock-nacional",
+      "artista": "Enanitos Verdes",
+      "titulo": "Por el resto",
+      "anio": 1987,
+      "spotify": "2Goy8S7mDU8mDrbgxlQ2WA",
+      "duracion_ms": 266133,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2Goy8S7mDU8mDrbgxlQ2WA",
+          "nombre": "Por el Resto",
+          "artistas": "Los Enanitos Verdes",
+          "disco": "Habitaciones Extrañas",
+          "tipo": "album",
+          "fecha": "1987-11-20",
+          "isrc": "ARF109400167"
+        },
+        "musicbrainz": {
+          "fecha": "1987",
+          "grabacion": "5c5e32e5-2179-4242-9980-d094bdc4e066",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1987
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-109",
+      "mazo": "rock-nacional",
+      "artista": "Rata Blanca",
+      "titulo": "La leyenda del hada y el mago",
+      "anio": 1990,
+      "spotify": "7wuDJMcpXaIxRvJq7iG2bM",
+      "duracion_ms": 325213,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "7wuDJMcpXaIxRvJq7iG2bM",
+          "nombre": "La Leyenda Del Hada Y El Mago",
+          "artistas": "Rata Blanca",
+          "disco": "Magos, Espadas Y Rosas",
+          "tipo": "album",
+          "fecha": "2004-01-01",
+          "isrc": "ARF099000029"
+        },
+        "musicbrainz": {
+          "fecha": "1990-04-24",
+          "grabacion": "7a380a8c-4889-4bfb-9b46-de9fe9031c81",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1990
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-110",
+      "mazo": "rock-nacional",
+      "artista": "Rata Blanca",
+      "titulo": "Mujer amante",
+      "anio": 1990,
+      "spotify": "4eCrF1FgVL4se3AkHOnLDL",
+      "duracion_ms": 363120,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "4eCrF1FgVL4se3AkHOnLDL",
+          "nombre": "Mujer Amante",
+          "artistas": "Rata Blanca",
+          "disco": "Magos, Espadas Y Rosas",
+          "tipo": "album",
+          "fecha": "2004-01-01",
+          "isrc": "ARF099000030"
+        },
+        "musicbrainz": {
+          "fecha": "1990-04-24",
+          "grabacion": "52e8aac6-00f5-4097-bd2a-e31dc785823c",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1990
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-111",
+      "mazo": "rock-nacional",
+      "artista": "Attaque 77",
+      "titulo": "Hacelo por mí",
+      "anio": 1990,
+      "spotify": "5zqXco5gN08t20hf5AO62z",
+      "duracion_ms": 229506,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5zqXco5gN08t20hf5AO62z",
+          "nombre": "Hacelo por Mí",
+          "artistas": "Attaque 77",
+          "disco": "El Cielo Puede Esperar",
+          "tipo": "album",
+          "fecha": "1990-01-01",
+          "isrc": "ARG601010531"
+        },
+        "musicbrainz": {
+          "fecha": "1990",
+          "grabacion": "e78bc177-a60a-49e2-94f0-bb027113262c",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1990
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-112",
+      "mazo": "rock-nacional",
+      "artista": "Attaque 77",
+      "titulo": "Donde las águilas se atreven",
+      "anio": 1990,
+      "spotify": "08r5VYVdopPXFZvCkh5urw",
+      "duracion_ms": 248040,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "08r5VYVdopPXFZvCkh5urw",
+          "nombre": "Donde las Aguilas Se Atreven",
+          "artistas": "Attaque 77",
+          "disco": "El Cielo Puede Esperar",
+          "tipo": "album",
+          "fecha": "1990-01-01",
+          "isrc": "ARG601010533"
+        },
+        "musicbrainz": {
+          "fecha": "1990",
+          "grabacion": "a048ace7-9352-4102-a1aa-ec203a33b9be",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1990
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-113",
+      "mazo": "rock-nacional",
+      "artista": "Los Ratones Paranoicos",
+      "titulo": "Para siempre",
+      "anio": 1993,
+      "spotify": "12L4EdgpIWpza2vI0atLEA",
+      "duracion_ms": 275678,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: compilado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "12L4EdgpIWpza2vI0atLEA",
+          "nombre": "Para siempre",
+          "artistas": "Los Ratones Paranoicos",
+          "disco": "Soy Rock 1",
+          "tipo": "compilation",
+          "fecha": "2010-12-30",
+          "isrc": "ARF850000016"
+        },
+        "musicbrainz": {
+          "fecha": "2000",
+          "grabacion": "7329e7a7-3dac-471e-ad37-6c80c5da4637",
+          "via": "isrc"
+        },
+        "anio_mb": 2000
+      },
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-114",
+      "mazo": "rock-nacional",
+      "artista": "Divididos",
+      "titulo": "Spaghetti del rock",
+      "anio": 1991,
+      "spotify": "6rg1MBZqggsQ5olFGTw0rr",
+      "duracion_ms": 212880,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "revisar",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "6rg1MBZqggsQ5olFGTw0rr",
+          "nombre": "Spaghetti del Rock",
+          "artistas": "Divididos",
+          "disco": "Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+          "tipo": "album",
+          "fecha": "2000-02-14",
+          "isrc": "ARF039901451"
+        }
+      },
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-115",
+      "mazo": "rock-nacional",
+      "artista": "Divididos",
+      "titulo": "El arriero",
+      "anio": 1993,
+      "spotify": "0iFZlkyFokkZq569S7NADx",
+      "duracion_ms": 398800,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0iFZlkyFokkZq569S7NADx",
+          "nombre": "El Arriero",
+          "artistas": "Divididos",
+          "disco": "La Era De La Boludez",
+          "tipo": "album",
+          "fecha": "1993",
+          "isrc": "ARF099300071"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "400f3e74-51ff-42a4-bb43-9d232135c899",
+          "via": "isrc"
+        },
+        "anio_mb": 1993
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-116",
+      "mazo": "rock-nacional",
+      "artista": "Divididos",
+      "titulo": "Ala delta",
+      "anio": 1991,
+      "spotify": "0LTCld7MYVKCAGpi05szyV",
+      "duracion_ms": 354746,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0LTCld7MYVKCAGpi05szyV",
+          "nombre": "Ala Delta",
+          "artistas": "Divididos",
+          "disco": "Acariciando Lo Aspero",
+          "tipo": "album",
+          "fecha": "1991",
+          "isrc": "ARF099100040"
+        },
+        "musicbrainz": {
+          "fecha": "1991",
+          "grabacion": "84d6992f-7360-43fa-9ad9-f7b9eaf9af9d",
+          "via": "isrc"
+        },
+        "anio_mb": 1991
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-117",
+      "mazo": "rock-nacional",
+      "artista": "Los Rodríguez",
+      "titulo": "Para no olvidar",
+      "anio": 1995,
+      "spotify": "1ZGs4W7LBJy68hRPTsvMFc",
+      "duracion_ms": 234813,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1ZGs4W7LBJy68hRPTsvMFc",
+          "nombre": "Para no olvidar",
+          "artistas": "Los Rodriguez",
+          "disco": "Palabras más, palabras menos",
+          "tipo": "album",
+          "fecha": "1995-05-21",
+          "isrc": "ES5019564004"
+        },
+        "musicbrainz": {
+          "fecha": "1995",
+          "grabacion": "caf3dbf8-9405-4422-b943-0b58c74f8f11",
+          "via": "isrc"
+        },
+        "anio_mb": 1995
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-118",
+      "mazo": "rock-nacional",
+      "artista": "Vilma Palma e Vampiros",
+      "titulo": "La pachanga",
+      "anio": 1991,
+      "spotify": "1x6bkwDyWIOZNFY5blRSs1",
+      "duracion_ms": 281933,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1x6bkwDyWIOZNFY5blRSs1",
+          "nombre": "La Pachanga",
+          "artistas": "Vilma Palma e Vampiros",
+          "disco": "La Pachanga",
+          "tipo": "album",
+          "fecha": "1991",
+          "isrc": "USA560306759"
+        },
+        "musicbrainz": {
+          "fecha": "1991",
+          "grabacion": "9ebfefd0-ed75-4776-b75f-9006311ebac4",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1991
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-119",
+      "mazo": "rock-nacional",
+      "artista": "Los Piojos",
+      "titulo": "Muévelo",
+      "anio": 1996,
+      "spotify": "4xkQxDPC6RBV1Yfx6vkLsO",
+      "duracion_ms": 261133,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4xkQxDPC6RBV1Yfx6vkLsO",
+          "nombre": "Muévelo",
+          "artistas": "Los Piojos",
+          "disco": "3er Arco",
+          "tipo": "album",
+          "fecha": "1996-01-01",
+          "isrc": "ARG601100125"
+        },
+        "musicbrainz": {
+          "fecha": "1996",
+          "grabacion": "668a216c-e92e-4f9c-88d5-aeaf3ae817cd",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1996
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-120",
+      "mazo": "rock-nacional",
+      "artista": "Los Piojos",
+      "titulo": "Tan solo",
+      "anio": 1992,
+      "spotify": "6Soxxi73U6SO4rOGJwYYxI",
+      "duracion_ms": 240013,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "6Soxxi73U6SO4rOGJwYYxI",
+          "nombre": "Tan Solo",
+          "artistas": "Los Piojos",
+          "disco": "Chac Tu Chac",
+          "tipo": "album",
+          "fecha": "1992-01-01",
+          "isrc": "ARG601100044"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "e64818cb-736c-4905-997f-9d17680684e9",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1993
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-121",
+      "mazo": "rock-nacional",
+      "artista": "Los Piojos",
+      "titulo": "Como Alí",
+      "anio": 2003,
+      "spotify": "0cM9sRFZWDVUJRiPS7UXnX",
+      "duracion_ms": 211653,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0cM9sRFZWDVUJRiPS7UXnX",
+          "nombre": "Como Alí",
+          "artistas": "Los Piojos",
+          "disco": "Máquina de Sangre",
+          "tipo": "album",
+          "fecha": "2003-11-14",
+          "isrc": "AR3691900047"
+        },
+        "musicbrainz": {
+          "fecha": "2003",
+          "grabacion": "4ed7d2b1-c542-4bbe-974c-3fe5848056a8",
+          "via": "isrc"
+        },
+        "anio_mb": 2003
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-122",
+      "mazo": "rock-nacional",
+      "artista": "La Renga",
+      "titulo": "Panic show",
+      "anio": 2000,
+      "spotify": "7ao7jtJIMzppW0p1CwEJ9Q",
+      "duracion_ms": 182360,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7ao7jtJIMzppW0p1CwEJ9Q",
+          "nombre": "Panic Show",
+          "artistas": "La Renga",
+          "disco": "La Esquina Del Infinito",
+          "tipo": "album",
+          "fecha": "2000-01-01",
+          "isrc": "ARF140000020"
+        },
+        "musicbrainz": {
+          "fecha": "2000-01-01",
+          "grabacion": "0e43ff14-c86b-456c-ac05-b9fc8dc7f5ab",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-123",
+      "mazo": "rock-nacional",
+      "artista": "La Renga",
+      "titulo": "El revelde",
+      "anio": 1998,
+      "spotify": "24o76WATbnSIhV26hHgUHn",
+      "duracion_ms": 224266,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "24o76WATbnSIhV26hHgUHn",
+          "nombre": "El Revelde",
+          "artistas": "La Renga",
+          "disco": "La Renga",
+          "tipo": "album",
+          "fecha": "1998-01-01",
+          "isrc": "ARF099800086"
+        },
+        "musicbrainz": {
+          "fecha": "1998-09-21",
+          "grabacion": "d8a18245-0f54-483c-8db0-c61c43187f5e",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-124",
+      "mazo": "rock-nacional",
+      "artista": "La Renga",
+      "titulo": "Hablando de la libertad",
+      "anio": 1996,
+      "spotify": "26pdjKYUZlwwrAnWcljX7H",
+      "duracion_ms": 369000,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "26pdjKYUZlwwrAnWcljX7H",
+          "nombre": "Hablando De La Libertad",
+          "artistas": "La Renga",
+          "disco": "Despedazado Por Mil Partes",
+          "tipo": "album",
+          "fecha": "1996-01-01",
+          "isrc": "ARF099600136"
+        },
+        "musicbrainz": {
+          "fecha": "1996-11",
+          "grabacion": "f6db9221-8f57-4476-b97a-f686c109f97e",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1996
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-125",
+      "mazo": "rock-nacional",
+      "artista": "Los Pericos",
+      "titulo": "Runaway",
+      "anio": 1994,
+      "spotify": "2lqFwTECuP5VNUvzzotxWo",
+      "duracion_ms": 205333,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2lqFwTECuP5VNUvzzotxWo",
+          "nombre": "Runaway",
+          "artistas": "Los Pericos",
+          "disco": "Pampas Reggae",
+          "tipo": "album",
+          "fecha": "1994-01-01",
+          "isrc": "ARF049400077"
+        },
+        "musicbrainz": {
+          "fecha": "1994",
+          "grabacion": "7b42625e-781d-4fc7-afd6-07a2ebf39363",
+          "via": "isrc"
+        },
+        "anio_mb": 1994
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-126",
+      "mazo": "rock-nacional",
+      "artista": "Los Pericos",
+      "titulo": "Pupilas lejanas",
+      "anio": 1998,
+      "spotify": "4LJyVZnitp3nJI3gSSFhi4",
+      "duracion_ms": 234720,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4LJyVZnitp3nJI3gSSFhi4",
+          "nombre": "Pupilas Lejanas",
+          "artistas": "Los Pericos",
+          "disco": "Mystic Love (Reissue)",
+          "tipo": "album",
+          "fecha": "1998",
+          "isrc": "ARF049800185"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "26e69bcc-9558-4e28-8d16-0561672fb560",
+          "via": "isrc"
+        },
+        "anio_mb": 1998
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-127",
+      "mazo": "rock-nacional",
+      "artista": "Los Auténticos Decadentes",
+      "titulo": "La guitarra",
+      "anio": 1995,
+      "spotify": "6aPoVnA9UDncMyKgTAicsO",
+      "duracion_ms": 218493,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6aPoVnA9UDncMyKgTAicsO",
+          "nombre": "La Guitarra",
+          "artistas": "Los Auténticos Decadentes",
+          "disco": "Mi Vida Loca",
+          "tipo": "album",
+          "fecha": "1995-08-01",
+          "isrc": "ARF039501192"
+        },
+        "musicbrainz": {
+          "fecha": "1995",
+          "grabacion": "2d8895a2-4dac-47c5-8208-2022384934b5",
+          "via": "isrc"
+        },
+        "anio_mb": 1995
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-128",
+      "mazo": "rock-nacional",
+      "artista": "Viejas Locas",
+      "titulo": "Me gustas mucho",
+      "anio": 1999,
+      "spotify": "2kB1rqoTaZ3j6ChtIWGurm",
+      "duracion_ms": 199933,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2kB1rqoTaZ3j6ChtIWGurm",
+          "nombre": "Me Gustas Mucho",
+          "artistas": "Viejas Locas",
+          "disco": "Especial",
+          "tipo": "album",
+          "fecha": "1999-01-01",
+          "isrc": "ARF149900160"
+        },
+        "musicbrainz": {
+          "fecha": "1999",
+          "grabacion": "d6e43eb3-78c8-486c-86d3-785e02361b56",
+          "via": "isrc"
+        },
+        "anio_mb": 1999
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-129",
+      "mazo": "rock-nacional",
+      "artista": "Andrés Calamaro",
+      "titulo": "Alta suciedad",
+      "anio": 1997,
+      "spotify": "55XrKecG9mBBLI3PL3KzXU",
+      "duracion_ms": 267733,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "55XrKecG9mBBLI3PL3KzXU",
+          "nombre": "Alta suciedad",
+          "artistas": "Andrés Calamaro",
+          "disco": "Alta Suciedad",
+          "tipo": "album",
+          "fecha": "1997",
+          "isrc": "ES5019753000"
+        },
+        "musicbrainz": {
+          "fecha": "1997-09-07",
+          "grabacion": "8f2e2882-3f8c-4d3e-b4f5-3ee8020c3a67",
+          "via": "isrc"
+        },
+        "anio_mb": 1997
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-130",
+      "mazo": "rock-nacional",
+      "artista": "Andrés Calamaro",
+      "titulo": "Media verónica",
+      "anio": 1997,
+      "spotify": "6p1fVa07haOPKdMgK348ZV",
+      "duracion_ms": 219200,
+      "verificacion": {
+        "fecha": "2026-11-12",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6p1fVa07haOPKdMgK348ZV",
+          "nombre": "Media Verónica",
+          "artistas": "Andrés Calamaro",
+          "disco": "Alta Suciedad",
+          "tipo": "album",
+          "fecha": "1997",
+          "isrc": "ES5019753006"
+        },
+        "musicbrainz": {
+          "fecha": "1997",
+          "grabacion": "337ba08c-aaf8-4328-9b0a-2dacee0fd571",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1997
+      },
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-131",
+      "mazo": "rock-nacional",
+      "artista": "Andrés Calamaro",
+      "titulo": "Loco",
+      "anio": 1999,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-132",
+      "mazo": "rock-nacional",
+      "artista": "Los Caballeros de la Quema",
+      "titulo": "Avanti morocha",
+      "anio": 1998,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-133",
+      "mazo": "rock-nacional",
+      "artista": "Bersuit Vergarabat",
+      "titulo": "Sr. Cobranza",
+      "anio": 1998,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-134",
+      "mazo": "rock-nacional",
+      "artista": "Bersuit Vergarabat",
+      "titulo": "La bolsa",
+      "anio": 2000,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-135",
+      "mazo": "rock-nacional",
+      "artista": "Kapanga",
+      "titulo": "El mono relojero",
+      "anio": 1997,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-136",
+      "mazo": "rock-nacional",
+      "artista": "Gustavo Cerati",
+      "titulo": "Engaña",
+      "anio": 1999,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-137",
+      "mazo": "rock-nacional",
+      "artista": "Gustavo Cerati",
+      "titulo": "Cosas imposibles",
+      "anio": 2002,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-138",
+      "mazo": "rock-nacional",
+      "artista": "Gustavo Cerati",
+      "titulo": "Fuerza natural",
+      "anio": 2009,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-139",
+      "mazo": "rock-nacional",
+      "artista": "Babasónicos",
+      "titulo": "Putita",
+      "anio": 2001,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-140",
+      "mazo": "rock-nacional",
+      "artista": "Babasónicos",
+      "titulo": "El loco",
+      "anio": 2003,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-141",
+      "mazo": "rock-nacional",
+      "artista": "Intoxicados",
+      "titulo": "Una vela",
+      "anio": 2005,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-142",
+      "mazo": "rock-nacional",
+      "artista": "Miranda!",
+      "titulo": "Don",
+      "anio": 2004,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-143",
+      "mazo": "rock-nacional",
+      "artista": "Turf",
+      "titulo": "Casanova",
+      "anio": 2005,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-144",
+      "mazo": "rock-nacional",
+      "artista": "Las Pelotas",
+      "titulo": "Será",
+      "anio": 2003,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-145",
+      "mazo": "rock-nacional",
+      "artista": "Ciro y los Persas",
+      "titulo": "Antes y después",
+      "anio": 2010,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-146",
+      "mazo": "rock-nacional",
+      "artista": "El Mató a un Policía Motorizado",
+      "titulo": "Mujeres bellas y fuertes",
+      "anio": 2017,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    },
+    {
+      "id": "rock-nacional-147",
+      "mazo": "rock-nacional",
+      "artista": "Airbag",
+      "titulo": "Por mil noches",
+      "anio": 2008,
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      }
+    }
+  ]
+}
