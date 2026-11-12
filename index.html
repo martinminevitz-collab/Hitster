@@ -1,4 +1,4 @@
-<title>Hitster Rock Nacional</title>
+<title>Hitster</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#CC9356">
@@ -184,12 +184,14 @@ button.slot.hot{border-color:var(--pc);color:var(--pc);background:rgba(255,250,2
 <script>
 /* Los temas viven en songs.json (los arma tools/biblioteca.mjs). Cada partida usa un mazo. */
 const MAZO="rock-nacional";
+let MAZO_NOMBRE="";
 let SONGS=[];
 async function loadSongs(){
   try{
     const d=await (await fetch("songs.json",{cache:"no-cache"})).json();
     const deck=d.temas.filter(t=>t.mazo===MAZO&&!t.fuera);
     const conId=deck.filter(t=>t.spotify);
+    MAZO_NOMBRE=((d.mazos||[]).find(m=>m.id===MAZO)||{}).nombre||"";
     SONGS=(conId.length?conId:deck).map((t,i)=>({id:i,key:t.id,t:t.titulo,a:t.artista,y:t.anio,spotify:t.spotify||null,dur:t.duracion_ms||null}));
   }catch(e){SONGS=[];console.error(e)}
 }
@@ -436,8 +438,8 @@ function viewSetup(){
   return `<div class="page">
   <div class="panel hero">
     <div class="fan">${SONGS.length?[0,1,2,3,4,5].map(k=>cardUp(SONGS.slice().sort((a,b)=>a.y-b.y)[Math.floor(k*(SONGS.length-1)/5)].id)).join(""):""}</div>
-    <h1>Hitster <span>Rock Nacional</span></h1>
-    <p>La tablet va en el medio de la mesa y hace de DJ. Cada uno tiene su línea del tiempo de su lado, mirando hacia él, y la carta del centro gira hacia el que le toca. ${SONGS.length?`Mazo: ${SONGS.length} temas, de ${Math.min(...SONGS.map(s=>s.y))} a ${Math.max(...SONGS.map(s=>s.y))}.`:"Cargando temas…"}</p>
+    <h1>Hitster</h1>
+    <p>La tablet va en el medio de la mesa y hace de DJ. Cada uno tiene su línea del tiempo de su lado, mirando hacia él, y la carta del centro gira hacia el que le toca. ${SONGS.length?`Mazo ${esc(MAZO_NOMBRE)}: ${SONGS.length} temas, de ${Math.min(...SONGS.map(s=>s.y))} a ${Math.max(...SONGS.map(s=>s.y))}.`:"Cargando temas…"}</p>
   </div>
   ${spotifyPanel()}
   ${saved?`<div class="panel"><h3>Hay una partida a medias</h3><div class="btnrow"><button class="btn dark" data-act="resume">Seguir partida</button><button class="btn" data-act="discard">Empezar de cero</button></div></div>`:""}
