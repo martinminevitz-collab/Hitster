@@ -1,0 +1,542 @@
+<title>Hitster Rock Nacional</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;700;800&family=DM+Mono:wght@500&family=Figtree:wght@400;500;600;700&display=swap">
+<style>
+/* Layout: mesa de madera vista desde arriba, la tablet en el medio. Cada jugador tiene su línea en su borde, girada hacia él. En el centro, el mazo y la carta que suena, que gira hacia el jugador de turno junto con los botones. Look único: madera clara y cartas de papel. */
+:root{
+  --wood:#CC9356; --wood-2:#D8A466; --wood-3:#C2864A; --grain:rgba(110,62,22,.13); --knot:rgba(92,50,18,.55); --sun:rgba(255,236,196,.32);
+  --ink:#2B1D10; --ink-soft:#6A5540; --paper:#FFFDF7; --cream:#F5ECD8; --line:#D9C9A8; --shadow:rgba(60,30,8,.32);
+  --back:#1F4E56; --back-line:#7FA9AE;
+  --red:#C2362B; --red-ink:#FFF7EC;
+  --good:#2F8A4E; --bad:#C2362B;
+  --d1960:#E7A0A8; --d1970:#EDB271; --d1980:#86C7C4; --d1990:#A9B2E3; --d2000:#9FD1A6; --d2010:#C9ADE3; --d2020:#F0A08F;
+  --f-display:"Bitter",Georgia,"Times New Roman",serif;
+  --f-body:"Figtree",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --f-mono:"DM Mono",ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  color-scheme:light;
+}
+html{height:100%;box-sizing:border-box}
+*,*::before,*::after{box-sizing:inherit}
+body{height:100%;margin:0;color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.4;overflow:hidden;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:10px;
+  background-color:var(--wood);
+  background-image:
+    radial-gradient(ellipse 60% 45% at 6% 4%,var(--sun),transparent 70%),
+    radial-gradient(ellipse 16px 9px at 21% 63%,var(--knot),transparent 72%),
+    radial-gradient(ellipse 40px 18px at 21% 63%,rgba(110,62,22,.18),transparent 72%),
+    radial-gradient(ellipse 12px 8px at 81% 28%,var(--knot),transparent 72%),
+    radial-gradient(ellipse 30px 15px at 81% 28%,rgba(110,62,22,.16),transparent 72%),
+    radial-gradient(ellipse 10px 7px at 66% 86%,var(--knot),transparent 72%),
+    repeating-linear-gradient(180deg,transparent 0 255px,rgba(70,38,12,.28) 255px 257px,transparent 257px 258px),
+    repeating-linear-gradient(178.6deg,transparent 0 17px,var(--grain) 17px 19px,transparent 19px 37px,rgba(110,62,22,.07) 37px 38px,transparent 38px 61px),
+    repeating-linear-gradient(181.3deg,transparent 0 44px,rgba(255,230,180,.10) 44px 52px,transparent 52px 97px),
+    linear-gradient(97deg,var(--wood),var(--wood-2) 38%,var(--wood-3) 66%,var(--wood-2));
+  background-attachment:fixed}
+#app{height:100%;overflow-y:auto;position:relative}
+button{font:inherit;color:inherit;cursor:pointer;border:0;background:none;padding:0}
+button:disabled{cursor:not-allowed;opacity:.42}
+:focus-visible{outline:3px solid var(--ink);outline-offset:2px}
+.mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.soft{color:var(--ink-soft)}
+h1,h2,h3{font-family:var(--f-display);margin:0;text-wrap:balance;line-height:1.08}
+
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:7px;padding:8px 15px;border-radius:999px;background:var(--paper);border:1.5px solid var(--line);font-weight:600;min-height:40px;box-shadow:0 2px 4px var(--shadow)}
+.btn:not(:disabled):active{transform:translateY(1px)}
+.btn.dark{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.btn.small{min-height:34px;padding:5px 11px;font-size:13px}
+.btn .cost{font-family:var(--f-mono);font-size:11px;color:var(--ink-soft)}
+.btn.sel{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+
+/* ---------- cartas ---------- */
+.card{--w:var(--cw,80px);width:var(--w);height:calc(var(--w)*1.36);flex:none;border-radius:calc(var(--w)*.08);position:relative;box-shadow:0 2px 5px var(--shadow),0 0 0 .5px rgba(0,0,0,.08)}
+.face{position:absolute;inset:0;border-radius:inherit;backface-visibility:hidden;-webkit-backface-visibility:hidden;overflow:hidden}
+.front{background:var(--paper);padding:calc(var(--w)*.06);display:flex;flex-direction:column;gap:calc(var(--w)*.04)}
+.front .band{background:var(--c);border-radius:calc(var(--w)*.04);display:grid;place-items:center;padding:calc(var(--w)*.08) 0}
+.front .yr{font-family:var(--f-mono);font-weight:500;font-size:calc(var(--w)*.25);line-height:1;letter-spacing:-.03em;color:var(--ink)}
+.front .txt{flex:1;background:var(--cream);border-radius:calc(var(--w)*.04);padding:calc(var(--w)*.06);display:flex;flex-direction:column;gap:calc(var(--w)*.03);min-height:0}
+.front .ar{font-family:var(--f-display);font-weight:700;font-size:calc(var(--w)*.115);line-height:1.12;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.front .ti{font-size:calc(var(--w)*.105);line-height:1.12;color:var(--ink-soft);overflow:hidden;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical}
+.backf{background:var(--back);border:calc(var(--w)*.05) solid var(--paper);display:grid;place-items:center}
+.backf::before{content:"";position:absolute;inset:calc(var(--w)*.06);border:1.5px solid var(--back-line);border-radius:calc(var(--w)*.04)}
+.backf .q{font-family:var(--f-display);font-weight:800;font-size:calc(var(--w)*.42);color:var(--paper);line-height:1}
+.backf .lb{position:absolute;top:calc(var(--w)*.14);left:0;right:0;text-align:center;font-family:var(--f-display);font-size:calc(var(--w)*.085);color:var(--back-line);letter-spacing:.08em;text-transform:uppercase}
+.flipwrap{perspective:900px}
+.flipper{position:absolute;inset:0;transform-style:preserve-3d;transition:transform .75s cubic-bezier(.3,.7,.3,1);border-radius:inherit}
+.flipper .front{transform:rotateY(180deg)}
+.flipped .flipper{transform:rotateY(180deg)}
+.noanim .flipper{transition:none}
+.ring-ok{box-shadow:0 0 0 3px var(--good),0 3px 8px var(--shadow)}
+.ring-ko{box-shadow:0 0 0 3px var(--bad),0 3px 8px var(--shadow)}
+.tilt{transform:rotate(var(--r))}
+
+/* ---------- líneas de cada jugador ---------- */
+.rail{position:absolute;transform:translate(-50%,-50%) rotate(var(--rot));display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:5px;padding:4px 6px}
+.rail.on::before{content:"";position:absolute;inset:-4px 0 0;background:radial-gradient(ellipse 60% 75% at 50% 70%,rgba(255,244,214,.55),transparent 75%);pointer-events:none}
+.row{position:relative;display:flex;align-items:stretch;gap:5px;max-width:100%;overflow-x:auto;padding:4px 2px;scrollbar-width:none}
+.row>*{flex:none}
+.tag{position:relative;display:flex;align-items:center;gap:8px;background:var(--paper);border-radius:999px;padding:2px 10px 2px 4px;font-size:13px;box-shadow:0 1px 3px var(--shadow)}
+.tag .dot{width:16px;height:16px;border-radius:50%;background:var(--pc)}
+.tag b{font-weight:700}
+.rail.on .tag{box-shadow:0 0 0 2px var(--pc),0 1px 3px var(--shadow)}
+.tokens{display:flex;gap:3px}
+.tokens i{width:8px;height:8px;border-radius:50%;border:1.5px solid var(--ink-soft)}
+.tokens i.f{background:var(--ink);border-color:var(--ink)}
+.slot{min-width:20px;border-radius:8px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;border:2px dashed transparent}
+button.slot{border-color:rgba(255,250,235,.75);color:var(--paper);font-size:16px;font-weight:700;background:rgba(255,250,235,.12)}
+button.slot:not(:disabled):hover{background:rgba(255,250,235,.32)}
+button.slot.hot{border-color:var(--pc);color:var(--pc);background:rgba(255,250,235,.55);min-width:28px}
+.slot.should{border-color:var(--good);background:rgba(255,250,235,.7);color:var(--good);font-size:10px;font-weight:700;writing-mode:vertical-rl;transform:rotate(180deg);padding:4px 1px}
+.chip{width:24px;height:24px;border-radius:50%;background:var(--pc);border:3px solid var(--paper);box-shadow:0 2px 4px var(--shadow);display:grid;place-items:center;color:var(--paper);font-weight:800;font-size:11px}
+.chip.win{box-shadow:0 0 0 3px var(--good)} .chip.lose{opacity:.45}
+.drop{animation:drop .35s cubic-bezier(.3,1.6,.6,1)}
+@keyframes drop{from{transform:translateY(-30px) scale(1.4);opacity:0}to{transform:none;opacity:1}}
+
+/* ---------- centro (gira hacia el que juega) ---------- */
+.stage{position:absolute;transform:translate(-50%,-50%) rotate(var(--rot));transition:transform .7s cubic-bezier(.4,.1,.2,1);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px}
+.pair{display:flex;align-items:center;gap:18px}
+.pile{position:relative;width:var(--cw);height:calc(var(--cw)*1.36)}
+.pile .card{position:absolute;inset:0}
+.pile .card:nth-child(1){transform:rotate(-7deg) translate(-3px,3px)}
+.pile .card:nth-child(2){transform:rotate(4deg) translate(3px,1px)}
+.pile-n{position:absolute;bottom:-18px;left:0;right:0;text-align:center;font-size:11px;color:var(--ink);font-weight:600}
+.note{background:var(--paper);border-radius:14px;padding:10px 16px;box-shadow:0 3px 8px var(--shadow);display:grid;gap:6px;text-align:center;max-width:100%}
+.note h2{font-size:clamp(17px,2.2vw,24px);font-weight:800}
+.note h2 span{color:var(--pc)}
+.note p{margin:0;color:var(--ink-soft);font-size:14px}
+.playing{display:inline-flex;align-items:center;justify-content:center;gap:6px;font-size:11px;color:var(--ink-soft);letter-spacing:.08em;text-transform:uppercase}
+.eq{display:inline-flex;gap:2px;height:12px;align-items:flex-end}
+.eq i{width:3px;background:var(--red);border-radius:2px;animation:eq 1s ease-in-out infinite}
+.eq i:nth-child(2){animation-delay:-.3s}.eq i:nth-child(3){animation-delay:-.6s}
+@keyframes eq{0%,100%{height:3px}50%{height:12px}}
+.wobble{animation:wobble 2.6s ease-in-out infinite}
+@keyframes wobble{0%,100%{transform:rotate(-2.5deg)}50%{transform:rotate(2.5deg) translateY(-2px)}}
+.hud{display:flex;align-items:center;gap:12px;flex-wrap:wrap;justify-content:center}
+.hitster{width:60px;height:60px;border-radius:50%;background:var(--red);color:var(--red-ink);font-family:var(--f-display);font-weight:800;font-size:10px;letter-spacing:.08em;text-transform:uppercase;
+  box-shadow:0 0 0 4px var(--paper),0 0 0 6px var(--red),0 5px 12px var(--shadow);transition:transform .15s;flex:none}
+.hitster:not(:disabled):hover{transform:scale(1.06)}
+.hitster:not(:disabled):active{transform:scale(.95)}
+.result{font-family:var(--f-display);font-weight:800;font-size:clamp(17px,2.2vw,23px);line-height:1.15}
+.result.ok{color:var(--good)} .result.ko{color:var(--bad)}
+.tools{display:flex;gap:6px;flex-wrap:wrap;justify-content:center}
+.quit{position:absolute;top:2px;right:2px;font-size:12px;color:var(--ink);background:rgba(255,250,235,.6);border-radius:999px;padding:3px 10px;z-index:3}
+
+/* modal */
+.modal{position:fixed;inset:0;z-index:20;background:rgba(43,29,16,.35);display:grid;place-items:center;padding:20px}
+.sheet{background:var(--paper);border-radius:18px;padding:20px;display:grid;gap:12px;width:min(420px,100%);box-shadow:0 20px 50px rgba(43,29,16,.35);transform:rotate(var(--rot,0deg))}
+.sheet h3{font-size:24px;font-weight:800;color:var(--red)}
+.sheet .who{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
+.sheet .who .btn{justify-content:space-between;border-color:var(--pc);border-radius:14px}
+.sheet .who .btn b{color:var(--pc)}
+
+/* setup y final */
+.page{max-width:760px;margin:0 auto;padding-block:16px 40px;display:grid;gap:20px}
+.panel{background:var(--paper);border-radius:18px;padding:18px;display:grid;gap:14px;box-shadow:0 6px 18px var(--shadow)}
+.hero{display:grid;gap:10px}
+.hero h1{font-size:clamp(38px,6.5vw,64px);font-weight:800;letter-spacing:-.01em}
+.hero h1 span{color:var(--red)}
+.hero p{margin:0;color:var(--ink-soft);max-width:58ch}
+.fan{display:flex;padding:6px 0 4px 14px}
+.fan .card{--w:58px;margin-left:-14px}
+.panel h3{font-size:19px;font-weight:700}
+.plist{display:grid;gap:8px}
+.prow{display:flex;gap:8px;align-items:center}
+.prow .dot{width:18px;height:18px;border-radius:50%;background:var(--pc);border:2px solid var(--paper);box-shadow:0 1px 2px var(--shadow);flex:none}
+.prow input{flex:1;min-width:0;background:var(--cream);border:1.5px solid var(--line);border-radius:12px;padding:10px 12px;color:var(--ink);font:inherit;min-height:44px}
+.opts{display:flex;flex-wrap:wrap;gap:20px}
+.opt{display:grid;gap:6px}
+.opt label{font-size:12px;color:var(--ink-soft);letter-spacing:.06em;text-transform:uppercase}
+.stepper{display:flex;align-items:center;gap:6px}
+.stepper output{min-width:34px;text-align:center;font-size:20px}
+.rules{margin:0;padding-left:18px;display:grid;gap:6px;color:var(--ink-soft);max-width:65ch}
+.rules b{color:var(--ink);font-weight:600}
+.hint{font-size:13px;color:var(--ink-soft);border-left:3px solid var(--red);padding-left:10px;max-width:65ch;margin:0}
+.btnrow{display:flex;flex-wrap:wrap;gap:10px}
+.winpage{justify-items:center;text-align:center}
+.winpage .panel{justify-items:center}
+.winpage h1{font-size:clamp(40px,7vw,76px);font-weight:800}
+.winpage h1 span{color:var(--pc)}
+.wline{display:flex;flex-wrap:wrap;gap:6px;justify-content:center}
+.wline .card{--w:76px}
+.standings{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+.stand{display:flex;gap:8px;align-items:center;background:var(--cream);border-radius:999px;padding:5px 14px}
+.stand b{color:var(--pc)}
+
+.toast{position:fixed;left:50%;bottom:calc(16px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);z-index:30;background:var(--ink);color:var(--paper);padding:10px 16px;border-radius:12px;font-weight:600;max-width:calc(100% - 32px)}
+
+@media (prefers-reduced-motion:reduce){
+  .eq i,.wobble,.drop{animation:none}
+  .eq i{height:9px}
+  .flipper,.stage{transition:none}
+}
+</style>
+
+<div id="app"></div>
+<div id="toast" class="toast" hidden></div>
+
+<script>
+/* Mazo de prueba: rock nacional. y = año de lanzamiento original del tema (a verificar contra MusicBrainz antes de la versión final). spotify: se completa al conectar. */
+const SONGS = [
+  ["La balsa","Los Gatos",1967],["Muchacha (ojos de papel)","Almendra",1969],["Jugo de tomate frío","Manal",1970],
+  ["Canción para mi muerte","Sui Generis",1972],["Rasguña las piedras","Sui Generis",1973],["Cantata de puentes amarillos","Pescado Rabioso",1973],
+  ["Durazno sangrando","Invisible",1975],["Sólo le pido a Dios","León Gieco",1978],["Seminare","Serú Girán",1978],
+  ["Canción de Alicia en el país","Serú Girán",1980],["Wadu wadu","Virus",1981],["Inconsciente colectivo","Charly García",1982],
+  ["Los dinosaurios","Charly García",1983],["Nos siguen pegando abajo","Charly García",1983],["Mil horas","Los Abuelos de la Nada",1983],
+  ["Pensé que se trataba de cieguitos","Los Twist",1983],["Demoliendo hoteles","Charly García",1984],["Nada personal","Soda Stereo",1985],
+  ["Cuando pase el temblor","Soda Stereo",1985],["11 y 6","Fito Páez",1985],["Una luna de miel en la mano","Virus",1985],
+  ["Divididos por la felicidad","Sumo",1985],["Persiana americana","Soda Stereo",1986],["Prófugos","Soda Stereo",1986],
+  ["Ji ji ji","Patricio Rey y sus Redonditos de Ricota",1986],["Seguir viviendo sin tu amor","Luis Alberto Spinetta",1986],
+  ["La muralla verde","Enanitos Verdes",1986],["Mañana en el Abasto","Sumo",1987],["Rezo por vos","Charly García",1987],
+  ["Cerca de la revolución","Charly García",1987],["En la ciudad de la furia","Soda Stereo",1988],
+  ["Vencedores vencidos","Patricio Rey y sus Redonditos de Ricota",1988],["De música ligera","Soda Stereo",1990],
+  ["Té para tres","Soda Stereo",1990],["Y dale alegría a mi corazón","Fito Páez",1990],["El amor después del amor","Fito Páez",1992],
+  ["Un poco de amor francés","Patricio Rey y sus Redonditos de Ricota",1993],["Matador","Los Fabulosos Cadillacs",1993],
+  ["Sin documentos","Los Rodríguez",1993],["Qué ves","Divididos",1993],["Lamento boliviano","Enanitos Verdes",1994],
+  ["Mariposa Tecknicolor","Fito Páez",1994],["Mal bicho","Los Fabulosos Cadillacs",1995],
+  ["La balada del diablo y la muerte","La Renga",1996],["Flaca","Andrés Calamaro",1997],["Mi novia tiene bíceps","Bersuit Vergarabat",1998],
+  ["Se viene","Bersuit Vergarabat",1998],["Crímenes perfectos","Andrés Calamaro",1999],["Puente","Gustavo Cerati",2002],
+  ["Irresponsables","Babasónicos",2003],["Crimen","Gustavo Cerati",2006],["Adiós","Gustavo Cerati",2006],["Yegua","Babasónicos",2008]
+].map(([t,a,y],i)=>({id:i,t,a,y,spotify:null}));
+
+const PCOLORS=["#B8362E","#2A5DA8","#2E7D4F","#D9A21E","#7A4FA6","#D46F2A","#1F8A8A","#C2507E"];
+const MAX_TOKENS=5, KEY="hitster-rocknac-v3";
+const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
+/* asientos por borde [abajo, izquierda, arriba, derecha] según cantidad de jugadores */
+const SEATS={2:[1,0,1,0],3:[1,1,0,1],4:[1,1,1,1],5:[2,1,1,1],6:[2,1,2,1],7:[2,2,2,1],8:[2,2,2,2]};
+
+let state=null;
+let setup={names:["Jugador 1","Jugador 2","Jugador 3","Jugador 4"],target:10,tokens:2};
+let ui={modal:null,flyFrom:null,flipDone:false,dropPid:null,angle:null};
+
+const $app=document.getElementById("app");
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const dec=y=>`var(--d${Math.min(2020,Math.max(1960,Math.floor(y/10)*10))})`;
+const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+const song=id=>SONGS[id];
+const P=id=>state.players.find(p=>p.id===id);
+const cur=()=>state.players[state.current];
+const jitter=id=>(((id*37)%7)-3)*.6+"deg";
+
+function save(){try{state?localStorage.setItem(KEY,JSON.stringify(state)):localStorage.removeItem(KEY)}catch(e){}}
+function loadSaved(){try{const s=JSON.parse(localStorage.getItem(KEY)||"null");return s&&s.phase&&s.phase!=="win"?s:null}catch(e){return null}}
+let toastT;function toast(m){const t=document.getElementById("toast");t.textContent=m;t.hidden=false;clearTimeout(toastT);toastT=setTimeout(()=>t.hidden=true,2600)}
+async function keepAwake(){try{await navigator.wakeLock?.request("screen")}catch(e){}}
+document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"&&state&&state.phase!=="win")keepAwake()});
+
+/* ---------- lógica ---------- */
+function insertSorted(tl,id){tl.push(id);tl.sort((a,b)=>song(a).y-song(b).y)}
+function fits(tl,slot,y){const p=tl[slot-1],n=tl[slot];return (p===undefined||song(p).y<=y)&&(n===undefined||y<=song(n).y)}
+function draw(){
+  if(!state.deck.length&&state.discard.length){state.deck=shuffle(state.discard);state.discard=[];toast("Se volvieron a mezclar las cartas descartadas")}
+  return state.deck.length?state.deck.pop():null;
+}
+function newGame(){
+  const names=setup.names.map(n=>n.trim()).filter(Boolean);
+  if(names.length<2){toast("Hacen falta al menos 2 jugadores");return}
+  state={phase:"turn",target:setup.target,deck:shuffle(SONGS.map(s=>s.id)),discard:[],current:0,
+    players:names.map((n,i)=>({id:i,name:n,color:PCOLORS[i%PCOLORS.length],timeline:[],tokens:setup.tokens}))};
+  state.players.forEach(p=>p.timeline.push(draw()));
+  state.current=Math.floor(Math.random()*state.players.length);
+  ui.angle=null;keepAwake();startTurn();
+}
+function startTurn(){
+  Object.assign(state,{phase:"turn",card:draw(),placement:null,challenges:[],pending:null,result:null,guess:null,snap:null});
+  ui.flipDone=false;
+  if(state.card===null){state.phase="win";state.winner=null}
+  render();
+}
+function anchorRect(){const el=document.querySelector('[data-anchor="placed"]')||document.querySelector('[data-anchor="mystery"]');return el?el.getBoundingClientRect():null}
+function place(slot){
+  if(state.phase!=="turn")return;
+  if(state.pending!==null){
+    if(slot===state.placement||state.challenges.some(c=>c.slot===slot))return;
+    const p=P(state.pending);p.tokens--;state.challenges.push({pid:p.id,slot});ui.dropPid=p.id;state.pending=null;
+  } else {
+    if(state.challenges.length)return;
+    ui.flyFrom=anchorRect();state.placement=slot;
+  }
+  render();
+}
+function reveal(){
+  const a=cur(),y=song(state.card).y,tl=a.timeline.slice();
+  state.snap=tl;
+  let r;
+  if(fits(tl,state.placement,y)){insertSorted(a.timeline,state.card);r={type:"active",pid:a.id}}
+  else{
+    const w=state.challenges.find(c=>fits(tl,c.slot,y));
+    if(w){insertSorted(P(w.pid).timeline,state.card);r={type:"challenger",pid:w.pid}}
+    else{state.discard.push(state.card);r={type:"none"}}
+  }
+  state.result=r;state.phase="reveal";ui.flipDone=false;render();
+}
+function nextTurn(){
+  const a=cur();
+  if(state.guess===true&&a.tokens<MAX_TOKENS)a.tokens++;
+  const w=state.players.find(p=>p.timeline.length>=state.target);
+  if(w){state.phase="win";state.winner=w.id;render();return}
+  state.current=(state.current+1)%state.players.length;startTurn();
+}
+function skip(){
+  const a=cur();if(a.tokens<1||state.placement!==null)return;
+  a.tokens--;state.discard.push(state.card);state.card=draw();
+  if(state.card===null){state.phase="win";state.winner=null}
+  toast(`${a.name} gastó 1 ficha y salteó el tema`);render();
+}
+function buy(){
+  const a=cur();if(a.tokens<3||state.placement!==null)return;
+  const c=draw();if(c===null){toast("No quedan cartas en el mazo");return}
+  a.tokens-=3;insertSorted(a.timeline,c);
+  toast(`${a.name} canjeó 3 fichas: suma “${song(c).t}” (${song(c).y})`);
+  if(a.timeline.length>=state.target){state.phase="win";state.winner=a.id}
+  render();
+}
+
+/* ---------- geometría de la mesa ---------- */
+function layout(){
+  const tw=$app.clientWidth,th=$app.clientHeight;
+  const T=Math.round(Math.max(80,Math.min(140,Math.min(tw,th)*.21)));
+  const C=SEATS[state.players.length]||SEATS[8];
+  const s=[];let L;
+  L=(tw-2*T)/C[0];for(let i=0;i<C[0];i++)s.push({cx:tw-T-L*(i+.5),cy:th-T/2,L,rot:0});
+  L=(th-2*T)/C[1];for(let i=0;i<C[1];i++)s.push({cx:T/2,cy:th-T-L*(i+.5),L,rot:90});
+  L=(tw-2*T)/C[2];for(let i=0;i<C[2];i++)s.push({cx:T+L*(i+.5),cy:T/2,L,rot:180});
+  L=(th-2*T)/C[3];for(let i=0;i<C[3];i++)s.push({cx:tw-T/2,cy:T+L*(i+.5),L,rot:-90});
+  return{tw,th,T,seats:s};
+}
+
+/* ---------- piezas ---------- */
+function front(id){const s=song(id);return `<div class="face front" style="--c:${dec(s.y)}"><span class="band"><span class="yr">${s.y}</span></span><span class="txt"><span class="ar">${esc(s.a)}</span><span class="ti">${esc(s.t)}</span></span></div>`}
+const back=`<div class="face backf"><span class="lb">Hitster</span><span class="q">?</span></div>`;
+const cardUp=(id,cls="",style="")=>`<div class="card ${cls}" style="${style}">${front(id)}</div>`;
+const cardDown=(cls="",attrs="")=>`<div class="card ${cls}" ${attrs}>${back}</div>`;
+const cardFlip=(id,cls="",attrs="")=>`<div class="card flipwrap ${cls}" ${attrs}><div class="flipper">${back}${front(id)}</div></div>`;
+const tokensHTML=n=>`<span class="tokens" aria-label="${n} fichas">${Array.from({length:MAX_TOKENS},(_,i)=>`<i class="${i<n?"f":""}"></i>`).join("")}</span>`;
+const chip=(p,cls="")=>`<span class="chip ${cls}" style="--pc:${p.color}" title="${esc(p.name)}">${esc((p.name[0]||"?").toUpperCase())}</span>`;
+
+function currentLine(){
+  const a=cur(),rev=state.phase==="reveal";
+  const tl=rev?state.snap:a.timeline,y=song(state.card).y;
+  const choosing=state.pending!==null,chooser=choosing?P(state.pending):null;
+  let h="";
+  for(let i=0;i<=tl.length;i++){
+    const ch=state.challenges.filter(c=>c.slot===i);
+    const marks=ch.map(c=>{const p=P(c.pid);let cls=c.pid===ui.dropPid?"drop":"";if(rev)cls+=state.result.type==="challenger"&&state.result.pid===c.pid?" win":" lose";return chip(p,cls)}).join("");
+    if(rev){
+      if(i===state.placement)h+=`<div class="slot">${cardFlip(state.card,(ui.flipDone?"flipped noanim ":"")+(fits(tl,i,y)?"ring-ok":"ring-ko"),'data-anchor="reveal"')}${marks}</div>`;
+      else if(fits(tl,i,y)&&state.result.type!=="active")h+=`<div class="slot should">acá iba</div>${marks?`<div class="slot">${marks}</div>`:""}`;
+      else if(marks)h+=`<div class="slot">${marks}</div>`;
+    } else if(i===state.placement){
+      h+=`<div class="slot">${cardDown("",'data-anchor="placed"')}${marks}</div>`;
+    } else if(ch.length){
+      h+=`<div class="slot">${marks}</div>`;
+    } else {
+      const can=choosing||!state.challenges.length;
+      const pc=choosing?chooser.color:a.color;
+      h+=`<button class="slot ${choosing?"hot":""}" style="--pc:${pc}" data-act="place" data-slot="${i}" ${can?"":"disabled"} aria-label="${esc(choosing?chooser.name+" lo pone acá":"Poner el tema acá")}">+</button>`;
+    }
+    if(i<tl.length)h+=cardUp(tl[i]);
+  }
+  return h;
+}
+
+function railHTML(p,seat,T){
+  const on=p.id===cur().id&&state.phase!=="win";
+  const tl=on&&state.phase==="reveal"?state.snap:p.timeline;
+  const extra=on&&state.placement!==null?1:0;
+  const k=Math.max(1,tl.length+extra);
+  const slotsW=on?(tl.length+1)*25:0;
+  const maxW=(T-38)/1.36;
+  const cw=Math.max(32,Math.min(maxW,(seat.L-24-slotsW-k*5)/k));
+  const inner=on?currentLine():p.timeline.map(id=>cardUp(id,"tilt",`--r:${jitter(id)}`)).join("");
+  return `<div class="rail ${on?"on":""}" style="left:${seat.cx}px;top:${seat.cy}px;width:${seat.L}px;height:${T}px;--rot:${seat.rot}deg;--pc:${p.color};--cw:${cw.toFixed(1)}px">
+    <div class="row">${inner}</div>
+    <div class="tag"><span class="dot"></span><b>${esc(p.name)}</b><span class="mono">${p.timeline.length}/${state.target}</span>${tokensHTML(p.tokens)}</div>
+  </div>`;
+}
+
+function stageInner(cw){
+  const a=cur();
+  const pile=`<div class="pile">${cardDown()}${cardDown()}${state.deck.length?cardDown():""}<span class="pile-n"><span class="mono">${state.deck.length}</span> en el mazo</span></div>`;
+  if(state.phase==="reveal"){
+    const r=state.result,s=song(state.card),full=a.tokens>=MAX_TOKENS;
+    let head,cls;
+    if(r.type==="active"){head=`¡Bien! ${esc(a.name)} se la queda.`;cls="ok"}
+    else if(r.type==="challenger"){head=`Le erró. ${esc(P(r.pid).name)} ganó el Hitster y se la lleva.`;cls="ko"}
+    else{head=`Le erró${state.challenges.length?" y el Hitster tampoco pegó":""}. Carta afuera.`;cls="ko"}
+    const nxt=state.players[(state.current+1)%state.players.length];
+    return `<div class="note" style="--pc:${a.color}">
+        <div class="result ${cls}">${head}</div>
+        <div><b>${esc(s.t)}</b> · ${esc(s.a)} · <span class="mono">${s.y}</span></div>
+      </div>
+      <div class="note"><span class="soft" style="font-size:13px">¿${esc(a.name)} dijo tema y artista antes de darla vuelta?${full?" (ya tiene 5 fichas)":""}</span>
+        <div class="tools"><button class="btn small ${state.guess===true?"sel":""}" data-act="guess" data-v="1" ${full?"disabled":""}>Sí, +1 ficha</button><button class="btn small ${state.guess===false?"sel":""}" data-act="guess" data-v="0">No</button></div>
+      </div>
+      <button class="btn dark" data-act="next">Siguiente: turno de ${esc(nxt.name)}</button>`;
+  }
+  const placed=state.placement!==null,choosing=state.pending!==null;
+  const eligible=state.players.filter(p=>p.id!==a.id&&p.tokens>0&&!state.challenges.some(c=>c.pid===p.id));
+  let msg;
+  if(choosing){const c=P(state.pending);msg=`<b style="color:${c.color}">${esc(c.name)}</b> cantó Hitster: que toque dónde lo pondría.`}
+  else if(!placed)msg=`Escuchen el tema y ubíquenlo en la línea.`;
+  else msg=state.challenges.length?`¿Alguien más canta Hitster? Si no, denla vuelta.`:`¿Todos de acuerdo? Si no, ¡Hitster!`;
+  return `<div class="pair">${pile}${placed?`<div class="card" style="--w:${cw*1.15}px;visibility:hidden"></div>`:cardDown("wobble",`data-anchor="mystery" style="--w:${cw*1.15}px"`)}</div>
+    <div class="note" style="--pc:${a.color}">
+      <span class="playing"><span class="eq" aria-hidden="true"><i></i><i></i><i></i></span>Sonando</span>
+      <h2>Turno de <span>${esc(a.name)}</span></h2>
+      <p>${msg}</p>
+      ${choosing?`<div><button class="btn small" data-act="cancelpend">Cancelar Hitster</button></div>`:""}
+    </div>
+    <div class="hud">
+      ${!placed?`<button class="btn small" data-act="skip" ${a.tokens<1?"disabled":""}>Saltear <span class="cost">−1</span></button>`:""}
+      <button class="hitster" data-act="hitster" ${!placed||choosing||!eligible.length?"disabled":""} aria-label="Cantar Hitster">Hitster</button>
+      ${!placed?`<button class="btn small" data-act="buy" ${a.tokens<3?"disabled":""}>Canjear <span class="cost">−3</span></button>`:`<button class="btn dark small" data-act="reveal" ${choosing?"disabled":""}>Darla vuelta</button>`}
+    </div>`;
+}
+
+/* ---------- vistas ---------- */
+function viewSetup(){
+  const saved=loadSaved();
+  return `<div class="page">
+  <div class="panel hero">
+    <div class="fan">${[1,12,22,36,45,50].map(id=>cardUp(id)).join("")}</div>
+    <h1>Hitster <span>Rock Nacional</span></h1>
+    <p>La tablet va en el medio de la mesa y hace de DJ. Cada uno tiene su línea del tiempo de su lado, mirando hacia él, y la carta del centro gira hacia el que le toca. Mazo de prueba: ${SONGS.length} temas, de 1967 a 2008.</p>
+  </div>
+  ${saved?`<div class="panel"><h3>Hay una partida a medias</h3><div class="btnrow"><button class="btn dark" data-act="resume">Seguir partida</button><button class="btn" data-act="discard">Empezar de cero</button></div></div>`:""}
+  <div class="panel">
+    <h3>Jugadores, en el orden de la ronda</h3>
+    <p class="hint">Primero el que tiene enfrente el lado de abajo de la tablet, y después siguiendo como las agujas del reloj. Así cada línea queda mirando a su dueño y los turnos van en ronda.</p>
+    <div class="plist">${setup.names.map((n,i)=>`<div class="prow" style="--pc:${PCOLORS[i]}"><span class="dot"></span><input id="name-${i}" data-name="${i}" value="${esc(n)}" maxlength="14" aria-label="Nombre del jugador ${i+1}">${setup.names.length>2?`<button class="btn small" data-act="rm" data-i="${i}" aria-label="Sacar jugador">✕</button>`:""}</div>`).join("")}</div>
+    ${setup.names.length<8?`<div><button class="btn small" data-act="add">+ Sumar jugador</button></div>`:""}
+    <div class="opts">
+      <div class="opt"><label>Cartas para ganar</label><div class="stepper"><button class="btn small" data-act="tgt" data-d="-1" aria-label="Menos">−</button><output class="mono">${setup.target}</output><button class="btn small" data-act="tgt" data-d="1" aria-label="Más">+</button></div></div>
+      <div class="opt"><label>Fichas al empezar</label><div class="stepper"><button class="btn small" data-act="tok" data-d="-1" aria-label="Menos">−</button><output class="mono">${setup.tokens}</output><button class="btn small" data-act="tok" data-d="1" aria-label="Más">+</button></div></div>
+    </div>
+    <div class="btnrow"><button class="btn dark" data-act="start">Arrancar partida</button></div>
+  </div>
+  <div class="panel">
+    <h3>Reglas (las originales)</h3>
+    <ul class="rules">
+      <li>Cada uno arranca con una carta boca arriba. Gana el primero en llegar a <b>${setup.target} cartas</b>.</li>
+      <li>En tu turno suena un tema y tocás <b>dónde va</b> en tu línea. Si acertás, te la quedás.</li>
+      <li>Si alguien no está de acuerdo, toca <b>Hitster</b>, gasta 1 ficha y elige otro lugar. Si el que jugaba le erró y el del Hitster acertó, se la lleva él.</li>
+      <li>Si decís <b>tema y artista</b> antes de darla vuelta, ganás 1 ficha (máximo ${MAX_TOKENS}).</li>
+      <li>Con fichas también podés <b>saltear un tema</b> (1) o <b>canjear 3</b> por una carta que entra directo a tu línea.</li>
+    </ul>
+    <p class="hint">Prototipo: todavía no suena nada. La música llega cuando conectemos Spotify.</p>
+  </div>
+</div>`;
+}
+
+let geo=null,stageAngle=0;
+function viewGame(){
+  geo=layout();
+  const {tw,th,T,seats}=geo;
+  const seat=seats[state.current];
+  const target=seat.rot;
+  if(ui.angle===null)ui.angle=target;
+  const d=((target-ui.angle)%360+540)%360-180;
+  stageAngle=ui.angle+d;
+  const side=Math.abs(target)%180===90;
+  const cw0=tw-2*T-20,ch0=th-2*T-20;
+  const sw=side?ch0:cw0,sh=side?cw0:ch0;
+  const cw=Math.max(40,Math.min(84,sh/4.4));
+  return `<button class="quit" data-act="quit">Salir</button>
+    ${state.players.map((p,i)=>railHTML(p,seats[i],T)).join("")}
+    <div class="stage" id="stage" style="left:${tw/2}px;top:${th/2}px;width:${sw}px;height:${sh}px;--rot:${ui.angle}deg;--cw:${cw}px">${stageInner(cw)}</div>
+    ${modalHTML(target)}`;
+}
+
+function modalHTML(rot){
+  if(ui.modal!=="hitster")return "";
+  const a=cur();
+  const el=state.players.filter(p=>p.id!==a.id&&p.tokens>0&&!state.challenges.some(c=>c.pid===p.id));
+  return `<div class="modal" data-act="closemodal"><div class="sheet" style="--rot:${rot}deg" role="dialog" aria-modal="true" aria-label="¿Quién cantó Hitster?">
+    <h3>¡Hitster!</h3><p class="soft" style="margin:0">¿Quién lo gritó primero? Gasta 1 ficha.</p>
+    <div class="who">${el.map(p=>`<button class="btn" style="--pc:${p.color}" data-act="pick" data-pid="${p.id}"><b>${esc(p.name)}</b>${tokensHTML(p.tokens)}</button>`).join("")}</div>
+    <div><button class="btn small" data-act="closemodal">Cancelar</button></div>
+  </div></div>`;
+}
+
+function viewWin(){
+  const w=state.winner!==null?P(state.winner):null;
+  const ranked=state.players.slice().sort((x,y)=>y.timeline.length-x.timeline.length);
+  const top=w||ranked[0];
+  return `<div class="page winpage" style="--pc:${top.color}"><div class="panel">
+    <h1>${w?`¡Ganó <span>${esc(w.name)}</span>!`:"Se terminó el mazo"}</h1>
+    ${w?"":`<p class="soft">Va primero <b style="color:${top.color}">${esc(top.name)}</b> con ${top.timeline.length} cartas.</p>`}
+    <div class="standings">${ranked.map(p=>`<span class="stand" style="--pc:${p.color}"><b>${esc(p.name)}</b><span class="mono">${p.timeline.length}</span></span>`).join("")}</div>
+    <div class="wline">${top.timeline.map(id=>cardUp(id)).join("")}</div>
+    <div class="btnrow" style="justify-content:center"><button class="btn dark" data-act="again">Jugar de nuevo</button><button class="btn" data-act="quit">Cambiar jugadores</button></div>
+  </div></div>`;
+}
+
+/* ---------- render + animaciones ---------- */
+function render(){
+  const inGame=state&&state.phase!=="win";
+  $app.style.overflowY=inGame?"hidden":"auto";
+  $app.innerHTML=!state?viewSetup():state.phase==="win"?viewWin():viewGame();
+  save();
+  if(!inGame)return;
+  // la carta del centro gira hacia el jugador de turno
+  const st=document.getElementById("stage");
+  if(st&&stageAngle!==ui.angle){st.getBoundingClientRect();st.style.setProperty("--rot",stageAngle+"deg")}
+  ui.angle=stageAngle;
+  // la carta vuela desde el centro al hueco elegido
+  if(ui.flyFrom){
+    const el=document.querySelector('[data-anchor="placed"]');
+    if(el&&!reduce){
+      const to=el.getBoundingClientRect(),f=ui.flyFrom;
+      const dx=f.left+f.width/2-(to.left+to.width/2),dy=f.top+f.height/2-(to.top+to.height/2);
+      const t=geo.seats[state.current].rot*Math.PI/180,c=Math.cos(t),s=Math.sin(t);
+      const lx=dx*c+dy*s,ly=-dx*s+dy*c;
+      const sc=Math.max(f.width,f.height)/Math.max(to.width,to.height);
+      el.animate([{transform:`translate(${lx}px,${ly}px) scale(${sc}) rotate(-10deg)`},{transform:"none"}],{duration:560,easing:"cubic-bezier(.25,.8,.3,1)"});
+    }
+    ui.flyFrom=null;
+  }
+  ui.dropPid=null;
+  // la carta se da vuelta
+  if(state.phase==="reveal"&&!ui.flipDone){
+    const el=document.querySelector('[data-anchor="reveal"]');
+    if(el){el.getBoundingClientRect();requestAnimationFrame(()=>requestAnimationFrame(()=>el.classList.add("flipped")))}
+    ui.flipDone=true;
+  }
+}
+
+/* ---------- eventos ---------- */
+document.addEventListener("input",e=>{const i=e.target.dataset.name;if(i!==undefined)setup.names[+i]=e.target.value});
+document.addEventListener("click",e=>{
+  const b=e.target.closest("[data-act]");if(!b||b.disabled)return;
+  const act=b.dataset.act;
+  if(act==="closemodal"&&b.classList.contains("modal")&&e.target!==b)return;
+  switch(act){
+    case "add":setup.names.push(`Jugador ${setup.names.length+1}`);render();break;
+    case "rm":setup.names.splice(+b.dataset.i,1);render();break;
+    case "tgt":setup.target=Math.min(20,Math.max(3,setup.target+ +b.dataset.d));render();break;
+    case "tok":setup.tokens=Math.min(MAX_TOKENS,Math.max(0,setup.tokens+ +b.dataset.d));render();break;
+    case "start":newGame();break;
+    case "resume":state=loadSaved();ui.flipDone=true;ui.angle=null;keepAwake();render();break;
+    case "discard":state=null;save();render();break;
+    case "place":place(+b.dataset.slot);break;
+    case "hitster":ui.modal="hitster";render();break;
+    case "pick":ui.modal=null;state.pending=+b.dataset.pid;render();break;
+    case "closemodal":ui.modal=null;render();break;
+    case "cancelpend":state.pending=null;render();break;
+    case "reveal":reveal();break;
+    case "guess":state.guess=b.dataset.v==="1";render();break;
+    case "next":nextTurn();break;
+    case "skip":skip();break;
+    case "buy":buy();break;
+    case "again":setup.names=state.players.map(p=>p.name);state=null;newGame();break;
+    case "quit":if(state)setup.names=state.players.map(p=>p.name);state=null;ui.modal=null;save();render();break;
+  }
+});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&ui.modal){ui.modal=null;render()}});
+let rz;addEventListener("resize",()=>{clearTimeout(rz);rz=setTimeout(()=>{if(state&&state.phase!=="win"){ui.flipDone=true;render()}},150)});
+
+function start(data){if(data&&data.state){state=data.state;ui.flipDone=true}render()}
+window.claude?.hot?.snapshot?.(()=>({state}));
+window.claude?.hot?.ready?window.claude.hot.ready(start):start(window.claude?.hot?.data??{});
+</script>
