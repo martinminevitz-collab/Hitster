@@ -30,7 +30,7 @@ Los del Río | Macarena | 1993
 Café Tacvba | La ingrata | 1994
 Caifanes | Afuera | 1994
 Selena | Amor prohibido | 1994
-Shakira | Estoy aquí | 1995
+Shakira | Estoy aquí | 1995 | reserva
 Enrique Iglesias | Experiencia religiosa | 1995
 Ricky Martin | María | 1995
 La Ley | El duelo | 1995
@@ -64,7 +64,7 @@ Calle 13 | Atrévete-te-te | 2005
 Wisin & Yandel | Rakata | 2005
 Reik | Yo quisiera | 2005
 Shakira | Hips Don't Lie | 2006
-Maná | Labios compartidos | 2006
+Maná | Labios compartidos | 2006 | reserva
 Julieta Venegas | Me voy | 2006
 Julieta Venegas | Limón y sal | 2006
 Paulina Rubio | Ni una sola palabra | 2006
@@ -93,9 +93,58 @@ Rosalía | Despechá | 2022
 Luis Miguel | Cuando calienta el sol | 1988
 Chayanne | Tiempo de vals | 1990
 Gloria Trevi | Pelo suelto | 1991
-Shakira | Pies descalzos, sueños blancos | 1995
+Shakira | Pies descalzos, sueños blancos | 1995 | reserva
 Maná | En el muelle de San Blas | 1997
 Ricky Martin | Vuelve | 1998
 Carlos Vives | Fruta fresca | 1999
-Shakira | Suerte | 2001
+Shakira | Suerte | 2001 | reserva
 Juanes | Es por ti | 2002
+José José | El triste | 1970
+Raffaella Carrà | Fiesta | 1977
+Julio Iglesias | Me olvidé de vivir | 1978
+Nacha Pop | Chica de ayer | 1980
+Los Secretos | Déjame | 1981
+Los Jaivas | Mira niñita | 1981
+Loquillo y Los Trogloditas | Cadillac solitario | 1983
+Radio Futura | Escuela de calor | 1984
+La Unión | Lobo hombre en París | 1984
+Juan Gabriel | Querida | 1984
+Rocío Dúrcal | Amor eterno | 1984
+Hombres G | Venecia | 1985
+El Tri | Triste canción | 1985
+Alaska y Dinarama | A quién le importa | 1986
+Mecano | Me cuesta tanto olvidarte | 1986
+El Último de la Fila | Como un burro amarrado en la puerta del baile | 1986
+Duncan Dhu | En algún lugar | 1987
+Luis Miguel | Culpable o no | 1988
+Mano Negra | Mala vida | 1988
+Ricardo Montaner | Me va a extrañar | 1989
+Los Prisioneros | Tren al sur | 1990
+Franco De Vita | Te amo | 1990
+Maldita Vecindad y los Hijos del Quinto Patio | Pachuco | 1991
+Miguel Bosé | Si tú no vuelves | 1993
+Café Tacvba | Las flores | 1994
+Ricardo Arjona | Señora de las cuatro décadas | 1994
+Alejandro Sanz | Y si fuera ella | 1997
+Jarabe de Palo | Depende | 1998
+Estopa | Como Camarón | 1999
+Café Quijano | La Lola | 1999
+Panteón Rococó | La dosis perfecta | 1999
+Control Machete | Sí señor | 1999
+La Ley | Mentira | 2000
+Manu Chao | Me gustas tú | 2001
+Amaral | Sin ti no soy nada | 2002
+Melendi | Caminando por la vida | 2003
+Marc Anthony | Valió la pena | 2004
+La Quinta Estación | El sol no regresa | 2004
+Bebe | Malo | 2004
+Daddy Yankee | Rompe | 2005
+Fito y Fitipaldis | Por la boca vive el pez | 2006
+Calle 13 | Latinoamérica | 2010
+Prince Royce | Darte un beso | 2013
+J Balvin | Ginza | 2015
+Ozuna | Se preparó | 2017
+Camilo | Vida de rico | 2020
+Bad Bunny | Me porto bonito | 2022
+Karol G | Provenza | 2022
+Eslabon Armado | Ella baila sola | 2023

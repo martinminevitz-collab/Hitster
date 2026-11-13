@@ -11,29 +11,29 @@ León Gieco | Sólo le pido a Dios | 1978 | ok-año
 Serú Girán | Seminare | 1978
 Serú Girán | Canción de Alicia en el país | 1980
 Virus | Wadu wadu | 1981
-Charly García | Inconsciente colectivo | 1982 | ok-año
+Charly García | Inconsciente colectivo | 1982 | ok-año, reserva
 Charly García | Los dinosaurios | 1983
-Charly García | Nos siguen pegando abajo | 1983
+Charly García | Nos siguen pegando abajo | 1983 | reserva
 Los Abuelos de la Nada | Mil horas | 1983
 Los Twist | Pensé que se trataba de cieguitos | 1983
 Charly García | Demoliendo hoteles | 1984
-Soda Stereo | Nada personal | 1985
+Soda Stereo | Nada personal | 1985 | reserva
 Soda Stereo | Cuando pase el temblor | 1985
 Fito Páez | 11 y 6 | 1985
 Virus | Una luna de miel en la mano | 1985 | fuera
 Sumo | Divididos por la felicidad | 1985 | ok-año, ok-versión
 Soda Stereo | Persiana americana | 1986
-Soda Stereo | Prófugos | 1986
+Soda Stereo | Prófugos | 1986 | reserva
 Patricio Rey y sus Redonditos de Ricota | Ji ji ji | 1986 | ok-año
 Luis Alberto Spinetta | Seguir viviendo sin tu amor | 1991
 Enanitos Verdes | La muralla verde | 1986
 Sumo | Mañana en el Abasto | 1987
 Charly García | Rezo por vos | 1987
-Charly García | Cerca de la revolución | 1984
+Charly García | Cerca de la revolución | 1984 | reserva
 Soda Stereo | En la ciudad de la furia | 1988
 Patricio Rey y sus Redonditos de Ricota | Vencedores vencidos | 1988 | ok-año
 Soda Stereo | De música ligera | 1990
-Soda Stereo | Té para tres | 1990 | ok-año, ok-versión
+Soda Stereo | Té para tres | 1990 | ok-año, ok-versión, reserva
 Fito Páez | Y dale alegría a mi corazón | 1990
 Fito Páez | El amor después del amor | 1992
 Patricio Rey y sus Redonditos de Ricota | Un poco de amor francés | 1991
@@ -60,11 +60,11 @@ Manal | Avellaneda blues | 1970
 Vox Dei | Presente (El tiempo es veloz) | 1970
 Arco Iris | Mañana campestre | 1972
 Sui Generis | Bienvenidos al tren | 1973
-Sui Generis | Aprendizaje | 1973
+Sui Generis | Aprendizaje | 1973 | reserva
 Sui Generis | Instituciones | 1974
 Pescado Rabioso | Bajan | 1973
 La Máquina de Hacer Pájaros | Cómo mata el viento norte | 1976
-Serú Girán | Eiti Leda | 1978
+Serú Girán | Eiti Leda | 1978 | reserva
 Serú Girán | Viernes 3 AM | 1979 | fuera
 Serú Girán | Desarma y sangra | 1980
 Serú Girán | Peperina | 1981
@@ -73,10 +73,10 @@ Luis Alberto Spinetta | Barro tal vez | 1982
 Riff | Susy Cadillac | 1982
 Raúl Porchetto | Algo de paz | 1980
 Charly García | Yendo de la cama al living | 1982
-Charly García | Promesas sobre el bidet | 1984
-Charly García | Raros peinados nuevos | 1984
-Charly García | No voy en tren | 1987
-Charly García | Fanky | 1989
+Charly García | Promesas sobre el bidet | 1984 | reserva
+Charly García | Raros peinados nuevos | 1984 | reserva
+Charly García | No voy en tren | 1987 | reserva
+Charly García | Fanky | 1989 | reserva
 Los Twist | Cleopatra, la reina del twist | 1983
 Los Violadores | Uno, dos, ultraviolento | 1985 | fuera
 Virus | Qué hago en Manila | 1983
@@ -85,26 +85,26 @@ Los Abuelos de la Nada | Costumbres argentinas | 1984 | fuera
 Los Abuelos de la Nada | Lunes por la madrugada | 1984 | ok-versión
 GIT | Siempre es lo mismo, nada es igual | 1984 | fuera
 Soda Stereo | Sobredosis de TV | 1984 | fuera
-Soda Stereo | Trátame suavemente | 1984
-Soda Stereo | Signos | 1986
-Soda Stereo | Corazón delator | 1988
-Soda Stereo | Un millón de años luz | 1990
-Soda Stereo | Ella usó mi cabeza como un revólver | 1995
-Soda Stereo | Zoom | 1995
+Soda Stereo | Trátame suavemente | 1984 | reserva
+Soda Stereo | Signos | 1986 | reserva
+Soda Stereo | Corazón delator | 1988 | reserva
+Soda Stereo | Un millón de años luz | 1990 | reserva
+Soda Stereo | Ella usó mi cabeza como un revólver | 1995 | reserva
+Soda Stereo | Zoom | 1995 | reserva
 Miguel Mateos | Cuando seas grande | 1986
 León Gieco | Cinco siglos igual | 1992
 Sumo | La rubia tarada | 1985 | ok-año, ok-versión
 Sumo | Mejor no hablar de ciertas cosas | 1985
-Fito Páez | Giros | 1985
-Fito Páez | Ciudad de pobres corazones | 1987
-Fito Páez | A rodar mi vida | 1992
-Fito Páez | Dar es dar | 1996 | ok-año
-Patricio Rey y sus Redonditos de Ricota | Todo un palo | 1988
+Fito Páez | Giros | 1985 | reserva
+Fito Páez | Ciudad de pobres corazones | 1987 | reserva
+Fito Páez | A rodar mi vida | 1992 | reserva
+Fito Páez | Dar es dar | 1996 | ok-año, reserva
+Patricio Rey y sus Redonditos de Ricota | Todo un palo | 1988 | reserva
 Patricio Rey y sus Redonditos de Ricota | Juguetes perdidos | 1996
-Patricio Rey y sus Redonditos de Ricota | Nuestro amo juega al esclavo | 1989
+Patricio Rey y sus Redonditos de Ricota | Nuestro amo juega al esclavo | 1989 | reserva
 Los Fabulosos Cadillacs | Yo no me sentaría en tu mesa | 1987
 Los Fabulosos Cadillacs | Vasos vacíos | 1988
-Los Fabulosos Cadillacs | Manuel Santillán, el León | 1992
+Los Fabulosos Cadillacs | Manuel Santillán, el León | 1992 | reserva
 Enanitos Verdes | Tus viejas cartas | 1986
 Enanitos Verdes | Luz de día | 1987 | fuera
 Enanitos Verdes | Por el resto | 1987
@@ -129,14 +129,14 @@ Los Pericos | Pupilas lejanas | 1998
 Los Auténticos Decadentes | La guitarra | 1995
 Viejas Locas | Me gustas mucho | 1999
 Andrés Calamaro | Alta suciedad | 1997
-Andrés Calamaro | Media verónica | 1997
+Andrés Calamaro | Media verónica | 1997 | reserva
 Andrés Calamaro | Loco | 1999
 Los Caballeros de la Quema | Avanti morocha | 1998
 Bersuit Vergarabat | Sr. Cobranza | 1998
 Bersuit Vergarabat | La bolsa | 2000
 Kapanga | El mono relojero | 1997
-Gustavo Cerati | Engaña | 1999
-Gustavo Cerati | Cosas imposibles | 2002
+Gustavo Cerati | Engaña | 1999 | reserva
+Gustavo Cerati | Cosas imposibles | 2002 | reserva
 Gustavo Cerati | Fuerza natural | 2009
 Babasónicos | Putita | 2001
 Babasónicos | El loco | 2003
@@ -147,3 +147,58 @@ Las Pelotas | Será | 2003
 Ciro y los Persas | Antes y después | 2010
 El Mató a un Policía Motorizado | Mujeres bellas y fuertes | 2017
 Airbag | Por mil noches | 2008
+Sandro | Rosa, Rosa | 1968
+Moris | Pato trabaja en una carnicería | 1970
+Pedro y Pablo | La marcha de la bronca | 1970
+Manal | Una casa con diez pinos | 1970
+Almendra | Plegaria para un niño dormido | 1969
+Vox Dei | Jeremías pies de plomo | 1971
+Aquelarre | Violencia en el parque | 1972
+Pappo's Blues | El viejo | 1973
+Pescado Rabioso | Me gusta ese tajo | 1973
+León Gieco | En el país de la libertad | 1973
+Invisible | El anillo del Capitán Beto | 1976
+Litto Nebbia | Sólo se trata de vivir | 1980
+Riff | Ruedas de metal | 1981
+Juan Carlos Baglietto | Era en abril | 1982
+Celeste Carballo | Me vuelvo cada día más loca | 1982
+Alejandro Lerner | Todo a pulmón | 1983
+Los Violadores | Represión | 1983
+Luis Alberto Spinetta | Ella también | 1983
+Pedro Aznar | A primera vista | 1984
+Viuda e Hijas de Roque Enroll | Bikini a lunares amarillo | 1984
+Los Abuelos de la Nada | Himno de mi corazón | 1984
+Virus | Amor descartable | 1985
+Miguel Mateos | Obsesión | 1986
+Miguel Mateos | Llámame si me necesitas | 1986
+Los Toreros Muertos | Yo no me quiero casar, ¿y usted? | 1986
+Virus | Sin disfraz | 1987
+Los Ratones Paranoicos | Rock del gato | 1988
+Divididos | El 38 | 1989
+Fabiana Cantilo | Mary Poppins y el deshollinador | 1991
+Hermética | Gil trabajador | 1991
+Los Piojos | Ay ay ay | 1998
+Los Auténticos Decadentes | El dinosaurio | 1992
+Los Rodríguez | Mi enfermedad | 1993
+Los Cafres | Tus ojos | 1994
+Los Pericos | Waitin' | 1994
+Los Rodríguez | Dulce condena | 1995
+Attaque 77 | Arrancacorazones | 1997
+Illya Kuryaki and the Valderramas | Abarajame | 1997
+Los Auténticos Decadentes | Loco (tu forma de ser) | 1997
+Viejas Locas | Intoxicado | 1997
+Almafuerte | Desencuentro | 1998
+Catupecu Machu | Dale! | 2000
+Kapanga | Me borré | 2001
+León Gieco | La memoria | 2001
+Kevin Johansen | Sur o no sur | 2002
+Bersuit Vergarabat | Un pacto | 2004
+La Mancha de Rolando | Arde la ciudad | 2004
+Los Tipitos | Campeón | 2004
+Intoxicados | Fuego | 2005
+Miranda! | Yo te diré | 2007
+Las Pelotas | Shine | 2009
+Tan Biónica | Ella | 2010
+El Mató a un Policía Motorizado | Chica de oro | 2012
+Tan Biónica | Arruinarse | 2013
+La Beriso | No me olvides | 2015

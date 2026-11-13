@@ -74,14 +74,14 @@ function leerMazos() {
       const l = linea.trim();
       if (!l) continue;
       if (l.startsWith("#")) { const m = l.match(/^#\s*nombre:\s*(.+)$/i); if (m) nombre = m[1].trim(); continue; }
-      const [artista, titulo, a, opc = ""] = l.split("|").map(x => x.trim());
+      const [artista, titulo, a, opc = "", pelicula = ""] = l.split("|").map(x => x.trim()); // 5ª columna opcional: película
       if (!artista || !titulo) { console.warn(`  Línea ignorada en ${f}: ${l}`); continue; }
       n++;
       // 4ª columna opcional, separada por comas: fuera · ok-año · ok-versión · spotify:ID (o link de Spotify)
       const o = opc.split(",").map(x => x.trim()).filter(Boolean);
       const sp = o.find(x => /^spotify:|open\.spotify\.com\/track\//i.test(x));
-      temas.push({ mazo: id, artista, titulo, anio: parseInt(a, 10) || null,
-        opciones: { fuera: o.includes("fuera"), okAnio: o.some(x => norm(x) === "ok ano" || norm(x) === "ok anio"), okVersion: o.some(x => norm(x) === "ok version"),
+      temas.push({ mazo: id, artista, titulo, anio: parseInt(a, 10) || null, pelicula: pelicula || null,
+        opciones: { fuera: o.includes("fuera") || o.includes("reserva"), reserva: o.includes("reserva"), okAnio: o.some(x => norm(x) === "ok ano" || norm(x) === "ok anio"), okVersion: o.some(x => norm(x) === "ok version"),
           spotify: sp ? sp.replace(/^spotify:(track:)?/i, "").replace(/^.*\/track\//, "").replace(/\?.*$/, "") : null } });
     }
     mazos.push({ id, nombre, temas: n });
@@ -99,9 +99,9 @@ function combinar(previo, lista) {
     // si ya existía, se conserva lo verificado (y el año que se haya corregido a mano en songs.json)
     const opciones = t.opciones;
     // si cambió el ID fijado a mano, hay que volver a verificar ese tema
-    if (v) return { ...v, artista: t.artista, titulo: t.titulo, anio: t.anio, fuera: opciones.fuera, opciones,
+    if (v) return { ...v, artista: t.artista, titulo: t.titulo, anio: t.anio, pelicula: t.pelicula, fuera: opciones.fuera, opciones,
       verificacion: opciones.spotify && v.verificacion?.spotify?.id !== opciones.spotify ? null : v.verificacion }; // el año manda la lista .txt
-    return { id: `${t.mazo}-${String(contador[t.mazo]).padStart(3, "0")}`, mazo: t.mazo, artista: t.artista, titulo: t.titulo, anio: t.anio, fuera: opciones.fuera, opciones, spotify: null, duracion_ms: null, verificacion: null };
+    return { id: `${t.mazo}-${String(contador[t.mazo]).padStart(3, "0")}`, mazo: t.mazo, artista: t.artista, titulo: t.titulo, anio: t.anio, pelicula: t.pelicula, fuera: opciones.fuera, opciones, spotify: null, duracion_ms: null, verificacion: null };
   });
   // ids únicos aunque se haya reordenado la lista
   const usados = new Set();
@@ -296,12 +296,12 @@ function informe(data) {
   const con = m => activos.filter(t => t.verificacion && pendientesDe(t).some(x => x.startsWith(m)));
   const listos = activos.filter(t => t.verificacion && t.spotify && estado(t) === "ok").length;
   const sinProcesar = activos.filter(t => !t.verificacion);
-  const fuera = temas.filter(t => t.fuera);
+  const fuera = temas.filter(t => t.fuera && !t.opciones?.reserva), reserva = temas.filter(t => t.opciones?.reserva);
   return `# Revisión de la biblioteca de temas
 
 Generado el ${new Date().toISOString().slice(0, 10)} por \`node tools/biblioteca.mjs\`.
 
-**${temas.length} temas** en ${data.mazos.length} mazo(s) · **${listos} listos para jugar** · ${activos.filter(t => t.verificacion && estado(t) === "revisar").length} para revisar · ${sinProcesar.length} sin procesar · ${fuera.length} fuera del mazo.
+**${temas.length} temas** en ${data.mazos.length} mazo(s) · **${listos} listos para jugar** · ${activos.filter(t => t.verificacion && estado(t) === "revisar").length} para revisar · ${sinProcesar.length} sin procesar · ${fuera.length} fuera del mazo · ${reserva.length} en reserva.
 
 Las correcciones se hacen en \`tools/mazos/*.txt\`: el año en la 3ª columna, y en la 4ª (opcional, separadas por comas) \`fuera\`, \`ok-año\`, \`ok-versión\` o \`spotify:ID\` / link de Spotify para fijar la versión a mano.
 ` +
@@ -312,6 +312,7 @@ Las correcciones se hacen en \`tools/mazos/*.txt\`: el año en la 3ª columna, y
     grupo("El disco de Spotify es posterior al original", "El track elegido es de un disco más nuevo que el primer lanzamiento. Puede ser una regrabación o una reedición.", con("disco_posterior"), ["MusicBrainz", "Track elegido", "Disco"], t => [t.verificacion.musicbrainz.fecha, t.verificacion.spotify.nombre, sp(t)]) +
     grupo("No encontré el año en MusicBrainz", "No hay dato para verificar: queda el año del juego.", con("no_musicbrainz"), ["Año del juego", "Disco en Spotify"], t => [t.anio, sp(t)]) +
     grupo("Solo hay remaster (aviso)", "No hay versión sin remasterizar: se usa el remaster del disco original. No hace falta hacer nada.", activos.filter(t => t.verificacion?.motivos.includes("solo_remaster")), ["Track elegido", "Disco"], t => [t.verificacion.spotify.nombre, sp(t)]) +
+    grupo("En reserva por variedad", "Marcados con `reserva`: no salen en el juego para que haya más artistas distintos (máximo 4 por artista). Para volver a sumar uno, sacale `reserva`.", reserva, ["Año del juego"], t => [t.anio]) +
     grupo("Fuera del mazo", "Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, pasá un link de Spotify con `spotify:` y sacá `fuera`.", fuera, ["Año del juego", "Qué pasaba"], t => [t.anio, (t.verificacion?.motivos || []).filter(x => x !== "solo_remaster").join(", ").replace(/_/g, " ") || "—"]) +
     temas.filter(t => t.verificacion?.motivos.some(x => x.startsWith("error"))).map(t => `\n- Error con ${t.artista} – ${t.titulo}: ${t.verificacion.motivos.filter(x => x.startsWith("error")).join("; ")}`).join("");
 }
@@ -398,7 +399,7 @@ async function importarPlaylist(link, mazoArg, nombreArg) {
     const partes = l.split("|").map(x => x.trim()), o = partes[3] || "";
     const sid = (o.match(/spotify:(\w+)/) || [])[1];
     if (sid && !enPlaylist.has(sid) && !/\bfuera\b/.test(o)) { partes[3] = o ? `${o}, fuera` : "fuera"; lineas[i] = partes.join(" | "); sacados++; }
-    if (sid && enPlaylist.has(sid) && /\bfuera\b/.test(o)) { partes[3] = o.split(",").map(x => x.trim()).filter(x => x !== "fuera").join(", "); lineas[i] = partes.filter((x, k) => k < 3 || x).join(" | "); }
+    if (sid && enPlaylist.has(sid) && /\bfuera\b/.test(o)) { partes[3] = o.split(",").map(x => x.trim()).filter(x => x !== "fuera").join(", "); lineas[i] = (partes.length > 4 ? partes : partes.filter((x, k) => k < 3 || x)).join(" | "); } // con película, la columna de opciones queda aunque esté vacía
   }
   fs.mkdirSync(MAZOS_DIR, { recursive: true });
   fs.writeFileSync(archivo, lineas.join("\n").replace(/\n*$/, "\n"));

@@ -1,17 +1,119 @@
 # Revisión de la biblioteca de temas
 
-Generado el 2026-11-12 por `node tools/biblioteca.mjs`.
+Generado el 2026-11-13 por `node tools/biblioteca.mjs`.
 
-**490 temas** en 5 mazo(s) · **118 listos para jugar** · 0 para revisar · 360 sin procesar · 12 fuera del mazo.
+**831 temas** en 6 mazo(s) · **92 listos para jugar** · 0 para revisar · 692 sin procesar · 12 fuera del mazo · 35 en reserva.
 
 Las correcciones se hacen en `tools/mazos/*.txt`: el año en la 3ª columna, y en la 4ª (opcional, separadas por comas) `fuera`, `ok-año`, `ok-versión` o `spotify:ID` / link de Spotify para fijar la versión a mano.
 
-## Todavía sin procesar (360)
+## Todavía sin procesar (692)
 
 Se procesan la próxima vez que se corra el script.
 
 | Artista | Tema | Año del juego |
 |---|---|---|
+| Bill Haley & His Comets | Rock Around the Clock | 1954 |
+| Elvis Presley | Jailhouse Rock | 1957 |
+| Chuck Berry | Johnny B. Goode | 1958 |
+| Ben E. King | Stand by Me | 1961 |
+| Audrey Hepburn | Moon River | 1961 |
+| Dick Dale | Misirlou | 1962 |
+| The Ronettes | Be My Baby | 1963 |
+| Roy Orbison | Oh, Pretty Woman | 1964 |
+| Shirley Bassey | Goldfinger | 1964 |
+| Julie Andrews | Supercalifragilisticexpialidocious | 1964 |
+| Chuck Berry | You Never Can Tell | 1964 |
+| The Righteous Brothers | Unchained Melody | 1965 |
+| Simon & Garfunkel | Mrs. Robinson | 1968 |
+| Steppenwolf | Born to Be Wild | 1968 |
+| B.J. Thomas | Raindrops Keep Fallin' on My Head | 1969 |
+| Isaac Hayes | Theme from Shaft | 1971 |
+| Stealers Wheel | Stuck in the Middle with You | 1972 |
+| Paul McCartney & Wings | Live and Let Die | 1973 |
+| Blue Swede | Hooked on a Feeling | 1974 |
+| Redbone | Come and Get Your Love | 1974 |
+| ABBA | Mamma Mia | 1975 |
+| Bee Gees | Stayin' Alive | 1977 |
+| Bee Gees | How Deep Is Your Love | 1977 |
+| Iggy Pop | Lust for Life | 1977 |
+| John Travolta | You're the One That I Want | 1978 |
+| John Travolta | Summer Nights | 1978 |
+| Olivia Newton-John | Hopelessly Devoted to You | 1978 |
+| Bob Seger | Old Time Rock & Roll | 1979 |
+| Irene Cara | Fame | 1980 |
+| Queen | Flash | 1980 |
+| Survivor | Eye of the Tiger | 1982 |
+| Irene Cara | Flashdance... What a Feeling | 1983 |
+| Michael Sembello | Maniac | 1983 |
+| Kenny Loggins | Footloose | 1984 |
+| Bonnie Tyler | Holding Out for a Hero | 1984 |
+| Ray Parker Jr. | Ghostbusters | 1984 |
+| Prince | When Doves Cry | 1984 |
+| Joe Esposito | You're the Best | 1984 |
+| Glenn Frey | The Heat Is On | 1984 |
+| Stevie Wonder | I Just Called to Say I Love You | 1984 |
+| Simple Minds | Don't You (Forget About Me) | 1985 |
+| Huey Lewis & The News | The Power of Love | 1985 |
+| Tina Turner | We Don't Need Another Hero (Thunderdome) | 1985 |
+| Cyndi Lauper | The Goonies 'R' Good Enough | 1985 |
+| Lionel Richie | Say You, Say Me | 1985 |
+| Yello | Oh Yeah | 1985 |
+| James Brown | Living in America | 1985 |
+| Kenny Loggins | Danger Zone | 1986 |
+| Berlin | Take My Breath Away | 1986 |
+| Queen | Who Wants to Live Forever | 1986 |
+| Peter Cetera | Glory of Love | 1986 |
+| Orchestral Manoeuvres In The Dark | If You Leave | 1986 |
+| Bill Medley | (I've Had) The Time of My Life | 1987 |
+| Patrick Swayze | She's Like the Wind | 1987 |
+| Los Lobos | La Bamba | 1987 |
+| The Proclaimers | I'm Gonna Be (500 Miles) | 1988 |
+| Samuel E. Wright | Under the Sea | 1989 |
+| Bryan Adams | (Everything I Do) I Do It for You | 1991 |
+| Celine Dion | Beauty and the Beast | 1991 |
+| Whitney Houston | I Will Always Love You | 1992 |
+| Peabo Bryson | A Whole New World | 1992 |
+| Rage Against The Machine | Wake Up | 1992 |
+| Bruce Springsteen | Streets of Philadelphia | 1993 |
+| Elton John | Can You Feel the Love Tonight | 1994 |
+| Nathan Lane | Hakuna Matata | 1994 |
+| Wet Wet Wet | Love Is All Around | 1994 |
+| Seal | Kiss from a Rose | 1994 |
+| Lisa Loeb | Stay (I Missed You) | 1994 |
+| Coolio | Gangsta's Paradise | 1995 |
+| Randy Newman | You've Got a Friend in Me | 1995 |
+| Des'ree | Kissing You | 1996 |
+| Celine Dion | My Heart Will Go On | 1997 |
+| Will Smith | Men in Black | 1997 |
+| Aerosmith | I Don't Want to Miss a Thing | 1998 |
+| Goo Goo Dolls | Iris | 1998 |
+| Madonna | Beautiful Stranger | 1999 |
+| Phil Collins | You'll Be in My Heart | 1999 |
+| Ronan Keating | When You Say Nothing at All | 1999 |
+| Smash Mouth | All Star | 1999 |
+| Limp Bizkit | Take a Look Around | 2000 |
+| Christina Aguilera | Lady Marmalade | 2001 |
+| Smash Mouth | I'm a Believer | 2001 |
+| Rufus Wainwright | Hallelujah | 2001 |
+| Chad Kroeger | Hero | 2002 |
+| Eminem | Lose Yourself | 2002 |
+| Adele | Skyfall | 2012 |
+| Pharrell Williams | Happy | 2013 |
+| Idina Menzel | Let It Go | 2013 |
+| Wiz Khalifa | See You Again | 2015 |
+| Sam Smith | Writing's on the Wall | 2015 |
+| Justin Timberlake | Can't Stop the Feeling! | 2016 |
+| Ryan Gosling | City of Stars | 2016 |
+| Auli'i Cravalho | How Far I'll Go | 2016 |
+| Keala Settle | This Is Me | 2017 |
+| Lady Gaga | Shallow | 2018 |
+| Kendrick Lamar | All the Stars | 2018 |
+| Post Malone | Sunflower | 2018 |
+| Billie Eilish | No Time To Die | 2020 |
+| Carolina Gaitán | We Don't Talk About Bruno | 2021 |
+| Lady Gaga | Hold My Hand | 2022 |
+| Dua Lipa | Dance The Night | 2023 |
+| Billie Eilish | What Was I Made For? | 2023 |
 | Los Mirlos | La danza de los mirlos | 1974 |
 | Los Palmeras | Soy sabalero | 1985 |
 | La Mona Jiménez | Quién se ha tomado todo el vino | 1984 |
@@ -155,6 +257,68 @@ Se procesan la próxima vez que se corra el script.
 | Harry Styles | As It Was | 2022 |
 | Taylor Swift | Anti-Hero | 2022 |
 | Miley Cyrus | Flowers | 2023 |
+| The Supremes | You Can't Hurry Love | 1966 |
+| Aretha Franklin | Respect | 1967 |
+| The Jackson 5 | I Want You Back | 1969 |
+| Carpenters | (They Long to Be) Close to You | 1970 |
+| Marvin Gaye | Let's Get It On | 1973 |
+| Barry White | You're the First, the Last, My Everything | 1974 |
+| KC & The Sunshine Band | That's the Way (I Like It) | 1975 |
+| Boney M. | Rasputin | 1978 |
+| Chic | Le Freak | 1978 |
+| Olivia Newton-John | Physical | 1981 |
+| The Human League | Don't You Want Me | 1981 |
+| Men At Work | Down Under | 1981 |
+| Kim Wilde | Kids in America | 1981 |
+| Dexys Midnight Runners | Come On Eileen | 1982 |
+| Elton John | I'm Still Standing | 1983 |
+| Nena | 99 Luftballons | 1983 |
+| Spandau Ballet | True | 1983 |
+| Starship | We Built This City | 1985 |
+| Simply Red | Holding Back the Years | 1985 |
+| Bananarama | Venus | 1986 |
+| Belinda Carlisle | Heaven Is a Place on Earth | 1987 |
+| Bobby McFerrin | Don't Worry Be Happy | 1988 |
+| Tracy Chapman | Fast Car | 1988 |
+| Paula Abdul | Straight Up | 1988 |
+| Technotronic | Pump Up The Jam | 1989 |
+| MC Hammer | U Can't Touch This | 1990 |
+| Vanilla Ice | Ice Ice Baby | 1990 |
+| Snap! | Rhythm Is a Dancer | 1992 |
+| Dr. Alban | It's My Life | 1992 |
+| 2 Unlimited | No Limit | 1993 |
+| Corona | The Rhythm of the Night | 1993 |
+| Culture Beat | Mr. Vain | 1993 |
+| La Bouche | Be My Lover | 1995 |
+| Alice Deejay | Better Off Alone | 1999 |
+| Shaggy | It Wasn't Me | 2000 |
+| Pink | Get the Party Started | 2001 |
+| Shakira | Whenever, Wherever | 2001 |
+| Avril Lavigne | Complicated | 2002 |
+| Usher | Yeah! | 2004 |
+| Kelly Clarkson | Since U Been Gone | 2004 |
+| Mariah Carey | We Belong Together | 2005 |
+| Leona Lewis | Bleeding Love | 2007 |
+| Timbaland | Apologize | 2007 |
+| Flo Rida | Low | 2007 |
+| Kesha | TiK ToK | 2009 |
+| Owl City | Fireflies | 2009 |
+| David Guetta | Titanium | 2011 |
+| Maroon 5 | Moves Like Jagger | 2011 |
+| fun. | We Are Young | 2011 |
+| OneRepublic | Counting Stars | 2013 |
+| Clean Bandit | Rather Be | 2014 |
+| Meghan Trainor | All About That Bass | 2014 |
+| Calvin Harris | Summer | 2014 |
+| Major Lazer | Lean On | 2015 |
+| Camila Cabello | Havana | 2017 |
+| Lizzo | Truth Hurts | 2017 |
+| Post Malone | Circles | 2019 |
+| Doja Cat | Say So | 2019 |
+| Glass Animals | Heat Waves | 2020 |
+| Sabrina Carpenter | Espresso | 2024 |
+| Benson Boone | Beautiful Things | 2024 |
+| Chappell Roan | Good Luck, Babe! | 2024 |
 | Ritchie Valens | La Bamba | 1958 |
 | Raphael | Mi gran noche | 1967 |
 | Santana | Oye como va | 1970 |
@@ -185,7 +349,6 @@ Se procesan la próxima vez que se corra el script.
 | Café Tacvba | La ingrata | 1994 |
 | Caifanes | Afuera | 1994 |
 | Selena | Amor prohibido | 1994 |
-| Shakira | Estoy aquí | 1995 |
 | Enrique Iglesias | Experiencia religiosa | 1995 |
 | Ricky Martin | María | 1995 |
 | La Ley | El duelo | 1995 |
@@ -219,7 +382,6 @@ Se procesan la próxima vez que se corra el script.
 | Wisin & Yandel | Rakata | 2005 |
 | Reik | Yo quisiera | 2005 |
 | Shakira | Hips Don't Lie | 2006 |
-| Maná | Labios compartidos | 2006 |
 | Julieta Venegas | Me voy | 2006 |
 | Julieta Venegas | Limón y sal | 2006 |
 | Paulina Rubio | Ni una sola palabra | 2006 |
@@ -248,14 +410,59 @@ Se procesan la próxima vez que se corra el script.
 | Luis Miguel | Cuando calienta el sol | 1988 |
 | Chayanne | Tiempo de vals | 1990 |
 | Gloria Trevi | Pelo suelto | 1991 |
-| Shakira | Pies descalzos, sueños blancos | 1995 |
 | Maná | En el muelle de San Blas | 1997 |
 | Ricky Martin | Vuelve | 1998 |
 | Carlos Vives | Fruta fresca | 1999 |
-| Shakira | Suerte | 2001 |
 | Juanes | Es por ti | 2002 |
-| The Beatles | Twist and Shout | 1963 |
-| The Beatles | Help! | 1965 |
+| José José | El triste | 1970 |
+| Raffaella Carrà | Fiesta | 1977 |
+| Julio Iglesias | Me olvidé de vivir | 1978 |
+| Nacha Pop | Chica de ayer | 1980 |
+| Los Secretos | Déjame | 1981 |
+| Los Jaivas | Mira niñita | 1981 |
+| Loquillo y Los Trogloditas | Cadillac solitario | 1983 |
+| Radio Futura | Escuela de calor | 1984 |
+| La Unión | Lobo hombre en París | 1984 |
+| Juan Gabriel | Querida | 1984 |
+| Rocío Dúrcal | Amor eterno | 1984 |
+| Hombres G | Venecia | 1985 |
+| El Tri | Triste canción | 1985 |
+| Alaska y Dinarama | A quién le importa | 1986 |
+| Mecano | Me cuesta tanto olvidarte | 1986 |
+| El Último de la Fila | Como un burro amarrado en la puerta del baile | 1986 |
+| Duncan Dhu | En algún lugar | 1987 |
+| Luis Miguel | Culpable o no | 1988 |
+| Mano Negra | Mala vida | 1988 |
+| Ricardo Montaner | Me va a extrañar | 1989 |
+| Los Prisioneros | Tren al sur | 1990 |
+| Franco De Vita | Te amo | 1990 |
+| Maldita Vecindad y los Hijos del Quinto Patio | Pachuco | 1991 |
+| Miguel Bosé | Si tú no vuelves | 1993 |
+| Café Tacvba | Las flores | 1994 |
+| Ricardo Arjona | Señora de las cuatro décadas | 1994 |
+| Alejandro Sanz | Y si fuera ella | 1997 |
+| Jarabe de Palo | Depende | 1998 |
+| Estopa | Como Camarón | 1999 |
+| Café Quijano | La Lola | 1999 |
+| Panteón Rococó | La dosis perfecta | 1999 |
+| Control Machete | Sí señor | 1999 |
+| La Ley | Mentira | 2000 |
+| Manu Chao | Me gustas tú | 2001 |
+| Amaral | Sin ti no soy nada | 2002 |
+| Melendi | Caminando por la vida | 2003 |
+| Marc Anthony | Valió la pena | 2004 |
+| La Quinta Estación | El sol no regresa | 2004 |
+| Bebe | Malo | 2004 |
+| Daddy Yankee | Rompe | 2005 |
+| Fito y Fitipaldis | Por la boca vive el pez | 2006 |
+| Calle 13 | Latinoamérica | 2010 |
+| Prince Royce | Darte un beso | 2013 |
+| J Balvin | Ginza | 2015 |
+| Ozuna | Se preparó | 2017 |
+| Camilo | Vida de rico | 2020 |
+| Bad Bunny | Me porto bonito | 2022 |
+| Karol G | Provenza | 2022 |
+| Eslabon Armado | Ella baila sola | 2023 |
 | The Beatles | Yesterday | 1965 |
 | The Beatles | Hey Jude | 1968 |
 | The Beatles | Here Comes the Sun | 1969 |
@@ -289,7 +496,6 @@ Se procesan la próxima vez que se corra el script.
 | Queen | Bohemian Rhapsody | 1975 |
 | Queen | We Will Rock You | 1977 |
 | Queen | Don't Stop Me Now | 1978 |
-| Queen | Another One Bites the Dust | 1980 |
 | Queen | Under Pressure | 1981 |
 | Boston | More Than a Feeling | 1976 |
 | Eagles | Hotel California | 1976 |
@@ -355,13 +561,84 @@ Se procesan la próxima vez que se corra el script.
 | Kings of Leon | Sex on Fire | 2008 |
 | Imagine Dragons | Radioactive | 2012 |
 | Arctic Monkeys | Do I Wanna Know? | 2013 |
+| Little Richard | Tutti Frutti | 1955 |
+| Elvis Presley | Jailhouse Rock | 1957 |
+| Buddy Holly | Peggy Sue | 1957 |
+| Chuck Berry | Johnny B. Goode | 1958 |
+| The Beach Boys | Surfin' U.S.A. | 1963 |
+| Bob Dylan | Like a Rolling Stone | 1965 |
+| The Byrds | Mr. Tambourine Man | 1965 |
+| The Mamas & The Papas | California Dreamin' | 1965 |
+| The Beach Boys | Good Vibrations | 1966 |
+| The Monkees | I'm a Believer | 1966 |
+| The Turtles | Happy Together | 1967 |
+| Procol Harum | A Whiter Shade of Pale | 1967 |
+| Big Brother & The Holding Company | Piece of My Heart | 1968 |
+| Steppenwolf | Born to Be Wild | 1968 |
+| The Zombies | Time of the Season | 1968 |
+| The Guess Who | American Woman | 1970 |
+| Free | All Right Now | 1970 |
+| T. Rex | Get It On | 1971 |
+| Eagles | Take It Easy | 1972 |
+| Lou Reed | Walk on the Wild Side | 1972 |
+| Aerosmith | Dream On | 1973 |
+| Billy Joel | Piano Man | 1973 |
+| Ramones | Blitzkrieg Bop | 1976 |
+| Sex Pistols | Anarchy in the U.K. | 1976 |
+| Thin Lizzy | The Boys Are Back in Town | 1976 |
+| Blue Öyster Cult | (Don't Fear) The Reaper | 1976 |
+| Electric Light Orchestra | Mr. Blue Sky | 1977 |
+| Blondie | Heart of Glass | 1978 |
+| The Knack | My Sharona | 1979 |
+| The Pretenders | Brass in Pocket | 1979 |
+| Ozzy Osbourne | Crazy Train | 1980 |
+| Pat Benatar | Hit Me with Your Best Shot | 1980 |
+| Journey | Don't Stop Believin' | 1981 |
+| Joan Jett & The Blackhearts | I Love Rock 'n' Roll | 1981 |
+| Billy Idol | White Wedding | 1982 |
+| Iron Maiden | The Trooper | 1983 |
+| Van Halen | Jump | 1984 |
+| Foreigner | I Want to Know What Love Is | 1984 |
+| Scorpions | Still Loving You | 1984 |
+| Bryan Adams | Summer of '69 | 1984 |
+| Simple Minds | Don't You (Forget About Me) | 1985 |
+| The Cult | She Sells Sanctuary | 1985 |
+| Midnight Oil | Beds Are Burning | 1987 |
+| Tom Petty | Free Fallin' | 1989 |
+| Scorpions | Wind of Change | 1990 |
+| Alice In Chains | Man in the Box | 1990 |
+| Soul Asylum | Runaway Train | 1992 |
+| Stone Temple Pilots | Plush | 1992 |
+| Soundgarden | Black Hole Sun | 1994 |
+| Weezer | Buddy Holly | 1994 |
+| Bush | Glycerine | 1994 |
+| Live | Lightning Crashes | 1994 |
+| The Smashing Pumpkins | 1979 | 1995 |
+| Third Eye Blind | Semi-Charmed Life | 1997 |
+| Goo Goo Dolls | Iris | 1998 |
+| Aerosmith | I Don't Want to Miss a Thing | 1998 |
+| Bon Jovi | It's My Life | 2000 |
+| Nickelback | How You Remind Me | 2001 |
+| System Of A Down | Chop Suey! | 2001 |
+| Audioslave | Like a Stone | 2002 |
+| Queens of the Stone Age | No One Knows | 2002 |
+| Evanescence | Bring Me to Life | 2003 |
+| Jet | Are You Gonna Be My Girl | 2003 |
+| Green Day | Boulevard of Broken Dreams | 2004 |
+| My Chemical Romance | Welcome to the Black Parade | 2006 |
+| Snow Patrol | Chasing Cars | 2006 |
+| Paramore | Misery Business | 2007 |
+| MGMT | Kids | 2007 |
+| Florence + The Machine | Dog Days Are Over | 2008 |
+| Foster The People | Pumped Up Kicks | 2010 |
+| The Black Keys | Lonely Boy | 2011 |
+| Twenty One Pilots | Stressed Out | 2015 |
+| Måneskin | Beggin' | 2017 |
 | Andrés Calamaro | Loco | 1999 |
 | Los Caballeros de la Quema | Avanti morocha | 1998 |
 | Bersuit Vergarabat | Sr. Cobranza | 1998 |
 | Bersuit Vergarabat | La bolsa | 2000 |
 | Kapanga | El mono relojero | 1997 |
-| Gustavo Cerati | Engaña | 1999 |
-| Gustavo Cerati | Cosas imposibles | 2002 |
 | Gustavo Cerati | Fuerza natural | 2009 |
 | Babasónicos | Putita | 2001 |
 | Babasónicos | El loco | 2003 |
@@ -372,8 +649,63 @@ Se procesan la próxima vez que se corra el script.
 | Ciro y los Persas | Antes y después | 2010 |
 | El Mató a un Policía Motorizado | Mujeres bellas y fuertes | 2017 |
 | Airbag | Por mil noches | 2008 |
+| Sandro | Rosa, Rosa | 1968 |
+| Moris | Pato trabaja en una carnicería | 1970 |
+| Pedro y Pablo | La marcha de la bronca | 1970 |
+| Manal | Una casa con diez pinos | 1970 |
+| Almendra | Plegaria para un niño dormido | 1969 |
+| Vox Dei | Jeremías pies de plomo | 1971 |
+| Aquelarre | Violencia en el parque | 1972 |
+| Pappo's Blues | El viejo | 1973 |
+| Pescado Rabioso | Me gusta ese tajo | 1973 |
+| León Gieco | En el país de la libertad | 1973 |
+| Invisible | El anillo del Capitán Beto | 1976 |
+| Litto Nebbia | Sólo se trata de vivir | 1980 |
+| Riff | Ruedas de metal | 1981 |
+| Juan Carlos Baglietto | Era en abril | 1982 |
+| Celeste Carballo | Me vuelvo cada día más loca | 1982 |
+| Alejandro Lerner | Todo a pulmón | 1983 |
+| Los Violadores | Represión | 1983 |
+| Luis Alberto Spinetta | Ella también | 1983 |
+| Pedro Aznar | A primera vista | 1984 |
+| Viuda e Hijas de Roque Enroll | Bikini a lunares amarillo | 1984 |
+| Los Abuelos de la Nada | Himno de mi corazón | 1984 |
+| Virus | Amor descartable | 1985 |
+| Miguel Mateos | Obsesión | 1986 |
+| Miguel Mateos | Llámame si me necesitas | 1986 |
+| Los Toreros Muertos | Yo no me quiero casar, ¿y usted? | 1986 |
+| Virus | Sin disfraz | 1987 |
+| Los Ratones Paranoicos | Rock del gato | 1988 |
+| Divididos | El 38 | 1989 |
+| Fabiana Cantilo | Mary Poppins y el deshollinador | 1991 |
+| Hermética | Gil trabajador | 1991 |
+| Los Piojos | Ay ay ay | 1998 |
+| Los Auténticos Decadentes | El dinosaurio | 1992 |
+| Los Rodríguez | Mi enfermedad | 1993 |
+| Los Cafres | Tus ojos | 1994 |
+| Los Pericos | Waitin' | 1994 |
+| Los Rodríguez | Dulce condena | 1995 |
+| Attaque 77 | Arrancacorazones | 1997 |
+| Illya Kuryaki and the Valderramas | Abarajame | 1997 |
+| Los Auténticos Decadentes | Loco (tu forma de ser) | 1997 |
+| Viejas Locas | Intoxicado | 1997 |
+| Almafuerte | Desencuentro | 1998 |
+| Catupecu Machu | Dale! | 2000 |
+| Kapanga | Me borré | 2001 |
+| León Gieco | La memoria | 2001 |
+| Kevin Johansen | Sur o no sur | 2002 |
+| Bersuit Vergarabat | Un pacto | 2004 |
+| La Mancha de Rolando | Arde la ciudad | 2004 |
+| Los Tipitos | Campeón | 2004 |
+| Intoxicados | Fuego | 2005 |
+| Miranda! | Yo te diré | 2007 |
+| Las Pelotas | Shine | 2009 |
+| Tan Biónica | Ella | 2010 |
+| El Mató a un Policía Motorizado | Chica de oro | 2012 |
+| Tan Biónica | Arruinarse | 2013 |
+| La Beriso | No me olvides | 2015 |
 
-## Solo hay remaster (aviso) (20)
+## Solo hay remaster (aviso) (10)
 
 No hay versión sin remasterizar: se usa el remaster del disco original. No hace falta hacer nada.
 
@@ -381,24 +713,56 @@ No hay versión sin remasterizar: se usa el remaster del disco original. No hace
 |---|---|---|---|
 | Serú Girán | Seminare | Seminare - 2021 Remasterizado | Serú Girán (Remasterizado 2021) (2021-12-22) |
 | Serú Girán | Canción de Alicia en el país | Canción De Alicia En El País - Remastered 2012 | Bicicleta (Remastered 2012) (1980-11-01) |
-| Soda Stereo | Nada personal | Nada Personal - Remasterizado 2007 | Nada Personal (Remastered) (1985-10-09) |
 | Soda Stereo | Cuando pase el temblor | Cuando Pase El Temblor - Remasterizado 2007 | Nada Personal (Remastered) (1985-10-09) |
 | Soda Stereo | Persiana americana | Persiana Americana - Remasterizado 2007 | Signos (Remastered) (1986-10-09) |
-| Soda Stereo | Prófugos | Prófugos - Remasterizado 2007 | Signos (Remastered) (1986-10-09) |
 | Soda Stereo | En la ciudad de la furia | En La Ciudad De La Furia - Remasterizado 2007 | Doble Vida (Remastered) (1988-10-09) |
 | Soda Stereo | De música ligera | De Música Ligera - Remasterizado 2007 | Canción Animal (Remastered) (1990-10-09) |
 | Los Fabulosos Cadillacs | Mal bicho | Mal Bicho - Remasterizado 2008 | Rey Azúcar (1995-06-18) |
-| Serú Girán | Eiti Leda | Eiti-Leda - 2021 Remasterizado | Serú Girán (Remasterizado 2021) (2021-12-22) |
 | Serú Girán | Desarma y sangra | Desarma Y Sangra - Remastered 2012 | Bicicleta (Remastered 2012) (1980-11-01) |
-| Soda Stereo | Trátame suavemente | Trátame Suavemente - Remasterizado 2007 | Soda Stereo (Remastered) (1984-02-06) |
-| Soda Stereo | Signos | Signos - Remasterizado 2007 | Signos (Remastered) (1986-10-09) |
-| Soda Stereo | Corazón delator | Corazón Delator - Remasterizado 2007 | Doble Vida (Remastered) (1988-10-09) |
-| Soda Stereo | Un millón de años luz | Un Millón De Años Luz - Remasterizado 2007 | Canción Animal (Remastered) (1990-10-09) |
-| Soda Stereo | Ella usó mi cabeza como un revólver | Ella Usó Mi Cabeza Como Un Revólver - Remasterizado 2007 | Sueño Stereo (Remastered) (1995-10-09) |
-| Soda Stereo | Zoom | Zoom - Remasterizado 2007 | Sueño Stereo (Remastered) (1995-10-09) |
 | Los Fabulosos Cadillacs | Yo no me sentaría en tu mesa | Yo No Me Sentaría en Tu Mesa - Remasterizado 2008 | Yo Te Avisé (1987-06-18) |
 | Los Fabulosos Cadillacs | Vasos vacíos | Vasos Vacíos - Remasterizado 2008 | El Ritmo Mundial (1988-06-18) |
-| Los Fabulosos Cadillacs | Manuel Santillán, el León | Manuel Santillán, El León (Tumbao) (Salsa) - Remasterizado 2008 | El León (1992-06-18) |
+
+## En reserva por variedad (35)
+
+Marcados con `reserva`: no salen en el juego para que haya más artistas distintos (máximo 4 por artista). Para volver a sumar uno, sacale `reserva`.
+
+| Artista | Tema | Año del juego |
+|---|---|---|
+| Shakira | Estoy aquí | 1995 |
+| Maná | Labios compartidos | 2006 |
+| Shakira | Pies descalzos, sueños blancos | 1995 |
+| Shakira | Suerte | 2001 |
+| The Beatles | Twist and Shout | 1963 |
+| The Beatles | Help! | 1965 |
+| Queen | Another One Bites the Dust | 1980 |
+| Charly García | Inconsciente colectivo | 1982 |
+| Charly García | Nos siguen pegando abajo | 1983 |
+| Soda Stereo | Nada personal | 1985 |
+| Soda Stereo | Prófugos | 1986 |
+| Charly García | Cerca de la revolución | 1984 |
+| Soda Stereo | Té para tres | 1990 |
+| Sui Generis | Aprendizaje | 1973 |
+| Serú Girán | Eiti Leda | 1978 |
+| Charly García | Promesas sobre el bidet | 1984 |
+| Charly García | Raros peinados nuevos | 1984 |
+| Charly García | No voy en tren | 1987 |
+| Charly García | Fanky | 1989 |
+| Soda Stereo | Trátame suavemente | 1984 |
+| Soda Stereo | Signos | 1986 |
+| Soda Stereo | Corazón delator | 1988 |
+| Soda Stereo | Un millón de años luz | 1990 |
+| Soda Stereo | Ella usó mi cabeza como un revólver | 1995 |
+| Soda Stereo | Zoom | 1995 |
+| Fito Páez | Giros | 1985 |
+| Fito Páez | Ciudad de pobres corazones | 1987 |
+| Fito Páez | A rodar mi vida | 1992 |
+| Fito Páez | Dar es dar | 1996 |
+| Patricio Rey y sus Redonditos de Ricota | Todo un palo | 1988 |
+| Patricio Rey y sus Redonditos de Ricota | Nuestro amo juega al esclavo | 1989 |
+| Los Fabulosos Cadillacs | Manuel Santillán, el León | 1992 |
+| Andrés Calamaro | Media verónica | 1997 |
+| Gustavo Cerati | Engaña | 1999 |
+| Gustavo Cerati | Cosas imposibles | 2002 |
 
 ## Fuera del mazo (12)
 

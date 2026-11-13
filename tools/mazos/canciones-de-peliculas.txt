@@ -1,0 +1,105 @@
+# nombre: Canciones de películas
+# formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión) | película
+# El año es el del tema. Si el tema es anterior a la película (por ejemplo "Stand by Me"), vale el año del tema.
+Bill Haley & His Comets | Rock Around the Clock | 1954 | | Semilla de maldad
+Elvis Presley | Jailhouse Rock | 1957 | | El rock de la cárcel
+Chuck Berry | Johnny B. Goode | 1958 | | Volver al futuro
+Ben E. King | Stand by Me | 1961 | | Cuenta conmigo
+Audrey Hepburn | Moon River | 1961 | | Desayuno en Tiffany's
+Dick Dale | Misirlou | 1962 | | Pulp Fiction
+The Ronettes | Be My Baby | 1963 | | Dirty Dancing
+Roy Orbison | Oh, Pretty Woman | 1964 | | Mujer bonita
+Shirley Bassey | Goldfinger | 1964 | | 007 contra Goldfinger
+Julie Andrews | Supercalifragilisticexpialidocious | 1964 | | Mary Poppins
+Chuck Berry | You Never Can Tell | 1964 | | Pulp Fiction
+The Righteous Brothers | Unchained Melody | 1965 | | Ghost: la sombra del amor
+Simon & Garfunkel | Mrs. Robinson | 1968 | | El graduado
+Steppenwolf | Born to Be Wild | 1968 | | Busco mi destino
+B.J. Thomas | Raindrops Keep Fallin' on My Head | 1969 | | Butch Cassidy
+Isaac Hayes | Theme from Shaft | 1971 | | Shaft
+Stealers Wheel | Stuck in the Middle with You | 1972 | | Perros de la calle
+Paul McCartney & Wings | Live and Let Die | 1973 | | 007: Vivir y dejar morir
+Blue Swede | Hooked on a Feeling | 1974 | | Guardianes de la galaxia
+Redbone | Come and Get Your Love | 1974 | | Guardianes de la galaxia
+ABBA | Mamma Mia | 1975 | | Mamma Mia!
+Bee Gees | Stayin' Alive | 1977 | | Fiebre de sábado por la noche
+Bee Gees | How Deep Is Your Love | 1977 | | Fiebre de sábado por la noche
+Iggy Pop | Lust for Life | 1977 | | Trainspotting
+John Travolta | You're the One That I Want | 1978 | | Grease (Vaselina)
+John Travolta | Summer Nights | 1978 | | Grease (Vaselina)
+Olivia Newton-John | Hopelessly Devoted to You | 1978 | | Grease (Vaselina)
+Bob Seger | Old Time Rock & Roll | 1979 | | Negocios riesgosos
+Irene Cara | Fame | 1980 | | Fama
+Queen | Flash | 1980 | | Flash Gordon
+Survivor | Eye of the Tiger | 1982 | | Rocky III
+Irene Cara | Flashdance... What a Feeling | 1983 | | Flashdance
+Michael Sembello | Maniac | 1983 | | Flashdance
+Kenny Loggins | Footloose | 1984 | | Footloose
+Bonnie Tyler | Holding Out for a Hero | 1984 | | Footloose
+Ray Parker Jr. | Ghostbusters | 1984 | | Los cazafantasmas
+Prince | When Doves Cry | 1984 | | Purple Rain
+Joe Esposito | You're the Best | 1984 | | Karate Kid
+Glenn Frey | The Heat Is On | 1984 | | Un detective suelto en Hollywood
+Stevie Wonder | I Just Called to Say I Love You | 1984 | | La mujer de rojo
+Simple Minds | Don't You (Forget About Me) | 1985 | | El club de los cinco
+Huey Lewis & The News | The Power of Love | 1985 | | Volver al futuro
+Tina Turner | We Don't Need Another Hero (Thunderdome) | 1985 | | Mad Max: más allá de la cúpula del trueno
+Cyndi Lauper | The Goonies 'R' Good Enough | 1985 | | Los Goonies
+Lionel Richie | Say You, Say Me | 1985 | | Noches blancas
+Yello | Oh Yeah | 1985 | | Todo en un día
+James Brown | Living in America | 1985 | | Rocky IV
+Kenny Loggins | Danger Zone | 1986 | | Top Gun
+Berlin | Take My Breath Away | 1986 | | Top Gun
+Queen | Who Wants to Live Forever | 1986 | | Highlander
+Peter Cetera | Glory of Love | 1986 | | Karate Kid 2
+Orchestral Manoeuvres In The Dark | If You Leave | 1986 | | La chica de rosa
+Bill Medley | (I've Had) The Time of My Life | 1987 | | Dirty Dancing
+Patrick Swayze | She's Like the Wind | 1987 | | Dirty Dancing
+Los Lobos | La Bamba | 1987 | | La Bamba
+The Proclaimers | I'm Gonna Be (500 Miles) | 1988 | | Benny & Joon
+Samuel E. Wright | Under the Sea | 1989 | | La sirenita
+Bryan Adams | (Everything I Do) I Do It for You | 1991 | | Robin Hood: príncipe de los ladrones
+Celine Dion | Beauty and the Beast | 1991 | | La bella y la bestia
+Whitney Houston | I Will Always Love You | 1992 | | El guardaespaldas
+Peabo Bryson | A Whole New World | 1992 | | Aladdín
+Rage Against The Machine | Wake Up | 1992 | | Matrix
+Bruce Springsteen | Streets of Philadelphia | 1993 | | Filadelfia
+Elton John | Can You Feel the Love Tonight | 1994 | | El rey león
+Nathan Lane | Hakuna Matata | 1994 | | El rey león
+Wet Wet Wet | Love Is All Around | 1994 | | Cuatro bodas y un funeral
+Seal | Kiss from a Rose | 1994 | | Batman eternamente
+Lisa Loeb | Stay (I Missed You) | 1994 | | Reality Bites
+Coolio | Gangsta's Paradise | 1995 | | Mentes peligrosas
+Randy Newman | You've Got a Friend in Me | 1995 | | Toy Story
+Des'ree | Kissing You | 1996 | | Romeo y Julieta
+Celine Dion | My Heart Will Go On | 1997 | | Titanic
+Will Smith | Men in Black | 1997 | | Hombres de negro
+Aerosmith | I Don't Want to Miss a Thing | 1998 | | Armageddon
+Goo Goo Dolls | Iris | 1998 | | Un ángel enamorado
+Madonna | Beautiful Stranger | 1999 | | Austin Powers 2
+Phil Collins | You'll Be in My Heart | 1999 | | Tarzán
+Ronan Keating | When You Say Nothing at All | 1999 | | Un lugar llamado Notting Hill
+Smash Mouth | All Star | 1999 | | Shrek
+Limp Bizkit | Take a Look Around | 2000 | | Misión imposible 2
+Christina Aguilera | Lady Marmalade | 2001 | | Moulin Rouge
+Smash Mouth | I'm a Believer | 2001 | | Shrek
+Rufus Wainwright | Hallelujah | 2001 | | Shrek
+Chad Kroeger | Hero | 2002 | | El hombre araña
+Eminem | Lose Yourself | 2002 | | 8 Millas
+Adele | Skyfall | 2012 | | Skyfall
+Pharrell Williams | Happy | 2013 | | Mi villano favorito 2
+Idina Menzel | Let It Go | 2013 | | Frozen
+Wiz Khalifa | See You Again | 2015 | | Rápidos y furiosos 7
+Sam Smith | Writing's on the Wall | 2015 | | Spectre
+Justin Timberlake | Can't Stop the Feeling! | 2016 | | Trolls
+Ryan Gosling | City of Stars | 2016 | | La La Land
+Auli'i Cravalho | How Far I'll Go | 2016 | | Moana
+Keala Settle | This Is Me | 2017 | | El gran showman
+Lady Gaga | Shallow | 2018 | | Nace una estrella
+Kendrick Lamar | All the Stars | 2018 | | Pantera Negra
+Post Malone | Sunflower | 2018 | | Spider-Man: un nuevo universo
+Billie Eilish | No Time To Die | 2020 | | Sin tiempo para morir
+Carolina Gaitán | We Don't Talk About Bruno | 2021 | | Encanto
+Lady Gaga | Hold My Hand | 2022 | | Top Gun: Maverick
+Dua Lipa | Dance The Night | 2023 | | Barbie
+Billie Eilish | What Was I Made For? | 2023 | | Barbie

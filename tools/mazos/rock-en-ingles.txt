@@ -1,7 +1,7 @@
 # nombre: Rock en inglés
 # formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
-The Beatles | Twist and Shout | 1963
-The Beatles | Help! | 1965
+The Beatles | Twist and Shout | 1963 | reserva
+The Beatles | Help! | 1965 | reserva
 The Beatles | Yesterday | 1965
 The Beatles | Hey Jude | 1968
 The Beatles | Here Comes the Sun | 1969
@@ -35,7 +35,7 @@ Lynyrd Skynyrd | Sweet Home Alabama | 1974
 Queen | Bohemian Rhapsody | 1975
 Queen | We Will Rock You | 1977
 Queen | Don't Stop Me Now | 1978
-Queen | Another One Bites the Dust | 1980
+Queen | Another One Bites the Dust | 1980 | reserva
 Queen | Under Pressure | 1981
 Boston | More Than a Feeling | 1976
 Eagles | Hotel California | 1976
@@ -101,3 +101,76 @@ Coldplay | Viva la Vida | 2008
 Kings of Leon | Sex on Fire | 2008
 Imagine Dragons | Radioactive | 2012
 Arctic Monkeys | Do I Wanna Know? | 2013
+Little Richard | Tutti Frutti | 1955
+Elvis Presley | Jailhouse Rock | 1957
+Buddy Holly | Peggy Sue | 1957
+Chuck Berry | Johnny B. Goode | 1958
+The Beach Boys | Surfin' U.S.A. | 1963
+Bob Dylan | Like a Rolling Stone | 1965
+The Byrds | Mr. Tambourine Man | 1965
+The Mamas & The Papas | California Dreamin' | 1965
+The Beach Boys | Good Vibrations | 1966
+The Monkees | I'm a Believer | 1966
+The Turtles | Happy Together | 1967
+Procol Harum | A Whiter Shade of Pale | 1967
+Big Brother & The Holding Company | Piece of My Heart | 1968
+Steppenwolf | Born to Be Wild | 1968
+The Zombies | Time of the Season | 1968
+The Guess Who | American Woman | 1970
+Free | All Right Now | 1970
+T. Rex | Get It On | 1971
+Eagles | Take It Easy | 1972
+Lou Reed | Walk on the Wild Side | 1972
+Aerosmith | Dream On | 1973
+Billy Joel | Piano Man | 1973
+Ramones | Blitzkrieg Bop | 1976
+Sex Pistols | Anarchy in the U.K. | 1976
+Thin Lizzy | The Boys Are Back in Town | 1976
+Blue Öyster Cult | (Don't Fear) The Reaper | 1976
+Electric Light Orchestra | Mr. Blue Sky | 1977
+Blondie | Heart of Glass | 1978
+The Knack | My Sharona | 1979
+The Pretenders | Brass in Pocket | 1979
+Ozzy Osbourne | Crazy Train | 1980
+Pat Benatar | Hit Me with Your Best Shot | 1980
+Journey | Don't Stop Believin' | 1981
+Joan Jett & The Blackhearts | I Love Rock 'n' Roll | 1981
+Billy Idol | White Wedding | 1982
+Iron Maiden | The Trooper | 1983
+Van Halen | Jump | 1984
+Foreigner | I Want to Know What Love Is | 1984
+Scorpions | Still Loving You | 1984
+Bryan Adams | Summer of '69 | 1984
+Simple Minds | Don't You (Forget About Me) | 1985
+The Cult | She Sells Sanctuary | 1985
+Midnight Oil | Beds Are Burning | 1987
+Tom Petty | Free Fallin' | 1989
+Scorpions | Wind of Change | 1990
+Alice In Chains | Man in the Box | 1990
+Soul Asylum | Runaway Train | 1992
+Stone Temple Pilots | Plush | 1992
+Soundgarden | Black Hole Sun | 1994
+Weezer | Buddy Holly | 1994
+Bush | Glycerine | 1994
+Live | Lightning Crashes | 1994
+The Smashing Pumpkins | 1979 | 1995
+Third Eye Blind | Semi-Charmed Life | 1997
+Goo Goo Dolls | Iris | 1998
+Aerosmith | I Don't Want to Miss a Thing | 1998
+Bon Jovi | It's My Life | 2000
+Nickelback | How You Remind Me | 2001
+System Of A Down | Chop Suey! | 2001
+Audioslave | Like a Stone | 2002
+Queens of the Stone Age | No One Knows | 2002
+Evanescence | Bring Me to Life | 2003
+Jet | Are You Gonna Be My Girl | 2003
+Green Day | Boulevard of Broken Dreams | 2004
+My Chemical Romance | Welcome to the Black Parade | 2006
+Snow Patrol | Chasing Cars | 2006
+Paramore | Misery Business | 2007
+MGMT | Kids | 2007
+Florence + The Machine | Dog Days Are Over | 2008
+Foster The People | Pumped Up Kicks | 2010
+The Black Keys | Lonely Boy | 2011
+Twenty One Pilots | Stressed Out | 2015
+Måneskin | Beggin' | 2017
