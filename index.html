@@ -108,6 +108,7 @@ h1,h2,h3{font-family:var(--f-display);margin:0;text-wrap:balance;line-height:1.0
 .row.tight button.slot{min-width:14px;font-size:13px}
 .stage.wide{flex-direction:row;flex-wrap:wrap;align-content:center;gap:12px 18px}
 .quit.vista{right:64px}
+.quit.orient{right:auto;left:2px}
 .rail{position:absolute;transform:translate(-50%,-50%) rotate(var(--rot));display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:5px;padding:4px 6px}
 .rail.on::before{content:"";position:absolute;inset:-4px 0 0;background:radial-gradient(ellipse 60% 75% at 50% 70%,rgba(255,244,214,.55),transparent 75%);pointer-events:none}
 .row{position:relative;display:flex;align-items:stretch;gap:5px;max-width:100%;overflow-x:auto;padding:4px 2px;scrollbar-width:none}
@@ -376,7 +377,11 @@ function layoutMesa(tw,th,n){
   [a,b]=land?[T,tw-T]:[m,tw-130];L=(b-a)/C[2];for(let i=0;i<C[2];i++)s.push({cx:a+L*(i+.5),cy:T/2,L,T,rot:180});
   [a,b]=land?[top0,th-m]:[T,th-T];L=(b-a)/C[3];for(let i=0;i<C[3];i++)s.push({cx:tw-T/2,cy:a+L*(i+.5),L,T,rot:-90});
   // "todas hacia abajo": nada gira; arriba la línea queda derecha y las de los costados van de arriba hacia abajo
-  if(orient()==="abajo")for(const x of s){if(Math.abs(x.rot)===90)x.vert=true;x.rot=0}
+  if(orient()==="abajo"){
+    for(const x of s){if(Math.abs(x.rot)===90)x.vert=true;x.rot=0}
+    // nadie está sentado en un borde fijo: el que juega pasa al lugar de abajo y el resto sigue la ronda
+    const r=s.slice();for(let k=0;k<n;k++)s[(state.current+k)%n]=r[k];
+  }
   const rot=s[state.current].rot,side=Math.abs(rot)%180===90,w0=tw-2*T-20,h0=th-2*T-20;
   return{tw,th,seats:s,stage:{cx:tw/2,cy:th/2,w:side?h0:w0,h:side?w0:h0,rot,wide:false}};
 }
@@ -443,8 +448,11 @@ function currentLine(fit){
 
 /* Cuánto mide cada carta en una línea. Si a tamaño normal quedarían de menos de 50 px, pasan a angostas. */
 function fitLine(n,on,seat){
-  if(seat.vert){ // línea vertical: cartas apaisadas, una abajo de la otra
-    const placed=on&&state.placement!==null,big=Math.min(seat.T-20,60),slotsN=on?n+1:0;
+  if(seat.vert){ // línea vertical: cartas una abajo de la otra
+    const placed=on&&state.placement!==null,big=Math.min(seat.T-20,60),slotsN=on?n+1:0,k=n+(placed?1:0);
+    const wn=Math.min(seat.T-24,(seat.L-70-slotsN*22-k*5)/Math.max(1,k)/1.36);
+    if(wn>=50)return{slim:false,cw:Math.round(wn)}; // entran como cartas normales, con artista y tema
+    // si no entran, apaisadas con el año grande
     const avail=seat.L-70-(placed?Math.round(big*1.36)+3:0); // la etiqueta del jugador ocupa dos renglones en una línea angosta
     const h=Math.round(clamp((avail-slotsN*17-n*3)/Math.max(1,n),16,40));
     return{bar:true,slim:true,cw:big,big,w:Math.round(seat.T-16),h,fs:Math.round(Math.min(h*.62,18))};
@@ -597,6 +605,7 @@ function viewGame(){
   const cw=Math.max(40,Math.min(84,(g.wide?g.h/1.9:g.h/4.4)));
   return `<button class="quit" data-act="quit">Salir</button>
     <button class="quit vista" data-act="vista" title="Cambiar entre vista de mesa (tablet) y de pantalla (compu)">${vista()==="pantalla"?"Vista mesa":"Vista pantalla"}</button>
+    ${vista()==="mesa"?`<button class="quit orient" data-act="orientgame" title="Cambiar cómo miran las cartas">${orient()==="abajo"?"Cartas: a cada uno":"Cartas: abajo"}</button>`:""}
     ${state.players.map((p,i)=>railHTML(p,seats[i])).join("")}
     <div class="stage ${g.wide?"wide":""}" id="stage" style="left:${g.cx}px;top:${g.cy}px;width:${g.w}px;height:${g.h}px;--rot:${ui.angle}deg;--cw:${cw}px">${stageInner(cw)}</div>
     ${modalHTML(target)}`;
@@ -726,6 +735,7 @@ document.addEventListener("click",e=>{
     case "vista":setVista(vista()==="pantalla"?"mesa":"pantalla");ui.flipDone=true;if(!ui.stealT)ui.stealDone=true;render();break;
     case "vistaset":setVista(b.dataset.v);render();break;
     case "orient":setOrient(b.dataset.v);render();break;
+    case "orientgame":setOrient(orient()==="abajo"?"jugador":"abajo");ui.flipDone=true;if(!ui.stealT)ui.stealDone=true;render();break;
     case "spconnect":Spotify.login();break;
     case "spdisconnect":Spotify.logout();break;
     case "resume":state=loadSaved();if(!state){render();break}useMazo(state.mazo||"rock-nacional");ui.flipDone=true;ui.stealDone=true;ui.angle=null;keepAwake();render();playCurrent();break;
