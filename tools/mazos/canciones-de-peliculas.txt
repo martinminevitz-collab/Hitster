@@ -1,105 +1,106 @@
 # nombre: Canciones de películas
+# playlist: 3P24zGB9qJfvzv6NRhcezs
 # formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión) | película
 # El año es el del tema. Si el tema es anterior a la película (por ejemplo "Stand by Me"), vale el año del tema.
-Bill Haley & His Comets | Rock Around the Clock | 1954 | | Semilla de maldad
-Elvis Presley | Jailhouse Rock | 1957 | | El rock de la cárcel
-Chuck Berry | Johnny B. Goode | 1958 | | Volver al futuro
-Ben E. King | Stand by Me | 1961 | | Cuenta conmigo
-Audrey Hepburn | Moon River | 1961 | | Desayuno en Tiffany's
-Dick Dale | Misirlou | 1962 | | Pulp Fiction
-The Ronettes | Be My Baby | 1963 | | Dirty Dancing
-Roy Orbison | Oh, Pretty Woman | 1964 | | Mujer bonita
-Shirley Bassey | Goldfinger | 1964 | | 007 contra Goldfinger
-Julie Andrews | Supercalifragilisticexpialidocious | 1964 | | Mary Poppins
-Chuck Berry | You Never Can Tell | 1964 | | Pulp Fiction
-The Righteous Brothers | Unchained Melody | 1965 | | Ghost: la sombra del amor
-Simon & Garfunkel | Mrs. Robinson | 1968 | | El graduado
-Steppenwolf | Born to Be Wild | 1968 | | Busco mi destino
-B.J. Thomas | Raindrops Keep Fallin' on My Head | 1969 | | Butch Cassidy
-Isaac Hayes | Theme from Shaft | 1971 | | Shaft
-Stealers Wheel | Stuck in the Middle with You | 1972 | | Perros de la calle
-Paul McCartney & Wings | Live and Let Die | 1973 | | 007: Vivir y dejar morir
-Blue Swede | Hooked on a Feeling | 1974 | | Guardianes de la galaxia
-Redbone | Come and Get Your Love | 1974 | | Guardianes de la galaxia
-ABBA | Mamma Mia | 1975 | | Mamma Mia!
-Bee Gees | Stayin' Alive | 1977 | | Fiebre de sábado por la noche
-Bee Gees | How Deep Is Your Love | 1977 | | Fiebre de sábado por la noche
-Iggy Pop | Lust for Life | 1977 | | Trainspotting
-John Travolta | You're the One That I Want | 1978 | | Grease (Vaselina)
-John Travolta | Summer Nights | 1978 | | Grease (Vaselina)
-Olivia Newton-John | Hopelessly Devoted to You | 1978 | | Grease (Vaselina)
-Bob Seger | Old Time Rock & Roll | 1979 | | Negocios riesgosos
-Irene Cara | Fame | 1980 | | Fama
-Queen | Flash | 1980 | | Flash Gordon
-Survivor | Eye of the Tiger | 1982 | | Rocky III
-Irene Cara | Flashdance... What a Feeling | 1983 | | Flashdance
-Michael Sembello | Maniac | 1983 | | Flashdance
-Kenny Loggins | Footloose | 1984 | | Footloose
-Bonnie Tyler | Holding Out for a Hero | 1984 | | Footloose
-Ray Parker Jr. | Ghostbusters | 1984 | | Los cazafantasmas
-Prince | When Doves Cry | 1984 | | Purple Rain
-Joe Esposito | You're the Best | 1984 | | Karate Kid
-Glenn Frey | The Heat Is On | 1984 | | Un detective suelto en Hollywood
-Stevie Wonder | I Just Called to Say I Love You | 1984 | | La mujer de rojo
-Simple Minds | Don't You (Forget About Me) | 1985 | | El club de los cinco
-Huey Lewis & The News | The Power of Love | 1985 | | Volver al futuro
-Tina Turner | We Don't Need Another Hero (Thunderdome) | 1985 | | Mad Max: más allá de la cúpula del trueno
-Cyndi Lauper | The Goonies 'R' Good Enough | 1985 | | Los Goonies
-Lionel Richie | Say You, Say Me | 1985 | | Noches blancas
-Yello | Oh Yeah | 1985 | | Todo en un día
-James Brown | Living in America | 1985 | | Rocky IV
-Kenny Loggins | Danger Zone | 1986 | | Top Gun
-Berlin | Take My Breath Away | 1986 | | Top Gun
-Queen | Who Wants to Live Forever | 1986 | | Highlander
-Peter Cetera | Glory of Love | 1986 | | Karate Kid 2
-Orchestral Manoeuvres In The Dark | If You Leave | 1986 | | La chica de rosa
-Bill Medley | (I've Had) The Time of My Life | 1987 | | Dirty Dancing
-Patrick Swayze | She's Like the Wind | 1987 | | Dirty Dancing
-Los Lobos | La Bamba | 1987 | | La Bamba
-The Proclaimers | I'm Gonna Be (500 Miles) | 1988 | | Benny & Joon
-Samuel E. Wright | Under the Sea | 1989 | | La sirenita
-Bryan Adams | (Everything I Do) I Do It for You | 1991 | | Robin Hood: príncipe de los ladrones
-Celine Dion | Beauty and the Beast | 1991 | | La bella y la bestia
-Whitney Houston | I Will Always Love You | 1992 | | El guardaespaldas
-Peabo Bryson | A Whole New World | 1992 | | Aladdín
-Rage Against The Machine | Wake Up | 1992 | | Matrix
-Bruce Springsteen | Streets of Philadelphia | 1993 | | Filadelfia
-Elton John | Can You Feel the Love Tonight | 1994 | | El rey león
-Nathan Lane | Hakuna Matata | 1994 | | El rey león
-Wet Wet Wet | Love Is All Around | 1994 | | Cuatro bodas y un funeral
-Seal | Kiss from a Rose | 1994 | | Batman eternamente
-Lisa Loeb | Stay (I Missed You) | 1994 | | Reality Bites
-Coolio | Gangsta's Paradise | 1995 | | Mentes peligrosas
-Randy Newman | You've Got a Friend in Me | 1995 | | Toy Story
-Des'ree | Kissing You | 1996 | | Romeo y Julieta
-Celine Dion | My Heart Will Go On | 1997 | | Titanic
-Will Smith | Men in Black | 1997 | | Hombres de negro
-Aerosmith | I Don't Want to Miss a Thing | 1998 | | Armageddon
-Goo Goo Dolls | Iris | 1998 | | Un ángel enamorado
-Madonna | Beautiful Stranger | 1999 | | Austin Powers 2
-Phil Collins | You'll Be in My Heart | 1999 | | Tarzán
-Ronan Keating | When You Say Nothing at All | 1999 | | Un lugar llamado Notting Hill
-Smash Mouth | All Star | 1999 | | Shrek
-Limp Bizkit | Take a Look Around | 2000 | | Misión imposible 2
-Christina Aguilera | Lady Marmalade | 2001 | | Moulin Rouge
-Smash Mouth | I'm a Believer | 2001 | | Shrek
-Rufus Wainwright | Hallelujah | 2001 | | Shrek
-Chad Kroeger | Hero | 2002 | | El hombre araña
-Eminem | Lose Yourself | 2002 | | 8 Millas
-Adele | Skyfall | 2012 | | Skyfall
-Pharrell Williams | Happy | 2013 | | Mi villano favorito 2
-Idina Menzel | Let It Go | 2013 | | Frozen
-Wiz Khalifa | See You Again | 2015 | | Rápidos y furiosos 7
-Sam Smith | Writing's on the Wall | 2015 | | Spectre
-Justin Timberlake | Can't Stop the Feeling! | 2016 | | Trolls
-Ryan Gosling | City of Stars | 2016 | | La La Land
-Auli'i Cravalho | How Far I'll Go | 2016 | | Moana
-Keala Settle | This Is Me | 2017 | | El gran showman
-Lady Gaga | Shallow | 2018 | | Nace una estrella
-Kendrick Lamar | All the Stars | 2018 | | Pantera Negra
-Post Malone | Sunflower | 2018 | | Spider-Man: un nuevo universo
-Billie Eilish | No Time To Die | 2020 | | Sin tiempo para morir
-Carolina Gaitán | We Don't Talk About Bruno | 2021 | | Encanto
-Lady Gaga | Hold My Hand | 2022 | | Top Gun: Maverick
-Dua Lipa | Dance The Night | 2023 | | Barbie
-Billie Eilish | What Was I Made For? | 2023 | | Barbie
+Bill Haley & His Comets | Rock Around the Clock | 1954 | spotify:4YXvM3J4tfEgcRWsuTiJeB, ok-año, ok-versión | Semilla de maldad
+Elvis Presley | Jailhouse Rock | 1957 | spotify:4gphxUgq0JSFv2BCLhNDiE, ok-versión | El rock de la cárcel
+Chuck Berry | Johnny B. Goode | 1958 | spotify:2QfiRTz5Yc8DdShCxG1tB2 | Volver al futuro
+Ben E. King | Stand by Me | 1961 | spotify:3SdTKo2uVsxFblQjpScoHy, ok-año | Cuenta conmigo
+Audrey Hepburn | Moon River | 1961 | spotify:2EOo6tJpZIgmVQHmUv1dtg, ok-versión | Desayuno en Tiffany's
+Dick Dale | Misirlou | 1962 | spotify:1hlT8E7Zk07UgTphcFJidJ | Pulp Fiction
+The Ronettes | Be My Baby | 1963 | spotify:1WN4uNclrDuczTO3bCr8s1 | Dirty Dancing
+Roy Orbison | Oh, Pretty Woman | 1964 | spotify:01jOnfF6OMQx2ZgC3nKi3o, fuera | Mujer bonita
+Shirley Bassey | Goldfinger | 1964 | spotify:22IZCY5XOrnmwmfDzr053R, ok-año, ok-versión | 007 contra Goldfinger
+Julie Andrews | Supercalifragilisticexpialidocious | 1964 | spotify:5cvzqk8wsmLA9P7LrZCRb2, ok-versión | Mary Poppins
+Chuck Berry | You Never Can Tell | 1964 | spotify:6FT83pFXKhDlXDsNJFAHWz, ok-versión | Pulp Fiction
+The Righteous Brothers | Unchained Melody | 1965 | spotify:2qhASBzpbFhPRtrnZ5lLnz | Ghost: la sombra del amor
+Simon & Garfunkel | Mrs. Robinson | 1968 | spotify:6i5vGqXmUxwyQyiEkVVo6G, ok-versión | El graduado
+Steppenwolf | Born to Be Wild | 1968 | spotify:2VPGmrcBw5X4yAu3B8UZNE, ok-versión | Busco mi destino
+B.J. Thomas | Raindrops Keep Fallin' on My Head | 1969 | spotify:0oMTxTIHAt3hstaoObsmFs, ok-versión | Butch Cassidy
+Isaac Hayes | Theme from Shaft | 1971 | spotify:4GPzDnkvhLdNLsI8xYkcLO, ok-versión | Shaft
+Stealers Wheel | Stuck in the Middle with You | 1972 | spotify:3Vby4nGmtbDo7HDJamOWkT | Perros de la calle
+Paul McCartney & Wings | Live and Let Die | 1973 | spotify:5F1KPBA60tNgtIEzl4vwHI, fuera | 007: Vivir y dejar morir
+Blue Swede | Hooked on a Feeling | 1973 | spotify:4PLDCPnxz4duALtJwdlqE9 | Guardianes de la galaxia
+Redbone | Come and Get Your Love | 1973 | spotify:23hrvdvkIi1X1voQG2bJH9 | Guardianes de la galaxia
+ABBA | Mamma Mia | 1975 | spotify:2TxCwUlqaOH3TIyJqGgR91 | Mamma Mia!
+Bee Gees | Stayin' Alive | 1977 | spotify:2Lz4iCypeUTy62CP3Xwk6i, ok-versión | Fiebre de sábado por la noche
+Bee Gees | How Deep Is Your Love | 1977 | spotify:2tAaAsvb9tqyMKBC2sbQid, ok-versión | Fiebre de sábado por la noche
+Iggy Pop | Lust for Life | 1977 | spotify:21YxK0klhpfLW8budkJaMF | Trainspotting
+John Travolta | You're the One That I Want | 1978 | spotify:1OBAPPxgujYUVYerorsg90, ok-versión | Grease (Vaselina)
+John Travolta | Summer Nights | 1978 | spotify:2AVkArcfALVk2X8sfPRzya, ok-versión | Grease (Vaselina)
+Olivia Newton-John | Hopelessly Devoted to You | 1978 | spotify:62PQbEvmoliAsIfJpFKX6F, fuera | Grease (Vaselina)
+Bob Seger | Old Time Rock & Roll | 1978 | spotify:5EOoMWIB9iK4ZpcSex9Ec7 | Negocios riesgosos
+Irene Cara | Fame | 1980 | spotify:0ryKcLwHBonJgSVvE0IblU, ok-versión | Fama
+Queen | Flash | 1980 | spotify:4kxDvEIjqrOCEDtaSXJXHP, fuera | Flash Gordon
+Survivor | Eye of the Tiger | 1982 | spotify:2HHtWyy5CgaQbC7XSoOb0e | Rocky III
+Irene Cara | Flashdance... What a Feeling | 1983 | spotify:39ZgyFCf8pVphJfuV5xkiW, ok-año, ok-versión | Flashdance
+Michael Sembello | Maniac | 1983 | spotify:0QKfiqpEU4h9ycPSzIFwYe, ok-versión | Flashdance
+Kenny Loggins | Footloose | 1984 | spotify:6W2VbtvMrDXm5vYeB7amkO, ok-versión | Footloose
+Bonnie Tyler | Holding Out for a Hero | 1984 | spotify:4ojl5o30oQFdavVkpYYgYk, fuera | Footloose
+Ray Parker Jr. | Ghostbusters | 1984 | spotify:2Sm4UVxZvNe3k2yxrPPeJO, fuera | Los cazafantasmas
+Prince | When Doves Cry | 1984 | spotify:6sby78fghipoXHQLeeZFFH | Purple Rain
+Joe Esposito | You're the Best | 1984 | fuera | Karate Kid
+Glenn Frey | The Heat Is On | 1984 | spotify:4yVYOpNP5OBi0YyieRL33O, ok-versión | Un detective suelto en Hollywood
+Stevie Wonder | I Just Called to Say I Love You | 1984 | spotify:4ruHS8PIYMhRD9D5FXYgqM | La mujer de rojo
+Simple Minds | Don't You (Forget About Me) | 1985 | spotify:5Y8Rj0s6wuM5DlQdllYiWl, ok-versión | El club de los cinco
+Huey Lewis & The News | The Power of Love | 1985 | spotify:6BeOb7wvuMugzPi853W3HU, ok-versión | Volver al futuro
+Tina Turner | We Don't Need Another Hero (Thunderdome) | 1985 | spotify:50XXRUFNjs85P0MjCZ1c9X | Mad Max: más allá de la cúpula del trueno
+Cyndi Lauper | The Goonies 'R' Good Enough | 1985 | spotify:1hY60LJWE6B9gHV1Oi9kE5, ok-versión | Los Goonies
+Lionel Richie | Say You, Say Me | 1985 | spotify:17CPezzLWzvGfpZW6X8XT0 | Noches blancas
+Yello | Oh Yeah | 1985 | spotify:6K7JSTOrKQi2zMbEXRdJyC, fuera | Todo en un día
+James Brown | Living in America | 1985 | spotify:0T1OrvV6bOQVL2vSQiDn6W, ok-versión | Rocky IV
+Kenny Loggins | Danger Zone | 1986 | spotify:50J6XwEbkYxNb5e4k6R9s1, fuera | Top Gun
+Berlin | Take My Breath Away | 1986 | spotify:1hZJcuz9iMoz6tLkFlIaUy, ok-versión | Top Gun
+Queen | Who Wants to Live Forever | 1986 | spotify:3kLZptMCccE21dytQ8bvcv, ok-versión | Highlander
+Peter Cetera | Glory of Love | 1986 | spotify:1eyq8cjUQ2daFthW2PC2GM | Karate Kid 2
+Orchestral Manoeuvres In The Dark | If You Leave | 1986 | spotify:05oFyvdztPdpwSwpoclD4c, ok-versión | La chica de rosa
+Bill Medley | (I've Had) The Time of My Life | 1987 | spotify:6W7ztLBiRzBN46ZaPAcQ0F, ok-versión | Dirty Dancing
+Patrick Swayze | She's Like the Wind | 1987 | spotify:3IJY8cdmwPRj2mGavppjCc, ok-año | Dirty Dancing
+Los Lobos | La Bamba | 1987 | spotify:0uMMLry3hzWGn3q3loqMkm | La Bamba
+The Proclaimers | I'm Gonna Be (500 Miles) | 1988 | spotify:67iAlVNDDdddxqSD2EZhFs, ok-año | Benny & Joon
+Samuel E. Wright | Under the Sea | 1989 | spotify:6oYkwjI1TKP9D0Y9II1GT7, ok-versión | La sirenita
+Bryan Adams | (Everything I Do) I Do It for You | 1991 | spotify:1Eb90nmqTrxylKFhcUzW8P | Robin Hood: príncipe de los ladrones
+Celine Dion | Beauty and the Beast | 1991 | spotify:7B3UAPLYAbwXVgbHSKEaTw, ok-versión | La bella y la bestia
+Whitney Houston | I Will Always Love You | 1992 | spotify:4eHbdreAnSOrDDsFfc4Fpm | El guardaespaldas
+Peabo Bryson | A Whole New World | 1992 | spotify:32eutEsa8LRg7AsnCZHJaE | Aladdín
+Rage Against The Machine | Wake Up | 1992 | spotify:2QiqwOVUctPRVggO9G1Zs5 | Matrix
+Bruce Springsteen | Streets of Philadelphia | 1993 | spotify:5Nj8kBJdpJJ4I9wxQyp8JH, ok-versión | Filadelfia
+Elton John | Can You Feel the Love Tonight | 1994 | spotify:1Rbdbumw7guL6Ufps9fdgP, fuera | El rey león
+Nathan Lane | Hakuna Matata | 1994 | spotify:1FtFKXjGORcYvnw5EyIznl, fuera | El rey león
+Wet Wet Wet | Love Is All Around | 1994 | spotify:5vCQBUIWzPj0MnRcqhHJfs, ok-versión | Cuatro bodas y un funeral
+Seal | Kiss from a Rose | 1994 | spotify:3YKptz29AsOlm7WAVnztBh | Batman eternamente
+Lisa Loeb | Stay (I Missed You) | 1994 | spotify:00U1MDChdOTxWwtKoOoBXE | Reality Bites
+Coolio | Gangsta's Paradise | 1995 | spotify:1DIXPcTDzTj8ZMHt3PDt8p | Mentes peligrosas
+Randy Newman | You've Got a Friend in Me | 1995 | spotify:2stkLJ0JNcXkIRDNF3ld6c | Toy Story
+Des'ree | Kissing You | 1996 | fuera | Romeo y Julieta
+Celine Dion | My Heart Will Go On | 1997 | spotify:6e7N7cQ8MuPtu3FweRQYJz, ok-año, ok-versión | Titanic
+Will Smith | Men in Black | 1997 | spotify:3erVSz5zNidXId7Joo4bg4, ok-versión | Hombres de negro
+Aerosmith | I Don't Want to Miss a Thing | 1998 | spotify:5qlJg0Wbj3sslxfwiaRNpq, ok-versión | Armageddon
+Goo Goo Dolls | Iris | 1998 | spotify:4DPdJvSMB6hmrjgC5eC85d | Un ángel enamorado
+Madonna | Beautiful Stranger | 1999 | spotify:4jRaFkR8dBYwbKXryAI29a, ok-versión | Austin Powers 2
+Phil Collins | You'll Be in My Heart | 1999 | spotify:0DidTYZASn99B0whVcUumP, fuera | Tarzán
+Ronan Keating | When You Say Nothing at All | 1999 | spotify:4Yt8zTDHrKpzpwcxB6pDp7 | Un lugar llamado Notting Hill
+Smash Mouth | All Star | 1999 | spotify:3cfOd4CMv2snFaKAnMdnvK, ok-año, ok-versión | Shrek
+Limp Bizkit | Take a Look Around | 2000 | spotify:2avKuMN2QXkaG9vvHa2JLt | Misión imposible 2
+Christina Aguilera | Lady Marmalade | 2001 | spotify:6kWk4F4eQtApqOT1c6XJpj, fuera | Moulin Rouge
+Smash Mouth | I'm a Believer | 2001 | spotify:0C9jZPUv4SuaXkuEQw6L40 | Shrek
+Rufus Wainwright | Hallelujah | 2001 | spotify:5USZyz6dnBEn1oLsKcAKQy, ok-versión | Shrek
+Chad Kroeger | Hero | 2002 | spotify:779ooI3rBd0CLqCiiJmtVo, ok-versión | El hombre araña
+Eminem | Lose Yourself | 2002 | spotify:1v7L65Lzy0j0vdpRjJewt1, ok-versión | 8 Millas
+Adele | Skyfall | 2012 | spotify:6VObnIkLVruX4UVyxWhlqm | Skyfall
+Pharrell Williams | Happy | 2013 | spotify:0s3olIAndtYz8sEBTyCKjW | Mi villano favorito 2
+Idina Menzel | Let It Go | 2013 | spotify:5SEFk7Qt1kbXxUVkJ44wJ2, fuera | Frozen
+Wiz Khalifa | See You Again | 2015 | spotify:4KhqxmMYkjiiNLHzNnB7Dh, ok-versión | Rápidos y furiosos 7
+Sam Smith | Writing's on the Wall | 2015 | spotify:1PWnAEQcbwQwK759otUbta, ok-versión | Spectre
+Justin Timberlake | Can't Stop the Feeling! | 2016 | spotify:6JV2JOEocMgcZxYSZelKcc, ok-versión | Trolls
+Ryan Gosling | City of Stars | 2016 | spotify:5BMwpS4iYKR30kq9U9beaT | La La Land
+Auli'i Cravalho | How Far I'll Go | 2016 | spotify:6mb6lVLNrcUgLnEN8QnDJd, ok-versión | Moana
+Keala Settle | This Is Me | 2017 | spotify:2xGjteMU3E1tkEPVFBO08U | El gran showman
+Lady Gaga | Shallow | 2018 | spotify:2VxeLyX666F8uXCJ0dZF8B | Nace una estrella
+Kendrick Lamar | All the Stars | 2018 | spotify:66kQ7wr4d2LwwSjr7HXcyr, ok-versión | Pantera Negra
+Post Malone | Sunflower | 2018 | spotify:0RiRZpuVRbi7oqRdSMwhQY, ok-versión | Spider-Man: un nuevo universo
+Billie Eilish | No Time To Die | 2020 | spotify:73SpzrcaHk0RQPFP73vqVR | Sin tiempo para morir
+Carolina Gaitán | We Don't Talk About Bruno | 2021 | spotify:52xJxFP6TqMuO4Yt0eOkMz | Encanto
+Lady Gaga | Hold My Hand | 2022 | spotify:0oWraSo5ASJ0h1BEagTyEw | Top Gun: Maverick
+Dua Lipa | Dance The Night | 2023 | spotify:1vYXt7VSjH9JIM5oRRo7vA, ok-versión | Barbie
+Billie Eilish | What Was I Made For? | 2023 | spotify:14NK3uHQg0VGP1ywBnHJbz, ok-versión | Barbie

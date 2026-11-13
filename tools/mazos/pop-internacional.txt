@@ -1,164 +1,165 @@
 # nombre: Pop internacional
+# playlist: 33NAmPoYNGLnITHtLgZHFS
 # formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
-ABBA | Mamma Mia | 1975
-ABBA | Dancing Queen | 1976
-Bee Gees | Stayin' Alive | 1977
-Village People | Y.M.C.A. | 1978
-Gloria Gaynor | I Will Survive | 1978
-Earth, Wind & Fire | September | 1978
-Donna Summer | Hot Stuff | 1979
-Kool & The Gang | Celebration | 1980
-Phil Collins | In the Air Tonight | 1981
-Michael Jackson | Billie Jean | 1982
-Michael Jackson | Beat It | 1982
-Michael Jackson | Thriller | 1982
-Duran Duran | Hungry Like the Wolf | 1982
-Eurythmics | Sweet Dreams (Are Made of This) | 1983
-Cyndi Lauper | Girls Just Want to Have Fun | 1983
-Culture Club | Karma Chameleon | 1983
-Bonnie Tyler | Total Eclipse of the Heart | 1983
-Irene Cara | Flashdance... What a Feeling | 1983
-Lionel Richie | All Night Long (All Night) | 1983
-Madonna | Like a Virgin | 1984
-Prince | Purple Rain | 1984
-Wham! | Wake Me Up Before You Go-Go | 1984
-George Michael | Careless Whisper | 1984
-Stevie Wonder | I Just Called to Say I Love You | 1984
-Tina Turner | What's Love Got to Do with It | 1984
-Kenny Loggins | Footloose | 1984
-a-ha | Take On Me | 1985
-Tears for Fears | Everybody Wants to Rule the World | 1985
-Pet Shop Boys | West End Girls | 1985
-Whitney Houston | I Wanna Dance with Somebody (Who Loves Me) | 1987
-Michael Jackson | Smooth Criminal | 1987
-Rick Astley | Never Gonna Give You Up | 1987
-Madonna | Like a Prayer | 1989
-Roxette | The Look | 1989
-Madonna | Vogue | 1990
-Ace of Base | All That She Wants | 1992
-Whitney Houston | I Will Always Love You | 1992
-Haddaway | What Is Love | 1993
-Mariah Carey | Hero | 1993
-No Doubt | Don't Speak | 1995
-Alanis Morissette | Ironic | 1995
-Spice Girls | Wannabe | 1996
-Aqua | Barbie Girl | 1997
-Celine Dion | My Heart Will Go On | 1997
-Robbie Williams | Angels | 1997
-Britney Spears | ...Baby One More Time | 1998
-Eiffel 65 | Blue (Da Ba Dee) | 1998
-Backstreet Boys | I Want It That Way | 1999
-Christina Aguilera | Genie in a Bottle | 1999
-Ricky Martin | Livin' la Vida Loca | 1999
-TLC | No Scrubs | 1999
-Destiny's Child | Say My Name | 1999
-Nelly Furtado | I'm Like a Bird | 2000
-Kylie Minogue | Can't Get You Out of My Head | 2001
-Eminem | Lose Yourself | 2002
-Beyoncé | Crazy in Love | 2003
-Britney Spears | Toxic | 2003
-OutKast | Hey Ya! | 2003
-Black Eyed Peas | Where Is the Love? | 2003
-James Blunt | You're Beautiful | 2004
-Gwen Stefani | Hollaback Girl | 2005
-Madonna | Hung Up | 2005
-Justin Timberlake | SexyBack | 2006
-Nelly Furtado | Promiscuous | 2006
-Amy Winehouse | Rehab | 2006
-Rihanna | Umbrella | 2007
-Mika | Grace Kelly | 2007
-Lady Gaga | Poker Face | 2008
-Katy Perry | I Kissed a Girl | 2008
-Taylor Swift | Love Story | 2008
-Lady Gaga | Bad Romance | 2009
-Black Eyed Peas | I Gotta Feeling | 2009
-Adele | Rolling in the Deep | 2010
-Bruno Mars | Just the Way You Are | 2010
-Adele | Someone Like You | 2011
-LMFAO | Party Rock Anthem | 2011
-Gotye | Somebody That I Used to Know | 2011
-Carly Rae Jepsen | Call Me Maybe | 2011
-PSY | Gangnam Style | 2012
-Rihanna | Diamonds | 2012
-Daft Punk | Get Lucky | 2013
-Pharrell Williams | Happy | 2013
-Avicii | Wake Me Up | 2013
-Katy Perry | Roar | 2013
-Mark Ronson | Uptown Funk | 2014
-Taylor Swift | Shake It Off | 2014
-Sia | Chandelier | 2014
-Adele | Hello | 2015
-Justin Bieber | Sorry | 2015
-Ed Sheeran | Shape of You | 2017
-Ed Sheeran | Perfect | 2017
-Dua Lipa | New Rules | 2017
-Lewis Capaldi | Someone You Loved | 2018
-Billie Eilish | bad guy | 2019
-The Weeknd | Blinding Lights | 2019
-Dua Lipa | Levitating | 2020
-Olivia Rodrigo | drivers license | 2021
-Harry Styles | As It Was | 2022
-Taylor Swift | Anti-Hero | 2022
-Miley Cyrus | Flowers | 2023
-The Supremes | You Can't Hurry Love | 1966
-Aretha Franklin | Respect | 1967
-The Jackson 5 | I Want You Back | 1969
-Carpenters | (They Long to Be) Close to You | 1970
-Marvin Gaye | Let's Get It On | 1973
-Barry White | You're the First, the Last, My Everything | 1974
-KC & The Sunshine Band | That's the Way (I Like It) | 1975
-Boney M. | Rasputin | 1978
-Chic | Le Freak | 1978
-Olivia Newton-John | Physical | 1981
-The Human League | Don't You Want Me | 1981
-Men At Work | Down Under | 1981
-Kim Wilde | Kids in America | 1981
-Dexys Midnight Runners | Come On Eileen | 1982
-Elton John | I'm Still Standing | 1983
-Nena | 99 Luftballons | 1983
-Spandau Ballet | True | 1983
-Starship | We Built This City | 1985
-Simply Red | Holding Back the Years | 1985
-Bananarama | Venus | 1986
-Belinda Carlisle | Heaven Is a Place on Earth | 1987
-Bobby McFerrin | Don't Worry Be Happy | 1988
-Tracy Chapman | Fast Car | 1988
-Paula Abdul | Straight Up | 1988
-Technotronic | Pump Up The Jam | 1989
-MC Hammer | U Can't Touch This | 1990
-Vanilla Ice | Ice Ice Baby | 1990
-Snap! | Rhythm Is a Dancer | 1992
-Dr. Alban | It's My Life | 1992
-2 Unlimited | No Limit | 1993
-Corona | The Rhythm of the Night | 1993
-Culture Beat | Mr. Vain | 1993
-La Bouche | Be My Lover | 1995
-Alice Deejay | Better Off Alone | 1999
-Shaggy | It Wasn't Me | 2000
-Pink | Get the Party Started | 2001
-Shakira | Whenever, Wherever | 2001
-Avril Lavigne | Complicated | 2002
-Usher | Yeah! | 2004
-Kelly Clarkson | Since U Been Gone | 2004
-Mariah Carey | We Belong Together | 2005
-Leona Lewis | Bleeding Love | 2007
-Timbaland | Apologize | 2007
-Flo Rida | Low | 2007
-Kesha | TiK ToK | 2009
-Owl City | Fireflies | 2009
-David Guetta | Titanium | 2011
-Maroon 5 | Moves Like Jagger | 2011
-fun. | We Are Young | 2011
-OneRepublic | Counting Stars | 2013
-Clean Bandit | Rather Be | 2014
-Meghan Trainor | All About That Bass | 2014
-Calvin Harris | Summer | 2014
-Major Lazer | Lean On | 2015
-Camila Cabello | Havana | 2017
-Lizzo | Truth Hurts | 2017
-Post Malone | Circles | 2019
-Doja Cat | Say So | 2019
-Glass Animals | Heat Waves | 2020
-Sabrina Carpenter | Espresso | 2024
-Benson Boone | Beautiful Things | 2024
-Chappell Roan | Good Luck, Babe! | 2024
+ABBA | Mamma Mia | 1975 | spotify:2TxCwUlqaOH3TIyJqGgR91
+ABBA | Dancing Queen | 1976 | spotify:0GjEhVFGZW8afUYGChu3Rr
+Bee Gees | Stayin' Alive | 1977 | spotify:2Lz4iCypeUTy62CP3Xwk6i, ok-versión
+Village People | Y.M.C.A. | 1978 | spotify:2MtwLMtwLU17payh5C4fYG, fuera
+Gloria Gaynor | I Will Survive | 1978 | spotify:7rIovIsXE6kMn629b7kDig, ok-año
+Earth, Wind & Fire | September | 1978 | spotify:3kXoKlD84c6OmIcOLfrfEs
+Donna Summer | Hot Stuff | 1979 | spotify:2zMJN9JvDlvGP4jB03l1Bz
+Kool & The Gang | Celebration | 1980 | spotify:3K7Q9PHUWPTaknlbFPThn2
+Phil Collins | In the Air Tonight | 1981 | spotify:18AXbzPzBS8Y3AkgSxzJPb
+Michael Jackson | Billie Jean | 1982 | spotify:7J1uxwnxfQLu4APicE5Rnj
+Michael Jackson | Beat It | 1982 | spotify:3BovdzfaX4jb5KFQwoPfAw
+Michael Jackson | Thriller | 1982 | spotify:2LlQb7Uoj1kKyGhlkBf9aC
+Duran Duran | Hungry Like the Wolf | 1982 | spotify:6SQcBpkyFszmFBzfEyMoLr
+Eurythmics | Sweet Dreams (Are Made of This) | 1983 | spotify:7taoA5HMETX54bLLdHN28C
+Cyndi Lauper | Girls Just Want to Have Fun | 1983 | spotify:4y1LsJpmMti1PfRQV9AWWe
+Culture Club | Karma Chameleon | 1983 | spotify:3XDeeP9wBZzGhIPZmLfEEx
+Bonnie Tyler | Total Eclipse of the Heart | 1983 | spotify:1VrfLrBviw9A6JzRoo3t2C
+Irene Cara | Flashdance... What a Feeling | 1983 | spotify:39ZgyFCf8pVphJfuV5xkiW, ok-año, ok-versión
+Lionel Richie | All Night Long (All Night) | 1983 | spotify:1DxT6f6mH7kLriOUWbujup
+Madonna | Like a Virgin | 1984 | spotify:1ZPlNanZsJSPK5h9YZZFbZ
+Prince | Purple Rain | 1984 | spotify:1uvyZBs4IZYRebHIB1747m
+Wham! | Wake Me Up Before You Go-Go | 1984 | spotify:0ikz6tENMONtK6qGkOrU3c
+George Michael | Careless Whisper | 1984 | spotify:6KsgCYcZKPcBRDNGhiZWRR
+Stevie Wonder | I Just Called to Say I Love You | 1984 | spotify:4ruHS8PIYMhRD9D5FXYgqM
+Tina Turner | What's Love Got to Do with It | 1984 | spotify:4kOfxxnW1ukZdsNbCKY9br, ok-versión
+Kenny Loggins | Footloose | 1984 | spotify:6W2VbtvMrDXm5vYeB7amkO, ok-versión
+a-ha | Take On Me | 1985 | spotify:2WfaOiMkCvy7F5fcp2zZ8L, ok-año
+Tears for Fears | Everybody Wants to Rule the World | 1985 | spotify:2YiCMmONQcoMPX2bV1LxE0
+Pet Shop Boys | West End Girls | 1985 | spotify:2Di0qFNb7ATroCGB3q0Ka7, ok-año
+Whitney Houston | I Wanna Dance with Somebody (Who Loves Me) | 1987 | spotify:2tUBqZG2AbRi7Q0BIrVrEj
+Michael Jackson | Smooth Criminal | 1987 | spotify:5FdalXawYnUXKUUKEuiZiR, ok-versión
+Rick Astley | Never Gonna Give You Up | 1987 | spotify:4PTG3Z6ehGkBFwjybzWkR8
+Madonna | Like a Prayer | 1989 | spotify:2v7ywbUzCgcVohHaKUcacV
+Roxette | The Look | 1988 | spotify:1aYkkrAbPmMuorVz5HWIqE
+Madonna | Vogue | 1990 | spotify:4vNuuqBFdid5yTSWtppBYx
+Ace of Base | All That She Wants | 1992 | spotify:6kWJvPfC4DgUpRsXKNa9z9
+Whitney Houston | I Will Always Love You | 1992 | spotify:4eHbdreAnSOrDDsFfc4Fpm
+Haddaway | What Is Love | 1993 | spotify:7JkZ2hQdDonRURJjlMuh8q, ok-año, ok-versión
+Mariah Carey | Hero | 1993 | spotify:5mgCMlxQW7fmHbrdJuowbB
+No Doubt | Don't Speak | 1995 | spotify:6urCAbunOQI4bLhmGpX7iS
+Alanis Morissette | Ironic | 1995 | spotify:0YrqlzPliyMZJ3IN8HbKbW, ok-versión
+Spice Girls | Wannabe | 1996 | spotify:1Je1IMUlBXcx1Fz0WE7oPT
+Aqua | Barbie Girl | 1997 | spotify:5ZrDlcxIDZyjOzHdYW1ydr
+Celine Dion | My Heart Will Go On | 1997 | spotify:6e7N7cQ8MuPtu3FweRQYJz, ok-año, ok-versión
+Robbie Williams | Angels | 1997 | spotify:1M2nd8jNUkkwrc1dgBPTJz
+Britney Spears | ...Baby One More Time | 1998 | spotify:69UbAXVf54kgZVy1U7nJY3, ok-versión
+Eiffel 65 | Blue (Da Ba Dee) | 1998 | spotify:4LR2F6Ka8s2AVyPrkeKhXK, fuera
+Backstreet Boys | I Want It That Way | 1999 | spotify:47BBI51FKFwOMlIiX6m8ya
+Christina Aguilera | Genie in a Bottle | 1999 | spotify:11mwFrKvLXCbcVGNxffGyP
+Ricky Martin | Livin' la Vida Loca | 1999 | spotify:0Ph6L4l8dYUuXFmb71Ajnd
+TLC | No Scrubs | 1999 | spotify:5qWbj4FZBCzFvSeVKXFb2l
+Destiny's Child | Say My Name | 1999 | spotify:6bqmItvswBZXz94uadglov, ok-año
+Nelly Furtado | I'm Like a Bird | 2000 | spotify:2aGw77pZqli064JiPuXYRi, ok-año
+Kylie Minogue | Can't Get You Out of My Head | 2001 | spotify:3E7ZwUMJFqpsDOJzEkBrQ7
+Eminem | Lose Yourself | 2002 | spotify:1v7L65Lzy0j0vdpRjJewt1, ok-versión
+Beyoncé | Crazy in Love | 2003 | spotify:0HNhD6CVCJzjKLvhLRCEqk, fuera
+Britney Spears | Toxic | 2003 | spotify:6I9VzXrHxO9rA9A5euc8Ak
+OutKast | Hey Ya! | 2003 | spotify:2PpruBYCo4H7WOBJ7Q2EwM
+Black Eyed Peas | Where Is the Love? | 2003 | spotify:0xmjwnQ3FNE6HuWCt2nHdZ
+James Blunt | You're Beautiful | 2004 | spotify:0vg4WnUWvze6pBOJDTq99k
+Gwen Stefani | Hollaback Girl | 2004 | spotify:0eqH0ALoDQevq59YcQ53KE
+Madonna | Hung Up | 2005 | spotify:3850dYVgOFIXJh5U4BFEWH
+Justin Timberlake | SexyBack | 2006 | spotify:0O45fw2L5vsWpdsOdXwNAR, ok-versión
+Nelly Furtado | Promiscuous | 2006 | spotify:2gam98EZKrF9XuOkU13ApN
+Amy Winehouse | Rehab | 2006 | spotify:1L5tZi0izXsi5Kk5OJf4W0
+Rihanna | Umbrella | 2007 | spotify:49FYlytm3dAAraYgpoJZux
+Mika | Grace Kelly | 2006 | spotify:2SDx0PooHZI1SQKR0y44bs
+Lady Gaga | Poker Face | 2008 | spotify:1QV6tiMFM6fSOKOGLMHYYg
+Katy Perry | I Kissed a Girl | 2008 | spotify:4EvigHSRUMwU3ZBn3YnLPH
+Taylor Swift | Love Story | 2008 | spotify:1D4PL9B8gOg78jiHg3FvBb
+Lady Gaga | Bad Romance | 2009 | spotify:0kv8hQMkkfBlJxHTBIUvhP
+Black Eyed Peas | I Gotta Feeling | 2009 | spotify:2H1047e0oMSj10dgp7p2VG, ok-año
+Adele | Rolling in the Deep | 2010 | spotify:3GkqnS8Lt8LDZV565ITUwh
+Bruno Mars | Just the Way You Are | 2010 | spotify:47Slg6LuqLaX0VodpSCvPt
+Adele | Someone Like You | 2011 | spotify:1zwMYTA5nlNjZxYrvBB2pV, ok-año
+LMFAO | Party Rock Anthem | 2011 | spotify:7mitXLIMCflkhZiD34uEQI
+Gotye | Somebody That I Used to Know | 2011 | spotify:1qDrWA6lyx8cLECdZE7TV7
+Carly Rae Jepsen | Call Me Maybe | 2011 | spotify:20I6sIOMTCkB6w7ryavxtO
+PSY | Gangnam Style | 2012 | spotify:03UrZgTINDqvnUMbbIMhql
+Rihanna | Diamonds | 2012 | spotify:65YsalQBmQCzIPaay72CzQ
+Daft Punk | Get Lucky | 2013 | spotify:2pA2IoMpMbLVDc1qDGg4UC, ok-versión
+Pharrell Williams | Happy | 2013 | spotify:0s3olIAndtYz8sEBTyCKjW
+Avicii | Wake Me Up | 2013 | spotify:0nrRP2bk19rLc0orkWPQk2
+Katy Perry | Roar | 2013 | spotify:27tNWlhdAryQY04Gb2ZhUI
+Mark Ronson | Uptown Funk | 2014 | spotify:0EI7zP0JAnUEVsUISYaVS7, ok-versión
+Taylor Swift | Shake It Off | 2014 | spotify:0cqRj7pUJDkTCEsJkx8snD
+Sia | Chandelier | 2014 | spotify:3D4QFgYa3P9P0gjmv4eX6I
+Adele | Hello | 2015 | spotify:3AuzZHPlohKLpildLyORSM
+Justin Bieber | Sorry | 2015 | spotify:09CtPGIpYB4BrO8qb1RGsF
+Ed Sheeran | Shape of You | 2017 | spotify:7qiZfU4dY1lWllzX7mPBI3
+Ed Sheeran | Perfect | 2017 | spotify:0tgVpDi06FyKpA1z0VMD4v
+Dua Lipa | New Rules | 2017 | spotify:5fVcK4ibJpRsjvG5aIYTb7
+Lewis Capaldi | Someone You Loved | 2018 | spotify:3nOeRG2FMaqBLvmGKaMgbU
+Billie Eilish | bad guy | 2019 | spotify:2Fxmhks0bxGSBdJ92vM42m
+The Weeknd | Blinding Lights | 2019 | spotify:0VjIjW4GlUZAMYd2vXMi3b
+Dua Lipa | Levitating | 2020 | spotify:39LLxExYz6ewLAcYrzQQyP
+Olivia Rodrigo | drivers license | 2021 | spotify:7lPN2DXiMsVn7XUKtOW1CS
+Harry Styles | As It Was | 2022 | spotify:4Dvkj6JhhA12EX05fT7y2e
+Taylor Swift | Anti-Hero | 2022 | spotify:0V3wPSX9ygBnCm8psDIegu
+Miley Cyrus | Flowers | 2023 | spotify:7DSAEUvxU8FajXtRloy8M0
+The Supremes | You Can't Hurry Love | 1966 | spotify:4H1iMlEWKZmpKTHCZzDhju
+Aretha Franklin | Respect | 1967 | spotify:7s25THrKz86DM225dOYwnr
+The Jackson 5 | I Want You Back | 1969 | spotify:5LxvwujISqiB8vpRYv887S
+Carpenters | (They Long to Be) Close to You | 1970 | spotify:50q2aUjWoTn6CJIfSPRJQA
+Marvin Gaye | Let's Get It On | 1973 | spotify:627teoJpK7qZOxRRY8TNnv
+Barry White | You're the First, the Last, My Everything | 1974 | spotify:5dXJ1SoksFkgdx3yxIoYNO
+KC & The Sunshine Band | That's the Way (I Like It) | 1975 | spotify:0oC5e5yY0zyum1GmokM4Y4, ok-versión
+Boney M. | Rasputin | 1978 | spotify:5jkFvD4UJrmdoezzT1FRoP
+Chic | Le Freak | 1978 | spotify:3gGLZcZmbO7g1EuACjC0C8, fuera
+Olivia Newton-John | Physical | 1981 | spotify:273paQDMbi4JPeRfbYZuKx, fuera
+The Human League | Don't You Want Me | 1981 | spotify:3L7RtEcu1Hw3OXrpnthngx
+Men At Work | Down Under | 1981 | spotify:3ZZq9396zv8pcn5GYVhxUi
+Kim Wilde | Kids in America | 1981 | spotify:3LaHsdzzmvhx6TJedpomVy
+Dexys Midnight Runners | Come On Eileen | 1982 | spotify:3MrWxJaD2AT0W9DjWF64Vm
+Elton John | I'm Still Standing | 1983 | spotify:1jDJFeK9x3OZboIAHsY9k2
+Nena | 99 Luftballons | 1983 | spotify:2IJftBfq7pJ43tfnOR0RB3
+Spandau Ballet | True | 1983 | spotify:1WfcVgyKPrwdQ3Gi7abQBU, fuera
+Starship | We Built This City | 1985 | spotify:6OnfBiiSc9RGKiBKKtZXgQ
+Simply Red | Holding Back the Years | 1985 | spotify:4UYHgbn0G05jJj3iIGmiIe, fuera
+Bananarama | Venus | 1986 | spotify:4XX1pFUkQOZTYp6Hb6a6Ae
+Belinda Carlisle | Heaven Is a Place on Earth | 1987 | spotify:4upeVzV3a9zxWIokgJCRpD
+Bobby McFerrin | Don't Worry Be Happy | 1988 | spotify:4hObp5bmIJ3PP3cKA9K9GY
+Tracy Chapman | Fast Car | 1988 | spotify:2M9ro2krNb7nr7HSprkEgo
+Paula Abdul | Straight Up | 1988 | spotify:5xl5582IihbEZAnfj0xyso
+Technotronic | Pump Up The Jam | 1989 | spotify:21qnJAMtzC6S5SESuqQLEK
+MC Hammer | U Can't Touch This | 1990 | spotify:1B75hgRqe7A4fwee3g3Wmu
+Vanilla Ice | Ice Ice Baby | 1990 | spotify:11d9oUiwHuYt216EFA2tiz
+Snap! | Rhythm Is a Dancer | 1992 | spotify:5uFYYOyT3EclOVhiFzPJSz
+Dr. Alban | It's My Life | 1992 | spotify:4TOGkYS141L15SkVosAp7Z
+2 Unlimited | No Limit | 1993 | spotify:7voHUmPNDuYZ1SW1mwRu26
+Corona | The Rhythm of the Night | 1993 | spotify:08W5kgLurl3qawlKLVDWvm
+Culture Beat | Mr. Vain | 1993 | spotify:2rTYgHxgcndkUrRoU7x0Sv
+La Bouche | Be My Lover | 1995 | spotify:3YB6nCSuFqNiqOvPtAPK9X, ok-año
+Alice Deejay | Better Off Alone | 1999 | spotify:4u4JMXuhg94qU88lzeiiuq
+Shaggy | It Wasn't Me | 2000 | spotify:3WkibOpDF7cQ5xntM1epyf
+Pink | Get the Party Started | 2001 | fuera
+Shakira | Whenever, Wherever | 2001 | spotify:0RJWhctsc1G1Hg3Ov2th7x
+Avril Lavigne | Complicated | 2002 | spotify:5xEM5hIgJ1jjgcEBfpkt2F
+Usher | Yeah! | 2004 | spotify:5rb9QrpfcKFHM1EUbSIurX, ok-año, ok-versión
+Kelly Clarkson | Since U Been Gone | 2004 | spotify:6JY1IdkZGeIcPegKxjSKeb, ok-año
+Mariah Carey | We Belong Together | 2005 | spotify:4EI8VuxUuIHKfafU72emqz, ok-año
+Leona Lewis | Bleeding Love | 2007 | spotify:7wZUrN8oemZfsEd1CGkbXE
+Timbaland | Apologize | 2007 | spotify:6q3zC9dDD4lUNk8nfUztXy
+Flo Rida | Low | 2007 | spotify:4bAzLbJOkwkZEakSiKd3sZ, fuera
+Kesha | TiK ToK | 2009 | spotify:0HPD5WQqrq7wPWR7P7Dw1i
+Owl City | Fireflies | 2009 | spotify:0Lpg5YaL2ooRyUiADUMCY1
+David Guetta | Titanium | 2011 | spotify:4ycYLHmksmuDEOnGXCdBs2
+Maroon 5 | Moves Like Jagger | 2011 | spotify:1YsMJDSKkkyHcEvs52GXAe, ok-año, ok-versión
+fun. | We Are Young | 2011 | spotify:0PKlQYEEYgaQ30tisNBj7i, ok-versión
+OneRepublic | Counting Stars | 2013 | spotify:2tpWsVSb9UEmDRxAl1zhX1
+Clean Bandit | Rather Be | 2014 | spotify:0HgIbfeOw6dLuGmPippTlh, fuera
+Meghan Trainor | All About That Bass | 2014 | spotify:0ifSeVGUr7py5GggttDhXw
+Calvin Harris | Summer | 2014 | spotify:6YUTL4dYpB9xZO5qExPf05
+Major Lazer | Lean On | 2015 | spotify:4UKJUbcuStnnxLeJmVJsSc
+Camila Cabello | Havana | 2017 | spotify:1agM7M68LaVYg6SjPDByz9
+Lizzo | Truth Hurts | 2017 | spotify:4jXTQ3JP6wnsLrTDg2KZ5p, ok-año
+Post Malone | Circles | 2019 | spotify:21jGcNKet2qwijlDFuPiPb
+Doja Cat | Say So | 2019 | spotify:3Dv1eDb0MEgF93GpLXlucZ
+Glass Animals | Heat Waves | 2020 | spotify:3USxtqRwSYz57Ewm6wWRMp
+Sabrina Carpenter | Espresso | 2024 | spotify:2qSkIjg1o9h3YT9RAgYN75
+Benson Boone | Beautiful Things | 2024 | spotify:6tNQ70jh4OwmPGpYy6R2o9
+Chappell Roan | Good Luck, Babe! | 2024 | spotify:0WbMK4wrZ1wFSty9F7FCgu

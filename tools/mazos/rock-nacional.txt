@@ -1,204 +1,205 @@
 # nombre: Rock Nacional
+# playlist: 7tNwAkQZ6NyYdAfgdfX1Qq
 # formato: artista | tema | año (el año se verifica con MusicBrainz)
-Los Gatos | La balsa | 1967
-Almendra | Muchacha (ojos de papel) | 1969
-Manal | Jugo de tomate frío | 1970 | fuera
-Sui Generis | Canción para mi muerte | 1972
-Sui Generis | Rasguña las piedras | 1973
-Pescado Rabioso | Cantata de puentes amarillos | 1973
-Invisible | Durazno sangrando | 1975
-León Gieco | Sólo le pido a Dios | 1978 | ok-año
-Serú Girán | Seminare | 1978
-Serú Girán | Canción de Alicia en el país | 1980
-Virus | Wadu wadu | 1981
-Charly García | Inconsciente colectivo | 1982 | ok-año, reserva
-Charly García | Los dinosaurios | 1983
-Charly García | Nos siguen pegando abajo | 1983 | reserva
-Los Abuelos de la Nada | Mil horas | 1983
-Los Twist | Pensé que se trataba de cieguitos | 1983
-Charly García | Demoliendo hoteles | 1984
-Soda Stereo | Nada personal | 1985 | reserva
-Soda Stereo | Cuando pase el temblor | 1985
-Fito Páez | 11 y 6 | 1985
-Virus | Una luna de miel en la mano | 1985 | fuera
-Sumo | Divididos por la felicidad | 1985 | ok-año, ok-versión
-Soda Stereo | Persiana americana | 1986
-Soda Stereo | Prófugos | 1986 | reserva
-Patricio Rey y sus Redonditos de Ricota | Ji ji ji | 1986 | ok-año
-Luis Alberto Spinetta | Seguir viviendo sin tu amor | 1991
-Enanitos Verdes | La muralla verde | 1986
-Sumo | Mañana en el Abasto | 1987
-Charly García | Rezo por vos | 1987
-Charly García | Cerca de la revolución | 1984 | reserva
-Soda Stereo | En la ciudad de la furia | 1988
-Patricio Rey y sus Redonditos de Ricota | Vencedores vencidos | 1988 | ok-año
-Soda Stereo | De música ligera | 1990
-Soda Stereo | Té para tres | 1990 | ok-año, ok-versión, reserva
-Fito Páez | Y dale alegría a mi corazón | 1990
-Fito Páez | El amor después del amor | 1992
-Patricio Rey y sus Redonditos de Ricota | Un poco de amor francés | 1991
-Los Fabulosos Cadillacs | Matador | 1993 | ok-versión
-Los Rodríguez | Sin documentos | 1993
-Divididos | Qué ves | 1993
-Enanitos Verdes | Lamento boliviano | 1994
-Fito Páez | Mariposa Tecknicolor | 1994
-Los Fabulosos Cadillacs | Mal bicho | 1995
-La Renga | La balada del diablo y la muerte | 1996 | ok-año
-Andrés Calamaro | Flaca | 1997
+Los Gatos | La balsa | 1967 | spotify:4J2xMy0kakU9sAin1uppxb
+Almendra | Muchacha (ojos de papel) | 1969 | spotify:6GPkBUXMrGSkwK3TrrHHXN
+Manal | Jugo de tomate frío | 1970 | fuera, spotify:1UUm1Poj4Abv446FkrhF8r
+Sui Generis | Canción para mi muerte | 1972 | spotify:0t0Kl5jxxV3s8bdpILkgmd
+Sui Generis | Rasguña las piedras | 1973 | spotify:3lvAzKmRH8vzXQ4xm19v78
+Pescado Rabioso | Cantata de puentes amarillos | 1973 | spotify:7BCQ7bfdNpCdLmlvEGUfSG
+Invisible | Durazno sangrando | 1975 | spotify:6pjbkrGImw09Nv5Ji3emkr
+León Gieco | Sólo le pido a Dios | 1978 | ok-año, spotify:23ibUqoOsNdiOymw2fqGeH
+Serú Girán | Seminare | 1978 | spotify:7yPsoib9EoQVmK3loJgptI
+Serú Girán | Canción de Alicia en el país | 1980 | spotify:519WGo9DQCtYP72a7Lmprj
+Virus | Wadu wadu | 1981 | spotify:76ibxRco0AGhgavIY4zSRh
+Charly García | Inconsciente colectivo | 1982 | ok-año, reserva, spotify:1JTKEiTpAtlK01CEwRRals
+Charly García | Los dinosaurios | 1983 | spotify:3VCKdfJAL8DTDlwZw5O6Ik
+Charly García | Nos siguen pegando abajo | 1983 | reserva, spotify:4VikOud5ZmdmHH6h7uQeDB
+Los Abuelos de la Nada | Mil horas | 1983 | spotify:7Mj6R7TjsPxeLYu0Xdvl73
+Los Twist | Pensé que se trataba de cieguitos | 1983 | spotify:4vTjD2aIaRySj7tVo70w4D
+Charly García | Demoliendo hoteles | 1984 | spotify:29iIRrSuANyjnwag69PHOJ
+Soda Stereo | Nada personal | 1985 | reserva, spotify:4PBou1i63krEp3jKCPhxVD
+Soda Stereo | Cuando pase el temblor | 1985 | spotify:3uMYq07Kj5m564OQwdSCrD
+Fito Páez | 11 y 6 | 1985 | spotify:2PkTjm1QAJCZbJ9MqC4RqA
+Virus | Una luna de miel en la mano | 1985 | fuera, spotify:1g02x46MYE1gclJfGQiQbA
+Sumo | Divididos por la felicidad | 1985 | ok-año, ok-versión, spotify:3flkRKcEZISJOXSvTvK9PT
+Soda Stereo | Persiana americana | 1986 | spotify:71awpJoi5bqGMBrTkHDDoL
+Soda Stereo | Prófugos | 1986 | reserva, spotify:1Tja3miBbbENpqIOAqGWXa
+Patricio Rey y sus Redonditos de Ricota | Ji ji ji | 1986 | ok-año, spotify:0VWBsKl936U9OO0zypvRCZ
+Luis Alberto Spinetta | Seguir viviendo sin tu amor | 1991 | spotify:2qBirMakpTdz9ymxrZEyzg
+Enanitos Verdes | La muralla verde | 1986 | spotify:6OKhBvddAlWxxFnjbpilhu
+Sumo | Mañana en el Abasto | 1987 | spotify:6ZOzWPUbMxH24uWHP1k5Eq
+Charly García | Rezo por vos | 1987 | spotify:6dOzqs6o4DNzXs4jF2v1Yq
+Charly García | Cerca de la revolución | 1984 | reserva, spotify:66grIvFLGrI4tNhggO2DAd
+Soda Stereo | En la ciudad de la furia | 1988 | spotify:7J2885UBOaG6x3LLkp2YGf
+Patricio Rey y sus Redonditos de Ricota | Vencedores vencidos | 1988 | ok-año, spotify:1nYD14iq9R9CBUK8UvBjkK
+Soda Stereo | De música ligera | 1990 | spotify:2lpIh6Gr6HYjg1CFBaucS5
+Soda Stereo | Té para tres | 1990 | ok-año, ok-versión, reserva, spotify:5M4Kx9qHgdTQlKovj4hK9O
+Fito Páez | Y dale alegría a mi corazón | 1990 | spotify:48YvbZN5ndSIQuVorf48fM
+Fito Páez | El amor después del amor | 1992 | spotify:1PQzZbitOJ6XPFg7FFzsKQ
+Patricio Rey y sus Redonditos de Ricota | Un poco de amor francés | 1991 | spotify:14rcLGX83RpsORAIzC4U4g
+Los Fabulosos Cadillacs | Matador | 1993 | ok-versión, spotify:3EsjrObXPhXA79Cr4QixY8
+Los Rodríguez | Sin documentos | 1993 | spotify:6eOT73H5zfEwTCe1Y0FDCc
+Divididos | Qué ves | 1993 | spotify:0aad6vDkOmu9d1aFNvOwYC
+Enanitos Verdes | Lamento boliviano | 1994 | spotify:6Pur3hWy6Nzc27ilmsp5HA
+Fito Páez | Mariposa Tecknicolor | 1994 | spotify:2RognU2ViRdA6HxnpAITJl
+Los Fabulosos Cadillacs | Mal bicho | 1995 | spotify:5nofWp3plvxYX1xgHpe4fi
+La Renga | La balada del diablo y la muerte | 1996 | ok-año, spotify:4ObkiTmpsSU31gqGhTb8SH
+Andrés Calamaro | Flaca | 1997 | spotify:1p7m9H4H8s0Y7SgRm7j3ED
 Bersuit Vergarabat | Mi novia tiene bíceps | 1998 | fuera
-Bersuit Vergarabat | Se viene | 1998
-Andrés Calamaro | Crímenes perfectos | 1997
-Gustavo Cerati | Puente | 1999
-Babasónicos | Irresponsables | 2003
-Gustavo Cerati | Crimen | 2006
-Gustavo Cerati | Adiós | 2006
-Babasónicos | Yegua | 2005
-Los Gatos | Ayer nomás | 1967
-Almendra | Ana no duerme | 1969
-Almendra | Laura va | 1969
-Manal | Avellaneda blues | 1970
-Vox Dei | Presente (El tiempo es veloz) | 1970
-Arco Iris | Mañana campestre | 1972
-Sui Generis | Bienvenidos al tren | 1973
-Sui Generis | Aprendizaje | 1973 | reserva
-Sui Generis | Instituciones | 1974
-Pescado Rabioso | Bajan | 1973
-La Máquina de Hacer Pájaros | Cómo mata el viento norte | 1976
-Serú Girán | Eiti Leda | 1978 | reserva
+Bersuit Vergarabat | Se viene | 1998 | spotify:3sDmwlRdEdsb1BLDChJSJV
+Andrés Calamaro | Crímenes perfectos | 1997 | spotify:6guoJhM9n5Fm7npXJ1rfsM
+Gustavo Cerati | Puente | 1999 | spotify:6gwaa6ElIixNTvu6RwkMyo
+Babasónicos | Irresponsables | 2003 | spotify:0dsViRiDTIuexAL42Nc1Kh
+Gustavo Cerati | Crimen | 2006 | spotify:3oqWr0jDWNXxWufNogGREp
+Gustavo Cerati | Adiós | 2006 | spotify:1rh4kDY9T4fHVDum8Foi5k
+Babasónicos | Yegua | 2005 | spotify:4KEvPNXtfhZlGXNErRDLd5
+Los Gatos | Ayer nomás | 1967 | spotify:20ILhYY5QbmsNc8KKBf8w5
+Almendra | Ana no duerme | 1969 | spotify:2P2tl8JT698TJJ55ScKyku
+Almendra | Laura va | 1969 | spotify:5P5oru5iaMtaBdWzyPwb88
+Manal | Avellaneda blues | 1970 | spotify:2SeUS7JmN0oLjHPHGvDZFA
+Vox Dei | Presente (El tiempo es veloz) | 1970 | spotify:1VmfQgVk7WRkXKxiUWGoHi
+Arco Iris | Mañana campestre | 1972 | spotify:1f3uOzmizXQfkezHCdu53L
+Sui Generis | Bienvenidos al tren | 1973 | spotify:1aXdFFTTUBMdcKsAX2q3vq
+Sui Generis | Aprendizaje | 1973 | reserva, spotify:1ER1laT8sGa3uSifgRaL5u
+Sui Generis | Instituciones | 1974 | spotify:0RPoVlxtkhJPaeeCNHTy85
+Pescado Rabioso | Bajan | 1973 | spotify:6hmYi0E6EBEmDeztQHaH0C
+La Máquina de Hacer Pájaros | Cómo mata el viento norte | 1976 | spotify:7BbpLe12HpkoZJcJs1A3SP
+Serú Girán | Eiti Leda | 1978 | reserva, spotify:5G76OBTD8vkr7Ns6Nrq8gc
 Serú Girán | Viernes 3 AM | 1979 | fuera
-Serú Girán | Desarma y sangra | 1980
-Serú Girán | Peperina | 1981
-Spinetta Jade | Alma de diamante | 1980
-Luis Alberto Spinetta | Barro tal vez | 1982
-Riff | Susy Cadillac | 1982
-Raúl Porchetto | Algo de paz | 1980
-Charly García | Yendo de la cama al living | 1982
-Charly García | Promesas sobre el bidet | 1984 | reserva
-Charly García | Raros peinados nuevos | 1984 | reserva
-Charly García | No voy en tren | 1987 | reserva
-Charly García | Fanky | 1989 | reserva
-Los Twist | Cleopatra, la reina del twist | 1983
-Los Violadores | Uno, dos, ultraviolento | 1985 | fuera
-Virus | Qué hago en Manila | 1983
-Virus | Imágenes paganas | 1985 | fuera
-Los Abuelos de la Nada | Costumbres argentinas | 1984 | fuera
-Los Abuelos de la Nada | Lunes por la madrugada | 1984 | ok-versión
+Serú Girán | Desarma y sangra | 1980 | spotify:2LmFypafhOlB3z2WRsrHjA
+Serú Girán | Peperina | 1981 | spotify:3kL99Fpliaj8HWigniTIp7
+Spinetta Jade | Alma de diamante | 1980 | spotify:6F3VxUPgfcvDDpk2UxsJ5a
+Luis Alberto Spinetta | Barro tal vez | 1982 | spotify:1y96w7WDPlwByq9aISEi6G
+Riff | Susy Cadillac | 1982 | spotify:5vJBDEkzpgbWC9Gz4KWYIw
+Raúl Porchetto | Algo de paz | 1980 | spotify:70UI5FZ45cuq9cKfWXxSAd
+Charly García | Yendo de la cama al living | 1982 | spotify:13tz2i3p3x2dMK9906nVFk
+Charly García | Promesas sobre el bidet | 1984 | reserva, spotify:2MXqrO1RBfek6RoijghYYp
+Charly García | Raros peinados nuevos | 1984 | reserva, spotify:7mnf5omGMUwSfpwZrt5AZ0
+Charly García | No voy en tren | 1987 | reserva, spotify:0rliTXrA8nLBuJcxDuueWU
+Charly García | Fanky | 1989 | reserva, spotify:5iVRdHAUDp3cW2I8d6czBS
+Los Twist | Cleopatra, la reina del twist | 1983 | spotify:6XxKFdLiQG5g4xPfnBV1H5
+Los Violadores | Uno, dos, ultraviolento | 1985 | fuera, spotify:72D12oeReTwXn5TAl0UTIe
+Virus | Qué hago en Manila | 1983 | spotify:4fmwH88pFFZ7KCfneOeXxR
+Virus | Imágenes paganas | 1985 | fuera, spotify:1BweuW1Vx7eP6VUSXijezL
+Los Abuelos de la Nada | Costumbres argentinas | 1984 | fuera, spotify:4gjSEIBYgtsKyrkSMPKnTB
+Los Abuelos de la Nada | Lunes por la madrugada | 1984 | ok-versión, spotify:6Vjxx2oGhC1jS5zkeIjoSX
 GIT | Siempre es lo mismo, nada es igual | 1984 | fuera
-Soda Stereo | Sobredosis de TV | 1984 | fuera
-Soda Stereo | Trátame suavemente | 1984 | reserva
-Soda Stereo | Signos | 1986 | reserva
-Soda Stereo | Corazón delator | 1988 | reserva
-Soda Stereo | Un millón de años luz | 1990 | reserva
-Soda Stereo | Ella usó mi cabeza como un revólver | 1995 | reserva
-Soda Stereo | Zoom | 1995 | reserva
-Miguel Mateos | Cuando seas grande | 1986
-León Gieco | Cinco siglos igual | 1992
-Sumo | La rubia tarada | 1985 | ok-año, ok-versión
-Sumo | Mejor no hablar de ciertas cosas | 1985
-Fito Páez | Giros | 1985 | reserva
-Fito Páez | Ciudad de pobres corazones | 1987 | reserva
-Fito Páez | A rodar mi vida | 1992 | reserva
-Fito Páez | Dar es dar | 1996 | ok-año, reserva
-Patricio Rey y sus Redonditos de Ricota | Todo un palo | 1988 | reserva
-Patricio Rey y sus Redonditos de Ricota | Juguetes perdidos | 1996
-Patricio Rey y sus Redonditos de Ricota | Nuestro amo juega al esclavo | 1989 | reserva
-Los Fabulosos Cadillacs | Yo no me sentaría en tu mesa | 1987
-Los Fabulosos Cadillacs | Vasos vacíos | 1988
-Los Fabulosos Cadillacs | Manuel Santillán, el León | 1992 | reserva
-Enanitos Verdes | Tus viejas cartas | 1986
-Enanitos Verdes | Luz de día | 1987 | fuera
-Enanitos Verdes | Por el resto | 1987
-Rata Blanca | La leyenda del hada y el mago | 1990 | ok-versión
-Rata Blanca | Mujer amante | 1990 | ok-versión
-Attaque 77 | Hacelo por mí | 1990
-Attaque 77 | Donde las águilas se atreven | 1990
-Los Ratones Paranoicos | Para siempre | 1993 | fuera
-Divididos | Spaghetti del rock | 1991 | fuera
-Divididos | El arriero | 1993
-Divididos | Ala delta | 1991
-Los Rodríguez | Para no olvidar | 1995
-Vilma Palma e Vampiros | La pachanga | 1991
-Los Piojos | Muévelo | 1996
-Los Piojos | Tan solo | 1992 | ok-año
-Los Piojos | Como Alí | 2003
-La Renga | Panic show | 2000
-La Renga | El revelde | 1998
-La Renga | Hablando de la libertad | 1996
-Los Pericos | Runaway | 1994
-Los Pericos | Pupilas lejanas | 1998
-Los Auténticos Decadentes | La guitarra | 1995
-Viejas Locas | Me gustas mucho | 1999
-Andrés Calamaro | Alta suciedad | 1997
-Andrés Calamaro | Media verónica | 1997 | reserva
-Andrés Calamaro | Loco | 1999
-Los Caballeros de la Quema | Avanti morocha | 1998
-Bersuit Vergarabat | Sr. Cobranza | 1998
-Bersuit Vergarabat | La bolsa | 2000
-Kapanga | El mono relojero | 1997
+Soda Stereo | Sobredosis de TV | 1984 | fuera, spotify:62yy6JPlQk9srv9zJyMipA
+Soda Stereo | Trátame suavemente | 1984 | reserva, spotify:65DBZofI0b79kfHTcWWDuU
+Soda Stereo | Signos | 1986 | reserva, spotify:09L0jTQCVyvR07arr9Gn6u
+Soda Stereo | Corazón delator | 1988 | reserva, spotify:2zaZ81JI8KbYaL7210BB0U
+Soda Stereo | Un millón de años luz | 1990 | reserva, spotify:0nJrTGcXdJWkKz02UMQdzO
+Soda Stereo | Ella usó mi cabeza como un revólver | 1995 | reserva, spotify:5RzXSxR7BUhEtpqh77lMbR
+Soda Stereo | Zoom | 1995 | reserva, spotify:1djou52IdL1mVEE7gTauxo
+Miguel Mateos | Cuando seas grande | 1986 | spotify:25NeGSHqObqSJg79oir7pB
+León Gieco | Cinco siglos igual | 1992 | spotify:3fL89NetmOyr0q8c4eg8XD
+Sumo | La rubia tarada | 1985 | ok-año, ok-versión, spotify:0RaRyvHA4z1VWq9BJhA65s
+Sumo | Mejor no hablar de ciertas cosas | 1985 | spotify:0FHpUs8anxUWl3pMXMhmXj
+Fito Páez | Giros | 1985 | reserva, spotify:0XeDFZzIpnhUT4OAXsFjfx
+Fito Páez | Ciudad de pobres corazones | 1987 | reserva, spotify:1PSsStvZmJsU3CiJg8hRAx
+Fito Páez | A rodar mi vida | 1992 | reserva, spotify:24LCJ8C0D8kx6iplic9SDV
+Fito Páez | Dar es dar | 1996 | ok-año, reserva, spotify:58tnDTHguRpHhoe6Ft6B83
+Patricio Rey y sus Redonditos de Ricota | Todo un palo | 1988 | reserva, spotify:5etBIAwIW3m3Ei1K50kfSw
+Patricio Rey y sus Redonditos de Ricota | Juguetes perdidos | 1996 | spotify:2BYIXjDOaPtvEKsZLMeJsO
+Patricio Rey y sus Redonditos de Ricota | Nuestro amo juega al esclavo | 1989 | reserva, spotify:14UY2VvUlmEmSd9ILCqyUz
+Los Fabulosos Cadillacs | Yo no me sentaría en tu mesa | 1987 | spotify:7Jy41XI7wVBnXvOifdoaxG
+Los Fabulosos Cadillacs | Vasos vacíos | 1988 | spotify:198qSChSMQFuSimdeeY9gK
+Los Fabulosos Cadillacs | Manuel Santillán, el León | 1992 | reserva, spotify:3n8btBStluwMXd2T20m6Mu
+Enanitos Verdes | Tus viejas cartas | 1986 | spotify:4HfB46YTIChEV3Z3LoOFCD
+Enanitos Verdes | Luz de día | 1987 | fuera, spotify:6TqXieeBcZZHyaO14hQpKx
+Enanitos Verdes | Por el resto | 1987 | spotify:2Goy8S7mDU8mDrbgxlQ2WA
+Rata Blanca | La leyenda del hada y el mago | 1990 | ok-versión, spotify:7wuDJMcpXaIxRvJq7iG2bM
+Rata Blanca | Mujer amante | 1990 | ok-versión, spotify:4eCrF1FgVL4se3AkHOnLDL
+Attaque 77 | Hacelo por mí | 1990 | spotify:5zqXco5gN08t20hf5AO62z
+Attaque 77 | Donde las águilas se atreven | 1990 | spotify:08r5VYVdopPXFZvCkh5urw
+Los Ratones Paranoicos | Para siempre | 1993 | fuera, spotify:12L4EdgpIWpza2vI0atLEA
+Divididos | Spaghetti del rock | 1991 | fuera, spotify:6rg1MBZqggsQ5olFGTw0rr
+Divididos | El arriero | 1993 | spotify:0iFZlkyFokkZq569S7NADx
+Divididos | Ala delta | 1991 | spotify:0LTCld7MYVKCAGpi05szyV
+Los Rodríguez | Para no olvidar | 1995 | spotify:1ZGs4W7LBJy68hRPTsvMFc
+Vilma Palma e Vampiros | La pachanga | 1991 | spotify:1x6bkwDyWIOZNFY5blRSs1
+Los Piojos | Muévelo | 1996 | spotify:4xkQxDPC6RBV1Yfx6vkLsO
+Los Piojos | Tan solo | 1992 | ok-año, spotify:6Soxxi73U6SO4rOGJwYYxI
+Los Piojos | Como Alí | 2003 | spotify:0cM9sRFZWDVUJRiPS7UXnX
+La Renga | Panic show | 2000 | spotify:7ao7jtJIMzppW0p1CwEJ9Q
+La Renga | El revelde | 1998 | spotify:24o76WATbnSIhV26hHgUHn
+La Renga | Hablando de la libertad | 1996 | spotify:26pdjKYUZlwwrAnWcljX7H
+Los Pericos | Runaway | 1994 | spotify:2lqFwTECuP5VNUvzzotxWo
+Los Pericos | Pupilas lejanas | 1998 | spotify:4LJyVZnitp3nJI3gSSFhi4
+Los Auténticos Decadentes | La guitarra | 1995 | spotify:6aPoVnA9UDncMyKgTAicsO
+Viejas Locas | Me gustas mucho | 1999 | spotify:2kB1rqoTaZ3j6ChtIWGurm
+Andrés Calamaro | Alta suciedad | 1997 | spotify:55XrKecG9mBBLI3PL3KzXU
+Andrés Calamaro | Media verónica | 1997 | reserva, spotify:6p1fVa07haOPKdMgK348ZV
+Andrés Calamaro | Loco | 1997 | spotify:0jePqZlutXGa8xz6NNyKAy
+Los Caballeros de la Quema | Avanti morocha | 1998 | spotify:411J3pP54W1K9PMo72Fg2w
+Bersuit Vergarabat | Sr. Cobranza | 1998 | spotify:0zXMZx9kvFO6x58JiIh4BJ
+Bersuit Vergarabat | La bolsa | 2000 | spotify:0C3PenkD2aq1IdDFkJcA0x
+Kapanga | El mono relojero | 1998 | spotify:2RpzktQlb1SZGJBdC6eNIC
 Gustavo Cerati | Engaña | 1999 | reserva
 Gustavo Cerati | Cosas imposibles | 2002 | reserva
-Gustavo Cerati | Fuerza natural | 2009
-Babasónicos | Putita | 2001
-Babasónicos | El loco | 2003
-Intoxicados | Una vela | 2005
-Miranda! | Don | 2004
-Turf | Casanova | 2005
-Las Pelotas | Será | 2003
-Ciro y los Persas | Antes y después | 2010
-El Mató a un Policía Motorizado | Mujeres bellas y fuertes | 2017
-Airbag | Por mil noches | 2008
-Sandro | Rosa, Rosa | 1968
-Moris | Pato trabaja en una carnicería | 1970
-Pedro y Pablo | La marcha de la bronca | 1970
-Manal | Una casa con diez pinos | 1970
-Almendra | Plegaria para un niño dormido | 1969
-Vox Dei | Jeremías pies de plomo | 1971
-Aquelarre | Violencia en el parque | 1972
-Pappo's Blues | El viejo | 1973
-Pescado Rabioso | Me gusta ese tajo | 1973
-León Gieco | En el país de la libertad | 1973
-Invisible | El anillo del Capitán Beto | 1976
-Litto Nebbia | Sólo se trata de vivir | 1980
-Riff | Ruedas de metal | 1981
-Juan Carlos Baglietto | Era en abril | 1982
-Celeste Carballo | Me vuelvo cada día más loca | 1982
-Alejandro Lerner | Todo a pulmón | 1983
-Los Violadores | Represión | 1983
-Luis Alberto Spinetta | Ella también | 1983
-Pedro Aznar | A primera vista | 1984
-Viuda e Hijas de Roque Enroll | Bikini a lunares amarillo | 1984
-Los Abuelos de la Nada | Himno de mi corazón | 1984
-Virus | Amor descartable | 1985
-Miguel Mateos | Obsesión | 1986
-Miguel Mateos | Llámame si me necesitas | 1986
-Los Toreros Muertos | Yo no me quiero casar, ¿y usted? | 1986
-Virus | Sin disfraz | 1987
-Los Ratones Paranoicos | Rock del gato | 1988
-Divididos | El 38 | 1989
-Fabiana Cantilo | Mary Poppins y el deshollinador | 1991
-Hermética | Gil trabajador | 1991
-Los Piojos | Ay ay ay | 1998
-Los Auténticos Decadentes | El dinosaurio | 1992
-Los Rodríguez | Mi enfermedad | 1993
-Los Cafres | Tus ojos | 1994
-Los Pericos | Waitin' | 1994
-Los Rodríguez | Dulce condena | 1995
-Attaque 77 | Arrancacorazones | 1997
-Illya Kuryaki and the Valderramas | Abarajame | 1997
-Los Auténticos Decadentes | Loco (tu forma de ser) | 1997
-Viejas Locas | Intoxicado | 1997
-Almafuerte | Desencuentro | 1998
-Catupecu Machu | Dale! | 2000
-Kapanga | Me borré | 2001
-León Gieco | La memoria | 2001
-Kevin Johansen | Sur o no sur | 2002
-Bersuit Vergarabat | Un pacto | 2004
-La Mancha de Rolando | Arde la ciudad | 2004
-Los Tipitos | Campeón | 2004
-Intoxicados | Fuego | 2005
-Miranda! | Yo te diré | 2007
-Las Pelotas | Shine | 2009
-Tan Biónica | Ella | 2010
-El Mató a un Policía Motorizado | Chica de oro | 2012
-Tan Biónica | Arruinarse | 2013
-La Beriso | No me olvides | 2015
+Gustavo Cerati | Fuerza natural | 2009 | spotify:4nISKMNTbWKrZpGFI44pIz
+Babasónicos | Putita | 2003 | spotify:0SaKhiBPgdRaQKA7Bxu3ek
+Babasónicos | El loco | 2001 | spotify:2jEjxOyKqMpkcThWl697hf
+Intoxicados | Una vela | 2003 | spotify:5TQlPe23rDgLkgbpEgWUnI
+Miranda! | Don | 2004 | spotify:4q7gVEuLB1FtIaxGYccUFy
+Turf | Casanova | 2005 | spotify:6kJFEcl5gCPmhEtn8zroTu, fuera
+Las Pelotas | Será | 2003 | spotify:60IzIxSuVAtU71yCmHjxHH
+Ciro y los Persas | Antes y después | 2010 | spotify:2skJs6Q3KjYDhJms5AAbPT
+El Mató a un Policía Motorizado | Mujeres bellas y fuertes | 2012 | spotify:5Z5JbaluPSb1fw9TDWUlVa
+Airbag | Por mil noches | 2013 | spotify:5vHWh24GAsXJ7tnIu8v7UN
+Sandro | Rosa, Rosa | 1969 | spotify:52OXCFEd6u9SU1drzsLYOX, ok-versión
+Moris | Pato trabaja en una carnicería | 1970 | spotify:1hSypyqfB0iSx5FALwJDXw
+Pedro y Pablo | La marcha de la bronca | 1970 | spotify:65Qrbg8lrpnboMq7MVC7N8, ok-versión
+Manal | Una casa con diez pinos | 1970 | spotify:7J5QPkCSWjN7leJkKmBW5h, fuera
+Almendra | Plegaria para un niño dormido | 1969 | spotify:5BgQb3f67Hnc9qTkL3wFc3
+Vox Dei | Jeremías pies de plomo | 1972 | spotify:6v29wOEdgmm4cSuatSnl8i
+Aquelarre | Violencia en el parque | 1973 | spotify:77xcPO3rs2eOuG4APz30CJ, ok-versión
+Pappo's Blues | El viejo | 1971 | spotify:2bWMbi3iQwGxFwaPDJMhiL
+Pescado Rabioso | Me gusta ese tajo | 1973 | spotify:5eK0UAeymUyyXILUAefcj5, ok-versión
+León Gieco | En el país de la libertad | 1973 | spotify:4cfkWf9EmRZCKMZBAPebNm
+Invisible | El anillo del Capitán Beto | 1976 | spotify:23jMDvKil4frbTA35BVzBY
+Litto Nebbia | Sólo se trata de vivir | 1980 | spotify:0xE4hPgzMnClXCtDramJF3
+Riff | Ruedas de metal | 1981 | spotify:3tycTEE2eMMCwJ2SI8s3YZ
+Juan Carlos Baglietto | Era en abril | 1982 | spotify:5JQNTG6ExMEnlFZy27xRkw
+Celeste Carballo | Me vuelvo cada día más loca | 1982 | spotify:3psLitnblkvTnTKbUuTFWI
+Alejandro Lerner | Todo a pulmón | 1983 | spotify:55yjmL64b7sntfTgGOq0xG, ok-versión
+Los Violadores | Represión | 1983 | spotify:6lJ65dBNJR7zdTPiBVUvtZ
+Luis Alberto Spinetta | Ella también | 1982 | spotify:4y1ze4JPCe7XVv28VlZ4k0
+Pedro Aznar | A primera vista | 1998 | spotify:4U3hlwVmWzZVnPM1Z8gGGm
+Viuda e Hijas de Roque Enroll | Bikini a lunares amarillo | 1984 | spotify:3DC9bQ0fi0oMNGknqVUXdL, ok-año, ok-versión
+Los Abuelos de la Nada | Himno de mi corazón | 1984 | spotify:2kIhana7Cw57qXztsUb7NN, ok-versión
+Virus | Amor descartable | 1984 | spotify:46lIx69EL4rkLtlfqoomyw
+Miguel Mateos | Obsesión | 1986 | spotify:2Die7iC9WPpe37GP0f98fw, fuera
+Miguel Mateos | Llámame si me necesitas | 1986 | spotify:42HQLzOUKwStGDTNlX0DzY
+Los Toreros Muertos | Yo no me quiero casar, ¿y usted? | 1986 | fuera
+Virus | Sin disfraz | 1985 | spotify:6oi4gIt6BQCRw1ZQJj21vq
+Los Ratones Paranoicos | Rock del gato | 1989 | spotify:3QyB8F5ZhYoai6qjC3evt4
+Divididos | El 38 | 1991 | spotify:2TKA7AOxNJk89Qp5iwzxzr
+Fabiana Cantilo | Mary Poppins y el deshollinador | 1991 | spotify:7xfh6z6YnAFq2Xhp6MNnjd
+Hermética | Gil trabajador | 1991 | spotify:3l7ihSOrFwIMBBDcMpfKVL
+Los Piojos | Ay ay ay | 1994 | spotify:1v8rqsmqqf7LCVaLYIe8mm
+Los Auténticos Decadentes | El dinosaurio | 1992 | fuera
+Los Rodríguez | Mi enfermedad | 1991 | spotify:00ejRwWpMEP0bQiWHIFvNR
+Los Cafres | Tus ojos | 1997 | spotify:6yyrsrci6u2nreFlhXSy3J
+Los Pericos | Waitin' | 1992 | spotify:6EjUn5quLcTVFBUGLGwGwA
+Los Rodríguez | Dulce condena | 1993 | spotify:61X9MrPozPv0V0WbX9ACUX
+Attaque 77 | Arrancacorazones | 2003 | spotify:2zogXcCqvKJwh3o67W3GG3
+Illya Kuryaki and the Valderramas | Abarajame | 1997 | spotify:3oUNCx6pGKF1p7bc3z0iWs, fuera
+Los Auténticos Decadentes | Loco (tu forma de ser) | 1989 | spotify:3ydweVPwq9PCEVJ8WwqT6u
+Viejas Locas | Intoxicado | 1996 | spotify:0Zw0XDdk3OcEQ908B5NwuC, ok-versión
+Almafuerte | Desencuentro | 1995 | spotify:5HaGVvE3t9r7aWig5KSmwA
+Catupecu Machu | Dale! | 1997 | spotify:7BZzKUShmZjMGvHm2uiOd8
+Kapanga | Me borré | 2001 | fuera
+León Gieco | La memoria | 2001 | spotify:4jdvNdmgHxlNGmX3BACU76
+Kevin Johansen | Sur o no sur | 2002 | spotify:4ZrdXiROWN6EkeIa98DByU, fuera
+Bersuit Vergarabat | Un pacto | 2004 | spotify:0cRtb93Z80U3b0SBtsgcZL, fuera
+La Mancha de Rolando | Arde la ciudad | 2004 | spotify:3SyKG06yOK3omo29EwZ8dP, ok-año
+Los Tipitos | Campeón | 2004 | fuera
+Intoxicados | Fuego | 2005 | spotify:6q41qt2R9K8BXEzmzImEGO
+Miranda! | Yo te diré | 2004 | spotify:41LBp3sMgY9s0WLxq1jKgl
+Las Pelotas | Shine | 2009 | fuera
+Tan Biónica | Ella | 2010 | spotify:4cJlDiXUME7m45xRzpmhS3, ok-versión
+El Mató a un Policía Motorizado | Chica de oro | 2012 | spotify:3T1XVfhlXmE9gjEaow8STg
+Tan Biónica | Arruinarse | 2009 | spotify:6HxlzF7mGw1N713BL3xGZm, ok-año, ok-versión
+La Beriso | No me olvides | 2014 | spotify:6NhkUq8HPPyXIfifm94YWU

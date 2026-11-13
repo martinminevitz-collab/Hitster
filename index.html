@@ -396,7 +396,7 @@ function layoutPantalla(tw,th,n){
 
 /* ---------- piezas ---------- */
 function front(id){const s=song(id);return `<div class="face front" data-th="${esc(s.mz||"")}" style="--c:${dec(s.y)}"><span class="band"><span class="yr">${s.y}</span></span><span class="txt"><span class="ar">${esc(s.a)}</span><span class="ti">${esc(s.t)}</span></span></div>`}
-const TH_LABEL={"rock-nacional":"Hitster","rock-en-ingles":"Rock","pop-internacional":"Pop","pop-y-rock-latino":"Latino","cumbia-y-cuarteto":"Cumbia","canciones-de-peliculas":"Cine",todos:"Hitster"};
+const TH_LABEL={"rock-nacional":"Hitster","rock-en-ingles":"Rock","pop-internacional":"Pop","pop-y-rock-latino":"Latino","cumbia-y-cuarteto":"Cumbia & regg.","canciones-de-peliculas":"Cine",todos:"Hitster"};
 /* en "Todos mezclados" el dorso es neutro: si mostrara el tema del mazo, daría una pista de qué tipo de canción es */
 const deckTh=()=>MAZO===TODOS?"todos":MAZO;
 const backOf=th=>`<div class="face backf" data-th="${esc(th)}"><span class="lb">${esc(TH_LABEL[th]||"Hitster")}</span><span class="q">?</span></div>`;

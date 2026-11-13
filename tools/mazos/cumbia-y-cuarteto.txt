@@ -1,45 +1,91 @@
-# nombre: Cumbia y cuarteto
+# nombre: Cumbia, cuarteto y reggaetón
+# playlist: 178gxSj44ftGg3JYGtNAOl
 # formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
-Los Mirlos | La danza de los mirlos | 1974
-Los Palmeras | Soy sabalero | 1985
-La Mona Jiménez | Quién se ha tomado todo el vino | 1984
-La Mona Jiménez | Beso a beso | 1988
-La Sonora Dinamita | Mi cucu | 1990
-Los Palmeras | La suavecita | 1990
-Gilda | Se me ha perdido un corazón | 1993
-Gilda | Paisaje | 1993
-Gilda | No me arrepiento de este amor | 1995
-Gilda | Fuiste | 1995
-Gilda | Corazón valiente | 1995
-Los Charros | Una calle nos separa | 1996
-Antonio Ríos | Nunca me faltes | 1998
-Rodrigo | Lo mejor del amor | 1998
-Rodrigo | Fuego y pasión | 1998
-Rodrigo | Ocho cuarenta | 1999
-Rodrigo | Cómo le digo | 1999
-Rodrigo | Amor clasificado | 1999
-Ráfaga | Mentirosa | 1999
-Rodrigo | La mano de Dios | 2000
-Rodrigo | Soy cordobés | 2000
-Amar Azul | Yo me enamoré | 2000
-Damas Gratis | Se te ve la tanga | 2000
-Yerba Brava | La cumbia de los trapos | 2000
-Flor de Piedra | La vamo a tomar | 2000
-Pibes Chorros | Llegamos los Pibes Chorros | 2001
-Walter Olmos | Por lo que yo te quiero | 2001
-Celso Piña | Cumbia sobre el río | 2001
-Damas Gratis | El humo de mi fasito | 2002
-Ráfaga | Una cerveza | 2002
-Leo Mattioli | Llorarás más de diez veces | 2004
-Karina | Corazón mentiroso | 2008
-Los Palmeras | El bombón asesino | 2009
-Américo | Te vas | 2008
-Chico Trujillo | Loca | 2008
-Bomba Estéreo | Fuego | 2008
-Grupo 5 | Motor y motivo | 2015
-Marama | Loquita | 2016
-Rombai | Locuras contigo | 2016
-Los Ángeles Azules | Nunca es suficiente | 2018
-Ke Personajes | Pensando en ti | 2019
-La K'onga | Universo paralelo | 2021
-L-Gante | L-Gante RKT | 2021
+Los Mirlos | La danza de los mirlos | 1974 | spotify:2jnq2bneNUS6pgIvuVhXjs, ok-año, ok-versión
+Los Palmeras | Soy sabalero | 1985 | spotify:6MIulZ9FG6Td02EpvFC5ZL, ok-año, ok-versión
+La Mona Jiménez | Quién se ha tomado todo el vino | 1984 | spotify:7cIuLJf6nziM45HNA5muIG, fuera
+La Mona Jiménez | Beso a beso | 1998 | spotify:0vV3UvotpuHNC3mmKbUpSS
+La Sonora Dinamita | Mi cucu | 1988 | spotify:1xDzCTo8r53RR85eYnlDs7, ok-versión
+Los Palmeras | La suavecita | 1986 | spotify:54yogggJ4NhuXFobql9zNY, ok-año
+Gilda | Se me ha perdido un corazón | 1993 | spotify:2aJ6ZzHq5qi61v4tvSmuUZ, ok-año, ok-versión
+Gilda | Paisaje | 1995 | spotify:5kTBOyDZXWayo6IseCHIk8
+Gilda | No me arrepiento de este amor | 1995 | spotify:7GuBriHu6rqrrT7YgVIf0W, ok-año, ok-versión
+Gilda | Fuiste | 1995 | spotify:4fLd1pIpGwV4IEbQNyQMLh
+Gilda | Corazón valiente | 1995 | spotify:0busmIRreccUUVg6bkMKnQ
+Los Charros | Una calle nos separa | 1996 | fuera
+Antonio Ríos | Nunca me faltes | 1996 | spotify:5XzVdBQbbexpDXQbwzxADj
+Rodrigo | Lo mejor del amor | 1996 | spotify:7g8FwoWCD7MzMOVN5ZgNkz, ok-versión
+Rodrigo | Fuego y pasión | 1999 | spotify:0SBHkYiZh8ih1RHoOcDtHl
+Rodrigo | Ocho cuarenta | 1999 | spotify:6jDx3MNG0yJdrvEBZohKBE
+Rodrigo | Cómo le digo | 1999 | spotify:4nH1lpWkgzQPpTYPPjWKaI
+Rodrigo | Amor clasificado | 1999 | spotify:5MK642wCaNr9hRDZ3kWyDX
+Ráfaga | Mentirosa | 1999 | spotify:3Iw4UVS7fo2TdD6Spmgqaj, ok-año
+Rodrigo | La mano de Dios | 2000 | spotify:7HPE3gX2LPxRAGlzyMg14u
+Rodrigo | Soy cordobés | 2000 | spotify:5wG4J1UECH0c42YhMhSkcS
+Amar Azul | Yo me enamoré | 1997 | spotify:6pHggeQk3ZnOm10uAnsqAG, ok-versión
+Damas Gratis | Se te ve la tanga | 2000 | spotify:3GUMMzUB7Kk0BSqxEDyieS, ok-versión
+Yerba Brava | La cumbia de los trapos | 2000 | spotify:79yOF3p0RbIAnrxxF8wiPS
+Flor de Piedra | La vamo a tomar | 2000 | fuera
+Pibes Chorros | Llegamos los Pibes Chorros | 2002 | spotify:4nHxblCYu7x3rKpzYlOyVw
+Walter Olmos | Por lo que yo te quiero | 2001 | spotify:3dKjmF3Yjl79hybcSkE9M5
+Celso Piña | Cumbia sobre el río | 2001 | spotify:30UFr2onAT8cAWeuQDZeo4, ok-versión
+Damas Gratis | El humo de mi fasito | 2004 | spotify:0afBIRqOPTLPNHzRMPLEf0
+Ráfaga | Una cerveza | 2002 | spotify:3LNZSTiwQYL7BnTfHvIOII, fuera
+Leo Mattioli | Llorarás más de diez veces | 2004 | spotify:46kxzCwAMxrneUFJJT1njt, ok-año
+Karina | Corazón mentiroso | 2009 | spotify:2ZkWTFZ9rQCl6ccNAOO79L
+Los Palmeras | El bombón asesino | 2009 | fuera
+Américo | Te vas | 2008 | spotify:52Hrx4DcPuIvfDh6cNxJW7
+Chico Trujillo | Loca | 2008 | spotify:01VMPSphGhG2hQiDQ3m5QJ
+Bomba Estéreo | Fuego | 2008 | spotify:4MvZ76WfNDmkVeQKmqzkah
+Grupo 5 | Motor y motivo | 2005 | spotify:2yjHvbMtfyoXXJYpsR3rYP
+Marama | Loquita | 2015 | spotify:2xjcDF21U2ccgE2LEeiMbf
+Rombai | Locuras contigo | 2016 | spotify:1l2PePdQTozcTqYom0hf70
+Los Ángeles Azules | Nunca es suficiente | 2018 | spotify:0NLCproVurQVarImbC5coP
+Ke Personajes | Pensando en ti | 2019 | fuera
+La K'onga | Universo paralelo | 2021 | spotify:2oA9whiinAF0PBKmz2X3Lx
+L-Gante | L-Gante RKT | 2020 | spotify:6rn1wX7fvkOgxbmJ50gBNP, ok-año
+Tego Calderón | Pa' que retozen | 2002
+Don Omar | Dile | 2003
+Don Omar | Pobre diabla | 2003
+Ivy Queen | Quiero bailar | 2003
+Daddy Yankee | Lo que pasó, pasó | 2004
+Wisin & Yandel | Llamé pa' verte | 2006
+Don Omar | Salió el sol | 2009
+Wisin & Yandel | Abusadora | 2009
+Tito El Bambino | El amor | 2009
+Daddy Yankee | Limbo | 2012
+Plan B | Si no le contesto | 2014
+Nicky Jam | Travesuras | 2014
+J Balvin | Ay vamos | 2014
+J Balvin | 6 AM | 2014
+Maluma | Borró cassette | 2015
+Yandel | Encantadora | 2015
+Nicky Jam | Hasta el amanecer | 2016
+Zion & Lennox | Otra vez | 2016
+Bad Bunny | Soy peor | 2016
+CNCO | Reggaetón lento (Bailemos) | 2016
+Becky G | Mayores | 2017
+Natti Natasha | Criminal | 2017
+Nio Garcia | Te boté | 2017
+Daddy Yankee | Dura | 2018
+Daddy Yankee | Con calma | 2019
+Anuel AA | China | 2019
+Bad Bunny | Callaíta | 2019
+Sech | Otro trago | 2019
+Rauw Alejandro | Tattoo | 2019
+Nicki Nicole | Wapo traketero | 2019
+Duki | Goteo | 2019
+Maluma | Hawái | 2020
+Bad Bunny | Safaera | 2020
+Karol G | Bichota | 2020
+Myke Towers | La curiosidad | 2020
+Rauw Alejandro | Todo de ti | 2021
+Farruko | Pepas | 2021
+María Becerra | Automático | 2021
+Emilia | Como si no importara | 2022
+Feid | Normal | 2022
+Manuel Turizo | La bachata | 2022
+Lali | Disciplina | 2022
+Bizarrap | Quevedo: Bzrp Music Sessions, Vol. 52 | 2022
+Tini | Cupido | 2023
+Karol G | Si antes te hubiera conocido | 2024

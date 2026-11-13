@@ -1,143 +1,144 @@
 # nombre: Pop y rock latino
+# playlist: 6A1UQkLY8hPfTHVjONX4vj
 # formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
-Ritchie Valens | La Bamba | 1958
-Raphael | Mi gran noche | 1967
-Santana | Oye como va | 1970
-Nino Bravo | Libre | 1972
-Julio Iglesias | Soy un truhán, soy un señor | 1978
-Camilo Sesto | Vivir así es morir de amor | 1978
-Miguel Bosé | Amante bandido | 1984
-Hombres G | Devuélveme a mi chica | 1985
-Miami Sound Machine | Conga | 1985
-Mecano | Hijo de la Luna | 1986
-Mecano | Cruz de navajas | 1986
-Los Prisioneros | El baile de los que sobran | 1986
-Luis Miguel | Ahora te puedes marchar | 1987
-Gipsy Kings | Bamboléo | 1987
-Caifanes | La negra Tomasa | 1988
-Luis Miguel | La incondicional | 1989
-Juan Luis Guerra | Ojalá que llueva café | 1989
-Juan Luis Guerra | La bilirrubina | 1990
-Maná | Rayando el sol | 1990
-Héroes del Silencio | Entre dos tierras | 1990
-Héroes del Silencio | Maldito duende | 1990
-Maná | Oye mi amor | 1992
-Selena | Como la flor | 1992
-Carlos Vives | La gota fría | 1993
-Gloria Estefan | Mi tierra | 1993
-Ricardo Arjona | Historia de taxi | 1993
-Los del Río | Macarena | 1993
-Café Tacvba | La ingrata | 1994
-Caifanes | Afuera | 1994
-Selena | Amor prohibido | 1994
+Ritchie Valens | La Bamba | 1958 | spotify:4QPXV2ayUHwYqyT9gSa1qn, ok-año
+Raphael | Mi gran noche | 1967 | spotify:6Tnnk7MAnZiDx67DJN2hnx
+Santana | Oye como va | 1970 | spotify:5u6y4u5EgDv0peILf60H5t
+Nino Bravo | Libre | 1972 | spotify:1uAjXdRxH2PBCKGSWPagGJ, ok-versión
+Julio Iglesias | Soy un truhán, soy un señor | 1978 | spotify:3R8rzNolKgeMo3MQhYFBgu, ok-año
+Camilo Sesto | Vivir así es morir de amor | 1978 | spotify:3yzHIAzk3zVE1WgspS8W21
+Miguel Bosé | Amante bandido | 1984 | spotify:1hj6nYHeGclSY0VNTHMi27
+Hombres G | Devuélveme a mi chica | 1985 | spotify:1Wrzhfa5bNlqvsnCztz190
+Miami Sound Machine | Conga | 1985 | spotify:3FdHgoJbH3DXNtGLh56pFu
+Mecano | Hijo de la Luna | 1986 | spotify:7g3g2sqevicvurLTZ75JTA
+Mecano | Cruz de navajas | 1986 | spotify:5laT2a6iEq4IxgEDV9dSCr
+Los Prisioneros | El baile de los que sobran | 1986 | spotify:15T3otpUnJKin5njR8x0Tx
+Luis Miguel | Ahora te puedes marchar | 1987 | spotify:1uKjQoh8JZj9ryuYRhpd7E
+Gipsy Kings | Bamboléo | 1987 | spotify:3iB8eciGU9vZkaDYkz7Ir9
+Caifanes | La negra Tomasa | 1988 | spotify:6cVHu0HmKo4oEOSOqooTa3, ok-versión
+Luis Miguel | La incondicional | 1988 | spotify:6F9yAYUaNbUhdlQyt5uZ3b
+Juan Luis Guerra | Ojalá que llueva café | 1989 | spotify:2HQqhVP8NOaoIhPTQ8I5bm
+Juan Luis Guerra | La bilirrubina | 1990 | spotify:6M8horg7h52MPTxY0I3dQJ
+Maná | Rayando el sol | 1990 | spotify:4Ofg5uuH7qqDIXpAJMpXZV
+Héroes del Silencio | Entre dos tierras | 1990 | spotify:4rJdaSwOCHLBhxdMsymeMw
+Héroes del Silencio | Maldito duende | 1990 | spotify:7vcDJCAO356RYkCfiUozmE
+Maná | Oye mi amor | 1992 | spotify:3YBP5nAfjmB7gGSwK2nSv0, ok-versión
+Selena | Como la flor | 1992 | spotify:0gatssZ0J7pMAlvFCGZZGH
+Carlos Vives | La gota fría | 1993 | spotify:4tXR895KKljrC2VptgyEhJ
+Gloria Estefan | Mi tierra | 1993 | spotify:41LiGcvaTkXHyPjfsxKvWv
+Ricardo Arjona | Historia de taxi | 1992 | spotify:4qmXbnmZxZy9pavpf3YfP5
+Los del Río | Macarena | 1993 | spotify:4Y6cDd4EPHcEbiUKdyvNwM
+Café Tacvba | La ingrata | 1994 | spotify:19ScoKGqnfUggyqOVQjsoH
+Caifanes | Afuera | 1994 | spotify:3pJfnBjO3kjudEchcPEDxS
+Selena | Amor prohibido | 1994 | spotify:2cjiRQZu9V17rJZkvMuT1J
 Shakira | Estoy aquí | 1995 | reserva
-Enrique Iglesias | Experiencia religiosa | 1995
-Ricky Martin | María | 1995
-La Ley | El duelo | 1995
-Aterciopelados | Bolero falaz | 1995
-Jarabe de Palo | La flaca | 1996
-Maná | Clavado en un bar | 1997
-Molotov | Puto | 1997
-Alejandro Sanz | Corazón partío | 1997
-Alejandro Sanz | Amiga mía | 1997
-Thalía | Amor a la mexicana | 1997
-Shakira | Ojos así | 1998
-Ricky Martin | La copa de la vida | 1998
-Chayanne | Salomé | 1998
-Elvis Crespo | Suavemente | 1998
-Celia Cruz | La vida es un carnaval | 1998
-Santana | Smooth | 1999
-Juanes | A Dios le pido | 2002
-Chayanne | Torero | 2002
-Bacilos | Mi primer millón | 2002
-Sin Bandera | Entra en mi vida | 2002
-Aventura | Obsesión | 2002
-Café Tacvba | Eres | 2003
-Molotov | Frijolero | 2003
-La Oreja de Van Gogh | Rosas | 2003
-Daddy Yankee | Gasolina | 2004
-Juanes | La camisa negra | 2004
-Alejandro Fernández | Me dediqué a perderte | 2004
-Shakira | La tortura | 2005
-El Canto del Loco | Zapatillas | 2005
-Calle 13 | Atrévete-te-te | 2005
-Wisin & Yandel | Rakata | 2005
-Reik | Yo quisiera | 2005
-Shakira | Hips Don't Lie | 2006
+Enrique Iglesias | Experiencia religiosa | 1995 | spotify:0tgjnOlps2Hc798rOYGpvi
+Ricky Martin | María | 1995 | spotify:0QQHPRbgLJJ5XNzJV1l9BW
+La Ley | El duelo | 1995 | spotify:3XHg42QOqlevRU7jXRkAKk, ok-año, ok-versión
+Aterciopelados | Bolero falaz | 1995 | spotify:7lZHZLJ87HFXani6EgEmcH
+Jarabe de Palo | La flaca | 1996 | spotify:2LsbizbOeNa4x6qsi2jAMb
+Maná | Clavado en un bar | 1997 | spotify:78DVpEWwmJFC25KGz8fJuE
+Molotov | Puto | 1997 | spotify:20pmVJoqcnabJJO6OCW1ZS
+Alejandro Sanz | Corazón partío | 1997 | spotify:0wQCKR9OFjYu5Kzrk7WivJ
+Alejandro Sanz | Amiga mía | 1997 | spotify:6kQYMqjobmB8MkWwa9OUyA
+Thalía | Amor a la mexicana | 1997 | spotify:4t8hBUIRJ7wRauWy3tGZGX
+Shakira | Ojos así | 1998 | spotify:4EDfdYJ7mqXRoWAqzF1PVO
+Ricky Martin | La copa de la vida | 1998 | spotify:5fyncGBCyPmMZTdTNRbXfA, fuera
+Chayanne | Salomé | 1998 | spotify:0qe8ejgap3s39vLXc4K4dU
+Elvis Crespo | Suavemente | 1998 | spotify:7JIjUx3GsL0upxmNJacmtz
+Celia Cruz | La vida es un carnaval | 1998 | spotify:7rWOuBzhjHdiR7RPz9YH7L
+Santana | Smooth | 1999 | spotify:3H4wK3Mc5hgzcFKw7wFTfu, fuera
+Juanes | A Dios le pido | 2002 | spotify:129lYDVKnWtlJc2PZJviuA
+Chayanne | Torero | 2002 | spotify:2es7AohVgF03LwjmQyaVMl
+Bacilos | Mi primer millón | 2002 | spotify:5fSDXbY8o9pA3TKwAbfwML
+Sin Bandera | Entra en mi vida | 2001 | spotify:2h0iSG7htO0V4IvuwbTBf3
+Aventura | Obsesión | 2002 | spotify:65H6t1WQBim6q93yM8fEwn, ok-versión
+Café Tacvba | Eres | 2003 | spotify:6kdCN6gTWLcLxmLXoUcwuI
+Molotov | Frijolero | 2003 | spotify:5YyetAy34sgROhslaW3BZc, ok-año
+La Oreja de Van Gogh | Rosas | 2003 | spotify:4waqcUQWdj0yH26STWl2Rq, ok-año, ok-versión
+Daddy Yankee | Gasolina | 2004 | spotify:69cXDbXgsneAJcKgbJx9jI
+Juanes | La camisa negra | 2004 | spotify:2EM9zpAc7PVeoAydmbfVIL
+Alejandro Fernández | Me dediqué a perderte | 2004 | spotify:4NUt1fcnO9aQAELBgXq3Kr
+Shakira | La tortura | 2005 | spotify:7klcjsUjOT35E862g1BlSC, ok-versión
+El Canto del Loco | Zapatillas | 2005 | spotify:42VgiRyg0YjtRVLiPFNxPJ
+Calle 13 | Atrévete-te-te | 2005 | spotify:68w7WU7ak4ApUBiwx0HnpY
+Wisin & Yandel | Rakata | 2005 | spotify:1kQqiC1rS1FiuVpeBKN0QN
+Reik | Yo quisiera | 2005 | spotify:2GSr8anleCXKLNjjjijoMZ
+Shakira | Hips Don't Lie | 2006 | spotify:3d0WouFnFmr0K3kjeza3fF, ok-año, ok-versión
 Maná | Labios compartidos | 2006 | reserva
-Julieta Venegas | Me voy | 2006
-Julieta Venegas | Limón y sal | 2006
-Paulina Rubio | Ni una sola palabra | 2006
-Zoé | Labios rotos | 2006
-Shakira | Waka Waka (Esto es África) | 2010
-Don Omar | Danza Kuduro | 2010
-Jesse & Joy | ¡Corre! | 2011
-Marc Anthony | Vivir mi vida | 2013
-Romeo Santos | Propuesta indecente | 2013
-Enrique Iglesias | Bailando | 2014
-Natalia Lafourcade | Hasta la raíz | 2015
-Nicky Jam | El perdón | 2015
-Gente de Zona | La gozadera | 2015
-Mon Laferte | Tu falta de querer | 2015
-Carlos Vives | La bicicleta | 2016
-Sebastián Yatra | Traicionera | 2016
-Morat | Cómo te atreves | 2016
-Luis Fonsi | Despacito | 2017
-J Balvin | Mi gente | 2017
-Maluma | Felices los 4 | 2017
-Rosalía | Malamente | 2018
-Karol G | Tusa | 2019
-Bad Bunny | Dakiti | 2020
-Bad Bunny | Tití me preguntó | 2022
-Rosalía | Despechá | 2022
-Luis Miguel | Cuando calienta el sol | 1988
-Chayanne | Tiempo de vals | 1990
-Gloria Trevi | Pelo suelto | 1991
+Julieta Venegas | Me voy | 2006 | spotify:3J3WssiGK0qkpr5PuJpbjq
+Julieta Venegas | Limón y sal | 2006 | spotify:7dITAq1YP5e0kTcaDq4YWI
+Paulina Rubio | Ni una sola palabra | 2006 | spotify:1JLB67iNVIOs6NCiMAB1Fo
+Zoé | Labios rotos | 2006 | spotify:1nULBrlzWatdcjA2ZctIMv, fuera
+Shakira | Waka Waka (Esto es África) | 2010 | spotify:0W8nDs4H2cqxxAgszNMYO3, ok-versión
+Don Omar | Danza Kuduro | 2010 | spotify:2a1o6ZejUi8U3wzzOtCOYw
+Jesse & Joy | ¡Corre! | 2011 | spotify:06PyO62DjLz4A0DJeiLdIM
+Marc Anthony | Vivir mi vida | 2013 | spotify:3QHMxEOAGD51PDlbFPHLyJ
+Romeo Santos | Propuesta indecente | 2013 | spotify:5PycBIeabfvX3n9ILG7Vrv
+Enrique Iglesias | Bailando | 2014 | spotify:2EHu09nPab1dk0jySbkjEr, fuera
+Natalia Lafourcade | Hasta la raíz | 2015 | spotify:3lGMtkONrZdJ8kTCg6KIFf
+Nicky Jam | El perdón | 2015 | spotify:7qCAVkHWZkF44OzOUKf8Cr, ok-versión
+Gente de Zona | La gozadera | 2015 | spotify:13tkOdNK5AW8AFgN8O7nFh, ok-versión
+Mon Laferte | Tu falta de querer | 2015 | spotify:4skuEIloXWuxxgekKupkEH
+Carlos Vives | La bicicleta | 2016 | spotify:0sXvAOmXgjR2QUqLK1MltU
+Sebastián Yatra | Traicionera | 2016 | spotify:69fS55qcflEAsSDmnIkgYd
+Morat | Cómo te atreves | 2016 | spotify:7M6CFruBrM5x7u0lTMtm6r
+Luis Fonsi | Despacito | 2017 | spotify:6habFhsOp2NvshLv26DqMb, ok-versión
+J Balvin | Mi gente | 2017 | spotify:4ipnJyDU3Lq15qBAYNqlqK
+Maluma | Felices los 4 | 2017 | spotify:1RouRzlg8OKFeqc6LvdxmB
+Rosalía | Malamente | 2018 | spotify:5zOAudPQIs5U8zP6LQGHmH, ok-versión
+Karol G | Tusa | 2019 | spotify:7k4t7uLgtOxPwTpFmtJNTY
+Bad Bunny | Dakiti | 2020 | spotify:47EiUVwUp4C9fGccaPuUCS
+Bad Bunny | Tití me preguntó | 2022 | spotify:1IHWl5LamUGEuP4ozKQSXZ
+Rosalía | Despechá | 2022 | spotify:5ildQOEKmJuWGl2vRkFdYc
+Luis Miguel | Cuando calienta el sol | 1987 | spotify:3hVaK0zn3sVWWY8TvN1Te5
+Chayanne | Tiempo de vals | 1990 | spotify:2d6m2u18196oYQS2mbaO6t
+Gloria Trevi | Pelo suelto | 1991 | spotify:1H8aAoRO817bygKpgvAcpf
 Shakira | Pies descalzos, sueños blancos | 1995 | reserva
-Maná | En el muelle de San Blas | 1997
-Ricky Martin | Vuelve | 1998
-Carlos Vives | Fruta fresca | 1999
+Maná | En el muelle de San Blas | 1997 | spotify:0mvocLIWUnT10znvIXwHGr
+Ricky Martin | Vuelve | 1998 | spotify:3OK8WgNRmp4F3ahXe6XX6l, ok-año, ok-versión
+Carlos Vives | Fruta fresca | 1999 | spotify:1lcaG7worZLgdGuniOfGje
 Shakira | Suerte | 2001 | reserva
-Juanes | Es por ti | 2002
-José José | El triste | 1970
-Raffaella Carrà | Fiesta | 1977
-Julio Iglesias | Me olvidé de vivir | 1978
-Nacha Pop | Chica de ayer | 1980
-Los Secretos | Déjame | 1981
-Los Jaivas | Mira niñita | 1981
-Loquillo y Los Trogloditas | Cadillac solitario | 1983
-Radio Futura | Escuela de calor | 1984
-La Unión | Lobo hombre en París | 1984
-Juan Gabriel | Querida | 1984
-Rocío Dúrcal | Amor eterno | 1984
-Hombres G | Venecia | 1985
-El Tri | Triste canción | 1985
-Alaska y Dinarama | A quién le importa | 1986
-Mecano | Me cuesta tanto olvidarte | 1986
-El Último de la Fila | Como un burro amarrado en la puerta del baile | 1986
-Duncan Dhu | En algún lugar | 1987
-Luis Miguel | Culpable o no | 1988
-Mano Negra | Mala vida | 1988
-Ricardo Montaner | Me va a extrañar | 1989
-Los Prisioneros | Tren al sur | 1990
-Franco De Vita | Te amo | 1990
-Maldita Vecindad y los Hijos del Quinto Patio | Pachuco | 1991
-Miguel Bosé | Si tú no vuelves | 1993
-Café Tacvba | Las flores | 1994
-Ricardo Arjona | Señora de las cuatro décadas | 1994
-Alejandro Sanz | Y si fuera ella | 1997
-Jarabe de Palo | Depende | 1998
-Estopa | Como Camarón | 1999
-Café Quijano | La Lola | 1999
-Panteón Rococó | La dosis perfecta | 1999
-Control Machete | Sí señor | 1999
-La Ley | Mentira | 2000
-Manu Chao | Me gustas tú | 2001
-Amaral | Sin ti no soy nada | 2002
-Melendi | Caminando por la vida | 2003
-Marc Anthony | Valió la pena | 2004
-La Quinta Estación | El sol no regresa | 2004
-Bebe | Malo | 2004
+Juanes | Es por ti | 2002 | spotify:3b1IQflSLrgzYQPGFzI9cl
+José José | El triste | 1970 | spotify:0aTMBEfPCCkKkneU6gLmDD
+Raffaella Carrà | Fiesta | 1977 | spotify:68JGom6rnaOviOQ8Ch4JgW, ok-año, ok-versión
+Julio Iglesias | Me olvidé de vivir | 1978 | spotify:0kVOor973ijVqOBhYqvaE8
+Nacha Pop | Chica de ayer | 1980 | spotify:0fNWgWOCNOJyDA8knNk68R
+Los Secretos | Déjame | 1981 | spotify:74anwTmdyvA3f8RUtCQqKD, ok-año
+Los Jaivas | Mira niñita | 1973 | spotify:1rGtk9RA9tX52rB1YNkUmX, ok-año
+Loquillo y Los Trogloditas | Cadillac solitario | 1983 | spotify:1DMkvh7QnyJYb9ETsRIXYq
+Radio Futura | Escuela de calor | 1984 | spotify:7J0niAY0FLzGiCVJUREl88
+La Unión | Lobo hombre en París | 1984 | spotify:2hConpLOB6gmyM8vDkVOof
+Juan Gabriel | Querida | 1984 | spotify:5ySxlyvySBhIEvoO2xx7uT
+Rocío Dúrcal | Amor eterno | 1984 | spotify:2TC4v9YiuQYk3Tk8RH7fV4
+Hombres G | Venecia | 1985 | spotify:5Ge2G8iEydeuQ1wfjZWGOH, fuera
+El Tri | Triste canción | 1985 | spotify:11dn3mAagE0hOvd35rBNeV, ok-versión
+Alaska y Dinarama | A quién le importa | 1986 | spotify:3xsgLBdDAYCjlrxAl5PQpp, ok-versión
+Mecano | Me cuesta tanto olvidarte | 1986 | spotify:5xsY1Bm1FItKFFoJ3b964t
+El Último de la Fila | Como un burro amarrado en la puerta del baile | 1993 | spotify:5cjEWYDWMXlTZr8Rehu2bl
+Duncan Dhu | En algún lugar | 1987 | spotify:3UIENhLRdFIOuRan92cAQu
+Luis Miguel | Culpable o no | 1988 | spotify:7BwxbmYFy0l3ROHDjV2c14, ok-versión
+Mano Negra | Mala vida | 1988 | spotify:0UY0JLj9kxOlgF6FHogCmX
+Ricardo Montaner | Me va a extrañar | 1989 | spotify:4Jk2iyv9FJcp3E5e50EfD6
+Los Prisioneros | Tren al sur | 1990 | spotify:6W1BLmVBxkqZwFQcORQLnv
+Franco De Vita | Te amo | 1988 | spotify:3vxsXUUU9jUJrGNP4APtj3
+Maldita Vecindad y los Hijos del Quinto Patio | Pachuco | 1991 | fuera
+Miguel Bosé | Si tú no vuelves | 1993 | spotify:1YFBO31kSEYo1DVkjSj8LG
+Café Tacvba | Las flores | 1994 | spotify:0oakHTPj4SF7Si0NAsLwi8
+Ricardo Arjona | Señora de las cuatro décadas | 1992 | spotify:2neWsabATpEgR8XBv4Hqwo
+Alejandro Sanz | Y si fuera ella | 1997 | spotify:1DmlUpnkg4N1VWquSoffF1
+Jarabe de Palo | Depende | 1998 | spotify:6aaPUBUFw9KEW1p1inVQv9
+Estopa | Como Camarón | 1999 | spotify:1VB4sadHjFcFklHcZuoROi
+Café Quijano | La Lola | 1999 | spotify:5hyq5k3Do9gW3HGvDg5ZEJ
+Panteón Rococó | La dosis perfecta | 1999 | spotify:5bymCzswBkt0deeD1hlTIq
+Control Machete | Sí señor | 1999 | spotify:3MameTW9RiNTUpFEoadsA3
+La Ley | Mentira | 2000 | spotify:0EwJqL6TCMcTd8SKJ5T2AL, ok-año, ok-versión
+Manu Chao | Me gustas tú | 2001 | spotify:6b37xrsNCWYIUphFBazqD6
+Amaral | Sin ti no soy nada | 2002 | spotify:7cQ7axcCXsa963OluHTWlS
+Melendi | Caminando por la vida | 2005 | spotify:3v1dCP3hk2djfWryqfp7sx
+Marc Anthony | Valió la pena | 2004 | spotify:0auNaXOXs33GglZq5W0ixb, ok-año, ok-versión
+La Quinta Estación | El sol no regresa | 2004 | spotify:2awKQgW88iq9jFM54VaCAp
+Bebe | Malo | 2004 | spotify:3JFFnk9XQ9PKNd6ueBc2RK
 Daddy Yankee | Rompe | 2005
 Fito y Fitipaldis | Por la boca vive el pez | 2006
 Calle 13 | Latinoamérica | 2010

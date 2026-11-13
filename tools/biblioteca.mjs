@@ -349,7 +349,11 @@ async function crearOCompletarPlaylist(mazo, data) {
   fs.writeFileSync(archivo, lineas.join("\n").replace(/\n*$/, "\n"));
   const faltan = temas.filter(t => !t.fuera && t.spotify && !yaEstan.has(t.spotify)).map(t => "spotify:track:" + t.spotify);
   for (let i = 0; i < faltan.length; i += 100) await spotify(`/playlists/${pl}/items`, "POST", { uris: faltan.slice(i, i + 100) });
-  console.log(`${faltan.length} temas agregados. Playlist: https://open.spotify.com/playlist/${pl}`);
+  // lo que quedó fuera del mazo (o en reserva) se saca de la playlist, así al sincronizar no vuelve a entrar
+  const enMazo = new Set(temas.filter(t => !t.fuera && t.spotify).map(t => t.spotify));
+  const sobran = [...yaEstan].filter(id => !enMazo.has(id) && temas.some(t => t.spotify === id)).map(id => ({ uri: "spotify:track:" + id }));
+  for (let i = 0; i < sobran.length; i += 100) await spotify(`/playlists/${pl}/items`, "DELETE", { items: sobran.slice(i, i + 100) });
+  console.log(`${faltan.length} temas agregados${sobran.length ? `, ${sobran.length} sacados (quedaron fuera del mazo)` : ""}. Playlist: https://open.spotify.com/playlist/${pl}`);
 }
 
 /* ---------------- importar una playlist a un mazo ---------------- */
