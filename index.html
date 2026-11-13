@@ -53,6 +53,17 @@ h1,h2,h3{font-family:var(--f-display);margin:0;text-wrap:balance;line-height:1.0
 .btn.small{min-height:34px;padding:5px 11px;font-size:13px}
 .btn .cost{font-family:var(--f-mono);font-size:11px;color:var(--ink-soft)}
 .btn.sel{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.btn.start{background:var(--red);border-color:var(--red);color:var(--red-ink);font-family:var(--f-display);font-weight:800;font-size:22px;letter-spacing:.01em;min-height:62px;padding:12px 40px;box-shadow:0 0 0 4px var(--paper),0 0 0 6px var(--red),0 8px 18px var(--shadow)}
+.btn.start:not(:disabled):hover{filter:brightness(1.07)}
+@media (max-width:520px){.btn.start{width:100%}}
+/* temáticas como cartas */
+.decks{display:flex;flex-wrap:wrap;gap:14px 12px}
+.deckcard{display:grid;justify-items:center;gap:6px;font-size:12px;color:var(--ink-soft);border-radius:12px;padding:6px 4px}
+.deckcard .card{transition:transform .2s,box-shadow .2s}
+.deckcard:hover .card{transform:translateY(-3px)}
+.deckcard.sel .card{transform:translateY(-6px) rotate(-2deg);box-shadow:0 0 0 3px var(--paper),0 0 0 6px var(--red),0 10px 18px var(--shadow)}
+.deckcard.sel{color:var(--ink);font-weight:700}
+.backf .nm{position:relative;font-family:var(--f-display);font-weight:800;font-size:calc(var(--w)*.15);line-height:1.05;color:var(--paper);text-align:center;padding:0 12%;text-wrap:balance}
 
 /* ---------- cartas ---------- */
 .card{--w:var(--cw,80px);width:var(--w);height:calc(var(--w)*1.36);flex:none;border-radius:calc(var(--w)*.08);position:relative;box-shadow:0 2px 5px var(--shadow),0 0 0 .5px rgba(0,0,0,.08)}
@@ -109,7 +120,7 @@ h1,h2,h3{font-family:var(--f-display);margin:0;text-wrap:balance;line-height:1.0
 .stage.wide{flex-direction:row;flex-wrap:wrap;align-content:center;gap:12px 18px}
 .quit.vista{right:64px}
 .quit.orient{right:auto;left:2px}
-.rail{position:absolute;transform:translate(-50%,-50%) rotate(var(--rot));display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:5px;padding:4px 6px}
+.rail{position:absolute;transform:rotate(var(--rot));display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:5px;padding:4px 6px}
 .rail.on::before{content:"";position:absolute;inset:-4px 0 0;background:radial-gradient(ellipse 60% 75% at 50% 70%,rgba(255,244,214,.55),transparent 75%);pointer-events:none}
 .row{position:relative;display:flex;align-items:stretch;gap:5px;max-width:100%;overflow-x:auto;padding:4px 2px;scrollbar-width:none}
 .row>*{flex:none}
@@ -131,7 +142,7 @@ button.slot.hot{border-color:var(--pc);color:var(--pc);background:rgba(255,250,2
 @keyframes drop{from{transform:translateY(-30px) scale(1.4);opacity:0}to{transform:none;opacity:1}}
 
 /* ---------- centro (gira hacia el que juega) ---------- */
-.stage{position:absolute;transform:translate(-50%,-50%) rotate(var(--rot));transition:transform .7s cubic-bezier(.4,.1,.2,1);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px}
+.stage{position:absolute;transform:rotate(var(--rot));transition:transform .7s cubic-bezier(.4,.1,.2,1);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px}
 .pair{display:flex;align-items:center;gap:18px}
 .pile{position:relative;width:var(--cw);height:calc(var(--cw)*1.36)}
 .pile .card{position:absolute;inset:0}
@@ -404,6 +415,8 @@ function front(id){const s=song(id);return `<div class="face front" data-th="${e
 const TH_LABEL={"rock-nacional":"Hitster","rock-en-ingles":"Rock","pop-internacional":"Pop","pop-y-rock-latino":"Latino","cumbia-y-cuarteto":"Cumbia & regg.","canciones-de-peliculas":"Cine",todos:"Hitster"};
 /* en "Todos mezclados" el dorso es neutro: si mostrara el tema del mazo, daría una pista de qué tipo de canción es */
 const deckTh=()=>MAZO===TODOS?"todos":MAZO;
+// el nombre va escrito sobre la carta; si tiene una palabra larga ("internacional") la letra se achica para que entre
+const deckFace=(th,nombre)=>{const larga=Math.max(...String(nombre).split(/s+/).map(w=>w.length));return `<div class="face backf" data-th="${esc(th)}"><span class="nm" style="font-size:calc(var(--w)*${larga>10?.118:larga>8?.135:.15})">${esc(nombre)}</span></div>`};
 const backOf=th=>`<div class="face backf" data-th="${esc(th)}"><span class="lb">${esc(TH_LABEL[th]||"Hitster")}</span><span class="q">?</span></div>`;
 const cardUp=(id,cls="",style="")=>`<div class="card ${cls}" style="${style}">${front(id)}</div>`;
 const cardDown=(cls="",attrs="")=>`<div class="card ${cls}" ${attrs}>${backOf(deckTh())}</div>`;
@@ -474,7 +487,7 @@ function railHTML(p,seat){
   const inner=on?currentLine(fit):p.timeline.map(id=>id===stolen
     ?lineCard(id,fit,'data-anchor="stolen"',"tilt",`--r:${jitter(id)};${ui.stealDone?"":"visibility:hidden"}`)
     :lineCard(id,fit,"","tilt",`--r:${jitter(id)}`)).join("");
-  return `<div class="rail ${on?"on":""} ${seat.vert?"vert":""}" data-pid="${p.id}" style="left:${seat.cx}px;top:${seat.cy}px;width:${seat.vert?T:seat.L}px;height:${seat.vert?seat.L:T}px;--rot:${seat.rot}deg;--pc:${p.color};--cw:${cw.toFixed(1)}px">
+  return `<div class="rail ${on?"on":""} ${seat.vert?"vert":""}" data-pid="${p.id}" style="left:${seat.cx-(seat.vert?T:seat.L)/2}px;top:${seat.cy-(seat.vert?seat.L:T)/2}px;width:${seat.vert?T:seat.L}px;height:${seat.vert?seat.L:T}px;--rot:${seat.rot}deg;--pc:${p.color};--cw:${cw.toFixed(1)}px">
     <div class="row ${fit.slim?"tight":""}">${inner}</div>
     <div class="tag"><span class="dot"></span><b>${esc(p.name)}</b><span class="mono">${p.timeline.length}/${state.target}</span>${tokensHTML(p.tokens)}</div>
   </div>`;
@@ -546,15 +559,13 @@ function viewSetup(){
     <p class="hint">Primero el que tiene enfrente el lado de abajo de la tablet, y después siguiendo como las agujas del reloj. Así cada línea queda mirando a su dueño y los turnos van en ronda.</p>
     <div class="plist">${setup.names.map((n,i)=>`<div class="prow" style="--pc:${PCOLORS[i]}"><span class="dot"></span><input id="name-${i}" data-name="${i}" value="${esc(n)}" maxlength="14" aria-label="Nombre del jugador ${i+1}">${setup.names.length>2?`<button class="btn small" data-act="rm" data-i="${i}" aria-label="Sacar jugador">✕</button>`:""}</div>`).join("")}</div>
     ${setup.names.length<8?`<div><button class="btn small" data-act="add">+ Sumar jugador</button></div>`:""}
-    ${MAZOS.length?`<div class="opt"><label>Mazo</label><div class="tools" style="justify-content:flex-start">${[...MAZOS,...(MAZOS.length>1?[{id:TODOS,nombre:"Todos mezclados",n:buildDeck(TODOS).length}]:[])].map(m=>`<button class="btn small ${MAZO===m.id?"sel":""}" data-act="mazo" data-v="${esc(m.id)}" aria-pressed="${MAZO===m.id}">${esc(m.nombre)} <span class="cost" style="color:inherit;opacity:.7">${m.n}</span></button>`).join("")}</div></div>`:""}
+    ${MAZOS.length?`<div class="opt"><label>Temática</label><div class="decks" role="radiogroup" aria-label="Temática">${[...MAZOS,...(MAZOS.length>1?[{id:TODOS,nombre:"Todos mezclados",n:buildDeck(TODOS).length}]:[])].map(m=>`<button class="deckcard ${MAZO===m.id?"sel":""}" role="radio" aria-checked="${MAZO===m.id}" data-act="mazo" data-v="${esc(m.id)}"><div class="card" style="--w:92px">${deckFace(m.id===TODOS?"todos":m.id,m.nombre)}</div><span class="mono">${m.n} temas</span></button>`).join("")}</div></div>`:""}
     <div class="opts">
       <div class="opt"><label>Cartas para ganar</label><div class="stepper"><button class="btn small" data-act="tgt" data-d="-1" aria-label="Menos">−</button><output class="mono">${setup.target}</output><button class="btn small" data-act="tgt" data-d="1" aria-label="Más">+</button></div></div>
       <div class="opt"><label>Fichas al empezar</label><div class="stepper"><button class="btn small" data-act="tok" data-d="-1" aria-label="Menos">−</button><output class="mono">${setup.tokens}</output><button class="btn small" data-act="tok" data-d="1" aria-label="Más">+</button></div></div>
       <div class="opt"><label>El tema arranca</label><div class="stepper"><button class="btn small ${setup.start==="begin"?"sel":""}" data-act="smode" data-v="begin" aria-pressed="${setup.start==="begin"}">Del principio</button><button class="btn small ${setup.start==="random"?"sel":""}" data-act="smode" data-v="random" aria-pressed="${setup.start==="random"}">En un punto al azar</button></div></div>
-      <div class="opt"><label>Vista</label><div class="stepper"><button class="btn small ${vista()==="mesa"?"sel":""}" data-act="vistaset" data-v="mesa" aria-pressed="${vista()==="mesa"}">Mesa (tablet en el medio)</button><button class="btn small ${vista()==="pantalla"?"sel":""}" data-act="vistaset" data-v="pantalla" aria-pressed="${vista()==="pantalla"}">Pantalla (compu)</button></div></div>
-      ${vista()==="mesa"?`<div class="opt"><label>Cartas en la mesa</label><div class="stepper"><button class="btn small ${orient()==="jugador"?"sel":""}" data-act="orient" data-v="jugador" aria-pressed="${orient()==="jugador"}">Mirando a cada jugador</button><button class="btn small ${orient()==="abajo"?"sel":""}" data-act="orient" data-v="abajo" aria-pressed="${orient()==="abajo"}">Todas hacia abajo</button></div></div>`:""}
     </div>
-    <div class="btnrow"><button class="btn dark" data-act="start">Arrancar partida</button></div>
+    <div class="btnrow"><button class="btn start" data-act="start">Arrancar partida</button></div>
   </div>
   <div class="panel">
     <h3>Reglas (las originales)</h3>
@@ -607,7 +618,7 @@ function viewGame(){
     <button class="quit vista" data-act="vista" title="Cambiar entre vista de mesa (tablet) y de pantalla (compu)">${vista()==="pantalla"?"Vista mesa":"Vista pantalla"}</button>
     ${vista()==="mesa"?`<button class="quit orient" data-act="orientgame" title="Cambiar cómo miran las cartas">${orient()==="abajo"?"Cartas: a cada uno":"Cartas: abajo"}</button>`:""}
     ${state.players.map((p,i)=>railHTML(p,seats[i])).join("")}
-    <div class="stage ${g.wide?"wide":""}" id="stage" style="left:${g.cx}px;top:${g.cy}px;width:${g.w}px;height:${g.h}px;--rot:${ui.angle}deg;--cw:${cw}px">${stageInner(cw)}</div>
+    <div class="stage ${g.wide?"wide":""}" id="stage" style="left:${g.cx-g.w/2}px;top:${g.cy-g.h/2}px;width:${g.w}px;height:${g.h}px;--rot:${ui.angle}deg;--cw:${cw}px">${stageInner(cw)}</div>
     ${modalHTML(target)}`;
 }
 
@@ -638,20 +649,37 @@ function viewWin(){
 /* ---------- render + animaciones ---------- */
 function render(){
   const inGame=state&&state.phase!=="win";
-  $app.style.overflowY=inGame?"hidden":"auto";
+  $app.style.overflowY=inGame?"hidden":"auto";$app.style.overflowX=inGame?"hidden":""; // durante el giro de la mesa las líneas pasan por las esquinas
   // para animar el cambio de turno: dónde estaba cada línea antes de redibujar
   const turno=inGame&&ui.lastCurrent!=null&&ui.lastCurrent!==state.current&&!reduce,antes={};
   if(turno)document.querySelectorAll(".rail[data-pid]").forEach(r=>antes[r.dataset.pid]=r.getBoundingClientRect());
   $app.innerHTML=!state?(ui.screen==="devices"?viewDevices():viewSetup()):state.phase==="win"?viewWin():viewGame();
   ui.lastCurrent=inGame?state.current:null;
   if(turno){
+    // la mesa gira: cada línea viaja en arco alrededor del centro, todas en el mismo sentido
+    const box=$app.getBoundingClientRect(),cx=box.left+box.width/2,cy=box.top+box.height/2;
+    const ronda=vista()==="mesa"&&orient()==="abajo"; // en la ronda todos avanzan un lugar: giro siempre hacia el mismo lado
+    const DUR=900,ease=t=>t<.5?4*t*t*t:1-Math.pow(-2*t+2,3)/2;
+    let giro=0;
     document.querySelectorAll(".rail[data-pid]").forEach(r=>{
       const a=antes[r.dataset.pid];if(!a)return;const b=r.getBoundingClientRect();
-      const dx=(a.left+a.width/2)-(b.left+b.width/2),dy=(a.top+a.height/2)-(b.top+b.height/2);
-      if(Math.abs(dx)<2&&Math.abs(dy)<2)return; // en la mesa las líneas no se mueven
-      const sc=Math.max(.3,Math.min(3,a.width/Math.max(1,b.width)));
-      r.animate([{translate:`${dx}px ${dy}px`,scale:sc,opacity:.85},{translate:"0 0",scale:1,opacity:1}],{duration:650,easing:"cubic-bezier(.35,.1,.2,1)"});
+      const ax=a.left+a.width/2-cx,ay=a.top+a.height/2-cy,bx=b.left+b.width/2-cx,by=b.top+b.height/2-cy;
+      if(Math.hypot(ax-bx,ay-by)<2)return; // en la mesa con cada uno mirando su lado, las líneas no se mueven
+      const a0=Math.atan2(ay,ax),a1=Math.atan2(by,bx),r0=Math.hypot(ax,ay),r1=Math.hypot(bx,by);
+      let d=a1-a0;
+      if(ronda){while(d>=0)d-=2*Math.PI;while(d<-2*Math.PI)d+=2*Math.PI}else{while(d>Math.PI)d-=2*Math.PI;while(d<-Math.PI)d+=2*Math.PI}
+      giro=d;
+      const sc=Math.max(.4,Math.min(2.5,Math.sqrt((a.width*a.height)/Math.max(1,b.width*b.height))));
+      const frames=[];
+      for(let i=0;i<=14;i++){
+        const t=i/14,e=ease(t),ang=a0+d*e,rad=r0+(r1-r0)*e;
+        frames.push({offset:t,translate:`${Math.cos(ang)*rad-bx}px ${Math.sin(ang)*rad-by}px`,scale:sc+(1-sc)*e,opacity:1-.18*Math.sin(Math.PI*t)});
+      }
+      r.animate(frames,{duration:DUR,easing:"linear"});
     });
+    // el mazo del centro acompaña el giro de la mesa
+    const st=document.getElementById("stage");
+    if(st&&giro&&ronda)st.animate([{rotate:`${-giro*180/Math.PI}deg`},{rotate:"0deg"}],{duration:DUR,easing:"cubic-bezier(.65,0,.35,1)"});
     const tag=document.querySelector(".rail.on .tag");if(tag)tag.classList.add("turn-in");
   }
   save();
