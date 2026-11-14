@@ -1,0 +1,61 @@
+# nombre: One-hit wonders
+# formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
+Domenico Modugno | Nel blu dipinto di blu (Volare) | 1958
+Los Bravos | Black Is Black | 1966
+Shocking Blue | Venus | 1969
+Norman Greenbaum | Spirit in the Sky | 1969
+Mungo Jerry | In the Summertime | 1970
+Carl Douglas | Kung Fu Fighting | 1974
+Patrick Hernandez | Born to Be Alive | 1979
+The Knack | My Sharona | 1979 | spotify:1HOMkjp0nHMaTnfAkslCQj
+Lipps Inc. | Funkytown | 1979
+The Buggles | Video Killed the Radio Star | 1979
+Soft Cell | Tainted Love | 1981
+Toni Basil | Mickey | 1981
+Dexys Midnight Runners | Come On Eileen | 1982 | spotify:3MrWxJaD2AT0W9DjWF64Vm
+Men Without Hats | The Safety Dance | 1982
+Nena | 99 Luftballons | 1983 | spotify:2IJftBfq7pJ43tfnOR0RB3
+Righeira | Vamos a la playa | 1983
+Kajagoogoo | Too Shy | 1983
+Gazebo | I Like Chopin | 1983
+Ryan Paris | Dolce Vita | 1983
+Matthew Wilder | Break My Stride | 1983
+Opus | Live Is Life | 1984
+La Unión | Lobo hombre en París | 1984 | spotify:2hConpLOB6gmyM8vDkVOof
+Falco | Rock Me Amadeus | 1985
+Baltimora | Tarzan Boy | 1985
+Sabrina | Boys (Summertime Love) | 1987
+Rick Astley | Never Gonna Give You Up | 1987 | spotify:4PTG3Z6ehGkBFwjybzWkR8
+Duncan Dhu | En algún lugar | 1987 | spotify:3UIENhLRdFIOuRan92cAQu
+Bobby McFerrin | Don't Worry, Be Happy | 1988 | spotify:4hObp5bmIJ3PP3cKA9K9GY
+Sinéad O'Connor | Nothing Compares 2 U | 1990
+Vanilla Ice | Ice Ice Baby | 1990 | spotify:11d9oUiwHuYt216EFA2tiz
+Deee-Lite | Groove Is in the Heart | 1990
+Gerardo | Rico suave | 1990
+Right Said Fred | I'm Too Sexy | 1991
+4 Non Blondes | What's Up? | 1993
+Crash Test Dummies | Mmm Mmm Mmm Mmm | 1993
+Los del Río | Macarena | 1993 | spotify:4Y6cDd4EPHcEbiUKdyvNwM
+Whigfield | Saturday Night | 1994
+Chumbawamba | Tubthumping | 1997
+Aqua | Barbie Girl | 1997 | spotify:5ZrDlcxIDZyjOzHdYW1ydr
+Natalie Imbruglia | Torn | 1997
+Meredith Brooks | Bitch | 1997
+Stardust | Music Sounds Better with You | 1998
+Lou Bega | Mambo No. 5 (A Little Bit of...) | 1999
+Darude | Sandstorm | 1999
+Alice Deejay | Better Off Alone | 1999 | spotify:4u4JMXuhg94qU88lzeiiuq
+Baha Men | Who Let the Dogs Out | 2000
+Bacilos | Mi primer millón | 2002 | spotify:5fSDXbY8o9pA3TKwAbfwML
+Las Ketchup | Aserejé | 2002
+O-Zone | Dragostea din tei | 2003
+James Blunt | You're Beautiful | 2004 | spotify:0vg4WnUWvze6pBOJDTq99k
+Daniel Powter | Bad Day | 2005
+Crazy Frog | Axel F | 2005
+Gnarls Barkley | Crazy | 2006
+Gotye | Somebody That I Used to Know | 2011 | spotify:1qDrWA6lyx8cLECdZE7TV7
+Carly Rae Jepsen | Call Me Maybe | 2011 | spotify:20I6sIOMTCkB6w7ryavxtO
+Michel Teló | Ai se eu te pego | 2011
+Psy | Gangnam Style | 2012 | spotify:03UrZgTINDqvnUMbbIMhql
+Baauer | Harlem Shake | 2012
+Tones And I | Dance Monkey | 2019

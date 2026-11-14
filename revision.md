@@ -2,9 +2,196 @@
 
 Generado el 2026-11-14 por `node tools/biblioteca.mjs`.
 
-**876 temas** en 6 mazo(s) · **771 listos para jugar** · 1 para revisar · 0 sin procesar · 69 fuera del mazo · 35 en reserva.
+**1056 temas** en 9 mazo(s) · **771 listos para jugar** · 1 para revisar · 180 sin procesar · 69 fuera del mazo · 35 en reserva.
 
 Las correcciones se hacen en `tools/mazos/*.txt`: el año en la 3ª columna, y en la 4ª (opcional, separadas por comas) `fuera`, `ok-año`, `ok-versión` o `spotify:ID` / link de Spotify para fijar la versión a mano.
+
+## Todavía sin procesar (180)
+
+Se procesan la próxima vez que se corra el script.
+
+| Artista | Tema | Año del juego |
+|---|---|---|
+| The Isley Brothers | Shout | 1959 |
+| Chubby Checker | The Twist | 1960 |
+| Martha and the Vandellas | Dancing in the Street | 1964 |
+| Tom Jones | It's Not Unusual | 1965 |
+| Wilson Pickett | Land of 1000 Dances | 1966 |
+| The Foundations | Build Me Up Buttercup | 1968 |
+| Boney M. | Daddy Cool | 1976 |
+| Raffaella Carrà | Hay que venir al sur | 1979 |
+| Boney M. | Rasputin | 1978 |
+| Village People | Y.M.C.A. | 1978 |
+| Queen | Don't Stop Me Now | 1978 |
+| Earth, Wind & Fire | September | 1978 |
+| Earth, Wind & Fire | Boogie Wonderland | 1979 |
+| Sister Sledge | We Are Family | 1979 |
+| Michael Jackson | Don't Stop 'Til You Get Enough | 1979 |
+| ABBA | Gimme! Gimme! Gimme! (A Man After Midnight) | 1979 |
+| Kool & The Gang | Celebration | 1980 |
+| The Weather Girls | It's Raining Men | 1982 |
+| Lionel Richie | All Night Long (All Night) | 1983 |
+| KC and the Sunshine Band | Give It Up | 1983 |
+| Valeria Lynch | Me das cada día más | 1984 |
+| Wham! | Wake Me Up Before You Go-Go | 1984 |
+| Miami Sound Machine | Conga | 1985 |
+| Whitney Houston | I Wanna Dance with Somebody (Who Loves Me) | 1987 |
+| Gipsy Kings | Bamboléo | 1987 |
+| Kaoma | Lambada | 1989 |
+| Technotronic | Pump Up the Jam | 1989 |
+| Juan Luis Guerra | La bilirrubina | 1990 |
+| C+C Music Factory | Gonna Make You Sweat (Everybody Dance Now) | 1990 |
+| Ricky Maravilla | Qué tendrá el petiso | 1990 |
+| Snap! | Rhythm Is a Dancer | 1992 |
+| Vilma Palma e Vampiros | La pachanga | 1991 |
+| Proyecto Uno | El tiburón | 1993 |
+| Corona | The Rhythm of the Night | 1993 |
+| Culture Beat | Mr. Vain | 1993 |
+| 2 Unlimited | No Limit | 1993 |
+| Carlos Vives | La gota fría | 1993 |
+| Ricky Martin | María | 1995 |
+| Thalía | Amor a la mexicana | 1997 |
+| Celia Cruz | La vida es un carnaval | 1998 |
+| Elvis Crespo | Suavemente | 1998 |
+| Vengaboys | Boom, Boom, Boom, Boom!! | 1998 |
+| Enrique Iglesias | Bailamos | 1999 |
+| Chayanne | Salomé | 1998 |
+| Tom Jones | Sex Bomb | 1999 |
+| Gigi D'Agostino | L'amour toujours | 1999 |
+| La Mosca Tsé-Tsé | Para no verte más | 1999 |
+| Gladys la Bomba Tucumana | La pollera amarilla | 1999 |
+| King Africa | El Humahuaqueño | 1999 |
+| Daft Punk | One More Time | 2000 |
+| Paulina Rubio | Y yo sigo aquí | 2000 |
+| Shaggy | It Wasn't Me | 2000 |
+| Chayanne | Torero | 2002 |
+| Nelly | Hot in Herre | 2002 |
+| OutKast | Hey Ya! | 2003 |
+| Eric Prydz | Call on Me | 2004 |
+| Sean Paul | Temperature | 2005 |
+| The Black Eyed Peas | Pump It | 2005 |
+| Bob Sinclar | World, Hold On (Children of the Sky) | 2006 |
+| Rihanna | Don't Stop the Music | 2007 |
+| Lady Gaga | Just Dance | 2008 |
+| Beyoncé | Single Ladies (Put a Ring on It) | 2008 |
+| Kesha | TiK ToK | 2009 |
+| Don Omar | Danza Kuduro | 2010 |
+| Chino & Nacho | Niña bonita | 2010 |
+| LMFAO | Party Rock Anthem | 2011 |
+| Pitbull | Give Me Everything | 2011 |
+| Avicii | Levels | 2011 |
+| David Guetta | Titanium | 2011 |
+| Juan Magán | Bailando por ahí | 2012 |
+| Swedish House Mafia | Don't You Worry Child | 2012 |
+| Marc Anthony | Vivir mi vida | 2013 |
+| Pharrell Williams | Happy | 2013 |
+| Avicii | Wake Me Up | 2013 |
+| Calvin Harris | Summer | 2014 |
+| Justin Bieber | Sorry | 2015 |
+| Bruno Mars | 24K Magic | 2016 |
+| Luis Fonsi | Échame la culpa | 2017 |
+| J Balvin | Mi gente | 2017 |
+| Dua Lipa | Don't Start Now | 2019 |
+| Bad Bunny | Tití me preguntó | 2022 |
+| Domenico Modugno | Nel blu dipinto di blu (Volare) | 1958 |
+| Los Bravos | Black Is Black | 1966 |
+| Shocking Blue | Venus | 1969 |
+| Norman Greenbaum | Spirit in the Sky | 1969 |
+| Mungo Jerry | In the Summertime | 1970 |
+| Carl Douglas | Kung Fu Fighting | 1974 |
+| Patrick Hernandez | Born to Be Alive | 1979 |
+| The Knack | My Sharona | 1979 |
+| Lipps Inc. | Funkytown | 1979 |
+| The Buggles | Video Killed the Radio Star | 1979 |
+| Soft Cell | Tainted Love | 1981 |
+| Toni Basil | Mickey | 1981 |
+| Dexys Midnight Runners | Come On Eileen | 1982 |
+| Men Without Hats | The Safety Dance | 1982 |
+| Nena | 99 Luftballons | 1983 |
+| Righeira | Vamos a la playa | 1983 |
+| Kajagoogoo | Too Shy | 1983 |
+| Gazebo | I Like Chopin | 1983 |
+| Ryan Paris | Dolce Vita | 1983 |
+| Matthew Wilder | Break My Stride | 1983 |
+| Opus | Live Is Life | 1984 |
+| La Unión | Lobo hombre en París | 1984 |
+| Falco | Rock Me Amadeus | 1985 |
+| Baltimora | Tarzan Boy | 1985 |
+| Sabrina | Boys (Summertime Love) | 1987 |
+| Rick Astley | Never Gonna Give You Up | 1987 |
+| Duncan Dhu | En algún lugar | 1987 |
+| Bobby McFerrin | Don't Worry, Be Happy | 1988 |
+| Sinéad O'Connor | Nothing Compares 2 U | 1990 |
+| Vanilla Ice | Ice Ice Baby | 1990 |
+| Deee-Lite | Groove Is in the Heart | 1990 |
+| Gerardo | Rico suave | 1990 |
+| Right Said Fred | I'm Too Sexy | 1991 |
+| 4 Non Blondes | What's Up? | 1993 |
+| Crash Test Dummies | Mmm Mmm Mmm Mmm | 1993 |
+| Los del Río | Macarena | 1993 |
+| Whigfield | Saturday Night | 1994 |
+| Chumbawamba | Tubthumping | 1997 |
+| Aqua | Barbie Girl | 1997 |
+| Natalie Imbruglia | Torn | 1997 |
+| Meredith Brooks | Bitch | 1997 |
+| Stardust | Music Sounds Better with You | 1998 |
+| Lou Bega | Mambo No. 5 (A Little Bit of...) | 1999 |
+| Darude | Sandstorm | 1999 |
+| Alice Deejay | Better Off Alone | 1999 |
+| Baha Men | Who Let the Dogs Out | 2000 |
+| Bacilos | Mi primer millón | 2002 |
+| Las Ketchup | Aserejé | 2002 |
+| O-Zone | Dragostea din tei | 2003 |
+| James Blunt | You're Beautiful | 2004 |
+| Daniel Powter | Bad Day | 2005 |
+| Crazy Frog | Axel F | 2005 |
+| Gnarls Barkley | Crazy | 2006 |
+| Gotye | Somebody That I Used to Know | 2011 |
+| Carly Rae Jepsen | Call Me Maybe | 2011 |
+| Michel Teló | Ai se eu te pego | 2011 |
+| Psy | Gangnam Style | 2012 |
+| Baauer | Harlem Shake | 2012 |
+| Tones And I | Dance Monkey | 2019 |
+| Carlos Gardel | Mi Buenos Aires querido | 1934 |
+| Carlos Gardel | Volver | 1935 |
+| Carlos Gardel | Por una cabeza | 1935 |
+| Etta James | At Last | 1960 |
+| Ray Charles | Hit the Road Jack | 1961 |
+| Astrud Gilberto | The Girl from Ipanema | 1964 |
+| Frank Sinatra | Fly Me to the Moon | 1964 |
+| James Brown | I Got You (I Feel Good) | 1965 |
+| Nina Simone | Feeling Good | 1965 |
+| Sergio Mendes & Brasil '66 | Mas que nada | 1966 |
+| Louis Armstrong | What a Wonderful World | 1967 |
+| Marvin Gaye | Ain't No Mountain High Enough | 1967 |
+| Mercedes Sosa | Alfonsina y el mar | 1969 |
+| Mercedes Sosa | Gracias a la vida | 1971 |
+| Stevie Wonder | Superstition | 1972 |
+| Astor Piazzolla | Libertango | 1974 |
+| Bob Marley & The Wailers | Three Little Birds | 1977 |
+| The Sugarhill Gang | Rapper's Delight | 1979 |
+| Bob Marley & The Wailers | Could You Be Loved | 1980 |
+| Mercedes Sosa | Todo cambia | 1984 |
+| Run-DMC | Walk This Way | 1986 |
+| Beastie Boys | (You Gotta) Fight for Your Right (To Party!) | 1986 |
+| 2Pac | California Love | 1995 |
+| Fugees | Killing Me Softly with His Song | 1996 |
+| Soledad | A Don Ata | 1996 |
+| Los Nocheros | Entre la tierra y el cielo | 1999 |
+| Dr. Dre | Still D.R.E. | 1999 |
+| Eminem | The Real Slim Shady | 2000 |
+| Gotan Project | Santa María (del Buen Ayre) | 2001 |
+| Eminem | Without Me | 2002 |
+| 50 Cent | In da Club | 2003 |
+| Snoop Dogg | Drop It Like It's Hot | 2004 |
+| Bajofondo | Pa' bailar | 2007 |
+| Kanye West | Stronger | 2007 |
+| Jay-Z | Empire State of Mind | 2009 |
+| Abel Pintos | Sueño dorado | 2014 |
+| Drake | Hotline Bling | 2015 |
+| Kendrick Lamar | HUMBLE. | 2017 |
+| Travis Scott | SICKO MODE | 2018 |
+| Anitta | Envolver | 2021 |
 
 ## Solo hay remaster (aviso) (46)
 

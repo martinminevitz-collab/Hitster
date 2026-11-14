@@ -9,6 +9,14 @@
       "nombre": "Cumbia, cuarteto y reggaetón"
     },
     {
+      "id": "fiesta-y-casamiento",
+      "nombre": "Fiesta y casamiento"
+    },
+    {
+      "id": "one-hit-wonders",
+      "nombre": "One-hit wonders"
+    },
+    {
       "id": "pop-internacional",
       "nombre": "Pop internacional"
     },
@@ -23,6 +31,11 @@
     {
       "id": "rock-nacional",
       "nombre": "Rock Nacional"
+    },
+    {
+      "id": "variados",
+      "nombre": "Variados",
+      "oculto": true
     }
   ],
   "temas": [
@@ -7356,6 +7369,2666 @@
         },
         "anio_mb": 2024
       }
+    },
+    {
+      "id": "fiesta-y-casamiento-001",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "The Isley Brothers",
+      "titulo": "Shout",
+      "anio": 1959,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-002",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Chubby Checker",
+      "titulo": "The Twist",
+      "anio": 1960,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-003",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Martha and the Vandellas",
+      "titulo": "Dancing in the Street",
+      "anio": 1964,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-004",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Tom Jones",
+      "titulo": "It's Not Unusual",
+      "anio": 1965,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-005",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Wilson Pickett",
+      "titulo": "Land of 1000 Dances",
+      "anio": 1966,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-006",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "The Foundations",
+      "titulo": "Build Me Up Buttercup",
+      "anio": 1968,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-007",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Boney M.",
+      "titulo": "Daddy Cool",
+      "anio": 1976,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-008",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Raffaella Carrà",
+      "titulo": "Hay que venir al sur",
+      "anio": 1979,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-009",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Boney M.",
+      "titulo": "Rasputin",
+      "anio": 1978,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5jkFvD4UJrmdoezzT1FRoP"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-010",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Village People",
+      "titulo": "Y.M.C.A.",
+      "anio": 1978,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-011",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Queen",
+      "titulo": "Don't Stop Me Now",
+      "anio": 1978,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1NHWG8zxSEypSRF3UufrnO"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-012",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Earth, Wind & Fire",
+      "titulo": "September",
+      "anio": 1978,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3kXoKlD84c6OmIcOLfrfEs"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-013",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Earth, Wind & Fire",
+      "titulo": "Boogie Wonderland",
+      "anio": 1979,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-014",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Sister Sledge",
+      "titulo": "We Are Family",
+      "anio": 1979,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-015",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Michael Jackson",
+      "titulo": "Don't Stop 'Til You Get Enough",
+      "anio": 1979,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-016",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "ABBA",
+      "titulo": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "anio": 1979,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-017",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Kool & The Gang",
+      "titulo": "Celebration",
+      "anio": 1980,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3K7Q9PHUWPTaknlbFPThn2"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-018",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "The Weather Girls",
+      "titulo": "It's Raining Men",
+      "anio": 1982,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-019",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Lionel Richie",
+      "titulo": "All Night Long (All Night)",
+      "anio": 1983,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1DxT6f6mH7kLriOUWbujup"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-020",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "KC and the Sunshine Band",
+      "titulo": "Give It Up",
+      "anio": 1983,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-021",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Valeria Lynch",
+      "titulo": "Me das cada día más",
+      "anio": 1984,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-022",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Wham!",
+      "titulo": "Wake Me Up Before You Go-Go",
+      "anio": 1984,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0ikz6tENMONtK6qGkOrU3c"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-023",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Miami Sound Machine",
+      "titulo": "Conga",
+      "anio": 1985,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3FdHgoJbH3DXNtGLh56pFu"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-024",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Whitney Houston",
+      "titulo": "I Wanna Dance with Somebody (Who Loves Me)",
+      "anio": 1987,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2tUBqZG2AbRi7Q0BIrVrEj"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-025",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Gipsy Kings",
+      "titulo": "Bamboléo",
+      "anio": 1987,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3iB8eciGU9vZkaDYkz7Ir9"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-026",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Kaoma",
+      "titulo": "Lambada",
+      "anio": 1989,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-027",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Technotronic",
+      "titulo": "Pump Up the Jam",
+      "anio": 1989,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "21qnJAMtzC6S5SESuqQLEK"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-028",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Juan Luis Guerra",
+      "titulo": "La bilirrubina",
+      "anio": 1990,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6M8horg7h52MPTxY0I3dQJ"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-029",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "C+C Music Factory",
+      "titulo": "Gonna Make You Sweat (Everybody Dance Now)",
+      "anio": 1990,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-030",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Ricky Maravilla",
+      "titulo": "Qué tendrá el petiso",
+      "anio": 1990,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-031",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Snap!",
+      "titulo": "Rhythm Is a Dancer",
+      "anio": 1992,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5uFYYOyT3EclOVhiFzPJSz"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-032",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Vilma Palma e Vampiros",
+      "titulo": "La pachanga",
+      "anio": 1991,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1x6bkwDyWIOZNFY5blRSs1"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-033",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Proyecto Uno",
+      "titulo": "El tiburón",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-034",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Corona",
+      "titulo": "The Rhythm of the Night",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "08W5kgLurl3qawlKLVDWvm"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-035",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Culture Beat",
+      "titulo": "Mr. Vain",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2rTYgHxgcndkUrRoU7x0Sv"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-036",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "2 Unlimited",
+      "titulo": "No Limit",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "7voHUmPNDuYZ1SW1mwRu26"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-037",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Carlos Vives",
+      "titulo": "La gota fría",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4tXR895KKljrC2VptgyEhJ"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-038",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Ricky Martin",
+      "titulo": "María",
+      "anio": 1995,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0QQHPRbgLJJ5XNzJV1l9BW"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-039",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Thalía",
+      "titulo": "Amor a la mexicana",
+      "anio": 1997,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4t8hBUIRJ7wRauWy3tGZGX"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-040",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Celia Cruz",
+      "titulo": "La vida es un carnaval",
+      "anio": 1998,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "7rWOuBzhjHdiR7RPz9YH7L"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-041",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Elvis Crespo",
+      "titulo": "Suavemente",
+      "anio": 1998,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "7JIjUx3GsL0upxmNJacmtz"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-042",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Vengaboys",
+      "titulo": "Boom, Boom, Boom, Boom!!",
+      "anio": 1998,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-043",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Enrique Iglesias",
+      "titulo": "Bailamos",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-044",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Chayanne",
+      "titulo": "Salomé",
+      "anio": 1998,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0qe8ejgap3s39vLXc4K4dU"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-045",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Tom Jones",
+      "titulo": "Sex Bomb",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-046",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Gigi D'Agostino",
+      "titulo": "L'amour toujours",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-047",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "La Mosca Tsé-Tsé",
+      "titulo": "Para no verte más",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-048",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Gladys la Bomba Tucumana",
+      "titulo": "La pollera amarilla",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-049",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "King Africa",
+      "titulo": "El Humahuaqueño",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-050",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Daft Punk",
+      "titulo": "One More Time",
+      "anio": 2000,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-051",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Paulina Rubio",
+      "titulo": "Y yo sigo aquí",
+      "anio": 2000,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-052",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Shaggy",
+      "titulo": "It Wasn't Me",
+      "anio": 2000,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3WkibOpDF7cQ5xntM1epyf"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-053",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Chayanne",
+      "titulo": "Torero",
+      "anio": 2002,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2es7AohVgF03LwjmQyaVMl"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-054",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Nelly",
+      "titulo": "Hot in Herre",
+      "anio": 2002,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-055",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "OutKast",
+      "titulo": "Hey Ya!",
+      "anio": 2003,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2PpruBYCo4H7WOBJ7Q2EwM"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-056",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Eric Prydz",
+      "titulo": "Call on Me",
+      "anio": 2004,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-057",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Sean Paul",
+      "titulo": "Temperature",
+      "anio": 2005,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-058",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "The Black Eyed Peas",
+      "titulo": "Pump It",
+      "anio": 2005,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-059",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Bob Sinclar",
+      "titulo": "World, Hold On (Children of the Sky)",
+      "anio": 2006,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-060",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Rihanna",
+      "titulo": "Don't Stop the Music",
+      "anio": 2007,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-061",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Lady Gaga",
+      "titulo": "Just Dance",
+      "anio": 2008,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-062",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Beyoncé",
+      "titulo": "Single Ladies (Put a Ring on It)",
+      "anio": 2008,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-063",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Kesha",
+      "titulo": "TiK ToK",
+      "anio": 2009,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0HPD5WQqrq7wPWR7P7Dw1i"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-064",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Don Omar",
+      "titulo": "Danza Kuduro",
+      "anio": 2010,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2a1o6ZejUi8U3wzzOtCOYw"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-065",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Chino & Nacho",
+      "titulo": "Niña bonita",
+      "anio": 2010,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-066",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "LMFAO",
+      "titulo": "Party Rock Anthem",
+      "anio": 2011,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "7mitXLIMCflkhZiD34uEQI"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-067",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Pitbull",
+      "titulo": "Give Me Everything",
+      "anio": 2011,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-068",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Avicii",
+      "titulo": "Levels",
+      "anio": 2011,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-069",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "David Guetta",
+      "titulo": "Titanium",
+      "anio": 2011,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4ycYLHmksmuDEOnGXCdBs2"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-070",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Juan Magán",
+      "titulo": "Bailando por ahí",
+      "anio": 2012,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-071",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Swedish House Mafia",
+      "titulo": "Don't You Worry Child",
+      "anio": 2012,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-072",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Marc Anthony",
+      "titulo": "Vivir mi vida",
+      "anio": 2013,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3QHMxEOAGD51PDlbFPHLyJ"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-073",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Pharrell Williams",
+      "titulo": "Happy",
+      "anio": 2013,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0s3olIAndtYz8sEBTyCKjW"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-074",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Avicii",
+      "titulo": "Wake Me Up",
+      "anio": 2013,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0nrRP2bk19rLc0orkWPQk2"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-075",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Calvin Harris",
+      "titulo": "Summer",
+      "anio": 2014,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6YUTL4dYpB9xZO5qExPf05"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-076",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Justin Bieber",
+      "titulo": "Sorry",
+      "anio": 2015,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "09CtPGIpYB4BrO8qb1RGsF"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-077",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Bruno Mars",
+      "titulo": "24K Magic",
+      "anio": 2016,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-078",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Luis Fonsi",
+      "titulo": "Échame la culpa",
+      "anio": 2017,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-079",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "J Balvin",
+      "titulo": "Mi gente",
+      "anio": 2017,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4ipnJyDU3Lq15qBAYNqlqK"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-080",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Dua Lipa",
+      "titulo": "Don't Start Now",
+      "anio": 2019,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "fiesta-y-casamiento-081",
+      "mazo": "fiesta-y-casamiento",
+      "artista": "Bad Bunny",
+      "titulo": "Tití me preguntó",
+      "anio": 2022,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1IHWl5LamUGEuP4ozKQSXZ"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-001",
+      "mazo": "one-hit-wonders",
+      "artista": "Domenico Modugno",
+      "titulo": "Nel blu dipinto di blu (Volare)",
+      "anio": 1958,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-002",
+      "mazo": "one-hit-wonders",
+      "artista": "Los Bravos",
+      "titulo": "Black Is Black",
+      "anio": 1966,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-003",
+      "mazo": "one-hit-wonders",
+      "artista": "Shocking Blue",
+      "titulo": "Venus",
+      "anio": 1969,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-004",
+      "mazo": "one-hit-wonders",
+      "artista": "Norman Greenbaum",
+      "titulo": "Spirit in the Sky",
+      "anio": 1969,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-005",
+      "mazo": "one-hit-wonders",
+      "artista": "Mungo Jerry",
+      "titulo": "In the Summertime",
+      "anio": 1970,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-006",
+      "mazo": "one-hit-wonders",
+      "artista": "Carl Douglas",
+      "titulo": "Kung Fu Fighting",
+      "anio": 1974,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-007",
+      "mazo": "one-hit-wonders",
+      "artista": "Patrick Hernandez",
+      "titulo": "Born to Be Alive",
+      "anio": 1979,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-008",
+      "mazo": "one-hit-wonders",
+      "artista": "The Knack",
+      "titulo": "My Sharona",
+      "anio": 1979,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1HOMkjp0nHMaTnfAkslCQj"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-009",
+      "mazo": "one-hit-wonders",
+      "artista": "Lipps Inc.",
+      "titulo": "Funkytown",
+      "anio": 1979,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-010",
+      "mazo": "one-hit-wonders",
+      "artista": "The Buggles",
+      "titulo": "Video Killed the Radio Star",
+      "anio": 1979,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-011",
+      "mazo": "one-hit-wonders",
+      "artista": "Soft Cell",
+      "titulo": "Tainted Love",
+      "anio": 1981,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-012",
+      "mazo": "one-hit-wonders",
+      "artista": "Toni Basil",
+      "titulo": "Mickey",
+      "anio": 1981,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-013",
+      "mazo": "one-hit-wonders",
+      "artista": "Dexys Midnight Runners",
+      "titulo": "Come On Eileen",
+      "anio": 1982,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3MrWxJaD2AT0W9DjWF64Vm"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-014",
+      "mazo": "one-hit-wonders",
+      "artista": "Men Without Hats",
+      "titulo": "The Safety Dance",
+      "anio": 1982,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-015",
+      "mazo": "one-hit-wonders",
+      "artista": "Nena",
+      "titulo": "99 Luftballons",
+      "anio": 1983,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2IJftBfq7pJ43tfnOR0RB3"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-016",
+      "mazo": "one-hit-wonders",
+      "artista": "Righeira",
+      "titulo": "Vamos a la playa",
+      "anio": 1983,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-017",
+      "mazo": "one-hit-wonders",
+      "artista": "Kajagoogoo",
+      "titulo": "Too Shy",
+      "anio": 1983,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-018",
+      "mazo": "one-hit-wonders",
+      "artista": "Gazebo",
+      "titulo": "I Like Chopin",
+      "anio": 1983,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-019",
+      "mazo": "one-hit-wonders",
+      "artista": "Ryan Paris",
+      "titulo": "Dolce Vita",
+      "anio": 1983,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-020",
+      "mazo": "one-hit-wonders",
+      "artista": "Matthew Wilder",
+      "titulo": "Break My Stride",
+      "anio": 1983,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-021",
+      "mazo": "one-hit-wonders",
+      "artista": "Opus",
+      "titulo": "Live Is Life",
+      "anio": 1984,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-022",
+      "mazo": "one-hit-wonders",
+      "artista": "La Unión",
+      "titulo": "Lobo hombre en París",
+      "anio": 1984,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2hConpLOB6gmyM8vDkVOof"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-023",
+      "mazo": "one-hit-wonders",
+      "artista": "Falco",
+      "titulo": "Rock Me Amadeus",
+      "anio": 1985,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-024",
+      "mazo": "one-hit-wonders",
+      "artista": "Baltimora",
+      "titulo": "Tarzan Boy",
+      "anio": 1985,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-025",
+      "mazo": "one-hit-wonders",
+      "artista": "Sabrina",
+      "titulo": "Boys (Summertime Love)",
+      "anio": 1987,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-026",
+      "mazo": "one-hit-wonders",
+      "artista": "Rick Astley",
+      "titulo": "Never Gonna Give You Up",
+      "anio": 1987,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4PTG3Z6ehGkBFwjybzWkR8"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-027",
+      "mazo": "one-hit-wonders",
+      "artista": "Duncan Dhu",
+      "titulo": "En algún lugar",
+      "anio": 1987,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3UIENhLRdFIOuRan92cAQu"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-028",
+      "mazo": "one-hit-wonders",
+      "artista": "Bobby McFerrin",
+      "titulo": "Don't Worry, Be Happy",
+      "anio": 1988,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4hObp5bmIJ3PP3cKA9K9GY"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-029",
+      "mazo": "one-hit-wonders",
+      "artista": "Sinéad O'Connor",
+      "titulo": "Nothing Compares 2 U",
+      "anio": 1990,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-030",
+      "mazo": "one-hit-wonders",
+      "artista": "Vanilla Ice",
+      "titulo": "Ice Ice Baby",
+      "anio": 1990,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "11d9oUiwHuYt216EFA2tiz"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-031",
+      "mazo": "one-hit-wonders",
+      "artista": "Deee-Lite",
+      "titulo": "Groove Is in the Heart",
+      "anio": 1990,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-032",
+      "mazo": "one-hit-wonders",
+      "artista": "Gerardo",
+      "titulo": "Rico suave",
+      "anio": 1990,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-033",
+      "mazo": "one-hit-wonders",
+      "artista": "Right Said Fred",
+      "titulo": "I'm Too Sexy",
+      "anio": 1991,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-034",
+      "mazo": "one-hit-wonders",
+      "artista": "4 Non Blondes",
+      "titulo": "What's Up?",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-035",
+      "mazo": "one-hit-wonders",
+      "artista": "Crash Test Dummies",
+      "titulo": "Mmm Mmm Mmm Mmm",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-036",
+      "mazo": "one-hit-wonders",
+      "artista": "Los del Río",
+      "titulo": "Macarena",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4Y6cDd4EPHcEbiUKdyvNwM"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-037",
+      "mazo": "one-hit-wonders",
+      "artista": "Whigfield",
+      "titulo": "Saturday Night",
+      "anio": 1994,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-038",
+      "mazo": "one-hit-wonders",
+      "artista": "Chumbawamba",
+      "titulo": "Tubthumping",
+      "anio": 1997,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-039",
+      "mazo": "one-hit-wonders",
+      "artista": "Aqua",
+      "titulo": "Barbie Girl",
+      "anio": 1997,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5ZrDlcxIDZyjOzHdYW1ydr"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-040",
+      "mazo": "one-hit-wonders",
+      "artista": "Natalie Imbruglia",
+      "titulo": "Torn",
+      "anio": 1997,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-041",
+      "mazo": "one-hit-wonders",
+      "artista": "Meredith Brooks",
+      "titulo": "Bitch",
+      "anio": 1997,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-042",
+      "mazo": "one-hit-wonders",
+      "artista": "Stardust",
+      "titulo": "Music Sounds Better with You",
+      "anio": 1998,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-043",
+      "mazo": "one-hit-wonders",
+      "artista": "Lou Bega",
+      "titulo": "Mambo No. 5 (A Little Bit of...)",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-044",
+      "mazo": "one-hit-wonders",
+      "artista": "Darude",
+      "titulo": "Sandstorm",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-045",
+      "mazo": "one-hit-wonders",
+      "artista": "Alice Deejay",
+      "titulo": "Better Off Alone",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4u4JMXuhg94qU88lzeiiuq"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-046",
+      "mazo": "one-hit-wonders",
+      "artista": "Baha Men",
+      "titulo": "Who Let the Dogs Out",
+      "anio": 2000,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-047",
+      "mazo": "one-hit-wonders",
+      "artista": "Bacilos",
+      "titulo": "Mi primer millón",
+      "anio": 2002,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5fSDXbY8o9pA3TKwAbfwML"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-048",
+      "mazo": "one-hit-wonders",
+      "artista": "Las Ketchup",
+      "titulo": "Aserejé",
+      "anio": 2002,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-049",
+      "mazo": "one-hit-wonders",
+      "artista": "O-Zone",
+      "titulo": "Dragostea din tei",
+      "anio": 2003,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-050",
+      "mazo": "one-hit-wonders",
+      "artista": "James Blunt",
+      "titulo": "You're Beautiful",
+      "anio": 2004,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0vg4WnUWvze6pBOJDTq99k"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-051",
+      "mazo": "one-hit-wonders",
+      "artista": "Daniel Powter",
+      "titulo": "Bad Day",
+      "anio": 2005,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-052",
+      "mazo": "one-hit-wonders",
+      "artista": "Crazy Frog",
+      "titulo": "Axel F",
+      "anio": 2005,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-053",
+      "mazo": "one-hit-wonders",
+      "artista": "Gnarls Barkley",
+      "titulo": "Crazy",
+      "anio": 2006,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-054",
+      "mazo": "one-hit-wonders",
+      "artista": "Gotye",
+      "titulo": "Somebody That I Used to Know",
+      "anio": 2011,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1qDrWA6lyx8cLECdZE7TV7"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-055",
+      "mazo": "one-hit-wonders",
+      "artista": "Carly Rae Jepsen",
+      "titulo": "Call Me Maybe",
+      "anio": 2011,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "20I6sIOMTCkB6w7ryavxtO"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-056",
+      "mazo": "one-hit-wonders",
+      "artista": "Michel Teló",
+      "titulo": "Ai se eu te pego",
+      "anio": 2011,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-057",
+      "mazo": "one-hit-wonders",
+      "artista": "Psy",
+      "titulo": "Gangnam Style",
+      "anio": 2012,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "03UrZgTINDqvnUMbbIMhql"
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-058",
+      "mazo": "one-hit-wonders",
+      "artista": "Baauer",
+      "titulo": "Harlem Shake",
+      "anio": 2012,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "one-hit-wonders-059",
+      "mazo": "one-hit-wonders",
+      "artista": "Tones And I",
+      "titulo": "Dance Monkey",
+      "anio": 2019,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
     },
     {
       "id": "pop-internacional-001",
@@ -33578,6 +36251,766 @@
         },
         "anio_mb": 2014
       }
+    },
+    {
+      "id": "variados-001",
+      "mazo": "variados",
+      "artista": "Carlos Gardel",
+      "titulo": "Mi Buenos Aires querido",
+      "anio": 1934,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-002",
+      "mazo": "variados",
+      "artista": "Carlos Gardel",
+      "titulo": "Volver",
+      "anio": 1935,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-003",
+      "mazo": "variados",
+      "artista": "Carlos Gardel",
+      "titulo": "Por una cabeza",
+      "anio": 1935,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-004",
+      "mazo": "variados",
+      "artista": "Etta James",
+      "titulo": "At Last",
+      "anio": 1960,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-005",
+      "mazo": "variados",
+      "artista": "Ray Charles",
+      "titulo": "Hit the Road Jack",
+      "anio": 1961,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-006",
+      "mazo": "variados",
+      "artista": "Astrud Gilberto",
+      "titulo": "The Girl from Ipanema",
+      "anio": 1964,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-007",
+      "mazo": "variados",
+      "artista": "Frank Sinatra",
+      "titulo": "Fly Me to the Moon",
+      "anio": 1964,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-008",
+      "mazo": "variados",
+      "artista": "James Brown",
+      "titulo": "I Got You (I Feel Good)",
+      "anio": 1965,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-009",
+      "mazo": "variados",
+      "artista": "Nina Simone",
+      "titulo": "Feeling Good",
+      "anio": 1965,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-010",
+      "mazo": "variados",
+      "artista": "Sergio Mendes & Brasil '66",
+      "titulo": "Mas que nada",
+      "anio": 1966,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-011",
+      "mazo": "variados",
+      "artista": "Louis Armstrong",
+      "titulo": "What a Wonderful World",
+      "anio": 1967,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-012",
+      "mazo": "variados",
+      "artista": "Marvin Gaye",
+      "titulo": "Ain't No Mountain High Enough",
+      "anio": 1967,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-013",
+      "mazo": "variados",
+      "artista": "Mercedes Sosa",
+      "titulo": "Alfonsina y el mar",
+      "anio": 1969,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-014",
+      "mazo": "variados",
+      "artista": "Mercedes Sosa",
+      "titulo": "Gracias a la vida",
+      "anio": 1971,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-015",
+      "mazo": "variados",
+      "artista": "Stevie Wonder",
+      "titulo": "Superstition",
+      "anio": 1972,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-016",
+      "mazo": "variados",
+      "artista": "Astor Piazzolla",
+      "titulo": "Libertango",
+      "anio": 1974,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-017",
+      "mazo": "variados",
+      "artista": "Bob Marley & The Wailers",
+      "titulo": "Three Little Birds",
+      "anio": 1977,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-018",
+      "mazo": "variados",
+      "artista": "The Sugarhill Gang",
+      "titulo": "Rapper's Delight",
+      "anio": 1979,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-019",
+      "mazo": "variados",
+      "artista": "Bob Marley & The Wailers",
+      "titulo": "Could You Be Loved",
+      "anio": 1980,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-020",
+      "mazo": "variados",
+      "artista": "Mercedes Sosa",
+      "titulo": "Todo cambia",
+      "anio": 1984,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-021",
+      "mazo": "variados",
+      "artista": "Run-DMC",
+      "titulo": "Walk This Way",
+      "anio": 1986,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-022",
+      "mazo": "variados",
+      "artista": "Beastie Boys",
+      "titulo": "(You Gotta) Fight for Your Right (To Party!)",
+      "anio": 1986,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-023",
+      "mazo": "variados",
+      "artista": "2Pac",
+      "titulo": "California Love",
+      "anio": 1995,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-024",
+      "mazo": "variados",
+      "artista": "Fugees",
+      "titulo": "Killing Me Softly with His Song",
+      "anio": 1996,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-025",
+      "mazo": "variados",
+      "artista": "Soledad",
+      "titulo": "A Don Ata",
+      "anio": 1996,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-026",
+      "mazo": "variados",
+      "artista": "Los Nocheros",
+      "titulo": "Entre la tierra y el cielo",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-027",
+      "mazo": "variados",
+      "artista": "Dr. Dre",
+      "titulo": "Still D.R.E.",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-028",
+      "mazo": "variados",
+      "artista": "Eminem",
+      "titulo": "The Real Slim Shady",
+      "anio": 2000,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-029",
+      "mazo": "variados",
+      "artista": "Gotan Project",
+      "titulo": "Santa María (del Buen Ayre)",
+      "anio": 2001,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-030",
+      "mazo": "variados",
+      "artista": "Eminem",
+      "titulo": "Without Me",
+      "anio": 2002,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-031",
+      "mazo": "variados",
+      "artista": "50 Cent",
+      "titulo": "In da Club",
+      "anio": 2003,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-032",
+      "mazo": "variados",
+      "artista": "Snoop Dogg",
+      "titulo": "Drop It Like It's Hot",
+      "anio": 2004,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-033",
+      "mazo": "variados",
+      "artista": "Bajofondo",
+      "titulo": "Pa' bailar",
+      "anio": 2007,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-034",
+      "mazo": "variados",
+      "artista": "Kanye West",
+      "titulo": "Stronger",
+      "anio": 2007,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-035",
+      "mazo": "variados",
+      "artista": "Jay-Z",
+      "titulo": "Empire State of Mind",
+      "anio": 2009,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-036",
+      "mazo": "variados",
+      "artista": "Abel Pintos",
+      "titulo": "Sueño dorado",
+      "anio": 2014,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-037",
+      "mazo": "variados",
+      "artista": "Drake",
+      "titulo": "Hotline Bling",
+      "anio": 2015,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-038",
+      "mazo": "variados",
+      "artista": "Kendrick Lamar",
+      "titulo": "HUMBLE.",
+      "anio": 2017,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-039",
+      "mazo": "variados",
+      "artista": "Travis Scott",
+      "titulo": "SICKO MODE",
+      "anio": 2018,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
+    },
+    {
+      "id": "variados-040",
+      "mazo": "variados",
+      "artista": "Anitta",
+      "titulo": "Envolver",
+      "anio": 2021,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null
     }
   ]
 }

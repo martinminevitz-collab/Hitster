@@ -1,0 +1,83 @@
+# nombre: Fiesta y casamiento
+# formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
+The Isley Brothers | Shout | 1959
+Chubby Checker | The Twist | 1960
+Martha and the Vandellas | Dancing in the Street | 1964
+Tom Jones | It's Not Unusual | 1965
+Wilson Pickett | Land of 1000 Dances | 1966
+The Foundations | Build Me Up Buttercup | 1968
+Boney M. | Daddy Cool | 1976
+Raffaella Carrà | Hay que venir al sur | 1979
+Boney M. | Rasputin | 1978 | spotify:5jkFvD4UJrmdoezzT1FRoP
+Village People | Y.M.C.A. | 1978
+Queen | Don't Stop Me Now | 1978 | spotify:1NHWG8zxSEypSRF3UufrnO
+Earth, Wind & Fire | September | 1978 | spotify:3kXoKlD84c6OmIcOLfrfEs
+Earth, Wind & Fire | Boogie Wonderland | 1979
+Sister Sledge | We Are Family | 1979
+Michael Jackson | Don't Stop 'Til You Get Enough | 1979
+ABBA | Gimme! Gimme! Gimme! (A Man After Midnight) | 1979
+Kool & The Gang | Celebration | 1980 | spotify:3K7Q9PHUWPTaknlbFPThn2
+The Weather Girls | It's Raining Men | 1982
+Lionel Richie | All Night Long (All Night) | 1983 | spotify:1DxT6f6mH7kLriOUWbujup
+KC and the Sunshine Band | Give It Up | 1983
+Valeria Lynch | Me das cada día más | 1984
+Wham! | Wake Me Up Before You Go-Go | 1984 | spotify:0ikz6tENMONtK6qGkOrU3c
+Miami Sound Machine | Conga | 1985 | spotify:3FdHgoJbH3DXNtGLh56pFu
+Whitney Houston | I Wanna Dance with Somebody (Who Loves Me) | 1987 | spotify:2tUBqZG2AbRi7Q0BIrVrEj
+Gipsy Kings | Bamboléo | 1987 | spotify:3iB8eciGU9vZkaDYkz7Ir9
+Kaoma | Lambada | 1989
+Technotronic | Pump Up the Jam | 1989 | spotify:21qnJAMtzC6S5SESuqQLEK
+Juan Luis Guerra | La bilirrubina | 1990 | spotify:6M8horg7h52MPTxY0I3dQJ
+C+C Music Factory | Gonna Make You Sweat (Everybody Dance Now) | 1990
+Ricky Maravilla | Qué tendrá el petiso | 1990
+Snap! | Rhythm Is a Dancer | 1992 | spotify:5uFYYOyT3EclOVhiFzPJSz
+Vilma Palma e Vampiros | La pachanga | 1991 | spotify:1x6bkwDyWIOZNFY5blRSs1
+Proyecto Uno | El tiburón | 1993
+Corona | The Rhythm of the Night | 1993 | spotify:08W5kgLurl3qawlKLVDWvm
+Culture Beat | Mr. Vain | 1993 | spotify:2rTYgHxgcndkUrRoU7x0Sv
+2 Unlimited | No Limit | 1993 | spotify:7voHUmPNDuYZ1SW1mwRu26
+Carlos Vives | La gota fría | 1993 | spotify:4tXR895KKljrC2VptgyEhJ
+Ricky Martin | María | 1995 | spotify:0QQHPRbgLJJ5XNzJV1l9BW
+Thalía | Amor a la mexicana | 1997 | spotify:4t8hBUIRJ7wRauWy3tGZGX
+Celia Cruz | La vida es un carnaval | 1998 | spotify:7rWOuBzhjHdiR7RPz9YH7L
+Elvis Crespo | Suavemente | 1998 | spotify:7JIjUx3GsL0upxmNJacmtz
+Vengaboys | Boom, Boom, Boom, Boom!! | 1998
+Enrique Iglesias | Bailamos | 1999
+Chayanne | Salomé | 1998 | spotify:0qe8ejgap3s39vLXc4K4dU
+Tom Jones | Sex Bomb | 1999
+Gigi D'Agostino | L'amour toujours | 1999
+La Mosca Tsé-Tsé | Para no verte más | 1999
+Gladys la Bomba Tucumana | La pollera amarilla | 1999
+King Africa | El Humahuaqueño | 1999
+Daft Punk | One More Time | 2000
+Paulina Rubio | Y yo sigo aquí | 2000
+Shaggy | It Wasn't Me | 2000 | spotify:3WkibOpDF7cQ5xntM1epyf
+Chayanne | Torero | 2002 | spotify:2es7AohVgF03LwjmQyaVMl
+Nelly | Hot in Herre | 2002
+OutKast | Hey Ya! | 2003 | spotify:2PpruBYCo4H7WOBJ7Q2EwM
+Eric Prydz | Call on Me | 2004
+Sean Paul | Temperature | 2005
+The Black Eyed Peas | Pump It | 2005
+Bob Sinclar | World, Hold On (Children of the Sky) | 2006
+Rihanna | Don't Stop the Music | 2007
+Lady Gaga | Just Dance | 2008
+Beyoncé | Single Ladies (Put a Ring on It) | 2008
+Kesha | TiK ToK | 2009 | spotify:0HPD5WQqrq7wPWR7P7Dw1i
+Don Omar | Danza Kuduro | 2010 | spotify:2a1o6ZejUi8U3wzzOtCOYw
+Chino & Nacho | Niña bonita | 2010
+LMFAO | Party Rock Anthem | 2011 | spotify:7mitXLIMCflkhZiD34uEQI
+Pitbull | Give Me Everything | 2011
+Avicii | Levels | 2011
+David Guetta | Titanium | 2011 | spotify:4ycYLHmksmuDEOnGXCdBs2
+Juan Magán | Bailando por ahí | 2012
+Swedish House Mafia | Don't You Worry Child | 2012
+Marc Anthony | Vivir mi vida | 2013 | spotify:3QHMxEOAGD51PDlbFPHLyJ
+Pharrell Williams | Happy | 2013 | spotify:0s3olIAndtYz8sEBTyCKjW
+Avicii | Wake Me Up | 2013 | spotify:0nrRP2bk19rLc0orkWPQk2
+Calvin Harris | Summer | 2014 | spotify:6YUTL4dYpB9xZO5qExPf05
+Justin Bieber | Sorry | 2015 | spotify:09CtPGIpYB4BrO8qb1RGsF
+Bruno Mars | 24K Magic | 2016
+Luis Fonsi | Échame la culpa | 2017
+J Balvin | Mi gente | 2017 | spotify:4ipnJyDU3Lq15qBAYNqlqK
+Dua Lipa | Don't Start Now | 2019
+Bad Bunny | Tití me preguntó | 2022 | spotify:1IHWl5LamUGEuP4ozKQSXZ

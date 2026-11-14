@@ -68,12 +68,12 @@ function leerMazos() {
   const mazos = [], temas = [];
   for (const f of fs.readdirSync(MAZOS_DIR).filter(f => f.endsWith(".txt")).sort()) {
     const id = f.replace(/\.txt$/, "");
-    let nombre = id;
+    let nombre = id, oculto = false;
     let n = 0;
     for (const linea of fs.readFileSync(path.join(MAZOS_DIR, f), "utf8").split(/\r?\n/)) {
       const l = linea.trim();
       if (!l) continue;
-      if (l.startsWith("#")) { const m = l.match(/^#\s*nombre:\s*(.+)$/i); if (m) nombre = m[1].trim(); continue; }
+      if (l.startsWith("#")) { const m = l.match(/^#\s*nombre:\s*(.+)$/i); if (m) nombre = m[1].trim(); if (/^#\s*oculto:\s*(si|sí|true)/i.test(l)) oculto = true; continue; }
       const [artista, titulo, a, opc = "", pelicula = ""] = l.split("|").map(x => x.trim()); // 5ª columna opcional: película
       if (!artista || !titulo) { console.warn(`  Línea ignorada en ${f}: ${l}`); continue; }
       n++;
@@ -84,7 +84,7 @@ function leerMazos() {
         opciones: { fuera: o.includes("fuera") || o.includes("reserva"), reserva: o.includes("reserva"), okAnio: o.some(x => norm(x) === "ok ano" || norm(x) === "ok anio"), okVersion: o.some(x => norm(x) === "ok version"),
           spotify: sp ? sp.replace(/^spotify:(track:)?/i, "").replace(/^.*\/track\//, "").replace(/\?.*$/, "") : null } });
     }
-    mazos.push({ id, nombre, temas: n });
+    mazos.push({ id, nombre, oculto, temas: n }); // oculto: no se elige como temática, solo entra en el mix
   }
   return { mazos, temas };
 }
@@ -106,7 +106,7 @@ function combinar(previo, lista) {
   // ids únicos aunque se haya reordenado la lista
   const usados = new Set();
   for (const t of temas) { let id = t.id, k = 1; while (usados.has(id)) id = `${t.id}-${++k}`; t.id = id; usados.add(id); }
-  return { mazos: lista.mazos.map(({ id, nombre }) => ({ id, nombre })), temas };
+  return { mazos: lista.mazos.map(({ id, nombre, oculto }) => (oculto ? { id, nombre, oculto } : { id, nombre })), temas };
 }
 
 /* ---------------- Spotify: login PKCE con servidor local ---------------- */

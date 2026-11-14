@@ -82,6 +82,8 @@ h1,h2,h3{font-family:var(--f-display);margin:0;text-wrap:balance;line-height:1.0
 [data-th="pop-y-rock-latino"]{--back:#C8461B;--back-line:#FFD27A;--accent:#E0651F;--motif:repeating-conic-gradient(from 0deg at 50% 62%,rgba(255,210,122,.26) 0 9deg,transparent 9deg 18deg)}
 [data-th="cumbia-y-cuarteto"]{--back:#0E7C70;--back-line:#FFE45C;--accent:#14A38F;--motif:repeating-linear-gradient(135deg,rgba(255,228,92,.3) 0 6px,transparent 6px 12px,rgba(255,92,140,.28) 12px 18px,transparent 18px 24px)}
 [data-th="canciones-de-peliculas"]{--back:#15171F;--back-line:#E3B341;--accent:#E3B341;--motif:linear-gradient(90deg,transparent 0 14%,#15171F 14% 86%,transparent 86%),repeating-linear-gradient(180deg,rgba(227,179,65,.95) 0 5px,transparent 5px 11px)}
+[data-th="fiesta-y-casamiento"]{--back:#3A1550;--back-line:#FFD86B;--accent:#E83E8C;--motif:radial-gradient(circle at 18% 20%,#FFD86B 0 1.6px,transparent 2.4px),radial-gradient(circle at 80% 26%,#5CE1E6 0 1.6px,transparent 2.4px),radial-gradient(circle at 30% 78%,#FF6FA8 0 1.6px,transparent 2.4px),radial-gradient(circle at 72% 82%,#FFD86B 0 1.2px,transparent 2px),radial-gradient(circle at 50% 50%,rgba(255,255,255,.22) 0 22%,transparent 23%),repeating-conic-gradient(from 0deg at 50% 50%,rgba(255,216,107,.16) 0 10deg,transparent 10deg 20deg),linear-gradient(170deg,#5B1E73,#2A0E3C)}
+[data-th="one-hit-wonders"]{--back:#0F4C5C;--back-line:#FFE066;--accent:#F2A541;--motif:radial-gradient(circle at 50% 50%,transparent 0 30%,rgba(255,224,102,.22) 30% 33%,transparent 33% 42%,rgba(255,224,102,.14) 42% 45%,transparent 45%),linear-gradient(160deg,#137083,#0B3440)}
 [data-th="todos"]{--back:#2B1D10;--back-line:#E2B27A;--motif:repeating-linear-gradient(45deg,rgba(226,178,122,.16) 0 6px,transparent 6px 12px)}
 .front[data-th]{box-shadow:inset 0 calc(var(--w)*-.045) 0 var(--accent)}
 .front[data-th] .txt{background:color-mix(in srgb,var(--accent) 16%,var(--cream))}
@@ -241,7 +243,7 @@ function useMazo(id){
 }
 async function loadSongs(){
   try{LIB=await (await fetch("songs.json",{cache:"no-cache"})).json()}catch(e){LIB={mazos:[],temas:[]};console.error(e)}
-  MAZOS=(LIB.mazos||[]).map(m=>({...m,n:buildDeck(m.id).length})).filter(m=>m.n>0);
+  MAZOS=(LIB.mazos||[]).filter(m=>!m.oculto).map(m=>({...m,n:buildDeck(m.id).length})).filter(m=>m.n>0); // los ocultos solo entran en el mix
   let pref=null;try{pref=localStorage.getItem(MAZO_KEY)}catch(e){}
   useMazo(pref||MAZO);
 }
@@ -412,11 +414,11 @@ function layoutPantalla(tw,th,n){
 
 /* ---------- piezas ---------- */
 function front(id){const s=song(id);return `<div class="face front" data-th="${esc(s.mz||"")}" style="--c:${dec(s.y)}"><span class="band"><span class="yr">${s.y}</span></span><span class="txt"><span class="ar">${esc(s.a)}</span><span class="ti">${esc(s.t)}</span></span></div>`}
-const TH_LABEL={"rock-nacional":"Hitster","rock-en-ingles":"Rock","pop-internacional":"Pop","pop-y-rock-latino":"Latino","cumbia-y-cuarteto":"Cumbia & regg.","canciones-de-peliculas":"Cine",todos:"Hitster"};
+const TH_LABEL={"rock-nacional":"Hitster","rock-en-ingles":"Rock","pop-internacional":"Pop","pop-y-rock-latino":"Latino","cumbia-y-cuarteto":"Cumbia & regg.","canciones-de-peliculas":"Cine","fiesta-y-casamiento":"Fiesta","one-hit-wonders":"One hit",todos:"Hitster"};
 /* en "Todos mezclados" el dorso es neutro: si mostrara el tema del mazo, daría una pista de qué tipo de canción es */
 const deckTh=()=>MAZO===TODOS?"todos":MAZO;
 // el nombre va escrito sobre la carta; si tiene una palabra larga ("internacional") la letra se achica para que entre
-const deckFace=(th,nombre)=>{const larga=Math.max(...String(nombre).split(/s+/).map(w=>w.length));return `<div class="face backf" data-th="${esc(th)}"><span class="nm" style="font-size:calc(var(--w)*${larga>10?.118:larga>8?.135:.15})">${esc(nombre)}</span></div>`};
+const deckFace=(th,nombre)=>{const larga=Math.max(...String(nombre).split(/\s+/).map(w=>w.length));return `<div class="face backf" data-th="${esc(th)}"><span class="nm" style="font-size:calc(var(--w)*${larga>10?.118:larga>8?.135:.15})">${esc(nombre)}</span></div>`};
 const backOf=th=>`<div class="face backf" data-th="${esc(th)}"><span class="lb">${esc(TH_LABEL[th]||"Hitster")}</span><span class="q">?</span></div>`;
 const cardUp=(id,cls="",style="")=>`<div class="card ${cls}" style="${style}">${front(id)}</div>`;
 const cardDown=(cls="",attrs="")=>`<div class="card ${cls}" ${attrs}>${backOf(deckTh())}</div>`;
