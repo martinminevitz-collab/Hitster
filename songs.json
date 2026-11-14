@@ -7256,20 +7256,27 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "2tTmW7RDtMQtBk7m2rYeSw"
       },
-      "spotify": null,
-      "duracion_ms": null,
+      "spotify": "2tTmW7RDtMQtBk7m2rYeSw",
+      "duracion_ms": 198937,
       "verificacion": {
         "fecha": "2026-11-14",
-        "estado": "revisar",
-        "motivos": [
-          "no_spotify"
-        ],
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2tTmW7RDtMQtBk7m2rYeSw",
+          "nombre": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
+          "artistas": "Bizarrap, Quevedo",
+          "disco": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
+          "tipo": "single",
+          "fecha": "2022-07-06",
+          "isrc": "UYB282201028"
+        },
         "musicbrainz": {
           "fecha": "2022-07-06",
           "grabacion": "ceb41ddc-6fce-469e-b5b5-36106ca4aa18",
-          "via": "búsqueda"
+          "via": "isrc"
         },
         "anio_mb": 2022
       }

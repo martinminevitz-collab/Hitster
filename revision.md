@@ -2,17 +2,9 @@
 
 Generado el 2026-11-14 por `node tools/biblioteca.mjs`.
 
-**876 temas** en 6 mazo(s) · **770 listos para jugar** · 2 para revisar · 0 sin procesar · 69 fuera del mazo · 35 en reserva.
+**876 temas** en 6 mazo(s) · **771 listos para jugar** · 1 para revisar · 0 sin procesar · 69 fuera del mazo · 35 en reserva.
 
 Las correcciones se hacen en `tools/mazos/*.txt`: el año en la 3ª columna, y en la 4ª (opcional, separadas por comas) `fuera`, `ok-año`, `ok-versión` o `spotify:ID` / link de Spotify para fijar la versión a mano.
-
-## No los encontré en Spotify (1)
-
-Estos temas no tienen ID y no van a sonar. Puede ser un error en el nombre o que no estén en Spotify.
-
-| Artista | Tema | Año del juego |
-|---|---|---|
-| Bizarrap | Quevedo: Bzrp Music Sessions, Vol. 52 | 2022 |
 
 ## Solo hay remaster (aviso) (46)
 
