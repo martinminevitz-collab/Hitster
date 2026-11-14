@@ -1,176 +1,177 @@
 # nombre: Rock en inglés
+# playlist: 67iRdP8P2Tr5xbxwazpKZ5
 # formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
 The Beatles | Twist and Shout | 1963 | reserva
 The Beatles | Help! | 1965 | reserva
-The Beatles | Yesterday | 1965
-The Beatles | Hey Jude | 1968
-The Beatles | Here Comes the Sun | 1969
-The Beatles | Let It Be | 1970
-The Rolling Stones | (I Can't Get No) Satisfaction | 1965
-The Rolling Stones | Paint It Black | 1966
-The Rolling Stones | Start Me Up | 1981
-The Kinks | You Really Got Me | 1964
-The Animals | The House of the Rising Sun | 1964
-The Who | My Generation | 1965
-The Who | Baba O'Riley | 1971
-The Doors | Light My Fire | 1967
-The Doors | Riders on the Storm | 1971
-The Jimi Hendrix Experience | Purple Haze | 1967
-Cream | Sunshine of Your Love | 1967
-Creedence Clearwater Revival | Proud Mary | 1969
-Creedence Clearwater Revival | Have You Ever Seen the Rain | 1970
-Led Zeppelin | Whole Lotta Love | 1969
-Led Zeppelin | Immigrant Song | 1970
-Led Zeppelin | Stairway to Heaven | 1971
-Black Sabbath | Paranoid | 1970
-Deep Purple | Smoke on the Water | 1972
-David Bowie | Space Oddity | 1969
-David Bowie | Heroes | 1977
-David Bowie | Let's Dance | 1983
-Pink Floyd | Money | 1973
-Pink Floyd | Wish You Were Here | 1975
-Pink Floyd | Another Brick in the Wall, Pt. 2 | 1979
-Elton John | Rocket Man | 1972
-Lynyrd Skynyrd | Sweet Home Alabama | 1974
-Queen | Bohemian Rhapsody | 1975
-Queen | We Will Rock You | 1977
-Queen | Don't Stop Me Now | 1978
+The Beatles | Yesterday | 1965 | spotify:3BQHpFgAp4l80e1XslIjNI
+The Beatles | Hey Jude | 1968 | spotify:1eT2CjXwFXNx6oY5ydvzKU, fuera
+The Beatles | Here Comes the Sun | 1969 | spotify:7BiO4Rva99THM0hSvqVpdR, ok-versión
+The Beatles | Let It Be | 1970 | spotify:0M7bWswUzxO5oNECUoWiGD, ok-versión
+The Rolling Stones | (I Can't Get No) Satisfaction | 1965 | spotify:2PzU4IB8Dr6mxV3lHuaG34, ok-versión
+The Rolling Stones | Paint It Black | 1966 | spotify:63T7DJ1AFDD6Bn8VzG6JE8
+The Rolling Stones | Start Me Up | 1981 | spotify:0INM0SfWqrD33nTDGA5Mts, ok-año, ok-versión
+The Kinks | You Really Got Me | 1964 | spotify:6tZdL3Zp8JgrfDbsSeSV1S
+The Animals | The House of the Rising Sun | 1964 | spotify:57r2Ahf2ieD9iyyDU8i2M0, ok-versión
+The Who | My Generation | 1965 | spotify:2EMmHEhCZSMMEM85HTFJvj
+The Who | Baba O'Riley | 1971 | spotify:3qiyyUfYe7CRYLucrPmulD
+The Doors | Light My Fire | 1967 | spotify:5uvosCdMlFdTXhoazkTI5R
+The Doors | Riders on the Storm | 1971 | spotify:14XWXWv5FoCbFzLksawpEe
+The Jimi Hendrix Experience | Purple Haze | 1967 | spotify:0wJoRiX5K5BxlqZTolB2LD
+Cream | Sunshine of Your Love | 1967 | spotify:2K2M0TcglCRLLpFOzKeFZA
+Creedence Clearwater Revival | Proud Mary | 1969 | spotify:6pxWv6GV35VGmcPf5dh6CH
+Creedence Clearwater Revival | Have You Ever Seen the Rain | 1970 | spotify:2LawezPeJhN4AWuSB0GtAU
+Led Zeppelin | Whole Lotta Love | 1969 | spotify:0hCB0YR03f6AmQaHbwWDe8
+Led Zeppelin | Immigrant Song | 1970 | spotify:78lgmZwycJ3nzsdgmPPGNx
+Led Zeppelin | Stairway to Heaven | 1971 | spotify:2IfaGyK9oTebpm5KMoLvKp, fuera
+Black Sabbath | Paranoid | 1970 | spotify:2z71jdeVcC782NgsYZ6N8q
+Deep Purple | Smoke on the Water | 1972 | spotify:5MMnwYs0hIxkENRsbkWJ2G
+David Bowie | Space Oddity | 1969 | spotify:0zViuvCvyMnIkqtMC5hOAE, fuera
+David Bowie | Heroes | 1977 | spotify:7Jh1bpe76CNTCgdgAdBw4Z
+David Bowie | Let's Dance | 1983 | spotify:0EzrQy3TgroefG4ar9tfYC, ok-año, ok-versión
+Pink Floyd | Money | 1973 | spotify:0vFOzaXqZHahrZp6enQwQb
+Pink Floyd | Wish You Were Here | 1975 | spotify:6mFkJmJqdDVQ1REhVfGgd1
+Pink Floyd | Another Brick in the Wall, Pt. 2 | 1979 | spotify:4gMgiXfqyzZLMhsksGmbQV, ok-año
+Elton John | Rocket Man | 1972 | spotify:3mZqm07Ut1A5hMBupyH5W5
+Lynyrd Skynyrd | Sweet Home Alabama | 1974 | spotify:7e89621JPkKaeDSTQ3avtg
+Queen | Bohemian Rhapsody | 1975 | spotify:2JiDi0qAXsPwhPqA2qaKGt
+Queen | We Will Rock You | 1977 | spotify:6ofZctOpjFdf4HruRdjWBP
+Queen | Don't Stop Me Now | 1978 | spotify:1NHWG8zxSEypSRF3UufrnO
 Queen | Another One Bites the Dust | 1980 | reserva
-Queen | Under Pressure | 1981
-Boston | More Than a Feeling | 1976
-Eagles | Hotel California | 1976
-Fleetwood Mac | Dreams | 1977
-Fleetwood Mac | Go Your Own Way | 1977
-Talking Heads | Psycho Killer | 1977
-The Police | Roxanne | 1978
-The Police | Every Breath You Take | 1983
-Dire Straits | Sultans of Swing | 1978
-Dire Straits | Money for Nothing | 1985
-Kiss | I Was Made for Lovin' You | 1979
-AC/DC | Highway to Hell | 1979
-AC/DC | Back in Black | 1980
-AC/DC | Thunderstruck | 1990
-The Clash | London Calling | 1979
-The Clash | Should I Stay or Should I Go | 1982
-The Cure | Boys Don't Cry | 1979
-The Cure | Friday I'm in Love | 1992
-Joy Division | Love Will Tear Us Apart | 1980
-Survivor | Eye of the Tiger | 1982
-Toto | Africa | 1982
-U2 | Sunday Bloody Sunday | 1983
-U2 | With or Without You | 1987
-U2 | One | 1991
-Bruce Springsteen | Dancing in the Dark | 1984
-Bruce Springsteen | Born in the U.S.A. | 1984
-The Smiths | There Is a Light That Never Goes Out | 1986
-Bon Jovi | Livin' on a Prayer | 1986
-Europe | The Final Countdown | 1986
-Guns N' Roses | Welcome to the Jungle | 1987
-Guns N' Roses | Sweet Child O' Mine | 1987
-Guns N' Roses | November Rain | 1991
-Def Leppard | Pour Some Sugar on Me | 1987
-INXS | Need You Tonight | 1987
-R.E.M. | Losing My Religion | 1991
-Metallica | Enter Sandman | 1991
-Metallica | Nothing Else Matters | 1991
-Nirvana | Smells Like Teen Spirit | 1991
-Nirvana | Come as You Are | 1991
-Pearl Jam | Alive | 1991
-Red Hot Chili Peppers | Under the Bridge | 1992
-Red Hot Chili Peppers | Californication | 1999
-Radiohead | Creep | 1992
-Radiohead | Karma Police | 1997
-The Cranberries | Zombie | 1994
-Green Day | Basket Case | 1994
-Oasis | Wonderwall | 1995
-Oasis | Don't Look Back in Anger | 1996
-Blur | Song 2 | 1997
-The Verve | Bitter Sweet Symphony | 1997
-Foo Fighters | Everlong | 1997
-The Offspring | The Kids Aren't Alright | 1998
-Lenny Kravitz | Fly Away | 1998
-Linkin Park | In the End | 2000
-Coldplay | Yellow | 2000
-The Strokes | Last Nite | 2001
-The White Stripes | Seven Nation Army | 2003
-The Killers | Mr. Brightside | 2003
-Franz Ferdinand | Take Me Out | 2004
-Arctic Monkeys | I Bet You Look Good on the Dancefloor | 2005
-Muse | Supermassive Black Hole | 2006
-Coldplay | Viva la Vida | 2008
-Kings of Leon | Sex on Fire | 2008
-Imagine Dragons | Radioactive | 2012
-Arctic Monkeys | Do I Wanna Know? | 2013
-Little Richard | Tutti Frutti | 1955
-Elvis Presley | Jailhouse Rock | 1957
-Buddy Holly | Peggy Sue | 1957
-Chuck Berry | Johnny B. Goode | 1958
-The Beach Boys | Surfin' U.S.A. | 1963
-Bob Dylan | Like a Rolling Stone | 1965
-The Byrds | Mr. Tambourine Man | 1965
-The Mamas & The Papas | California Dreamin' | 1965
-The Beach Boys | Good Vibrations | 1966
-The Monkees | I'm a Believer | 1966
-The Turtles | Happy Together | 1967
-Procol Harum | A Whiter Shade of Pale | 1967
-Big Brother & The Holding Company | Piece of My Heart | 1968
-Steppenwolf | Born to Be Wild | 1968
-The Zombies | Time of the Season | 1968
-The Guess Who | American Woman | 1970
-Free | All Right Now | 1970
-T. Rex | Get It On | 1971
-Eagles | Take It Easy | 1972
-Lou Reed | Walk on the Wild Side | 1972
-Aerosmith | Dream On | 1973
-Billy Joel | Piano Man | 1973
-Ramones | Blitzkrieg Bop | 1976
-Sex Pistols | Anarchy in the U.K. | 1976
-Thin Lizzy | The Boys Are Back in Town | 1976
-Blue Öyster Cult | (Don't Fear) The Reaper | 1976
-Electric Light Orchestra | Mr. Blue Sky | 1977
-Blondie | Heart of Glass | 1978
-The Knack | My Sharona | 1979
-The Pretenders | Brass in Pocket | 1979
-Ozzy Osbourne | Crazy Train | 1980
-Pat Benatar | Hit Me with Your Best Shot | 1980
-Journey | Don't Stop Believin' | 1981
-Joan Jett & The Blackhearts | I Love Rock 'n' Roll | 1981
-Billy Idol | White Wedding | 1982
-Iron Maiden | The Trooper | 1983
-Van Halen | Jump | 1984
-Foreigner | I Want to Know What Love Is | 1984
-Scorpions | Still Loving You | 1984
-Bryan Adams | Summer of '69 | 1984
-Simple Minds | Don't You (Forget About Me) | 1985
-The Cult | She Sells Sanctuary | 1985
-Midnight Oil | Beds Are Burning | 1987
-Tom Petty | Free Fallin' | 1989
-Scorpions | Wind of Change | 1990
-Alice In Chains | Man in the Box | 1990
-Soul Asylum | Runaway Train | 1992
-Stone Temple Pilots | Plush | 1992
-Soundgarden | Black Hole Sun | 1994
-Weezer | Buddy Holly | 1994
-Bush | Glycerine | 1994
-Live | Lightning Crashes | 1994
-The Smashing Pumpkins | 1979 | 1995
-Third Eye Blind | Semi-Charmed Life | 1997
-Goo Goo Dolls | Iris | 1998
-Aerosmith | I Don't Want to Miss a Thing | 1998
-Bon Jovi | It's My Life | 2000
-Nickelback | How You Remind Me | 2001
-System Of A Down | Chop Suey! | 2001
-Audioslave | Like a Stone | 2002
-Queens of the Stone Age | No One Knows | 2002
-Evanescence | Bring Me to Life | 2003
-Jet | Are You Gonna Be My Girl | 2003
-Green Day | Boulevard of Broken Dreams | 2004
-My Chemical Romance | Welcome to the Black Parade | 2006
-Snow Patrol | Chasing Cars | 2006
-Paramore | Misery Business | 2007
-MGMT | Kids | 2007
-Florence + The Machine | Dog Days Are Over | 2008
-Foster The People | Pumped Up Kicks | 2010
-The Black Keys | Lonely Boy | 2011
-Twenty One Pilots | Stressed Out | 2015
-Måneskin | Beggin' | 2017
+Queen | Under Pressure | 1981 | spotify:6FhIEgnIemiOu5J640B1zV, ok-año, ok-versión
+Boston | More Than a Feeling | 1976 | spotify:1QEEqeFIZktqIpPI4jSVSF
+Eagles | Hotel California | 1976 | spotify:40riOy7x9W7GXjyGp4pjAv
+Fleetwood Mac | Dreams | 1977 | spotify:0ofHAoxe9vBkTCp2UQIavz
+Fleetwood Mac | Go Your Own Way | 1977 | spotify:07GvNcU1WdyZJq3XxP0kZa, ok-año
+Talking Heads | Psycho Killer | 1977 | spotify:7dSCxR4LqkmxoBrq9MzVSD, ok-año
+The Police | Roxanne | 1978 | spotify:3EYOJ48Et32uATr9ZmLnAo
+The Police | Every Breath You Take | 1983 | spotify:1JSTJqkT5qHq8MDJnJbRE1
+Dire Straits | Sultans of Swing | 1978 | spotify:7eqHsDc6PND6reFaF9ba4b
+Dire Straits | Money for Nothing | 1985 | spotify:3BaNanHZ2T0teccVmgufO9
+Kiss | I Was Made for Lovin' You | 1979 | spotify:07q0QVgO56EorrSGHC48y3
+AC/DC | Highway to Hell | 1979 | spotify:2zYzyRzz6pRmhPzyfMEC8s
+AC/DC | Back in Black | 1980 | spotify:08mG3Y1vljYA6bvDt4Wqkj
+AC/DC | Thunderstruck | 1990 | spotify:57bgtoPSgt236HzfBOd8kj
+The Clash | London Calling | 1979 | spotify:5jzma6gCzYtKB1DbEwFZKH
+The Clash | Should I Stay or Should I Go | 1982 | spotify:39shmbIHICJ2Wxnk1fPSdz, ok-año
+The Cure | Boys Don't Cry | 1979 | spotify:1QFh8OH1e78dGd3VyJZCAC
+The Cure | Friday I'm in Love | 1992 | spotify:4QlzkaRHtU8gAdwqjWmO8n
+Joy Division | Love Will Tear Us Apart | 1980 | spotify:34iOH7LY3vme5rQxsVILZ4
+Survivor | Eye of the Tiger | 1982 | spotify:2HHtWyy5CgaQbC7XSoOb0e
+Toto | Africa | 1982 | spotify:2374M0fQpWi3dLnB54qaLX
+U2 | Sunday Bloody Sunday | 1983 | spotify:2qtbgUfioWEDVWV5Dy2HBl, ok-año, ok-versión
+U2 | With or Without You | 1987 | spotify:2x45xqISlmmDJqxOqr8BuS
+U2 | One | 1991 | spotify:3G69vJMWsX6ZohTykad2AU
+Bruce Springsteen | Dancing in the Dark | 1984 | spotify:7FwBtcecmlpc1sLySPXeGE
+Bruce Springsteen | Born in the U.S.A. | 1984 | spotify:0dOg1ySSI7NkpAe89Zo0b9
+The Smiths | There Is a Light That Never Goes Out | 1986 | spotify:0WQiDwKJclirSYG9v5tayI, ok-año
+Bon Jovi | Livin' on a Prayer | 1986 | spotify:0ee1DiZF94NSqqpG0XHUzH
+Europe | The Final Countdown | 1986 | spotify:3MrRksHupTVEQ7YbA0FsZK
+Guns N' Roses | Welcome to the Jungle | 1987 | spotify:0G21yYKMZoHa30cYVi1iA8, ok-año, ok-versión
+Guns N' Roses | Sweet Child O' Mine | 1987 | spotify:7snQQk1zcKl8gZ92AnueZW
+Guns N' Roses | November Rain | 1991 | spotify:3YRCqOhFifThpSRFJ1VWFM
+Def Leppard | Pour Some Sugar on Me | 1987 | spotify:1aZLIbKEdsyqxyD6iNcrbA
+INXS | Need You Tonight | 1987 | spotify:3h04eZTnmFLRMjZajbrp2R
+R.E.M. | Losing My Religion | 1991 | spotify:31AOj9sFz2gM0O3hMARRBx
+Metallica | Enter Sandman | 1991 | spotify:2T5q7qhJVN4m2hMSIAsOlC, ok-año
+Metallica | Nothing Else Matters | 1991 | spotify:7s1xIVKnVj4hhsO607RC8k, ok-año
+Nirvana | Smells Like Teen Spirit | 1991 | spotify:4CeeEOM32jQcH3eN9Q2dGj
+Nirvana | Come as You Are | 1991 | spotify:2RsAajgo0g7bMCHxwH3Sk0
+Pearl Jam | Alive | 1991 | spotify:1L94M3KIu7QluZe63g64rv
+Red Hot Chili Peppers | Under the Bridge | 1991 | spotify:3d9DChrdc6BOeFsbrZ3Is0
+Red Hot Chili Peppers | Californication | 1999 | spotify:34KTEhpPjq6IAgQg2yzJAL
+Radiohead | Creep | 1992 | spotify:58W2Mc7w77OwEYow1CGca8
+Radiohead | Karma Police | 1997 | spotify:63OQupATfueTdZMWTxW03A
+The Cranberries | Zombie | 1994 | spotify:6yeSZ9KWPIAOX8JOEO02jh
+Green Day | Basket Case | 1994 | spotify:6L89mwZXSOwYl76YXfX13s
+Oasis | Wonderwall | 1995 | spotify:35EfXlRKogBr1RvrkFBMHr
+Oasis | Don't Look Back in Anger | 1995 | spotify:6qkIxHddw8eqVefnJwo4YM
+Blur | Song 2 | 1997 | spotify:1FTSo4v6BOZH9QxKc3MbVM
+The Verve | Bitter Sweet Symphony | 1997 | spotify:2i4AouhQeGFBb4g3cx8yqg
+Foo Fighters | Everlong | 1997 | spotify:5UWwZ5lm5PKu6eKsHAGxOk
+The Offspring | The Kids Aren't Alright | 1998 | spotify:4EchqUKQ3qAQuRNKmeIpnf
+Lenny Kravitz | Fly Away | 1998 | spotify:1OxcIUqVmVYxT6427tbhDW
+Linkin Park | In the End | 2000 | spotify:60a0Rd6pjrkxjPbaKzXjfq
+Coldplay | Yellow | 2000 | spotify:3e0wYnFxkqinmtXebYPMSt
+The Strokes | Last Nite | 2001 | spotify:7kzKAuUzOITUauHAhoMoxA, ok-año
+The White Stripes | Seven Nation Army | 2003 | spotify:3dPQuX8Gs42Y7b454ybpMR
+The Killers | Mr. Brightside | 2003 | spotify:003vvx7Niy0yvhvHt4a68B
+Franz Ferdinand | Take Me Out | 2004 | spotify:4YWQy3UEKgFCOGIF0Sg72B, ok-año
+Arctic Monkeys | I Bet You Look Good on the Dancefloor | 2005 | spotify:6uV5q0yxaOujbxkwUCUEEf
+Muse | Supermassive Black Hole | 2006 | spotify:2zrIyIdqafYozfsgiMY0Ae
+Coldplay | Viva la Vida | 2008 | spotify:1mea3bSkSGXuIRvnydlB5b
+Kings of Leon | Sex on Fire | 2008 | spotify:0ntQJM78wzOLVeCUAW7Y45
+Imagine Dragons | Radioactive | 2012 | spotify:62yJjFtgkhUrXktIoSjgP2
+Arctic Monkeys | Do I Wanna Know? | 2013 | spotify:7xmwLmkoWpghkq8jyEhtbx
+Little Richard | Tutti Frutti | 1955 | spotify:2iXcvnD3d1gfLBum0cE5Eg, ok-versión
+Elvis Presley | Jailhouse Rock | 1957 | spotify:4gphxUgq0JSFv2BCLhNDiE, ok-versión
+Buddy Holly | Peggy Sue | 1957 | spotify:2OARIMw1hpehr86Iwmv04c, ok-versión
+Chuck Berry | Johnny B. Goode | 1958 | spotify:2QfiRTz5Yc8DdShCxG1tB2
+The Beach Boys | Surfin' U.S.A. | 1963 | spotify:0wz1LjDb9ZNEYwOmDJ3Q4b
+Bob Dylan | Like a Rolling Stone | 1965 | spotify:3AhXZa8sUQht0UEdBJgpGc
+The Byrds | Mr. Tambourine Man | 1965 | spotify:2HCaIYjkvWSZzaSKUoOh3d
+The Mamas & The Papas | California Dreamin' | 1965 | spotify:53V40CQPdQM9GWQzzBVwlk, ok-año, ok-versión
+The Beach Boys | Good Vibrations | 1966 | spotify:1iosYfAlCjiqmbLWMYTdW2, fuera
+The Monkees | I'm a Believer | 1966 | spotify:1whnScMCbi4ZMdGUpfpYHN, ok-año
+The Turtles | Happy Together | 1967 | spotify:1JO1xLtVc8mWhIoE3YaCL0, ok-año
+Procol Harum | A Whiter Shade of Pale | 1967 | spotify:0jUzBGoJiTR7OGwGD1CxCQ, fuera
+Big Brother & The Holding Company | Piece of My Heart | 1968 | spotify:1xKQbqQtQWrtQS47fUJBtl
+Steppenwolf | Born to Be Wild | 1968 | spotify:2VPGmrcBw5X4yAu3B8UZNE, ok-versión
+The Zombies | Time of the Season | 1968 | spotify:3vMfr8H7hGbOLoddLdCQU4
+The Guess Who | American Woman | 1970 | spotify:2Aad7939l6geyTDZ3WUOl5, fuera
+Free | All Right Now | 1970 | spotify:1gcESexgftSuLuML57Y69q
+T. Rex | Get It On | 1971 | spotify:2eA7YqgX9QDPesvGCU7BLb, fuera
+Eagles | Take It Easy | 1972 | spotify:6xLUzLPTTqJMXLTX8iRazK
+Lou Reed | Walk on the Wild Side | 1972 | spotify:5p3JunprHCxClJjOmcLV8G
+Aerosmith | Dream On | 1973 | spotify:5Ih9gbqyxCzTJ43nuSuKnC
+Billy Joel | Piano Man | 1973 | spotify:70C4NyhjD5OZUMzvWZ3njJ
+Ramones | Blitzkrieg Bop | 1976 | spotify:68YFOeWusWCFxK4TSYZZBU, fuera
+Sex Pistols | Anarchy in the U.K. | 1976 | spotify:3TbdWzi26OQs2gWKVkHjhT, ok-año, ok-versión
+Thin Lizzy | The Boys Are Back in Town | 1976 | spotify:0PQa7dlf3QyCvdQ4zc5z2Q
+Blue Öyster Cult | (Don't Fear) The Reaper | 1976 | spotify:5QTxFnGygVM4jFQiBovmRo
+Electric Light Orchestra | Mr. Blue Sky | 1977 | spotify:2RlgNHKcydI9sayD2Df2xp
+Blondie | Heart of Glass | 1978 | spotify:4v2rkl1mC3zVAz0nXMx9r4
+The Knack | My Sharona | 1979 | spotify:1HOMkjp0nHMaTnfAkslCQj
+The Pretenders | Brass in Pocket | 1979 | spotify:2nNdrstKD15nN3xR0KspgS
+Ozzy Osbourne | Crazy Train | 1980 | spotify:7ACxUo21jtTHzy7ZEV56vU, ok-versión
+Pat Benatar | Hit Me with Your Best Shot | 1980 | spotify:0vOkmmJEtjuFZDzrQSFzEE
+Journey | Don't Stop Believin' | 1981 | spotify:5RKQ5NdjSh2QzD4MaunT91
+Joan Jett & The Blackhearts | I Love Rock 'n' Roll | 1981 | spotify:4jTqsgDaffdNH0BMBwhjFv
+Billy Idol | White Wedding | 1982 | spotify:1gzIbdFnGJ226LTl0Cn2SX, ok-año, ok-versión
+Iron Maiden | The Trooper | 1983 | spotify:4OROzZUy6gOWN4UGQVaZMF
+Van Halen | Jump | 1984 | spotify:2JrPheCoctds164Nc3U0Om, fuera
+Foreigner | I Want to Know What Love Is | 1984 | spotify:04OjLvOApQve45B0ISx4XN, ok-versión
+Scorpions | Still Loving You | 1984 | spotify:7kjsCbksOZotNNHOvKsJJh
+Bryan Adams | Summer of '69 | 1984 | spotify:0GONea6G2XdnHWjNZd6zt3
+Simple Minds | Don't You (Forget About Me) | 1985 | spotify:5Y8Rj0s6wuM5DlQdllYiWl, ok-versión
+The Cult | She Sells Sanctuary | 1985 | spotify:6vhFcFawGXHJ9DFuxuKzcW
+Midnight Oil | Beds Are Burning | 1987 | spotify:0XHGKdViVybbZKqEZ2tXqV
+Tom Petty | Free Fallin' | 1989 | spotify:5tVA6TkbaAH9QMITTQRrNv
+Scorpions | Wind of Change | 1990 | spotify:3ovjw5HZZv43SxTwApooCM
+Alice In Chains | Man in the Box | 1990 | spotify:6gZVQvQZOFpzIy3HblJ20F
+Soul Asylum | Runaway Train | 1992 | spotify:3TW48DvQ7ChwY1Yy1tkMaP
+Stone Temple Pilots | Plush | 1992 | spotify:3jJZVeExYzVYiV6Y9Fl3DX
+Soundgarden | Black Hole Sun | 1994 | spotify:4xdHI4eFNst0vTZuuKrWjr
+Weezer | Buddy Holly | 1994 | spotify:3mwvKOyMmG77zZRunnxp9E
+Bush | Glycerine | 1994 | spotify:5buITai6eMzU8rJonMEI6e
+Live | Lightning Crashes | 1994 | spotify:48iWbsOaBUAGzMdoSmqyg1
+The Smashing Pumpkins | 1979 | 1995 | spotify:0jiEKj0fXevcv46JXUdcKh, ok-versión
+Third Eye Blind | Semi-Charmed Life | 1997 | spotify:42et6fnHCw1HIPSrdPprMl
+Goo Goo Dolls | Iris | 1998 | spotify:6Qyc6fS4DsZjB2mRW9DsQs
+Aerosmith | I Don't Want to Miss a Thing | 1998 | spotify:5qlJg0Wbj3sslxfwiaRNpq, ok-versión
+Bon Jovi | It's My Life | 2000 | spotify:0v1XpBHnsbkCn7iJ9Ucr1l, ok-año, ok-versión
+Nickelback | How You Remind Me | 2001 | spotify:0gmbgwZ8iqyMPmXefof8Yf, ok-año
+System Of A Down | Chop Suey! | 2001 | spotify:0vwujObIJ05z6N0qW1ll8D
+Audioslave | Like a Stone | 2002 | spotify:2xt2piJx6jlFkjS77YiqpL
+Queens of the Stone Age | No One Knows | 2002 | spotify:6y20BV5L33R8YXM0YuI38N
+Evanescence | Bring Me to Life | 2003 | spotify:0COqiPhxzoWICwFCS4eZcp, ok-año
+Jet | Are You Gonna Be My Girl | 2003 | spotify:5slIDtsUbAlVNFM86FfnfL
+Green Day | Boulevard of Broken Dreams | 2004 | spotify:1hwJKpe0BPUsq6UUrwBWTw
+My Chemical Romance | Welcome to the Black Parade | 2006 | spotify:5wQnmLuC1W7ATsArWACrgW
+Snow Patrol | Chasing Cars | 2006 | spotify:5hnyJvgoWiQUYZttV4wXy6
+Paramore | Misery Business | 2007 | spotify:3l9CW99AHtExIRV4hW2N5m
+MGMT | Kids | 2007 | spotify:51DyFngo7nBPes3W1sN931, ok-año, ok-versión
+Florence + The Machine | Dog Days Are Over | 2008 | spotify:7zzwX70dpGNS4YnfcWqBmE
+Foster The People | Pumped Up Kicks | 2010 | spotify:7w87IxuO7BDcJ3YUqCyMTT
+The Black Keys | Lonely Boy | 2011 | spotify:3dOAXUx7I1qnzWzxdnsyB8
+Twenty One Pilots | Stressed Out | 2015 | spotify:0lAB2lC6h4YhBIdkYYbpQH
+Måneskin | Beggin' | 2017 | spotify:3Wrjm47oTz2sjIgck11l5e

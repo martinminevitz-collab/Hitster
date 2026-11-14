@@ -44,48 +44,48 @@ Los Ángeles Azules | Nunca es suficiente | 2018 | spotify:0NLCproVurQVarImbC5co
 Ke Personajes | Pensando en ti | 2019 | fuera
 La K'onga | Universo paralelo | 2021 | spotify:2oA9whiinAF0PBKmz2X3Lx
 L-Gante | L-Gante RKT | 2020 | spotify:6rn1wX7fvkOgxbmJ50gBNP, ok-año
-Tego Calderón | Pa' que retozen | 2002
-Don Omar | Dile | 2003
-Don Omar | Pobre diabla | 2003
-Ivy Queen | Quiero bailar | 2003
-Daddy Yankee | Lo que pasó, pasó | 2004
-Wisin & Yandel | Llamé pa' verte | 2006
-Don Omar | Salió el sol | 2009
-Wisin & Yandel | Abusadora | 2009
-Tito El Bambino | El amor | 2009
-Daddy Yankee | Limbo | 2012
-Plan B | Si no le contesto | 2014
-Nicky Jam | Travesuras | 2014
-J Balvin | Ay vamos | 2014
-J Balvin | 6 AM | 2014
-Maluma | Borró cassette | 2015
-Yandel | Encantadora | 2015
-Nicky Jam | Hasta el amanecer | 2016
-Zion & Lennox | Otra vez | 2016
-Bad Bunny | Soy peor | 2016
-CNCO | Reggaetón lento (Bailemos) | 2016
-Becky G | Mayores | 2017
-Natti Natasha | Criminal | 2017
-Nio Garcia | Te boté | 2017
-Daddy Yankee | Dura | 2018
-Daddy Yankee | Con calma | 2019
-Anuel AA | China | 2019
-Bad Bunny | Callaíta | 2019
-Sech | Otro trago | 2019
-Rauw Alejandro | Tattoo | 2019
-Nicki Nicole | Wapo traketero | 2019
-Duki | Goteo | 2019
-Maluma | Hawái | 2020
-Bad Bunny | Safaera | 2020
-Karol G | Bichota | 2020
-Myke Towers | La curiosidad | 2020
-Rauw Alejandro | Todo de ti | 2021
-Farruko | Pepas | 2021
-María Becerra | Automático | 2021
-Emilia | Como si no importara | 2022
-Feid | Normal | 2022
-Manuel Turizo | La bachata | 2022
-Lali | Disciplina | 2022
+Tego Calderón | Pa' que retozen | 2002 | spotify:5YJ4BVvTFmVCxUyhKejHfR, ok-año
+Don Omar | Dile | 2003 | spotify:69Ej1xrGjOcHvIMtMKxK0G
+Don Omar | Pobre diabla | 2003 | spotify:6pEpQPOjFsHVrkC4yy501I, ok-versión
+Ivy Queen | Quiero bailar | 2003 | spotify:5JLV62rg4jtnoElc4P9F6K, ok-año
+Daddy Yankee | Lo que pasó, pasó | 2004 | spotify:0OVRKlCVPlnJtvOGPhWNRr, ok-versión
+Wisin & Yandel | Llamé pa' verte | 2005 | spotify:5SgN4mSGVEZ8TZQ5YSsKKb, ok-versión
+Don Omar | Salió el sol | 2006 | spotify:48NXpYRuvv9izul4oXhqS9
+Wisin & Yandel | Abusadora | 2009 | spotify:6Zdjh0uRQPt22BPckJgvEj, ok-año, ok-versión
+Tito El Bambino | El amor | 2009 | spotify:7e6PEtKY008duLXsAJ3TVQ, ok-versión
+Daddy Yankee | Limbo | 2012 | spotify:3pDhN3qB33AOPhQEkUCaWt
+Plan B | Si no le contesto | 2010 | spotify:6NdKkfo7o6IH1Op0jsBDjN
+Nicky Jam | Travesuras | 2014 | spotify:7AJ4RXkc0JWZqeQqzymSjv
+J Balvin | Ay vamos | 2014 | spotify:6Ges5C2IE738iJh4HyQizQ
+J Balvin | 6 AM | 2013 | spotify:7mPwkbaoiQ5bf8FPbRJzUr
+Maluma | Borró cassette | 2015 | spotify:6DUdDIRgLqCGq1DwkNWQTN
+Yandel | Encantadora | 2015 | spotify:7LABrQFfRYcZUqUwng0Heb
+Nicky Jam | Hasta el amanecer | 2016 | spotify:5Fim1gaXBgsiFfsQAfQSDS
+Zion & Lennox | Otra vez | 2016 | spotify:0i0djD0hqGVLkSUXBWtESr, ok-versión
+Bad Bunny | Soy peor | 2016 | spotify:1JxhrUWZjuI8AOjDJ1JpMN
+CNCO | Reggaetón lento (Bailemos) | 2016 | spotify:3AEZUABDXNtecAOSC1qTfo
+Becky G | Mayores | 2017 | spotify:7JNh1cfm0eXjqFVOzKLyau
+Natti Natasha | Criminal | 2017 | spotify:4nt5qwSYkN4d3v57v4bB72
+Nio Garcia | Te boté | 2017 | spotify:4X5V0XWXYbjlq4yBuPiYfA
+Daddy Yankee | Dura | 2018 | spotify:6KuqAtoeVzxAYOaMveLNpH
+Daddy Yankee | Con calma | 2019 | spotify:5w9c2J52mkdntKOmRLeM2m
+Anuel AA | China | 2019 | spotify:2ksOAxtIxY8yElEWw8RhgK
+Bad Bunny | Callaíta | 2019 | spotify:2TH65lNHgvLxCKXM3apjxI
+Sech | Otro trago | 2019 | spotify:1Ej96GIBCTvgH7tNX1r3qr
+Rauw Alejandro | Tattoo | 2020 | spotify:7na7Bk98usp84FaOJFPv3d
+Nicki Nicole | Wapo traketero | 2019 | spotify:5ctNuquTVDsfMb9jKzsYu0
+Duki | Goteo | 2019 | spotify:1EoEU4HY57qaITp06TkC6B
+Maluma | Hawái | 2020 | spotify:4uoR6qeWeuL4Qeu2qJzkuG
+Bad Bunny | Safaera | 2020 | spotify:2DEZmgHKAvm41k4J3R2E9Y
+Karol G | Bichota | 2020 | spotify:7vrJn5hDSXRmdXoR30KgF1
+Myke Towers | La curiosidad | 2020 | spotify:4HYDUMY0xSpeBr0AMY9cUz
+Rauw Alejandro | Todo de ti | 2021 | spotify:4fSIb4hdOQ151TILNsSEaF
+Farruko | Pepas | 2021 | spotify:5fwSHlTEWpluwOM0Sxnh5k
+María Becerra | Automático | 2022 | spotify:3Ne5uYDFzHEFYAPbaBMIck
+Emilia | Como si no importara | 2021 | spotify:1GYJpuLq41vEVKXiHGEY9j
+Feid | Normal | 2022 | spotify:2z9YkcLojiOE7Eu2p9lPZR
+Manuel Turizo | La bachata | 2022 | spotify:5ww2BF9slyYgNOk37BlC4u
+Lali | Disciplina | 2022 | spotify:1zBnnZCmZJWGVkFGz37UFf
 Bizarrap | Quevedo: Bzrp Music Sessions, Vol. 52 | 2022
-Tini | Cupido | 2023
-Karol G | Si antes te hubiera conocido | 2024
+Tini | Cupido | 2023 | spotify:2xVcCDRgG3TrH69TatsUxp
+Karol G | Si antes te hubiera conocido | 2024 | spotify:6WatFBLVB0x077xWeoVc2k

@@ -139,13 +139,13 @@ Melendi | Caminando por la vida | 2005 | spotify:3v1dCP3hk2djfWryqfp7sx
 Marc Anthony | Valió la pena | 2004 | spotify:0auNaXOXs33GglZq5W0ixb, ok-año, ok-versión
 La Quinta Estación | El sol no regresa | 2004 | spotify:2awKQgW88iq9jFM54VaCAp
 Bebe | Malo | 2004 | spotify:3JFFnk9XQ9PKNd6ueBc2RK
-Daddy Yankee | Rompe | 2005
-Fito y Fitipaldis | Por la boca vive el pez | 2006
-Calle 13 | Latinoamérica | 2010
-Prince Royce | Darte un beso | 2013
-J Balvin | Ginza | 2015
-Ozuna | Se preparó | 2017
-Camilo | Vida de rico | 2020
-Bad Bunny | Me porto bonito | 2022
-Karol G | Provenza | 2022
-Eslabon Armado | Ella baila sola | 2023
+Daddy Yankee | Rompe | 2005 | spotify:3w22YUeRKI3hHsPVCdXNWk, ok-versión
+Fito y Fitipaldis | Por la boca vive el pez | 2006 | spotify:7CxCdkdgjEkRF6HLVw3F41
+Calle 13 | Latinoamérica | 2010 | spotify:1xuYajTJZh8zZrPRmUaagf, ok-año, ok-versión
+Prince Royce | Darte un beso | 2013 | spotify:6cJLfIqwh0tCKRjYM3WpZ5
+J Balvin | Ginza | 2015 | spotify:2C2TGgFzrTRIOdQS1vUN5h
+Ozuna | Se preparó | 2017 | spotify:3mxWDt0eKXfl4C1e4oIP0J
+Camilo | Vida de rico | 2020 | spotify:73nAK3HgQK8dak83Y2WQ8F
+Bad Bunny | Me porto bonito | 2022 | spotify:6Sq7ltF9Qa7SNFBsV5Cogx
+Karol G | Provenza | 2022 | spotify:7dSZ6zGTQx66c2GF91xCrb
+Eslabon Armado | Ella baila sola | 2023 | spotify:3dnP0JxCgygwQH9Gm7q7nb
