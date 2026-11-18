@@ -1,61 +1,62 @@
 # nombre: One-hit wonders
+# playlist: 3vZPBNVjFId6D5ImvS3UVf
 # formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
-Domenico Modugno | Nel blu dipinto di blu (Volare) | 1958
-Los Bravos | Black Is Black | 1966
-Shocking Blue | Venus | 1969
-Norman Greenbaum | Spirit in the Sky | 1969
-Mungo Jerry | In the Summertime | 1970
-Carl Douglas | Kung Fu Fighting | 1974
-Patrick Hernandez | Born to Be Alive | 1979
+Domenico Modugno | Nel blu dipinto di blu (Volare) | 1958 | ok-versión, spotify:006Ndmw2hHxvnLbJsBFnPx
+Los Bravos | Black Is Black | 1966 | spotify:4uaffKRsN1NEQWVmkwMDAZ
+Shocking Blue | Venus | 1969 | spotify:0Z3xhSOhrawLV81YdiDiiJ
+Norman Greenbaum | Spirit in the Sky | 1969 | ok-versión, spotify:1nOSlE8I7bLmvLw6tRlJSh
+Mungo Jerry | In the Summertime | 1970 | spotify:34yLFPvEIL9Xpgjnpac6tw
+Carl Douglas | Kung Fu Fighting | 1974 | spotify:7K8QsHbmUpSX37oOCL4e2g
+Patrick Hernandez | Born to Be Alive | 1979 | ok-año, ok-versión, spotify:3eKIqI2cNG4vAXJlr7am9a
 The Knack | My Sharona | 1979 | spotify:1HOMkjp0nHMaTnfAkslCQj
-Lipps Inc. | Funkytown | 1979
-The Buggles | Video Killed the Radio Star | 1979
-Soft Cell | Tainted Love | 1981
-Toni Basil | Mickey | 1981
+Lipps Inc. | Funkytown | 1979 | spotify:2XVQdI3m0giGxNrwUhV3yP
+The Buggles | Video Killed the Radio Star | 1979 | spotify:7o7E1nrHWncYY7PY94gCiX
+Soft Cell | Tainted Love | 1981 | spotify:7iN2AiwBr3FKuloMzDjIQO
+Toni Basil | Mickey | 1981 | spotify:5b6v3PGTEXnOEh4hy9aPhS
 Dexys Midnight Runners | Come On Eileen | 1982 | spotify:3MrWxJaD2AT0W9DjWF64Vm
-Men Without Hats | The Safety Dance | 1982
+Men Without Hats | The Safety Dance | 1982 | spotify:5ZpDiWqCG93McsnuHu9uCR
 Nena | 99 Luftballons | 1983 | spotify:2IJftBfq7pJ43tfnOR0RB3
-Righeira | Vamos a la playa | 1983
-Kajagoogoo | Too Shy | 1983
-Gazebo | I Like Chopin | 1983
-Ryan Paris | Dolce Vita | 1983
-Matthew Wilder | Break My Stride | 1983
-Opus | Live Is Life | 1984
+Righeira | Vamos a la playa | 1983 | spotify:3dVS0btHyIciq1iNn8fXMV
+Kajagoogoo | Too Shy | 1983 | ok-año, spotify:6WEBIVqiEsevfgJefTyuQQ
+Gazebo | I Like Chopin | 1983 | fuera, spotify:6ybNzYikzBr4ayhsbGSHfB
+Ryan Paris | Dolce Vita | 1983 | spotify:2fv6Qeb7Z3uaqBeYINvJ0f
+Matthew Wilder | Break My Stride | 1983 | spotify:1mCsF9Tw4AkIZOjvZbZZdT
+Opus | Live Is Life | 1984 | fuera, spotify:4SfYXfkltDIUVWdHkOnZn0
 La Unión | Lobo hombre en París | 1984 | spotify:2hConpLOB6gmyM8vDkVOof
-Falco | Rock Me Amadeus | 1985
-Baltimora | Tarzan Boy | 1985
-Sabrina | Boys (Summertime Love) | 1987
+Falco | Rock Me Amadeus | 1985 | spotify:0DfG1ltJnZyq4Tx3ZLL7ZU
+Baltimora | Tarzan Boy | 1985 | ok-año, spotify:273uCXd7NPrInaiNqtkOrA
+Sabrina | Boys (Summertime Love) | 1987 | spotify:3wK7oxonZMb1kPcfV0PJkl
 Rick Astley | Never Gonna Give You Up | 1987 | spotify:4PTG3Z6ehGkBFwjybzWkR8
 Duncan Dhu | En algún lugar | 1987 | spotify:3UIENhLRdFIOuRan92cAQu
 Bobby McFerrin | Don't Worry, Be Happy | 1988 | spotify:4hObp5bmIJ3PP3cKA9K9GY
-Sinéad O'Connor | Nothing Compares 2 U | 1990
+Sinéad O'Connor | Nothing Compares 2 U | 1990 | spotify:1F8cCNOchnil7feYXXD2In
 Vanilla Ice | Ice Ice Baby | 1990 | spotify:11d9oUiwHuYt216EFA2tiz
-Deee-Lite | Groove Is in the Heart | 1990
-Gerardo | Rico suave | 1990
-Right Said Fred | I'm Too Sexy | 1991
-4 Non Blondes | What's Up? | 1993
-Crash Test Dummies | Mmm Mmm Mmm Mmm | 1993
+Deee-Lite | Groove Is in the Heart | 1990 | spotify:1EFjbeFr7WhVhN7eoTOgR2
+Gerardo | Rico suave | 1990 | ok-versión, spotify:4mwh83eddomW2ydl0BbiZS
+Right Said Fred | I'm Too Sexy | 1991 | spotify:5YBnb8pOGOHkkGUEoqreWL
+4 Non Blondes | What's Up? | 1992 | spotify:0jWgAnTrNZmOGmqgvHhZEm
+Crash Test Dummies | Mmm Mmm Mmm Mmm | 1993 | spotify:76nvqWPFucUra1xCkN1tnD
 Los del Río | Macarena | 1993 | spotify:4Y6cDd4EPHcEbiUKdyvNwM
-Whigfield | Saturday Night | 1994
-Chumbawamba | Tubthumping | 1997
+Whigfield | Saturday Night | 1994 | ok-versión, spotify:5vu0SrOmfXVZfRCBl8sABH
+Chumbawamba | Tubthumping | 1997 | spotify:22HYEJveCvykVDHDiEEmjZ
 Aqua | Barbie Girl | 1997 | spotify:5ZrDlcxIDZyjOzHdYW1ydr
-Natalie Imbruglia | Torn | 1997
-Meredith Brooks | Bitch | 1997
-Stardust | Music Sounds Better with You | 1998
-Lou Bega | Mambo No. 5 (A Little Bit of...) | 1999
-Darude | Sandstorm | 1999
+Natalie Imbruglia | Torn | 1997 | spotify:1Jaah2tmN9Hv81A87KZ1MU
+Meredith Brooks | Bitch | 1997 | spotify:3i6qNxyVgIdUZTTi5m25EM
+Stardust | Music Sounds Better with You | 1998 | spotify:303ccTay2FiDTZ9fZ2AdBt
+Lou Bega | Mambo No. 5 (A Little Bit of...) | 1999 | spotify:3l8WwsQTLPysuRph7WIRYq
+Darude | Sandstorm | 1999 | spotify:3gyYkQZkgJ3skbCmseIK7P
 Alice Deejay | Better Off Alone | 1999 | spotify:4u4JMXuhg94qU88lzeiiuq
-Baha Men | Who Let the Dogs Out | 2000
+Baha Men | Who Let the Dogs Out | 2000 | spotify:1H5tvpoApNDxvxDexoaAUo
 Bacilos | Mi primer millón | 2002 | spotify:5fSDXbY8o9pA3TKwAbfwML
-Las Ketchup | Aserejé | 2002
-O-Zone | Dragostea din tei | 2003
+Las Ketchup | Aserejé | 2002 | ok-versión, spotify:1LWcT4pjjNjOVNw50VlkbK
+O-Zone | Dragostea din tei | 2003 | spotify:52Zr0sinhWTCRrQhRRY4EP
 James Blunt | You're Beautiful | 2004 | spotify:0vg4WnUWvze6pBOJDTq99k
-Daniel Powter | Bad Day | 2005
-Crazy Frog | Axel F | 2005
-Gnarls Barkley | Crazy | 2006
+Daniel Powter | Bad Day | 2005 | ok-año, spotify:0mUyMawtxj1CJ76kn9gIZK
+Crazy Frog | Axel F | 2005 | ok-año, ok-versión, spotify:0Bo5fjMtTfCD8vHGebivqc
+Gnarls Barkley | Crazy | 2006 | spotify:1vxw6aYJls2oq3gW0DujAo
 Gotye | Somebody That I Used to Know | 2011 | spotify:1qDrWA6lyx8cLECdZE7TV7
 Carly Rae Jepsen | Call Me Maybe | 2011 | spotify:20I6sIOMTCkB6w7ryavxtO
-Michel Teló | Ai se eu te pego | 2011
+Michel Teló | Ai se eu te pego | 2011 | ok-versión, spotify:0INaMqjJJe1BZpnWuCxDzt
 Psy | Gangnam Style | 2012 | spotify:03UrZgTINDqvnUMbbIMhql
-Baauer | Harlem Shake | 2012
-Tones And I | Dance Monkey | 2019
+Baauer | Harlem Shake | 2012 | spotify:01XFgRZfZI7oBagNf1Loml
+Tones And I | Dance Monkey | 2019 | spotify:2XU0oxnq2qxCpomAAuJY8K

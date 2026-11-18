@@ -4,7 +4,7 @@
    Sin conexión no se pierde nada: lo que falta subir queda en cola y se manda la próxima vez. */
 const Ranking = (() => {
   // Base online (Firebase Realtime Database). Vacío = solo en este dispositivo.
-  const DB_URL = "";
+  const DB_URL = "https://hitster-f2b08-default-rtdb.firebaseio.com";
   const LOCAL = "hitster-ranking", PEND = "hitster-ranking-pend";
 
   const clave = n => String(n).normalize("NFD").replace(/[̀-ͯ]/g, "").trim().toLowerCase().replace(/\s+/g, " ");

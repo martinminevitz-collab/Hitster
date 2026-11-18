@@ -2142,7 +2142,7 @@
       "spotify": "3IJY8cdmwPRj2mGavppjCc",
       "duracion_ms": 240973,
       "verificacion": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-15",
         "estado": "revisar",
         "motivos": [
           "error en MusicBrainz: MusicBrainz 400"
@@ -7381,13 +7381,35 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "5pGmgnJ9hMgIc1nup7H3mC"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5pGmgnJ9hMgIc1nup7H3mC",
+      "duracion_ms": 270333,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "5pGmgnJ9hMgIc1nup7H3mC",
+          "nombre": "Shout",
+          "artistas": "The Isley Brothers",
+          "disco": "Happy Days Jukebox",
+          "tipo": "compilation",
+          "fecha": "1996-09-27",
+          "isrc": "USSM19601985"
+        },
+        "musicbrainz": {
+          "fecha": "1979",
+          "grabacion": "3bb82d34-5589-4539-b32a-5485e3ad22ce",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1979
+      }
     },
     {
       "id": "fiesta-y-casamiento-002",
@@ -7396,17 +7418,39 @@
       "titulo": "The Twist",
       "anio": 1960,
       "pelicula": null,
-      "fuera": false,
+      "fuera": true,
       "opciones": {
-        "fuera": false,
+        "fuera": true,
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "5Klgx19dxRpzMlNusBv2r0"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5Klgx19dxRpzMlNusBv2r0",
+      "duracion_ms": 248240,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "revisar",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "5Klgx19dxRpzMlNusBv2r0",
+          "nombre": "The Twist",
+          "artistas": "Fat Boys, Chubby Checker",
+          "disco": "Coming Back Hard Again",
+          "tipo": "album",
+          "fecha": "1988-07-01",
+          "isrc": "USUM72103612"
+        },
+        "musicbrainz": {
+          "fecha": "1976",
+          "grabacion": "077d4251-52e6-4b68-9fc7-8c6d293b58e0",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1976
+      }
     },
     {
       "id": "fiesta-y-casamiento-003",
@@ -7419,13 +7463,35 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "1hCBwAPmYCHTQVxCYMEAOE"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1hCBwAPmYCHTQVxCYMEAOE",
+      "duracion_ms": 162440,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "1hCBwAPmYCHTQVxCYMEAOE",
+          "nombre": "Dancing in the Street",
+          "artistas": "Martha Reeves, The Vandellas",
+          "disco": "Heatwave - Best of Martha Reeves and The Vandellas",
+          "tipo": "compilation",
+          "fecha": "2019-07-24",
+          "isrc": "UKU6H1936002"
+        },
+        "musicbrainz": {
+          "fecha": "1965-04-12",
+          "grabacion": "1bb6c15d-d119-4344-afd3-306a390a792c",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1965
+      }
     },
     {
       "id": "fiesta-y-casamiento-004",
@@ -7440,11 +7506,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "3TlIt0ReIxPsVZcOEivT5U"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3TlIt0ReIxPsVZcOEivT5U",
+      "duracion_ms": 119800,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3TlIt0ReIxPsVZcOEivT5U",
+          "nombre": "It's Not Unusual",
+          "artistas": "Tom Jones",
+          "disco": "Along Came Jones",
+          "tipo": "album",
+          "fecha": "1965-05-01",
+          "isrc": "GBF076520010"
+        },
+        "musicbrainz": {
+          "fecha": "1965-01",
+          "grabacion": "ae81e0fa-1636-46ce-a899-6a7d2e744c84",
+          "via": "isrc"
+        },
+        "anio_mb": 1965
+      }
     },
     {
       "id": "fiesta-y-casamiento-005",
@@ -7459,11 +7544,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "76ICmoJ4PcoMWoooaTxnQs"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "76ICmoJ4PcoMWoooaTxnQs",
+      "duracion_ms": 146973,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "76ICmoJ4PcoMWoooaTxnQs",
+          "nombre": "Land of 1000 Dances",
+          "artistas": "Wilson Pickett",
+          "disco": "The Exciting Wilson Pickett",
+          "tipo": "album",
+          "fecha": "1966",
+          "isrc": "USAT29902208"
+        },
+        "musicbrainz": {
+          "fecha": "1966",
+          "grabacion": "3bb572a3-7220-4612-9b62-c68ef026e2ba",
+          "via": "isrc"
+        },
+        "anio_mb": 1966
+      }
     },
     {
       "id": "fiesta-y-casamiento-006",
@@ -7476,13 +7580,35 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "6rV6cYIUryrrmnhn8bxh1e"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "6rV6cYIUryrrmnhn8bxh1e",
+      "duracion_ms": 216493,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "6rV6cYIUryrrmnhn8bxh1e",
+          "nombre": "Build Me up Buttercup",
+          "artistas": "The Foundations",
+          "disco": "Build Me up Buttercup",
+          "tipo": "single",
+          "fecha": "2002-01-01",
+          "isrc": "AUXN22339011"
+        },
+        "musicbrainz": {
+          "fecha": "1967-01-01",
+          "grabacion": "adc54699-90dc-48da-83a5-56872d6650ef",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1967
+      }
     },
     {
       "id": "fiesta-y-casamiento-007",
@@ -7497,11 +7623,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "3WMbD1OyfKuwWDWMNbPQ4g"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3WMbD1OyfKuwWDWMNbPQ4g",
+      "duracion_ms": 208600,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3WMbD1OyfKuwWDWMNbPQ4g",
+          "nombre": "Daddy Cool",
+          "artistas": "Boney M.",
+          "disco": "Take The Heat Off Me",
+          "tipo": "album",
+          "fecha": "1976",
+          "isrc": "DEC737600002"
+        },
+        "musicbrainz": {
+          "fecha": "1976",
+          "grabacion": "2fdab46f-2683-4caf-a07a-7449ac196b47",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1976
+      }
     },
     {
       "id": "fiesta-y-casamiento-008",
@@ -7514,13 +7659,35 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "1bOYplyvxonBBXcwOdEc4z"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1bOYplyvxonBBXcwOdEc4z",
+      "duracion_ms": 227573,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado, título con agregado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "1bOYplyvxonBBXcwOdEc4z",
+          "nombre": "Hay Que Venir Al Sur (Tanti Auguri)",
+          "artistas": "Raffaella Carrà",
+          "disco": "Pop En Español Para Bailar (Streaming only)",
+          "tipo": "compilation",
+          "fecha": "2023-03-17",
+          "isrc": "ITM000102377"
+        },
+        "musicbrainz": {
+          "fecha": "1978",
+          "grabacion": "d2f1d959-222b-47a9-98e3-2a3509957aa4",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1978
+      }
     },
     {
       "id": "fiesta-y-casamiento-009",
@@ -7537,9 +7704,28 @@
         "okVersion": false,
         "spotify": "5jkFvD4UJrmdoezzT1FRoP"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5jkFvD4UJrmdoezzT1FRoP",
+      "duracion_ms": 351573,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5jkFvD4UJrmdoezzT1FRoP",
+          "nombre": "Rasputin",
+          "artistas": "Boney M.",
+          "disco": "Nightflight to Venus",
+          "tipo": "album",
+          "fecha": "1978",
+          "isrc": "DED167800008"
+        },
+        "musicbrainz": {
+          "fecha": "1978",
+          "grabacion": "a49de2ac-de78-4c0f-a759-1130c03e8196",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1978
+      }
     },
     {
       "id": "fiesta-y-casamiento-010",
@@ -7548,17 +7734,39 @@
       "titulo": "Y.M.C.A.",
       "anio": 1978,
       "pelicula": null,
-      "fuera": false,
+      "fuera": true,
       "opciones": {
-        "fuera": false,
+        "fuera": true,
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "2MtwLMtwLU17payh5C4fYG"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2MtwLMtwLU17payh5C4fYG",
+      "duracion_ms": 307786,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: compilado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "2MtwLMtwLU17payh5C4fYG",
+          "nombre": "Y.M.C.A",
+          "artistas": "Village People",
+          "disco": "83 Seoul International Song Festival",
+          "tipo": "compilation",
+          "fecha": "1983-10-07",
+          "isrc": "KSA012262491"
+        },
+        "musicbrainz": {
+          "fecha": "1979",
+          "grabacion": "5eaba41d-5b7a-4401-8965-383721ebf554",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1979
+      }
     },
     {
       "id": "fiesta-y-casamiento-011",
@@ -7575,9 +7783,28 @@
         "okVersion": false,
         "spotify": "1NHWG8zxSEypSRF3UufrnO"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1NHWG8zxSEypSRF3UufrnO",
+      "duracion_ms": 209391,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1NHWG8zxSEypSRF3UufrnO",
+          "nombre": "Don't Stop Me Now",
+          "artistas": "Queen",
+          "disco": "Jazz",
+          "tipo": "album",
+          "fecha": "1978-11-10",
+          "isrc": "GBUM71029610"
+        },
+        "musicbrainz": {
+          "fecha": "1978-11-10",
+          "grabacion": "d4009c09-a339-4b89-bc45-d91ab649acb6",
+          "via": "isrc"
+        },
+        "anio_mb": 1978
+      }
     },
     {
       "id": "fiesta-y-casamiento-012",
@@ -7594,9 +7821,28 @@
         "okVersion": false,
         "spotify": "3kXoKlD84c6OmIcOLfrfEs"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3kXoKlD84c6OmIcOLfrfEs",
+      "duracion_ms": 216022,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3kXoKlD84c6OmIcOLfrfEs",
+          "nombre": "September",
+          "artistas": "Earth, Wind & Fire",
+          "disco": "September (sped up + slowed)",
+          "tipo": "single",
+          "fecha": "1978-11-18",
+          "isrc": "USSM17800845"
+        },
+        "musicbrainz": {
+          "fecha": "1978-11",
+          "grabacion": "661d35c3-6ade-4367-af96-6c2898149906",
+          "via": "isrc"
+        },
+        "anio_mb": 1978
+      }
     },
     {
       "id": "fiesta-y-casamiento-013",
@@ -7610,12 +7856,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okVersion": true,
+        "spotify": "6ztstiyZL6FXzh4aG46ZPD"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "6ztstiyZL6FXzh4aG46ZPD",
+      "duracion_ms": 288408,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: título con agregado"
+        ],
+        "spotify": {
+          "id": "6ztstiyZL6FXzh4aG46ZPD",
+          "nombre": "Boogie Wonderland (with The Emotions)",
+          "artistas": "Earth, Wind & Fire, The Emotions",
+          "disco": "I Am",
+          "tipo": "album",
+          "fecha": "1979-06",
+          "isrc": "USSM19922860"
+        },
+        "musicbrainz": {
+          "fecha": "1979",
+          "grabacion": "d32cef7f-bb4b-4b51-b88e-a5df237749cb",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1979
+      }
     },
     {
       "id": "fiesta-y-casamiento-014",
@@ -7630,11 +7897,32 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "5IKLwqBQG6KU6MP2zP80Nu"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5IKLwqBQG6KU6MP2zP80Nu",
+      "duracion_ms": 216733,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "5IKLwqBQG6KU6MP2zP80Nu",
+          "nombre": "We Are Family - 1995 Remaster",
+          "artistas": "Sister Sledge",
+          "disco": "We Are Family (1995 Remaster)",
+          "tipo": "album",
+          "fecha": "1979",
+          "isrc": "USAT20102166"
+        },
+        "musicbrainz": {
+          "fecha": "1979",
+          "grabacion": "6a07230b-ca59-42d9-8724-4aea35177638",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1979
+      }
     },
     {
       "id": "fiesta-y-casamiento-015",
@@ -7649,11 +7937,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "46eu3SBuFCXWsPT39Yg3tJ"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "46eu3SBuFCXWsPT39Yg3tJ",
+      "duracion_ms": 364441,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "46eu3SBuFCXWsPT39Yg3tJ",
+          "nombre": "Don't Stop 'Til You Get Enough",
+          "artistas": "Michael Jackson",
+          "disco": "Off the Wall",
+          "tipo": "album",
+          "fecha": "1979-08-10",
+          "isrc": "USSM17900816"
+        },
+        "musicbrainz": {
+          "fecha": "1979",
+          "grabacion": "b88216c6-603f-4394-be10-c7f1b3acb13f",
+          "via": "isrc"
+        },
+        "anio_mb": 1979
+      }
     },
     {
       "id": "fiesta-y-casamiento-016",
@@ -7668,11 +7975,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "3vkQ5DAB1qQMYO4Mr9zJN6"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3vkQ5DAB1qQMYO4Mr9zJN6",
+      "duracion_ms": 292613,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3vkQ5DAB1qQMYO4Mr9zJN6",
+          "nombre": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+          "artistas": "ABBA",
+          "disco": "Voulez-Vous",
+          "tipo": "album",
+          "fecha": "1979",
+          "isrc": "SEAYD7901120"
+        },
+        "musicbrainz": {
+          "fecha": "1979-10-12",
+          "grabacion": "e1b7b099-abe6-4b7f-b06e-2c7cba7ffe7f",
+          "via": "isrc"
+        },
+        "anio_mb": 1979
+      }
     },
     {
       "id": "fiesta-y-casamiento-017",
@@ -7689,9 +8015,28 @@
         "okVersion": false,
         "spotify": "3K7Q9PHUWPTaknlbFPThn2"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3K7Q9PHUWPTaknlbFPThn2",
+      "duracion_ms": 298866,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3K7Q9PHUWPTaknlbFPThn2",
+          "nombre": "Celebration",
+          "artistas": "Kool & The Gang",
+          "disco": "Celebrate!",
+          "tipo": "album",
+          "fecha": "1980-09-29",
+          "isrc": "USPR38007190"
+        },
+        "musicbrainz": {
+          "fecha": "1980",
+          "grabacion": "8e8e3f6a-6787-49dc-9ade-46f71ca66c39",
+          "via": "isrc"
+        },
+        "anio_mb": 1980
+      }
     },
     {
       "id": "fiesta-y-casamiento-018",
@@ -7706,11 +8051,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "2IvetNzSZMH5gwjInoyr18"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2IvetNzSZMH5gwjInoyr18",
+      "duracion_ms": 325426,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2IvetNzSZMH5gwjInoyr18",
+          "nombre": "It's Raining Men",
+          "artistas": "The Weather Girls",
+          "disco": "Success",
+          "tipo": "album",
+          "fecha": "1982",
+          "isrc": "USSM18200382"
+        },
+        "musicbrainz": {
+          "fecha": "1982",
+          "grabacion": "0c578aa6-67ae-4dcb-b637-cd03c12a8f74",
+          "via": "isrc"
+        },
+        "anio_mb": 1982
+      }
     },
     {
       "id": "fiesta-y-casamiento-019",
@@ -7727,9 +8091,28 @@
         "okVersion": false,
         "spotify": "1DxT6f6mH7kLriOUWbujup"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1DxT6f6mH7kLriOUWbujup",
+      "duracion_ms": 382973,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1DxT6f6mH7kLriOUWbujup",
+          "nombre": "All Night Long (All Night)",
+          "artistas": "Lionel Richie",
+          "disco": "Can't Slow Down",
+          "tipo": "album",
+          "fecha": "1983-01-01",
+          "isrc": "USMO18390005"
+        },
+        "musicbrainz": {
+          "fecha": "1983",
+          "grabacion": "5d26f7f6-a029-4a5d-9476-c73dd300ad59",
+          "via": "isrc"
+        },
+        "anio_mb": 1983
+      }
     },
     {
       "id": "fiesta-y-casamiento-020",
@@ -7738,17 +8121,39 @@
       "titulo": "Give It Up",
       "anio": 1983,
       "pelicula": null,
-      "fuera": false,
+      "fuera": true,
       "opciones": {
-        "fuera": false,
+        "fuera": true,
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "32bQnfnmCzDMy1JMULmrRG"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "32bQnfnmCzDMy1JMULmrRG",
+      "duracion_ms": 244986,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: vivo/versión",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "32bQnfnmCzDMy1JMULmrRG",
+          "nombre": "Give It Up - Live",
+          "artistas": "KC, The Sunshine Band",
+          "disco": "Shake Your Booty (Live)",
+          "tipo": "album",
+          "fecha": "2001",
+          "isrc": "USMC30710035"
+        },
+        "musicbrainz": {
+          "fecha": "1982",
+          "grabacion": "47a30e99-13f3-4569-b31b-02a397034c24",
+          "via": "isrc"
+        },
+        "anio_mb": 1982
+      }
     },
     {
       "id": "fiesta-y-casamiento-021",
@@ -7763,11 +8168,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "0XbgL3Wzp4xzM37UOrhJyp"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0XbgL3Wzp4xzM37UOrhJyp",
+      "duracion_ms": 172333,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0XbgL3Wzp4xzM37UOrhJyp",
+          "nombre": "Me Das Cada Día Más",
+          "artistas": "Valeria Lynch",
+          "disco": "Cada Dia Más",
+          "tipo": "album",
+          "fecha": "1984-08-09",
+          "isrc": "ARF039100012"
+        },
+        "musicbrainz": {
+          "fecha": "1984",
+          "grabacion": "880701c6-a149-4c9b-81a2-d320b7e5a8a1",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1984
+      }
     },
     {
       "id": "fiesta-y-casamiento-022",
@@ -7784,9 +8208,28 @@
         "okVersion": false,
         "spotify": "0ikz6tENMONtK6qGkOrU3c"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0ikz6tENMONtK6qGkOrU3c",
+      "duracion_ms": 231333,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0ikz6tENMONtK6qGkOrU3c",
+          "nombre": "Wake Me Up Before You Go-Go",
+          "artistas": "Wham!",
+          "disco": "Make It Big",
+          "tipo": "album",
+          "fecha": "1984-10-23",
+          "isrc": "GBBBN0009712"
+        },
+        "musicbrainz": {
+          "fecha": "1984-07-21",
+          "grabacion": "80033c72-aa19-4ba8-9227-afb075fec46e",
+          "via": "isrc"
+        },
+        "anio_mb": 1984
+      }
     },
     {
       "id": "fiesta-y-casamiento-023",
@@ -7803,9 +8246,28 @@
         "okVersion": false,
         "spotify": "3FdHgoJbH3DXNtGLh56pFu"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3FdHgoJbH3DXNtGLh56pFu",
+      "duracion_ms": 254000,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3FdHgoJbH3DXNtGLh56pFu",
+          "nombre": "Conga!",
+          "artistas": "Miami Sound Machine, Gloria Estefan",
+          "disco": "Primitive Love",
+          "tipo": "album",
+          "fecha": "1985-08-13",
+          "isrc": "USSM10026825"
+        },
+        "musicbrainz": {
+          "fecha": "1985",
+          "grabacion": "7c5a0694-8781-43d2-9971-411fbd5df5b5",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1985
+      }
     },
     {
       "id": "fiesta-y-casamiento-024",
@@ -7822,9 +8284,28 @@
         "okVersion": false,
         "spotify": "2tUBqZG2AbRi7Q0BIrVrEj"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2tUBqZG2AbRi7Q0BIrVrEj",
+      "duracion_ms": 292875,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2tUBqZG2AbRi7Q0BIrVrEj",
+          "nombre": "I Wanna Dance with Somebody (Who Loves Me)",
+          "artistas": "Whitney Houston",
+          "disco": "Whitney",
+          "tipo": "album",
+          "fecha": "1987-06-02",
+          "isrc": "USAR18700121"
+        },
+        "musicbrainz": {
+          "fecha": "1987",
+          "grabacion": "c35c99b7-f217-4010-bb7b-b4b8facb1310",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1987
+      }
     },
     {
       "id": "fiesta-y-casamiento-025",
@@ -7841,9 +8322,28 @@
         "okVersion": false,
         "spotify": "3iB8eciGU9vZkaDYkz7Ir9"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3iB8eciGU9vZkaDYkz7Ir9",
+      "duracion_ms": 203333,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3iB8eciGU9vZkaDYkz7Ir9",
+          "nombre": "Bamboléo",
+          "artistas": "Gipsy Kings",
+          "disco": "Gipsy Kings",
+          "tipo": "album",
+          "fecha": "1987-08-24",
+          "isrc": "GBARL0700397"
+        },
+        "musicbrainz": {
+          "fecha": "1987",
+          "grabacion": "ef1c4740-41fd-4ee7-b5a7-f0d2c53f0061",
+          "via": "isrc"
+        },
+        "anio_mb": 1987
+      }
     },
     {
       "id": "fiesta-y-casamiento-026",
@@ -7858,11 +8358,32 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "4qjP4I4vrWls9crwHrWd4x"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4qjP4I4vrWls9crwHrWd4x",
+      "duracion_ms": 205794,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "4qjP4I4vrWls9crwHrWd4x",
+          "nombre": "Lambada - Remastered 2022",
+          "artistas": "Kaoma",
+          "disco": "Lambada (Remastered 2022)",
+          "tipo": "single",
+          "fecha": "2022-09-01",
+          "isrc": "GBBXS2202870"
+        },
+        "musicbrainz": {
+          "fecha": "1989",
+          "grabacion": "2cd58b73-2a46-433f-870a-8c5a06b7b25b",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1989
+      }
     },
     {
       "id": "fiesta-y-casamiento-027",
@@ -7879,9 +8400,28 @@
         "okVersion": false,
         "spotify": "21qnJAMtzC6S5SESuqQLEK"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "21qnJAMtzC6S5SESuqQLEK",
+      "duracion_ms": 320306,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "21qnJAMtzC6S5SESuqQLEK",
+          "nombre": "Pump Up The Jam",
+          "artistas": "Technotronic",
+          "disco": "Pump Up The Jam",
+          "tipo": "album",
+          "fecha": "1989-11-28",
+          "isrc": "BED018901375"
+        },
+        "musicbrainz": {
+          "fecha": "1989",
+          "grabacion": "200775e2-ef77-4cb1-ba69-4f61bd9550f2",
+          "via": "isrc"
+        },
+        "anio_mb": 1989
+      }
     },
     {
       "id": "fiesta-y-casamiento-028",
@@ -7898,9 +8438,28 @@
         "okVersion": false,
         "spotify": "6M8horg7h52MPTxY0I3dQJ"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "6M8horg7h52MPTxY0I3dQJ",
+      "duracion_ms": 245120,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6M8horg7h52MPTxY0I3dQJ",
+          "nombre": "La Bilirrubina",
+          "artistas": "Juan Luis Guerra 4.40",
+          "disco": "Bachata Rosa",
+          "tipo": "album",
+          "fecha": "1990-01-01",
+          "isrc": "USJ3V1861775"
+        },
+        "musicbrainz": {
+          "fecha": "1990-01-01",
+          "grabacion": "f6776146-3a62-4087-b232-c6c8a917672a",
+          "via": "isrc"
+        },
+        "anio_mb": 1990
+      }
     },
     {
       "id": "fiesta-y-casamiento-029",
@@ -7914,12 +8473,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okVersion": true,
+        "spotify": "7u3SuASdye6pHcB18MjFdR"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7u3SuASdye6pHcB18MjFdR",
+      "duracion_ms": 247200,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "7u3SuASdye6pHcB18MjFdR",
+          "nombre": "Gonna Make You Sweat (Everybody Dance Now)",
+          "artistas": "C & C Music Factory",
+          "disco": "Evan Almighty",
+          "tipo": "compilation",
+          "fecha": "2007-06-19",
+          "isrc": "USSM19000533"
+        },
+        "musicbrainz": {
+          "fecha": "1990",
+          "grabacion": "0cd50672-a54b-4cd7-aa7c-41d3ec084432",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1990
+      }
     },
     {
       "id": "fiesta-y-casamiento-030",
@@ -7928,17 +8508,32 @@
       "titulo": "Qué tendrá el petiso",
       "anio": 1990,
       "pelicula": null,
-      "fuera": false,
+      "fuera": true,
       "opciones": {
-        "fuera": false,
+        "fuera": true,
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "6C8bKBlG7MM5qUyX58wc5N"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "6C8bKBlG7MM5qUyX58wc5N",
+      "duracion_ms": 202489,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "revisar",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "6C8bKBlG7MM5qUyX58wc5N",
+          "nombre": "Que Tendra El Petiso",
+          "artistas": "Sin Miedo, Ricky Maravilla",
+          "disco": "Ricky Maravilla: Sin Miedo Session #32",
+          "tipo": "album",
+          "fecha": "2022-12-31",
+          "isrc": "ARQIH2291941"
+        }
+      }
     },
     {
       "id": "fiesta-y-casamiento-031",
@@ -7955,9 +8550,28 @@
         "okVersion": false,
         "spotify": "5uFYYOyT3EclOVhiFzPJSz"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5uFYYOyT3EclOVhiFzPJSz",
+      "duracion_ms": 332229,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5uFYYOyT3EclOVhiFzPJSz",
+          "nombre": "Rhythm Is a Dancer",
+          "artistas": "SNAP!",
+          "disco": "The Madman's Return",
+          "tipo": "album",
+          "fecha": "1992-01-01",
+          "isrc": "DET189200600"
+        },
+        "musicbrainz": {
+          "fecha": "1992",
+          "grabacion": "a4979cf3-7ff5-4d52-8899-0814b36e52a4",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1992
+      }
     },
     {
       "id": "fiesta-y-casamiento-032",
@@ -7974,9 +8588,28 @@
         "okVersion": false,
         "spotify": "1x6bkwDyWIOZNFY5blRSs1"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1x6bkwDyWIOZNFY5blRSs1",
+      "duracion_ms": 281933,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1x6bkwDyWIOZNFY5blRSs1",
+          "nombre": "La Pachanga",
+          "artistas": "Vilma Palma e Vampiros",
+          "disco": "La Pachanga",
+          "tipo": "album",
+          "fecha": "1991",
+          "isrc": "USA560306759"
+        },
+        "musicbrainz": {
+          "fecha": "1991",
+          "grabacion": "9ebfefd0-ed75-4776-b75f-9006311ebac4",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1991
+      }
     },
     {
       "id": "fiesta-y-casamiento-033",
@@ -7985,17 +8618,38 @@
       "titulo": "El tiburón",
       "anio": 1993,
       "pelicula": null,
-      "fuera": false,
+      "fuera": true,
       "opciones": {
-        "fuera": false,
+        "fuera": true,
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "1rJfSlWIcQENzTPq7tcCvB"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1rJfSlWIcQENzTPq7tcCvB",
+      "duracion_ms": 260472,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "revisar",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "1rJfSlWIcQENzTPq7tcCvB",
+          "nombre": "El Tiburon",
+          "artistas": "Proyecto Uno",
+          "disco": "Aniversario",
+          "tipo": "album",
+          "fecha": "2022-07-29",
+          "isrc": "TCAGE2237414"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "fe3d52e2-705f-42ae-84ad-3662a80bf670",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1993
+      }
     },
     {
       "id": "fiesta-y-casamiento-034",
@@ -8012,9 +8666,28 @@
         "okVersion": false,
         "spotify": "08W5kgLurl3qawlKLVDWvm"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "08W5kgLurl3qawlKLVDWvm",
+      "duracion_ms": 264280,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "08W5kgLurl3qawlKLVDWvm",
+          "nombre": "The Rhythm Of The Night",
+          "artistas": "Corona",
+          "disco": "The Rhythm of the Night",
+          "tipo": "single",
+          "fecha": "1994-01-30",
+          "isrc": "ITA199800041"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "da4e7732-68ad-4ecb-bf01-4b45559ccfc7",
+          "via": "isrc"
+        },
+        "anio_mb": 1993
+      }
     },
     {
       "id": "fiesta-y-casamiento-035",
@@ -8031,9 +8704,28 @@
         "okVersion": false,
         "spotify": "2rTYgHxgcndkUrRoU7x0Sv"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2rTYgHxgcndkUrRoU7x0Sv",
+      "duracion_ms": 336840,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2rTYgHxgcndkUrRoU7x0Sv",
+          "nombre": "Mr. Vain",
+          "artistas": "Culture Beat",
+          "disco": "Serenity",
+          "tipo": "album",
+          "fecha": "1993-01-01",
+          "isrc": "DEPT99300133"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "ece4fd09-6b4f-434e-8d36-3dc3e569e8c8",
+          "via": "isrc"
+        },
+        "anio_mb": 1993
+      }
     },
     {
       "id": "fiesta-y-casamiento-036",
@@ -8050,9 +8742,28 @@
         "okVersion": false,
         "spotify": "7voHUmPNDuYZ1SW1mwRu26"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7voHUmPNDuYZ1SW1mwRu26",
+      "duracion_ms": 224220,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7voHUmPNDuYZ1SW1mwRu26",
+          "nombre": "No Limit",
+          "artistas": "2 Unlimited",
+          "disco": "No Limits",
+          "tipo": "album",
+          "fecha": "1993-05-10",
+          "isrc": "BEAA19305003"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "cfe3d517-e440-4852-a76f-b462be003929",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1993
+      }
     },
     {
       "id": "fiesta-y-casamiento-037",
@@ -8069,9 +8780,28 @@
         "okVersion": false,
         "spotify": "4tXR895KKljrC2VptgyEhJ"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4tXR895KKljrC2VptgyEhJ",
+      "duracion_ms": 215493,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4tXR895KKljrC2VptgyEhJ",
+          "nombre": "La Gota Fria",
+          "artistas": "Carlos Vives",
+          "disco": "Clasicos de la Provincia",
+          "tipo": "album",
+          "fecha": "1994-02-22",
+          "isrc": "COSO11300336"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "425608fc-8b0d-4016-a499-b27e77a27382",
+          "via": "isrc"
+        },
+        "anio_mb": 1993
+      }
     },
     {
       "id": "fiesta-y-casamiento-038",
@@ -8088,9 +8818,28 @@
         "okVersion": false,
         "spotify": "0QQHPRbgLJJ5XNzJV1l9BW"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0QQHPRbgLJJ5XNzJV1l9BW",
+      "duracion_ms": 262573,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0QQHPRbgLJJ5XNzJV1l9BW",
+          "nombre": "María",
+          "artistas": "Ricky Martin",
+          "disco": "A Medio Vivir",
+          "tipo": "album",
+          "fecha": "1995-09-12",
+          "isrc": "MXF149500003"
+        },
+        "musicbrainz": {
+          "fecha": "1995",
+          "grabacion": "0aca49c6-4f11-4089-92ff-92ec00591ef4",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1995
+      }
     },
     {
       "id": "fiesta-y-casamiento-039",
@@ -8107,9 +8856,28 @@
         "okVersion": false,
         "spotify": "4t8hBUIRJ7wRauWy3tGZGX"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4t8hBUIRJ7wRauWy3tGZGX",
+      "duracion_ms": 265626,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4t8hBUIRJ7wRauWy3tGZGX",
+          "nombre": "Amor A La Mexicana",
+          "artistas": "Thalia",
+          "disco": "Por Amor",
+          "tipo": "album",
+          "fecha": "1997",
+          "isrc": "MXF069700004"
+        },
+        "musicbrainz": {
+          "fecha": "1997",
+          "grabacion": "060d5bb0-c658-4bd0-a01e-92c10a89c5bb",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1997
+      }
     },
     {
       "id": "fiesta-y-casamiento-040",
@@ -8126,9 +8894,28 @@
         "okVersion": false,
         "spotify": "7rWOuBzhjHdiR7RPz9YH7L"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7rWOuBzhjHdiR7RPz9YH7L",
+      "duracion_ms": 275000,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7rWOuBzhjHdiR7RPz9YH7L",
+          "nombre": "La Vida Es Un Carnaval",
+          "artistas": "Celia Cruz",
+          "disco": "Mi Vida Es Cantar",
+          "tipo": "album",
+          "fecha": "1998-01-01",
+          "isrc": "USUL10110340"
+        },
+        "musicbrainz": {
+          "fecha": "1998-09-22",
+          "grabacion": "124631db-8241-4cee-ba43-4901190ee6b6",
+          "via": "isrc"
+        },
+        "anio_mb": 1998
+      }
     },
     {
       "id": "fiesta-y-casamiento-041",
@@ -8145,9 +8932,28 @@
         "okVersion": false,
         "spotify": "7JIjUx3GsL0upxmNJacmtz"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7JIjUx3GsL0upxmNJacmtz",
+      "duracion_ms": 267160,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7JIjUx3GsL0upxmNJacmtz",
+          "nombre": "Suavemente",
+          "artistas": "Elvis Crespo",
+          "disco": "Suavemente",
+          "tipo": "album",
+          "fecha": "1998-02-27",
+          "isrc": "USSD19700576"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "28fbe8ba-fbf5-487d-97be-746bd0d80b65",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
+      }
     },
     {
       "id": "fiesta-y-casamiento-042",
@@ -8162,11 +8968,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "0l5bjwbZyGVCjUUaKQfRom"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0l5bjwbZyGVCjUUaKQfRom",
+      "duracion_ms": 202583,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0l5bjwbZyGVCjUUaKQfRom",
+          "nombre": "Boom, Boom, Boom, Boom!!",
+          "artistas": "Vengaboys",
+          "disco": "Boom, Boom, Boom, Boom!!",
+          "tipo": "single",
+          "fecha": "1998-01-01",
+          "isrc": "NLC529811150"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "f54b3d6d-6bd8-4a6f-82df-7cb665b4b830",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
+      }
     },
     {
       "id": "fiesta-y-casamiento-043",
@@ -8179,13 +9004,34 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
+        "okAnio": true,
         "okVersion": false,
-        "spotify": null
+        "spotify": "2bbeNsFmjZqdoDhjLsKNWe"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2bbeNsFmjZqdoDhjLsKNWe",
+      "duracion_ms": 214066,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "2bbeNsFmjZqdoDhjLsKNWe",
+          "nombre": "Bailamos",
+          "artistas": "Enrique Iglesias",
+          "disco": "Enrique",
+          "tipo": "album",
+          "fecha": "1999-11-23",
+          "isrc": "USIR19915208"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "5cbfd195-aeb8-4c81-b6a5-c35fc565f0fd",
+          "via": "isrc"
+        },
+        "anio_mb": 1998
+      }
     },
     {
       "id": "fiesta-y-casamiento-044",
@@ -8202,9 +9048,28 @@
         "okVersion": false,
         "spotify": "0qe8ejgap3s39vLXc4K4dU"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0qe8ejgap3s39vLXc4K4dU",
+      "duracion_ms": 253133,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0qe8ejgap3s39vLXc4K4dU",
+          "nombre": "Salomé",
+          "artistas": "Chayanne",
+          "disco": "Chayanne Fan's Pack - Tiempo De Vals/Volver A Nacer/Atado A Tu Amor",
+          "tipo": "album",
+          "fecha": "1990",
+          "isrc": "NLB639850008"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "fb866246-036f-447e-82a9-7e996efd70ba",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
+      }
     },
     {
       "id": "fiesta-y-casamiento-045",
@@ -8213,17 +9078,39 @@
       "titulo": "Sex Bomb",
       "anio": 1999,
       "pelicula": null,
-      "fuera": false,
+      "fuera": true,
       "opciones": {
-        "fuera": false,
+        "fuera": true,
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "0lIEIoU1coWF1ZrZ7jikV1"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0lIEIoU1coWF1ZrZ7jikV1",
+      "duracion_ms": 216467,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: vivo/versión",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0lIEIoU1coWF1ZrZ7jikV1",
+          "nombre": "Sex Bomb",
+          "artistas": "Tom Jones (Karaoke)",
+          "disco": "Karaoke - Tom Jones",
+          "tipo": "album",
+          "fecha": "2006-02-21",
+          "isrc": "USA370551971"
+        },
+        "musicbrainz": {
+          "fecha": "2000",
+          "grabacion": "818658f3-5268-49d7-a50c-fef0ab19f210",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      }
     },
     {
       "id": "fiesta-y-casamiento-046",
@@ -8238,11 +9125,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "1QJFW9TapmQA41A1gp9nNe"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1QJFW9TapmQA41A1gp9nNe",
+      "duracion_ms": 417533,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1QJFW9TapmQA41A1gp9nNe",
+          "nombre": "L'amour Toujours",
+          "artistas": "GIGI D'AGOSTINO",
+          "disco": "L'Amour Toujours",
+          "tipo": "album",
+          "fecha": "1999",
+          "isrc": "DEA319908469"
+        },
+        "musicbrainz": {
+          "fecha": "1999-08-21",
+          "grabacion": "590ab625-631e-4829-896a-8a4dae8ca3fc",
+          "via": "isrc"
+        },
+        "anio_mb": 1999
+      }
     },
     {
       "id": "fiesta-y-casamiento-047",
@@ -8257,18 +9163,37 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "4CLtt0YbZDvFAoFPepuklh"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4CLtt0YbZDvFAoFPepuklh",
+      "duracion_ms": 192960,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4CLtt0YbZDvFAoFPepuklh",
+          "nombre": "Para No Verte Más",
+          "artistas": "La Mosca",
+          "disco": "Para No Verte Mas",
+          "tipo": "single",
+          "fecha": "1999-01-01",
+          "isrc": "ARF049900032"
+        },
+        "musicbrainz": {
+          "fecha": "1999",
+          "grabacion": "100ce8e9-dcc8-44f1-8776-c9d761667e8e",
+          "via": "isrc"
+        },
+        "anio_mb": 1999
+      }
     },
     {
       "id": "fiesta-y-casamiento-048",
       "mazo": "fiesta-y-casamiento",
       "artista": "Gladys la Bomba Tucumana",
       "titulo": "La pollera amarilla",
-      "anio": 1999,
+      "anio": 1992,
       "pelicula": null,
       "fuera": false,
       "opciones": {
@@ -8276,11 +9201,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "03G43mO3a34IGIsyDd4sj5"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "03G43mO3a34IGIsyDd4sj5",
+      "duracion_ms": 189106,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "03G43mO3a34IGIsyDd4sj5",
+          "nombre": "La Pollera Amarilla",
+          "artistas": "Gladys \"La bomba tucumana\"",
+          "disco": "La Pollera Amarilla",
+          "tipo": "album",
+          "fecha": "1992-11-12",
+          "isrc": "ARG991023093"
+        },
+        "musicbrainz": {
+          "fecha": "1992",
+          "grabacion": "a3e5d1a1-3252-4820-bbc6-cd7910e6a138",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1992
+      }
     },
     {
       "id": "fiesta-y-casamiento-049",
@@ -8289,9 +9233,9 @@
       "titulo": "El Humahuaqueño",
       "anio": 1999,
       "pelicula": null,
-      "fuera": false,
+      "fuera": true,
       "opciones": {
-        "fuera": false,
+        "fuera": true,
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
@@ -8299,7 +9243,20 @@
       },
       "spotify": null,
       "duracion_ms": null,
-      "verificacion": null
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "anio_distinto"
+        ],
+        "musicbrainz": {
+          "fecha": "2001",
+          "grabacion": "de531e0d-6a99-4dda-927d-2a93ba88383a",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2001
+      }
     },
     {
       "id": "fiesta-y-casamiento-050",
@@ -8314,11 +9271,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "5F0fiSkDxZL5V3SlnTNhKh"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5F0fiSkDxZL5V3SlnTNhKh",
+      "duracion_ms": 320293,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5F0fiSkDxZL5V3SlnTNhKh",
+          "nombre": "One More Time",
+          "artistas": "Daft Punk",
+          "disco": "One More Time",
+          "tipo": "single",
+          "fecha": "2000-11-13",
+          "isrc": "GBDUW0000050"
+        },
+        "musicbrainz": {
+          "fecha": "2000",
+          "grabacion": "60fa767a-d85d-4991-82bc-4294e0b11ae7",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      }
     },
     {
       "id": "fiesta-y-casamiento-051",
@@ -8332,12 +9308,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okVersion": true,
+        "spotify": "6wHLwXw6abCjFSv0HRJ16m"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "6wHLwXw6abCjFSv0HRJ16m",
+      "duracion_ms": 238133,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "6wHLwXw6abCjFSv0HRJ16m",
+          "nombre": "Y Yo Sigo Aqui",
+          "artistas": "Paulina Rubio",
+          "disco": "Border Girl",
+          "tipo": "album",
+          "fecha": "2002-01-01",
+          "isrc": "MXF110200074"
+        },
+        "musicbrainz": {
+          "fecha": "2000",
+          "grabacion": "4e0e2f1a-ce96-4397-aca5-fd27e54ea17a",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      }
     },
     {
       "id": "fiesta-y-casamiento-052",
@@ -8354,9 +9351,28 @@
         "okVersion": false,
         "spotify": "3WkibOpDF7cQ5xntM1epyf"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3WkibOpDF7cQ5xntM1epyf",
+      "duracion_ms": 227600,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3WkibOpDF7cQ5xntM1epyf",
+          "nombre": "It Wasn't Me",
+          "artistas": "Shaggy, Rik Rok",
+          "disco": "Hot Shot",
+          "tipo": "album",
+          "fecha": "2000-08-08",
+          "isrc": "USMC10000393"
+        },
+        "musicbrainz": {
+          "fecha": "2000",
+          "grabacion": "548287a9-eaf4-4207-928e-1888679dfb17",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      }
     },
     {
       "id": "fiesta-y-casamiento-053",
@@ -8373,9 +9389,28 @@
         "okVersion": false,
         "spotify": "2es7AohVgF03LwjmQyaVMl"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2es7AohVgF03LwjmQyaVMl",
+      "duracion_ms": 218560,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2es7AohVgF03LwjmQyaVMl",
+          "nombre": "Torero",
+          "artistas": "Chayanne",
+          "disco": "Chayanne",
+          "tipo": "album",
+          "fecha": "1998",
+          "isrc": "NLB630200016"
+        },
+        "musicbrainz": {
+          "fecha": "2002",
+          "grabacion": "7f3c037c-6f98-4796-8ee9-646c49b774c3",
+          "via": "isrc"
+        },
+        "anio_mb": 2002
+      }
     },
     {
       "id": "fiesta-y-casamiento-054",
@@ -8390,11 +9425,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "04KTF78FFg8sOHC1BADqbY"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "04KTF78FFg8sOHC1BADqbY",
+      "duracion_ms": 228240,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "04KTF78FFg8sOHC1BADqbY",
+          "nombre": "Hot In Herre",
+          "artistas": "Nelly",
+          "disco": "Nellyville",
+          "tipo": "album",
+          "fecha": "2002-06-25",
+          "isrc": "USUR10200371"
+        },
+        "musicbrainz": {
+          "fecha": "2002",
+          "grabacion": "a7c296e3-67ab-4687-9f7b-069dce1be9ba",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2002
+      }
     },
     {
       "id": "fiesta-y-casamiento-055",
@@ -8411,9 +9465,28 @@
         "okVersion": false,
         "spotify": "2PpruBYCo4H7WOBJ7Q2EwM"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2PpruBYCo4H7WOBJ7Q2EwM",
+      "duracion_ms": 235213,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2PpruBYCo4H7WOBJ7Q2EwM",
+          "nombre": "Hey Ya!",
+          "artistas": "Outkast",
+          "disco": "Speakerboxxx/The Love Below",
+          "tipo": "album",
+          "fecha": "2003",
+          "isrc": "USAR10300924"
+        },
+        "musicbrainz": {
+          "fecha": "2003",
+          "grabacion": "89eedf1a-c793-4b69-99bd-f599dd4e8c73",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2003
+      }
     },
     {
       "id": "fiesta-y-casamiento-056",
@@ -8427,12 +9500,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okVersion": true,
+        "spotify": "2zk6o36bmhyaqkkkzB0ToK"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2zk6o36bmhyaqkkkzB0ToK",
+      "duracion_ms": 167120,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "2zk6o36bmhyaqkkkzB0ToK",
+          "nombre": "Call on Me",
+          "artistas": "Eric Prydz",
+          "disco": "Throwback Summer Hits",
+          "tipo": "compilation",
+          "fecha": "2021-05-28",
+          "isrc": "GBCEN0400131"
+        },
+        "musicbrainz": {
+          "fecha": "2004",
+          "grabacion": "d7bf550e-a778-47bb-a89d-c6dddb225113",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2004
+      }
     },
     {
       "id": "fiesta-y-casamiento-057",
@@ -8447,11 +9541,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "0k2GOhqsrxDTAbFFSdNJjT"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0k2GOhqsrxDTAbFFSdNJjT",
+      "duracion_ms": 216320,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0k2GOhqsrxDTAbFFSdNJjT",
+          "nombre": "Temperature",
+          "artistas": "Sean Paul",
+          "disco": "The Trinity",
+          "tipo": "album",
+          "fecha": "2005-09-27",
+          "isrc": "USAT20505520"
+        },
+        "musicbrainz": {
+          "fecha": "2005-07-12",
+          "grabacion": "771bc77f-0924-4390-a23d-0b6318c697ac",
+          "via": "isrc"
+        },
+        "anio_mb": 2005
+      }
     },
     {
       "id": "fiesta-y-casamiento-058",
@@ -8466,11 +9579,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "4HuHoYjNcbGIHFpRVbRj2T"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4HuHoYjNcbGIHFpRVbRj2T",
+      "duracion_ms": 213613,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4HuHoYjNcbGIHFpRVbRj2T",
+          "nombre": "Pump It",
+          "artistas": "Black Eyed Peas",
+          "disco": "Pump It",
+          "tipo": "single",
+          "fecha": "2005-01-01",
+          "isrc": "USIR10500407"
+        },
+        "musicbrainz": {
+          "fecha": "2005",
+          "grabacion": "53924d37-9372-4a5d-a46d-5f9360dae18c",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2005
+      }
     },
     {
       "id": "fiesta-y-casamiento-059",
@@ -8485,11 +9617,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "4pk5rRwrqu5eRruS5KYz1t"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4pk5rRwrqu5eRruS5KYz1t",
+      "duracion_ms": 401360,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4pk5rRwrqu5eRruS5KYz1t",
+          "nombre": "World, Hold On (Children of the Sky)",
+          "artistas": "Bob Sinclar, Steve Edwards",
+          "disco": "Western Dream",
+          "tipo": "album",
+          "fecha": "2006-04-10",
+          "isrc": "FR4E40500200"
+        },
+        "musicbrainz": {
+          "fecha": "2006",
+          "grabacion": "992f8ed8-6875-4d98-9c4f-afe3bef4c89e",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2006
+      }
     },
     {
       "id": "fiesta-y-casamiento-060",
@@ -8504,11 +9655,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "0paaQpOzPElcIzjjPkbCkS"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0paaQpOzPElcIzjjPkbCkS",
+      "duracion_ms": 267373,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0paaQpOzPElcIzjjPkbCkS",
+          "nombre": "Don't Stop The Music",
+          "artistas": "Rihanna",
+          "disco": "Don't Stop The Music",
+          "tipo": "single",
+          "fecha": "2007-09-09",
+          "isrc": "USUM70734700"
+        },
+        "musicbrainz": {
+          "fecha": "2007",
+          "grabacion": "55c43298-1e0d-4dad-b311-a4d7bb42fd5c",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2007
+      }
     },
     {
       "id": "fiesta-y-casamiento-061",
@@ -8523,11 +9693,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "1dzQoRqT5ucxXVaAhTcT0J"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1dzQoRqT5ucxXVaAhTcT0J",
+      "duracion_ms": 241933,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1dzQoRqT5ucxXVaAhTcT0J",
+          "nombre": "Just Dance",
+          "artistas": "Lady Gaga, Colby O'Donis",
+          "disco": "The Fame",
+          "tipo": "album",
+          "fecha": "2008-01-01",
+          "isrc": "USUM70807646"
+        },
+        "musicbrainz": {
+          "fecha": "2008",
+          "grabacion": "3cf1af5f-9ea6-4983-a35b-d815320ff912",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2008
+      }
     },
     {
       "id": "fiesta-y-casamiento-062",
@@ -8542,11 +9731,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "5mMjkxGijQB4JZallYrkOW"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5mMjkxGijQB4JZallYrkOW",
+      "duracion_ms": 193213,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5mMjkxGijQB4JZallYrkOW",
+          "nombre": "Single Ladies (Put a Ring on It)",
+          "artistas": "Beyoncé",
+          "disco": "I AM...SASHA FIERCE",
+          "tipo": "album",
+          "fecha": "2008-11-12",
+          "isrc": "USSM10803760"
+        },
+        "musicbrainz": {
+          "fecha": "2008-10-08",
+          "grabacion": "67dc066b-d84e-444c-b250-82917db7281e",
+          "via": "isrc"
+        },
+        "anio_mb": 2008
+      }
     },
     {
       "id": "fiesta-y-casamiento-063",
@@ -8563,9 +9771,28 @@
         "okVersion": false,
         "spotify": "0HPD5WQqrq7wPWR7P7Dw1i"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0HPD5WQqrq7wPWR7P7Dw1i",
+      "duracion_ms": 199693,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0HPD5WQqrq7wPWR7P7Dw1i",
+          "nombre": "TiK ToK",
+          "artistas": "Kesha",
+          "disco": "Animal (Expanded Edition)",
+          "tipo": "album",
+          "fecha": "2010-01-01",
+          "isrc": "USRC10900433"
+        },
+        "musicbrainz": {
+          "fecha": "2009",
+          "grabacion": "8131d765-7793-412e-8dd0-b14ae603ec81",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2009
+      }
     },
     {
       "id": "fiesta-y-casamiento-064",
@@ -8582,16 +9809,35 @@
         "okVersion": false,
         "spotify": "2a1o6ZejUi8U3wzzOtCOYw"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2a1o6ZejUi8U3wzzOtCOYw",
+      "duracion_ms": 198773,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2a1o6ZejUi8U3wzzOtCOYw",
+          "nombre": "Danza Kuduro",
+          "artistas": "Don Omar, Lucenzo",
+          "disco": "Meet The Orphans",
+          "tipo": "album",
+          "fecha": "2010-01-01",
+          "isrc": "USUM71020778"
+        },
+        "musicbrainz": {
+          "fecha": "2010-01-01",
+          "grabacion": "da585d52-389a-4282-bdce-5b9939fef76a",
+          "via": "isrc"
+        },
+        "anio_mb": 2010
+      }
     },
     {
       "id": "fiesta-y-casamiento-065",
       "mazo": "fiesta-y-casamiento",
       "artista": "Chino & Nacho",
       "titulo": "Niña bonita",
-      "anio": 2010,
+      "anio": 2009,
       "pelicula": null,
       "fuera": false,
       "opciones": {
@@ -8599,11 +9845,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "5yv0OxGkNOHsTFD4eKnEfr"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5yv0OxGkNOHsTFD4eKnEfr",
+      "duracion_ms": 217480,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5yv0OxGkNOHsTFD4eKnEfr",
+          "nombre": "Niña Bonita",
+          "artistas": "Chino & Nacho",
+          "disco": "Mi Niña Bonita",
+          "tipo": "single",
+          "fecha": "2009-01-01",
+          "isrc": "USUM70915449"
+        },
+        "musicbrainz": {
+          "fecha": "2009-12-15",
+          "grabacion": "425a7daa-1ac5-482f-bc1c-fa24f899b51f",
+          "via": "isrc"
+        },
+        "anio_mb": 2009
+      }
     },
     {
       "id": "fiesta-y-casamiento-066",
@@ -8620,9 +9885,28 @@
         "okVersion": false,
         "spotify": "7mitXLIMCflkhZiD34uEQI"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7mitXLIMCflkhZiD34uEQI",
+      "duracion_ms": 262146,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7mitXLIMCflkhZiD34uEQI",
+          "nombre": "Party Rock Anthem",
+          "artistas": "LMFAO, Lauren Bennett, GoonRock",
+          "disco": "Sorry For Party Rocking",
+          "tipo": "album",
+          "fecha": "2011-01-01",
+          "isrc": "USUM71100061"
+        },
+        "musicbrainz": {
+          "fecha": "2011",
+          "grabacion": "205a43ab-e457-4b03-b344-e1c4b192494b",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2011
+      }
     },
     {
       "id": "fiesta-y-casamiento-067",
@@ -8636,12 +9920,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okVersion": true,
+        "spotify": "3QFbOgWOqXEtOD02FMcX7K"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3QFbOgWOqXEtOD02FMcX7K",
+      "duracion_ms": 252306,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: con invitado, título con agregado"
+        ],
+        "spotify": {
+          "id": "3QFbOgWOqXEtOD02FMcX7K",
+          "nombre": "Give Me Everything (feat. Nayer)",
+          "artistas": "Pitbull, AFROJACK, Ne-Yo, Nayer",
+          "disco": "Planet Pit",
+          "tipo": "album",
+          "fecha": "2011-06-17",
+          "isrc": "USJAY1100032"
+        },
+        "musicbrainz": {
+          "fecha": "2011",
+          "grabacion": "f3d917e0-ef95-4d47-9058-a453d3506b5c",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2011
+      }
     },
     {
       "id": "fiesta-y-casamiento-068",
@@ -8655,12 +9960,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okVersion": true,
+        "spotify": "5UqCQaDshqbIk3pkhy4Pjg"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5UqCQaDshqbIk3pkhy4Pjg",
+      "duracion_ms": 199906,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: vivo/versión"
+        ],
+        "spotify": {
+          "id": "5UqCQaDshqbIk3pkhy4Pjg",
+          "nombre": "Levels - Radio Edit",
+          "artistas": "Avicii",
+          "disco": "Levels",
+          "tipo": "single",
+          "fecha": "2011-10-28",
+          "isrc": "SEUM71100962"
+        },
+        "musicbrainz": {
+          "fecha": "2011",
+          "grabacion": "8baee384-5f15-4647-b983-9b24f96d4b04",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2011
+      }
     },
     {
       "id": "fiesta-y-casamiento-069",
@@ -8677,28 +10003,69 @@
         "okVersion": false,
         "spotify": "4ycYLHmksmuDEOnGXCdBs2"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4ycYLHmksmuDEOnGXCdBs2",
+      "duracion_ms": 238122,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4ycYLHmksmuDEOnGXCdBs2",
+          "nombre": "Titanium",
+          "artistas": "David Guetta, Sia",
+          "disco": "Titanium",
+          "tipo": "single",
+          "fecha": "2012-08-20",
+          "isrc": "GB28K1200058"
+        },
+        "musicbrainz": {
+          "fecha": "2011",
+          "grabacion": "713e5287-9a67-4736-b091-43124cbb72b2",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2011
+      }
     },
     {
       "id": "fiesta-y-casamiento-070",
       "mazo": "fiesta-y-casamiento",
       "artista": "Juan Magán",
       "titulo": "Bailando por ahí",
-      "anio": 2012,
+      "anio": 2011,
       "pelicula": null,
       "fuera": false,
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "0VamAmertqIxKM5axPSkCy"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0VamAmertqIxKM5axPSkCy",
+      "duracion_ms": 180453,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0VamAmertqIxKM5axPSkCy",
+          "nombre": "Bailando por Ahi",
+          "artistas": "Juan Magán",
+          "disco": "Bailando por Ahi",
+          "tipo": "single",
+          "fecha": "2011-05-15",
+          "isrc": "ES5021100308"
+        },
+        "musicbrainz": {
+          "fecha": "2001-05-09",
+          "grabacion": "38b5666c-4b75-4126-8a47-84fed0a145fa",
+          "via": "isrc"
+        },
+        "anio_mb": 2001
+      }
     },
     {
       "id": "fiesta-y-casamiento-071",
@@ -8712,12 +10079,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okVersion": true,
+        "spotify": "5OHZxOKEQJwytb8aJuR5jT"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5OHZxOKEQJwytb8aJuR5jT",
+      "duracion_ms": 403853,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "5OHZxOKEQJwytb8aJuR5jT",
+          "nombre": "Don't You Worry Child",
+          "artistas": "Swedish House Mafia, John Martin",
+          "disco": "Fascinating Rhythms (Sound Systems & Dancefloor)",
+          "tipo": "compilation",
+          "fecha": "2013-01-01",
+          "isrc": "GBAAA1200643"
+        },
+        "musicbrainz": {
+          "fecha": "2012",
+          "grabacion": "b5c24dfc-236e-4878-9496-6754b14280d3",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2012
+      }
     },
     {
       "id": "fiesta-y-casamiento-072",
@@ -8734,9 +10122,28 @@
         "okVersion": false,
         "spotify": "3QHMxEOAGD51PDlbFPHLyJ"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3QHMxEOAGD51PDlbFPHLyJ",
+      "duracion_ms": 252359,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3QHMxEOAGD51PDlbFPHLyJ",
+          "nombre": "Vivir Mi Vida",
+          "artistas": "Marc Anthony",
+          "disco": "3.0",
+          "tipo": "album",
+          "fecha": "2013-07-23",
+          "isrc": "USSD11300112"
+        },
+        "musicbrainz": {
+          "fecha": "2013-04-27",
+          "grabacion": "76c722da-1da8-4931-90a3-c846de8c2fac",
+          "via": "isrc"
+        },
+        "anio_mb": 2013
+      }
     },
     {
       "id": "fiesta-y-casamiento-073",
@@ -8753,9 +10160,28 @@
         "okVersion": false,
         "spotify": "0s3olIAndtYz8sEBTyCKjW"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0s3olIAndtYz8sEBTyCKjW",
+      "duracion_ms": 174920,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0s3olIAndtYz8sEBTyCKjW",
+          "nombre": "Happy",
+          "artistas": "Pharrell Williams, Espen Gomperud Alvim, Vokalensemblet Skrik, Jon Flydal Blichfeldt",
+          "disco": "Gnist",
+          "tipo": "album",
+          "fecha": "2014-12-01",
+          "isrc": "QMFME2103574"
+        },
+        "musicbrainz": {
+          "fecha": "2013",
+          "grabacion": "a0569af8-dbdc-422d-86e5-c316f69d23e8",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2013
+      }
     },
     {
       "id": "fiesta-y-casamiento-074",
@@ -8772,9 +10198,28 @@
         "okVersion": false,
         "spotify": "0nrRP2bk19rLc0orkWPQk2"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0nrRP2bk19rLc0orkWPQk2",
+      "duracion_ms": 247426,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0nrRP2bk19rLc0orkWPQk2",
+          "nombre": "Wake Me Up",
+          "artistas": "Avicii",
+          "disco": "True",
+          "tipo": "album",
+          "fecha": "2013-09-16",
+          "isrc": "SEUM71301326"
+        },
+        "musicbrainz": {
+          "fecha": "2013",
+          "grabacion": "9d65d0cf-7cf1-4ede-a22e-a0817a8c3355",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2013
+      }
     },
     {
       "id": "fiesta-y-casamiento-075",
@@ -8791,9 +10236,28 @@
         "okVersion": false,
         "spotify": "6YUTL4dYpB9xZO5qExPf05"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "6YUTL4dYpB9xZO5qExPf05",
+      "duracion_ms": 222533,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6YUTL4dYpB9xZO5qExPf05",
+          "nombre": "Summer",
+          "artistas": "Calvin Harris",
+          "disco": "Motion",
+          "tipo": "album",
+          "fecha": "2014-10-31",
+          "isrc": "GBARL1400296"
+        },
+        "musicbrainz": {
+          "fecha": "2014",
+          "grabacion": "628fec82-8455-4fb5-824d-2afbb9f32b04",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2014
+      }
     },
     {
       "id": "fiesta-y-casamiento-076",
@@ -8810,9 +10274,28 @@
         "okVersion": false,
         "spotify": "09CtPGIpYB4BrO8qb1RGsF"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "09CtPGIpYB4BrO8qb1RGsF",
+      "duracion_ms": 200786,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "09CtPGIpYB4BrO8qb1RGsF",
+          "nombre": "Sorry",
+          "artistas": "Justin Bieber",
+          "disco": "Purpose (Deluxe)",
+          "tipo": "album",
+          "fecha": "2015-11-13",
+          "isrc": "USUM71516760"
+        },
+        "musicbrainz": {
+          "fecha": "2015",
+          "grabacion": "37511f84-ea17-4d15-b4fe-30067eeeafc1",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2015
+      }
     },
     {
       "id": "fiesta-y-casamiento-077",
@@ -8827,11 +10310,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "2gFvRmQiWg9fN9i74Q0aiw"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2gFvRmQiWg9fN9i74Q0aiw",
+      "duracion_ms": 225983,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2gFvRmQiWg9fN9i74Q0aiw",
+          "nombre": "24K Magic",
+          "artistas": "Bruno Mars",
+          "disco": "24K Magic",
+          "tipo": "single",
+          "fecha": "2016-10-07",
+          "isrc": "USAT21602944"
+        },
+        "musicbrainz": {
+          "fecha": "2016",
+          "grabacion": "3ba16526-dfb0-421c-a396-344582446d95",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2016
+      }
     },
     {
       "id": "fiesta-y-casamiento-078",
@@ -8846,11 +10348,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "2hl6q70unbviGo3g1R7uFx"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2hl6q70unbviGo3g1R7uFx",
+      "duracion_ms": 173720,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2hl6q70unbviGo3g1R7uFx",
+          "nombre": "Échame La Culpa",
+          "artistas": "Luis Fonsi, Demi Lovato",
+          "disco": "Échame La Culpa",
+          "tipo": "single",
+          "fecha": "2017-11-17",
+          "isrc": "USUM71712163"
+        },
+        "musicbrainz": {
+          "fecha": "2017-11-17",
+          "grabacion": "9335dbd6-099e-4a10-87eb-a230e16d9a08",
+          "via": "isrc"
+        },
+        "anio_mb": 2017
+      }
     },
     {
       "id": "fiesta-y-casamiento-079",
@@ -8867,9 +10388,28 @@
         "okVersion": false,
         "spotify": "4ipnJyDU3Lq15qBAYNqlqK"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4ipnJyDU3Lq15qBAYNqlqK",
+      "duracion_ms": 189440,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4ipnJyDU3Lq15qBAYNqlqK",
+          "nombre": "Mi Gente",
+          "artistas": "J Balvin, Willy William",
+          "disco": "Mi Gente",
+          "tipo": "single",
+          "fecha": "2017-06-30",
+          "isrc": "FR22F1701790"
+        },
+        "musicbrainz": {
+          "fecha": "2017-06-30",
+          "grabacion": "efffd9f8-298c-4ce8-9770-ef385b0d1832",
+          "via": "isrc"
+        },
+        "anio_mb": 2017
+      }
     },
     {
       "id": "fiesta-y-casamiento-080",
@@ -8884,11 +10424,30 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "6WrI0LAC5M1Rw2MnX2ZvEg"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "6WrI0LAC5M1Rw2MnX2ZvEg",
+      "duracion_ms": 183290,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6WrI0LAC5M1Rw2MnX2ZvEg",
+          "nombre": "Don't Start Now",
+          "artistas": "Dua Lipa",
+          "disco": "Don't Start Now",
+          "tipo": "single",
+          "fecha": "2019-10-31",
+          "isrc": "GBAHT1901121"
+        },
+        "musicbrainz": {
+          "fecha": "2019-10-31",
+          "grabacion": "6090c671-606f-4704-85c6-8a0c33763a3d",
+          "via": "isrc"
+        },
+        "anio_mb": 2019
+      }
     },
     {
       "id": "fiesta-y-casamiento-081",
@@ -8905,9 +10464,28 @@
         "okVersion": false,
         "spotify": "1IHWl5LamUGEuP4ozKQSXZ"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1IHWl5LamUGEuP4ozKQSXZ",
+      "duracion_ms": 243716,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1IHWl5LamUGEuP4ozKQSXZ",
+          "nombre": "Tití Me Preguntó",
+          "artistas": "Bad Bunny",
+          "disco": "Un Verano Sin Ti",
+          "tipo": "album",
+          "fecha": "2022-05-06",
+          "isrc": "QM6MZ2214878"
+        },
+        "musicbrainz": {
+          "fecha": "2022-05-06",
+          "grabacion": "f094b32c-d8ec-46a0-a1b6-b4f3a9fc8d83",
+          "via": "isrc"
+        },
+        "anio_mb": 2022
+      }
     },
     {
       "id": "one-hit-wonders-001",
@@ -8921,12 +10499,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "006Ndmw2hHxvnLbJsBFnPx",
+      "duracion_ms": 216373,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "006Ndmw2hHxvnLbJsBFnPx",
+          "nombre": "Nel blu dipinto di blu",
+          "artistas": "Domenico Modugno",
+          "disco": "Tutto Modugno (Mister Volare)",
+          "tipo": "album",
+          "fecha": "2008-02-28",
+          "isrc": "ITD015800707"
+        },
+        "musicbrainz": {
+          "fecha": "1958-07-07",
+          "grabacion": "057c3503-76ef-4636-8e78-a73ba25f1076",
+          "via": "isrc"
+        },
+        "anio_mb": 1958
+      }
     },
     {
       "id": "one-hit-wonders-002",
@@ -8943,9 +10542,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4uaffKRsN1NEQWVmkwMDAZ",
+      "duracion_ms": 176973,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4uaffKRsN1NEQWVmkwMDAZ",
+          "nombre": "Black is Black",
+          "artistas": "Los Bravos",
+          "disco": "Los Bravos",
+          "tipo": "album",
+          "fecha": "1966",
+          "isrc": "ES5020100301"
+        },
+        "musicbrainz": {
+          "fecha": "1966",
+          "grabacion": "1b08ece9-9f99-4809-b869-2e9933d5283e",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1966
+      }
     },
     {
       "id": "one-hit-wonders-003",
@@ -8962,9 +10580,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0Z3xhSOhrawLV81YdiDiiJ",
+      "duracion_ms": 187533,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0Z3xhSOhrawLV81YdiDiiJ",
+          "nombre": "Venus",
+          "artistas": "Shocking Blue",
+          "disco": "At Home",
+          "tipo": "album",
+          "fecha": "1969",
+          "isrc": "NLC286900001"
+        },
+        "musicbrainz": {
+          "fecha": "1969",
+          "grabacion": "3923cbe5-f1f6-4496-b602-56ab7570c905",
+          "via": "isrc"
+        },
+        "anio_mb": 1969
+      }
     },
     {
       "id": "one-hit-wonders-004",
@@ -8978,12 +10615,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1nOSlE8I7bLmvLw6tRlJSh",
+      "duracion_ms": 239866,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "1nOSlE8I7bLmvLw6tRlJSh",
+          "nombre": "Spirit In The Sky",
+          "artistas": "Norman Greenbaum",
+          "disco": "My Name Is Joe",
+          "tipo": "album",
+          "fecha": "1998",
+          "isrc": "GBJJR1000009"
+        },
+        "musicbrainz": {
+          "fecha": "1969-01-01",
+          "grabacion": "b2823384-7ee0-4cb3-942a-f93b52cb5389",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1969
+      }
     },
     {
       "id": "one-hit-wonders-005",
@@ -9000,9 +10658,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "34yLFPvEIL9Xpgjnpac6tw",
+      "duracion_ms": 215800,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "34yLFPvEIL9Xpgjnpac6tw",
+          "nombre": "In the Summertime",
+          "artistas": "Mungo Jerry",
+          "disco": "In the Summertime",
+          "tipo": "single",
+          "fecha": "1970-01-01",
+          "isrc": "GBAJE7000049"
+        },
+        "musicbrainz": {
+          "fecha": "1970",
+          "grabacion": "b9dca898-bcd3-41c3-ae7a-0048313181f1",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1970
+      }
     },
     {
       "id": "one-hit-wonders-006",
@@ -9019,9 +10696,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7K8QsHbmUpSX37oOCL4e2g",
+      "duracion_ms": 197935,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7K8QsHbmUpSX37oOCL4e2g",
+          "nombre": "Kung Fu Fighting",
+          "artistas": "Carl Douglas",
+          "disco": "Kung Fu Fighter",
+          "tipo": "album",
+          "fecha": "1974-01-01",
+          "isrc": "GBAJE7400014"
+        },
+        "musicbrainz": {
+          "fecha": "1974",
+          "grabacion": "3d987e97-487e-41d4-b157-601b9441e9d0",
+          "via": "isrc"
+        },
+        "anio_mb": 1974
+      }
     },
     {
       "id": "one-hit-wonders-007",
@@ -9034,13 +10730,28 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
+        "okAnio": true,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3eKIqI2cNG4vAXJlr7am9a",
+      "duracion_ms": 241485,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "3eKIqI2cNG4vAXJlr7am9a",
+          "nombre": "Born to Be Alive",
+          "artistas": "DJ KOVECK, Patrick Hernandez",
+          "disco": "Born to Be Alive",
+          "tipo": "single",
+          "fecha": "2024-08-05",
+          "isrc": "QZMEQ2573771"
+        }
+      }
     },
     {
       "id": "one-hit-wonders-008",
@@ -9057,9 +10768,28 @@
         "okVersion": false,
         "spotify": "1HOMkjp0nHMaTnfAkslCQj"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1HOMkjp0nHMaTnfAkslCQj",
+      "duracion_ms": 295400,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1HOMkjp0nHMaTnfAkslCQj",
+          "nombre": "My Sharona",
+          "artistas": "The Knack",
+          "disco": "Get The Knack",
+          "tipo": "album",
+          "fecha": "1979-01-01",
+          "isrc": "USCA28900153"
+        },
+        "musicbrainz": {
+          "fecha": "1979-06",
+          "grabacion": "72c46f16-da4f-4b7f-8549-ce7bd5ddb2cd",
+          "via": "isrc"
+        },
+        "anio_mb": 1979
+      }
     },
     {
       "id": "one-hit-wonders-009",
@@ -9076,9 +10806,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2XVQdI3m0giGxNrwUhV3yP",
+      "duracion_ms": 470346,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2XVQdI3m0giGxNrwUhV3yP",
+          "nombre": "Funkytown",
+          "artistas": "Lipps Inc.",
+          "disco": "Mouth To Mouth",
+          "tipo": "album",
+          "fecha": "1979-11-01",
+          "isrc": "USIR20300047"
+        },
+        "musicbrainz": {
+          "fecha": "1979",
+          "grabacion": "1efea3be-4f3f-4682-88d0-4460b2e28f35",
+          "via": "isrc"
+        },
+        "anio_mb": 1979
+      }
     },
     {
       "id": "one-hit-wonders-010",
@@ -9095,9 +10844,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7o7E1nrHWncYY7PY94gCiX",
+      "duracion_ms": 252773,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7o7E1nrHWncYY7PY94gCiX",
+          "nombre": "Video Killed The Radio Star",
+          "artistas": "The Buggles",
+          "disco": "The Age Of Plastic",
+          "tipo": "album",
+          "fecha": "1980-01-10",
+          "isrc": "GBAAN7900013"
+        },
+        "musicbrainz": {
+          "fecha": "1979",
+          "grabacion": "1c9949e9-e090-4f61-8028-b0378f87aa23",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1979
+      }
     },
     {
       "id": "one-hit-wonders-011",
@@ -9114,9 +10882,30 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7iN2AiwBr3FKuloMzDjIQO",
+      "duracion_ms": 154733,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "7iN2AiwBr3FKuloMzDjIQO",
+          "nombre": "Tainted Love - Remastered 2023",
+          "artistas": "Soft Cell",
+          "disco": "Non-Stop Erotic Cabaret",
+          "tipo": "album",
+          "fecha": "1981-11-27",
+          "isrc": "GBUM72304240"
+        },
+        "musicbrainz": {
+          "fecha": "1981-07",
+          "grabacion": "ef4c6855-949e-4e22-b41e-8e0a2d372d5f",
+          "via": "isrc"
+        },
+        "anio_mb": 1981
+      }
     },
     {
       "id": "one-hit-wonders-012",
@@ -9133,9 +10922,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5b6v3PGTEXnOEh4hy9aPhS",
+      "duracion_ms": 253199,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5b6v3PGTEXnOEh4hy9aPhS",
+          "nombre": "Mickey",
+          "artistas": "Toni Basil",
+          "disco": "Mickey",
+          "tipo": "single",
+          "fecha": "1982-01-08",
+          "isrc": "QZK6H2234651"
+        },
+        "musicbrainz": {
+          "fecha": "1981-05-22",
+          "grabacion": "ce2a97f6-aff6-4a6d-a149-1afd4db32dc9",
+          "via": "isrc"
+        },
+        "anio_mb": 1981
+      }
     },
     {
       "id": "one-hit-wonders-013",
@@ -9152,9 +10960,28 @@
         "okVersion": false,
         "spotify": "3MrWxJaD2AT0W9DjWF64Vm"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3MrWxJaD2AT0W9DjWF64Vm",
+      "duracion_ms": 287306,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3MrWxJaD2AT0W9DjWF64Vm",
+          "nombre": "Come On Eileen",
+          "artistas": "Dexys Midnight Runners",
+          "disco": "Too Rye Ay",
+          "tipo": "album",
+          "fecha": "1982-07-22",
+          "isrc": "GBF088200006"
+        },
+        "musicbrainz": {
+          "fecha": "1982-07",
+          "grabacion": "8e3077e4-786c-4697-858d-7da41d23cdf2",
+          "via": "isrc"
+        },
+        "anio_mb": 1982
+      }
     },
     {
       "id": "one-hit-wonders-014",
@@ -9171,9 +10998,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5ZpDiWqCG93McsnuHu9uCR",
+      "duracion_ms": 277480,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5ZpDiWqCG93McsnuHu9uCR",
+          "nombre": "The Safety Dance",
+          "artistas": "Men Without Hats",
+          "disco": "Rhythm of Youth",
+          "tipo": "album",
+          "fecha": "1982",
+          "isrc": "CAU111016913"
+        },
+        "musicbrainz": {
+          "fecha": "1982",
+          "grabacion": "084c885f-86c7-4c15-98f8-b48d23790fe5",
+          "via": "isrc"
+        },
+        "anio_mb": 1982
+      }
     },
     {
       "id": "one-hit-wonders-015",
@@ -9190,9 +11036,28 @@
         "okVersion": false,
         "spotify": "2IJftBfq7pJ43tfnOR0RB3"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2IJftBfq7pJ43tfnOR0RB3",
+      "duracion_ms": 231466,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2IJftBfq7pJ43tfnOR0RB3",
+          "nombre": "99 Luftballons",
+          "artistas": "Nena",
+          "disco": "Nena",
+          "tipo": "album",
+          "fecha": "1983-09-23",
+          "isrc": "DEE868300011"
+        },
+        "musicbrainz": {
+          "fecha": "1983",
+          "grabacion": "b52ae908-7c6b-4c59-b745-0ed479f25935",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1983
+      }
     },
     {
       "id": "one-hit-wonders-016",
@@ -9209,9 +11074,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3dVS0btHyIciq1iNn8fXMV",
+      "duracion_ms": 219468,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3dVS0btHyIciq1iNn8fXMV",
+          "nombre": "Vamos a la Playa",
+          "artistas": "Righeira",
+          "disco": "Vamos a la Playa",
+          "tipo": "single",
+          "fecha": "1983-05-05",
+          "isrc": "ITP148300001"
+        },
+        "musicbrainz": {
+          "fecha": "1983",
+          "grabacion": "7fcac9cf-13d3-4822-9d13-85a8e6040422",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1983
+      }
     },
     {
       "id": "one-hit-wonders-017",
@@ -9224,13 +11108,34 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
+        "okAnio": true,
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "6WEBIVqiEsevfgJefTyuQQ",
+      "duracion_ms": 221520,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "6WEBIVqiEsevfgJefTyuQQ",
+          "nombre": "Too Shy",
+          "artistas": "Kajagoogoo",
+          "disco": "White Feathers",
+          "tipo": "album",
+          "fecha": "1983",
+          "isrc": "GBAYE8300270"
+        },
+        "musicbrainz": {
+          "fecha": "1982",
+          "grabacion": "25c03055-9001-4fbc-a41f-1754ddd0388d",
+          "via": "isrc"
+        },
+        "anio_mb": 1982
+      }
     },
     {
       "id": "one-hit-wonders-018",
@@ -9239,17 +11144,38 @@
       "titulo": "I Like Chopin",
       "anio": 1983,
       "pelicula": null,
-      "fuera": false,
+      "fuera": true,
       "opciones": {
-        "fuera": false,
+        "fuera": true,
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "6ybNzYikzBr4ayhsbGSHfB",
+      "duracion_ms": 536066,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "revisar",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "6ybNzYikzBr4ayhsbGSHfB",
+          "nombre": "I Like Chopin",
+          "artistas": "Gazebo",
+          "disco": "Scenes From The News Broadcast",
+          "tipo": "album",
+          "fecha": "1991-06-01",
+          "isrc": "ITJ569100007"
+        },
+        "musicbrainz": {
+          "fecha": "1983",
+          "grabacion": "fa852184-91a2-4a1d-a4f3-c2e255f64544",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1983
+      }
     },
     {
       "id": "one-hit-wonders-019",
@@ -9266,9 +11192,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2fv6Qeb7Z3uaqBeYINvJ0f",
+      "duracion_ms": 229440,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2fv6Qeb7Z3uaqBeYINvJ0f",
+          "nombre": "Dolce Vita",
+          "artistas": "Ryan Paris",
+          "disco": "Ryan Paris",
+          "tipo": "album",
+          "fecha": "1984-01-01",
+          "isrc": "ITB008400442"
+        },
+        "musicbrainz": {
+          "fecha": "1983",
+          "grabacion": "55a6aa99-cce6-4943-afd1-4cc4cbbd7b3a",
+          "via": "isrc"
+        },
+        "anio_mb": 1983
+      }
     },
     {
       "id": "one-hit-wonders-020",
@@ -9285,9 +11230,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1mCsF9Tw4AkIZOjvZbZZdT",
+      "duracion_ms": 184480,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1mCsF9Tw4AkIZOjvZbZZdT",
+          "nombre": "Break My Stride",
+          "artistas": "Matthew Wilder",
+          "disco": "I Don't Speak The Language",
+          "tipo": "album",
+          "fecha": "1983-03-19",
+          "isrc": "USSM18300576"
+        },
+        "musicbrainz": {
+          "fecha": "1983-07-01",
+          "grabacion": "b8245723-7691-44b6-a40b-ec4148a7f533",
+          "via": "isrc"
+        },
+        "anio_mb": 1983
+      }
     },
     {
       "id": "one-hit-wonders-021",
@@ -9296,17 +11260,33 @@
       "titulo": "Live Is Life",
       "anio": 1984,
       "pelicula": null,
-      "fuera": false,
+      "fuera": true,
       "opciones": {
-        "fuera": false,
+        "fuera": true,
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4SfYXfkltDIUVWdHkOnZn0",
+      "duracion_ms": 220160,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: vivo/versión",
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "4SfYXfkltDIUVWdHkOnZn0",
+          "nombre": "Live Is Life - Rock Version 2008",
+          "artistas": "Opus",
+          "disco": "Live is Life 2008",
+          "tipo": "single",
+          "fecha": "2008-04-14",
+          "isrc": "ATB150800051"
+        }
+      }
     },
     {
       "id": "one-hit-wonders-022",
@@ -9323,9 +11303,28 @@
         "okVersion": false,
         "spotify": "2hConpLOB6gmyM8vDkVOof"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2hConpLOB6gmyM8vDkVOof",
+      "duracion_ms": 232160,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2hConpLOB6gmyM8vDkVOof",
+          "nombre": "Lobo-hombre en París",
+          "artistas": "La Unión",
+          "disco": "Mil Siluetas",
+          "tipo": "album",
+          "fecha": "1984-10-15",
+          "isrc": "ES5158401006"
+        },
+        "musicbrainz": {
+          "fecha": "1984",
+          "grabacion": "4e456874-cd62-4ca4-b982-7b83d9de9a78",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1984
+      }
     },
     {
       "id": "one-hit-wonders-023",
@@ -9342,9 +11341,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0DfG1ltJnZyq4Tx3ZLL7ZU",
+      "duracion_ms": 202236,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0DfG1ltJnZyq4Tx3ZLL7ZU",
+          "nombre": "Rock Me Amadeus",
+          "artistas": "Falco",
+          "disco": "Falco 3",
+          "tipo": "album",
+          "fecha": "1985-02-19",
+          "isrc": "ATB158500018"
+        },
+        "musicbrainz": {
+          "fecha": "1985",
+          "grabacion": "afc8c3b4-e303-44d2-a0b3-ecb5434d65ee",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1985
+      }
     },
     {
       "id": "one-hit-wonders-024",
@@ -9357,13 +11375,34 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
+        "okAnio": true,
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "273uCXd7NPrInaiNqtkOrA",
+      "duracion_ms": 378946,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "273uCXd7NPrInaiNqtkOrA",
+          "nombre": "Tarzan Boy",
+          "artistas": "Baltimora",
+          "disco": "Living In The Background",
+          "tipo": "album",
+          "fecha": "1985-01-01",
+          "isrc": "ITD008500001"
+        },
+        "musicbrainz": {
+          "fecha": "1984",
+          "grabacion": "45f644b9-5b8e-45c4-929f-eb86aaa57be1",
+          "via": "isrc"
+        },
+        "anio_mb": 1984
+      }
     },
     {
       "id": "one-hit-wonders-025",
@@ -9380,9 +11419,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3wK7oxonZMb1kPcfV0PJkl",
+      "duracion_ms": 238333,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3wK7oxonZMb1kPcfV0PJkl",
+          "nombre": "Boys - Summertime Love",
+          "artistas": "Sabrina",
+          "disco": "Boys (Summertime Love)",
+          "tipo": "single",
+          "fecha": "1987",
+          "isrc": "DK5C50003586"
+        },
+        "musicbrainz": {
+          "fecha": "1987",
+          "grabacion": "d85df9af-f436-41e0-a9e4-20b364712b70",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1987
+      }
     },
     {
       "id": "one-hit-wonders-026",
@@ -9399,9 +11457,28 @@
         "okVersion": false,
         "spotify": "4PTG3Z6ehGkBFwjybzWkR8"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4PTG3Z6ehGkBFwjybzWkR8",
+      "duracion_ms": 213573,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4PTG3Z6ehGkBFwjybzWkR8",
+          "nombre": "Never Gonna Give You Up",
+          "artistas": "Rick Astley",
+          "disco": "Whenever You Need Somebody",
+          "tipo": "single",
+          "fecha": "1987-11-16",
+          "isrc": "GBARL9300135"
+        },
+        "musicbrainz": {
+          "fecha": "1987-07-27",
+          "grabacion": "8f3471b5-7e6a-48da-86a9-c1c07a0f47ae",
+          "via": "isrc"
+        },
+        "anio_mb": 1987
+      }
     },
     {
       "id": "one-hit-wonders-027",
@@ -9418,9 +11495,28 @@
         "okVersion": false,
         "spotify": "3UIENhLRdFIOuRan92cAQu"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3UIENhLRdFIOuRan92cAQu",
+      "duracion_ms": 235626,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3UIENhLRdFIOuRan92cAQu",
+          "nombre": "En algún lugar",
+          "artistas": "Duncan Dhu",
+          "disco": "El Grito Del Tiempo",
+          "tipo": "album",
+          "fecha": "1987-01-17",
+          "isrc": "ES5018760000"
+        },
+        "musicbrainz": {
+          "fecha": "1987",
+          "grabacion": "0228da37-548e-495a-81ed-81fe02612804",
+          "via": "isrc"
+        },
+        "anio_mb": 1987
+      }
     },
     {
       "id": "one-hit-wonders-028",
@@ -9437,9 +11533,28 @@
         "okVersion": false,
         "spotify": "4hObp5bmIJ3PP3cKA9K9GY"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4hObp5bmIJ3PP3cKA9K9GY",
+      "duracion_ms": 294400,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4hObp5bmIJ3PP3cKA9K9GY",
+          "nombre": "Don't Worry Be Happy",
+          "artistas": "Bobby McFerrin",
+          "disco": "Simple Pleasures",
+          "tipo": "album",
+          "fecha": "1988-01-01",
+          "isrc": "USEM38800361"
+        },
+        "musicbrainz": {
+          "fecha": "1988",
+          "grabacion": "b4776089-9b89-413e-83b8-06e3eb0b878d",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1988
+      }
     },
     {
       "id": "one-hit-wonders-029",
@@ -9456,9 +11571,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1F8cCNOchnil7feYXXD2In",
+      "duracion_ms": 280040,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1F8cCNOchnil7feYXXD2In",
+          "nombre": "Nothing Compares 2 U",
+          "artistas": "Sinéad O'Connor",
+          "disco": "Nothing Compares 2 U",
+          "tipo": "single",
+          "fecha": "1990-01-01",
+          "isrc": "GBAYK9000017"
+        },
+        "musicbrainz": {
+          "fecha": "1990",
+          "grabacion": "28274912-90dc-450b-8879-99671821964b",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1990
+      }
     },
     {
       "id": "one-hit-wonders-030",
@@ -9475,9 +11609,28 @@
         "okVersion": false,
         "spotify": "11d9oUiwHuYt216EFA2tiz"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "11d9oUiwHuYt216EFA2tiz",
+      "duracion_ms": 271466,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "11d9oUiwHuYt216EFA2tiz",
+          "nombre": "Ice Ice Baby",
+          "artistas": "Vanilla Ice",
+          "disco": "To The Extreme",
+          "tipo": "album",
+          "fecha": "1990-01-01",
+          "isrc": "USSB29000129"
+        },
+        "musicbrainz": {
+          "fecha": "1990",
+          "grabacion": "1cd7d430-7daf-4758-bad1-1c34f71d42ca",
+          "via": "isrc"
+        },
+        "anio_mb": 1990
+      }
     },
     {
       "id": "one-hit-wonders-031",
@@ -9494,9 +11647,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1EFjbeFr7WhVhN7eoTOgR2",
+      "duracion_ms": 234173,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1EFjbeFr7WhVhN7eoTOgR2",
+          "nombre": "Groove Is in the Heart",
+          "artistas": "Deee-Lite",
+          "disco": "Groove Is in the Heart",
+          "tipo": "single",
+          "fecha": "1990",
+          "isrc": "USEE11200805"
+        },
+        "musicbrainz": {
+          "fecha": "1990",
+          "grabacion": "c07abcf0-615a-4fab-82ad-b33e1dd8a273",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1990
+      }
     },
     {
       "id": "one-hit-wonders-032",
@@ -9510,12 +11682,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4mwh83eddomW2ydl0BbiZS",
+      "duracion_ms": 250931,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "4mwh83eddomW2ydl0BbiZS",
+          "nombre": "Rico Suave",
+          "artistas": "Gerardo",
+          "disco": "Rico Suave",
+          "tipo": "single",
+          "fecha": "2022-05-05",
+          "isrc": "QZMWW2203524"
+        },
+        "musicbrainz": {
+          "fecha": "1990",
+          "grabacion": "288cff42-5a7b-471d-b89a-4fb0dea54e13",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1990
+      }
     },
     {
       "id": "one-hit-wonders-033",
@@ -9532,16 +11725,35 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5YBnb8pOGOHkkGUEoqreWL",
+      "duracion_ms": 170466,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5YBnb8pOGOHkkGUEoqreWL",
+          "nombre": "I'm Too Sexy",
+          "artistas": "Right Said Fred",
+          "disco": "Up",
+          "tipo": "album",
+          "fecha": "1992-01-07",
+          "isrc": "GBBRL9290469"
+        },
+        "musicbrainz": {
+          "fecha": "1991",
+          "grabacion": "bab48261-9ba4-4b10-a784-e5ce8b052fa6",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1991
+      }
     },
     {
       "id": "one-hit-wonders-034",
       "mazo": "one-hit-wonders",
       "artista": "4 Non Blondes",
       "titulo": "What's Up?",
-      "anio": 1993,
+      "anio": 1992,
       "pelicula": null,
       "fuera": false,
       "opciones": {
@@ -9551,9 +11763,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0jWgAnTrNZmOGmqgvHhZEm",
+      "duracion_ms": 295533,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0jWgAnTrNZmOGmqgvHhZEm",
+          "nombre": "What's Up?",
+          "artistas": "4 Non Blondes",
+          "disco": "Bigger, Better, Faster, More !",
+          "tipo": "album",
+          "fecha": "1992-01-01",
+          "isrc": "USIR19200553"
+        },
+        "musicbrainz": {
+          "fecha": "1992-10-13",
+          "grabacion": "bc23c596-e68a-4ac3-ad45-a29ce0d678d1",
+          "via": "isrc"
+        },
+        "anio_mb": 1992
+      }
     },
     {
       "id": "one-hit-wonders-035",
@@ -9570,9 +11801,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "76nvqWPFucUra1xCkN1tnD",
+      "duracion_ms": 235173,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "76nvqWPFucUra1xCkN1tnD",
+          "nombre": "Mmm Mmm Mmm Mmm",
+          "artistas": "Crash Test Dummies",
+          "disco": "God Shuffled His Feet",
+          "tipo": "album",
+          "fecha": "1993-04-05",
+          "isrc": "CAA359300084"
+        },
+        "musicbrainz": {
+          "fecha": "1993-10-01",
+          "grabacion": "103a8cfa-3d6e-4d01-88ac-011dca559328",
+          "via": "isrc"
+        },
+        "anio_mb": 1993
+      }
     },
     {
       "id": "one-hit-wonders-036",
@@ -9589,9 +11839,28 @@
         "okVersion": false,
         "spotify": "4Y6cDd4EPHcEbiUKdyvNwM"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4Y6cDd4EPHcEbiUKdyvNwM",
+      "duracion_ms": 251293,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4Y6cDd4EPHcEbiUKdyvNwM",
+          "nombre": "Macarena",
+          "artistas": "Los Del Rio",
+          "disco": "A Mi Me Gusta",
+          "tipo": "album",
+          "fecha": "1993-12-13",
+          "isrc": "ES5109300001"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "e50061ed-a815-452b-92fd-be54de76adcb",
+          "via": "isrc"
+        },
+        "anio_mb": 1993
+      }
     },
     {
       "id": "one-hit-wonders-037",
@@ -9605,12 +11874,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5vu0SrOmfXVZfRCBl8sABH",
+      "duracion_ms": 240133,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "5vu0SrOmfXVZfRCBl8sABH",
+          "nombre": "Saturday Night",
+          "artistas": "Whigfield",
+          "disco": "All In One",
+          "tipo": "album",
+          "fecha": "2007-10-09",
+          "isrc": "IT0210711201"
+        },
+        "musicbrainz": {
+          "fecha": "1994",
+          "grabacion": "255e1d0d-ce78-4717-89ed-f559c3a0304d",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1994
+      }
     },
     {
       "id": "one-hit-wonders-038",
@@ -9627,9 +11917,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "22HYEJveCvykVDHDiEEmjZ",
+      "duracion_ms": 278778,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "22HYEJveCvykVDHDiEEmjZ",
+          "nombre": "Tubthumping",
+          "artistas": "Chumbawamba",
+          "disco": "Tubthumper",
+          "tipo": "album",
+          "fecha": "1997-09-01",
+          "isrc": "DEA349700542"
+        },
+        "musicbrainz": {
+          "fecha": "1997",
+          "grabacion": "492c08d3-36ec-4092-993f-cc08ccd9099b",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1997
+      }
     },
     {
       "id": "one-hit-wonders-039",
@@ -9646,9 +11955,28 @@
         "okVersion": false,
         "spotify": "5ZrDlcxIDZyjOzHdYW1ydr"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5ZrDlcxIDZyjOzHdYW1ydr",
+      "duracion_ms": 197960,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5ZrDlcxIDZyjOzHdYW1ydr",
+          "nombre": "Barbie Girl",
+          "artistas": "Aqua",
+          "disco": "Aquarium (Special Edition)",
+          "tipo": "album",
+          "fecha": "1997-01-01",
+          "isrc": "DKBKA9700403"
+        },
+        "musicbrainz": {
+          "fecha": "1997",
+          "grabacion": "fb5e879f-7ae5-41fb-9db1-f19ad23cabf0",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1997
+      }
     },
     {
       "id": "one-hit-wonders-040",
@@ -9665,9 +11993,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1Jaah2tmN9Hv81A87KZ1MU",
+      "duracion_ms": 244666,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1Jaah2tmN9Hv81A87KZ1MU",
+          "nombre": "Torn",
+          "artistas": "Natalie Imbruglia",
+          "disco": "Left Of The Middle",
+          "tipo": "album",
+          "fecha": "1997-11-10",
+          "isrc": "GBARL9700412"
+        },
+        "musicbrainz": {
+          "fecha": "1997-10-24",
+          "grabacion": "95b471ad-50cd-49d4-9f23-2735c7dc3fe5",
+          "via": "isrc"
+        },
+        "anio_mb": 1997
+      }
     },
     {
       "id": "one-hit-wonders-041",
@@ -9684,9 +12031,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3i6qNxyVgIdUZTTi5m25EM",
+      "duracion_ms": 252760,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3i6qNxyVgIdUZTTi5m25EM",
+          "nombre": "Bitch",
+          "artistas": "Meredith Brooks",
+          "disco": "Blurring The Edges",
+          "tipo": "album",
+          "fecha": "1997-01-01",
+          "isrc": "USCA29701376"
+        },
+        "musicbrainz": {
+          "fecha": "1997",
+          "grabacion": "442f40bb-6786-47e6-8ef4-53b4a3819c45",
+          "via": "isrc"
+        },
+        "anio_mb": 1997
+      }
     },
     {
       "id": "one-hit-wonders-042",
@@ -9703,9 +12069,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "303ccTay2FiDTZ9fZ2AdBt",
+      "duracion_ms": 403293,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "303ccTay2FiDTZ9fZ2AdBt",
+          "nombre": "Music Sounds Better With You",
+          "artistas": "Stardust, Benjamin Diamond, Alan Braxe, Thomas Bangalter",
+          "disco": "Music Sounds Better With You",
+          "tipo": "single",
+          "fecha": "1998-07-20",
+          "isrc": "FR11Q9800000"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "b43bec3d-3687-4b6a-b787-e47cddf7e554",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
+      }
     },
     {
       "id": "one-hit-wonders-043",
@@ -9722,9 +12107,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3l8WwsQTLPysuRph7WIRYq",
+      "duracion_ms": 220293,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3l8WwsQTLPysuRph7WIRYq",
+          "nombre": "Mambo No. 5 (A Little Bit Of...)",
+          "artistas": "Lou Bega",
+          "disco": "Mambo No. 5 (A Little Bit Of...)",
+          "tipo": "single",
+          "fecha": "1999-04-19",
+          "isrc": "DEH259900010"
+        },
+        "musicbrainz": {
+          "fecha": "1999",
+          "grabacion": "c79e2c9a-437b-47c6-bebd-a150a68ecc34",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1999
+      }
     },
     {
       "id": "one-hit-wonders-044",
@@ -9741,9 +12145,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3gyYkQZkgJ3skbCmseIK7P",
+      "duracion_ms": 446466,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3gyYkQZkgJ3skbCmseIK7P",
+          "nombre": "Sandstorm",
+          "artistas": "Darude",
+          "disco": "Sandstorm",
+          "tipo": "single",
+          "fecha": "1999-01-01",
+          "isrc": "FISGC9900002"
+        },
+        "musicbrainz": {
+          "fecha": "1999",
+          "grabacion": "5928a769-f8f1-4d23-b3d0-73dbd3179728",
+          "via": "isrc"
+        },
+        "anio_mb": 1999
+      }
     },
     {
       "id": "one-hit-wonders-045",
@@ -9760,9 +12183,28 @@
         "okVersion": false,
         "spotify": "4u4JMXuhg94qU88lzeiiuq"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4u4JMXuhg94qU88lzeiiuq",
+      "duracion_ms": 214883,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4u4JMXuhg94qU88lzeiiuq",
+          "nombre": "Better Off Alone",
+          "artistas": "Alice Deejay",
+          "disco": "Better Off Alone",
+          "tipo": "single",
+          "fecha": "1998-01-01",
+          "isrc": "NLC529811129"
+        },
+        "musicbrainz": {
+          "fecha": "1999",
+          "grabacion": "439649ab-762b-4f7b-bbaa-0bf3c65f3e3b",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1999
+      }
     },
     {
       "id": "one-hit-wonders-046",
@@ -9779,9 +12221,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1H5tvpoApNDxvxDexoaAUo",
+      "duracion_ms": 198400,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1H5tvpoApNDxvxDexoaAUo",
+          "nombre": "Who Let The Dogs Out",
+          "artistas": "Baha Men",
+          "disco": "Who Let The Dogs Out",
+          "tipo": "album",
+          "fecha": "2000",
+          "isrc": "USSC90000001"
+        },
+        "musicbrainz": {
+          "fecha": "2000",
+          "grabacion": "2487e6fb-5043-4cc0-9e3c-98cb9056c3ab",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      }
     },
     {
       "id": "one-hit-wonders-047",
@@ -9798,9 +12259,28 @@
         "okVersion": false,
         "spotify": "5fSDXbY8o9pA3TKwAbfwML"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5fSDXbY8o9pA3TKwAbfwML",
+      "duracion_ms": 237386,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5fSDXbY8o9pA3TKwAbfwML",
+          "nombre": "Mi Primer Millon",
+          "artistas": "Bacilos",
+          "disco": "Caraluna",
+          "tipo": "album",
+          "fecha": "2002",
+          "isrc": "USWL10200081"
+        },
+        "musicbrainz": {
+          "fecha": "2002-07-16",
+          "grabacion": "dadaf5be-97be-4342-b823-5f7b05fb5a8c",
+          "via": "isrc"
+        },
+        "anio_mb": 2002
+      }
     },
     {
       "id": "one-hit-wonders-048",
@@ -9814,12 +12294,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1LWcT4pjjNjOVNw50VlkbK",
+      "duracion_ms": 214355,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "1LWcT4pjjNjOVNw50VlkbK",
+          "nombre": "Asereje",
+          "artistas": "Las Ketchup, Manuel Ruez Quoco",
+          "disco": "Bomba latina - Balli di gruppo merenghe e salsa, Vol.1",
+          "tipo": "compilation",
+          "fecha": "2025-04-10",
+          "isrc": "USA2P2517477"
+        },
+        "musicbrainz": {
+          "fecha": "2002",
+          "grabacion": "a57a2a26-cd29-4ed9-bd98-58f143deb914",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2002
+      }
     },
     {
       "id": "one-hit-wonders-049",
@@ -9836,9 +12337,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "52Zr0sinhWTCRrQhRRY4EP",
+      "duracion_ms": 215386,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "52Zr0sinhWTCRrQhRRY4EP",
+          "nombre": "Dragostea din tei",
+          "artistas": "O-Zone",
+          "disco": "DiscO-Zone",
+          "tipo": "album",
+          "fecha": "2004-02-23",
+          "isrc": "ROMSA0600487"
+        },
+        "musicbrainz": {
+          "fecha": "2003-08-13",
+          "grabacion": "3db50625-51cf-4eea-b4de-df99193537ed",
+          "via": "isrc"
+        },
+        "anio_mb": 2003
+      }
     },
     {
       "id": "one-hit-wonders-050",
@@ -9855,9 +12375,28 @@
         "okVersion": false,
         "spotify": "0vg4WnUWvze6pBOJDTq99k"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0vg4WnUWvze6pBOJDTq99k",
+      "duracion_ms": 212960,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0vg4WnUWvze6pBOJDTq99k",
+          "nombre": "You're Beautiful",
+          "artistas": "James Blunt",
+          "disco": "Back to Bedlam",
+          "tipo": "album",
+          "fecha": "2005-08-08",
+          "isrc": "USAT20401588"
+        },
+        "musicbrainz": {
+          "fecha": "2004-04-15",
+          "grabacion": "407a1156-5f02-4038-8780-f8c7f5953862",
+          "via": "isrc"
+        },
+        "anio_mb": 2004
+      }
     },
     {
       "id": "one-hit-wonders-051",
@@ -9870,13 +12409,34 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
+        "okAnio": true,
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0mUyMawtxj1CJ76kn9gIZK",
+      "duracion_ms": 233640,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0mUyMawtxj1CJ76kn9gIZK",
+          "nombre": "Bad Day",
+          "artistas": "Daniel Powter",
+          "disco": "Daniel Powter",
+          "tipo": "album",
+          "fecha": "2005-02-22",
+          "isrc": "USWB10401971"
+        },
+        "musicbrainz": {
+          "fecha": "2004",
+          "grabacion": "82c8cbbb-ea1a-4a14-8958-99be10f99769",
+          "via": "isrc"
+        },
+        "anio_mb": 2004
+      }
     },
     {
       "id": "one-hit-wonders-052",
@@ -9889,13 +12449,35 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
+        "okAnio": true,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0Bo5fjMtTfCD8vHGebivqc",
+      "duracion_ms": 171739,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0Bo5fjMtTfCD8vHGebivqc",
+          "nombre": "Axel F",
+          "artistas": "Crazy Frog",
+          "disco": "Crazy Frog presents Crazy Hits",
+          "tipo": "album",
+          "fecha": "2005-08-01",
+          "isrc": "DES310500134"
+        },
+        "musicbrainz": {
+          "fecha": "2004",
+          "grabacion": "1e6c4597-3698-48e1-bcb6-5c7ea842aac6",
+          "via": "isrc"
+        },
+        "anio_mb": 2004
+      }
     },
     {
       "id": "one-hit-wonders-053",
@@ -9912,9 +12494,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1vxw6aYJls2oq3gW0DujAo",
+      "duracion_ms": 177933,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1vxw6aYJls2oq3gW0DujAo",
+          "nombre": "Crazy",
+          "artistas": "Gnarls Barkley, CeeLo Green, Danger Mouse",
+          "disco": "St. Elsewhere",
+          "tipo": "album",
+          "fecha": "2007-12-01",
+          "isrc": "GBAHT0600202"
+        },
+        "musicbrainz": {
+          "fecha": "2006",
+          "grabacion": "3e65e142-ab03-4dcc-b1eb-5c180afb7017",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2006
+      }
     },
     {
       "id": "one-hit-wonders-054",
@@ -9931,9 +12532,28 @@
         "okVersion": false,
         "spotify": "1qDrWA6lyx8cLECdZE7TV7"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1qDrWA6lyx8cLECdZE7TV7",
+      "duracion_ms": 244884,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1qDrWA6lyx8cLECdZE7TV7",
+          "nombre": "Somebody That I Used To Know",
+          "artistas": "Gotye, Kimbra",
+          "disco": "Making Mirrors",
+          "tipo": "album",
+          "fecha": "2011-01-01",
+          "isrc": "AUZS21100040"
+        },
+        "musicbrainz": {
+          "fecha": "2011",
+          "grabacion": "93e9ea90-d0f7-4f68-ac79-6fc6c428ffa9",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2011
+      }
     },
     {
       "id": "one-hit-wonders-055",
@@ -9950,9 +12570,28 @@
         "okVersion": false,
         "spotify": "20I6sIOMTCkB6w7ryavxtO"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "20I6sIOMTCkB6w7ryavxtO",
+      "duracion_ms": 193400,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "20I6sIOMTCkB6w7ryavxtO",
+          "nombre": "Call Me Maybe",
+          "artistas": "Carly Rae Jepsen",
+          "disco": "Kiss",
+          "tipo": "album",
+          "fecha": "2012-01-01",
+          "isrc": "CAB391100615"
+        },
+        "musicbrainz": {
+          "fecha": "2011-09-20",
+          "grabacion": "cac5b2b9-5fda-4856-b71a-31c94bb5da9d",
+          "via": "isrc"
+        },
+        "anio_mb": 2011
+      }
     },
     {
       "id": "one-hit-wonders-056",
@@ -9966,12 +12605,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0INaMqjJJe1BZpnWuCxDzt",
+      "duracion_ms": 170893,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "0INaMqjJJe1BZpnWuCxDzt",
+          "nombre": "Ai Se Eu Te Pego",
+          "artistas": "Michel Teló",
+          "disco": "Só Sucesso 40+",
+          "tipo": "compilation",
+          "fecha": "2019-08-01",
+          "isrc": "BRIMT1100076"
+        },
+        "musicbrainz": {
+          "fecha": "2011-10-20",
+          "grabacion": "734d6354-515e-4e8d-85e8-82a99b534657",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2011
+      }
     },
     {
       "id": "one-hit-wonders-057",
@@ -9988,9 +12648,28 @@
         "okVersion": false,
         "spotify": "03UrZgTINDqvnUMbbIMhql"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "03UrZgTINDqvnUMbbIMhql",
+      "duracion_ms": 219493,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "03UrZgTINDqvnUMbbIMhql",
+          "nombre": "Gangnam Style (강남스타일)",
+          "artistas": "PSY",
+          "disco": "Gangnam Style (강남스타일)",
+          "tipo": "single",
+          "fecha": "2012-01-01",
+          "isrc": "USUM71210283"
+        },
+        "musicbrainz": {
+          "fecha": "2012",
+          "grabacion": "0eb4db0b-73cf-4336-9af6-e0de4a2b3037",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2012
+      }
     },
     {
       "id": "one-hit-wonders-058",
@@ -10007,9 +12686,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "01XFgRZfZI7oBagNf1Loml",
+      "duracion_ms": 196664,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "01XFgRZfZI7oBagNf1Loml",
+          "nombre": "Harlem Shake",
+          "artistas": "Baauer",
+          "disco": "Harlem Shake",
+          "tipo": "single",
+          "fecha": "2013-02-12",
+          "isrc": "USZ4V1200043"
+        },
+        "musicbrainz": {
+          "fecha": "2012-05-17",
+          "grabacion": "40160b84-cc4b-4725-b688-d92d03e32a5a",
+          "via": "isrc"
+        },
+        "anio_mb": 2012
+      }
     },
     {
       "id": "one-hit-wonders-059",
@@ -10026,9 +12724,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2XU0oxnq2qxCpomAAuJY8K",
+      "duracion_ms": 209438,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2XU0oxnq2qxCpomAAuJY8K",
+          "nombre": "Dance Monkey",
+          "artistas": "Tones And I",
+          "disco": "Dance Monkey (Stripped Back) / Dance Monkey",
+          "tipo": "single",
+          "fecha": "2019-10-17",
+          "isrc": "QZES71982312"
+        },
+        "musicbrainz": {
+          "fecha": "2019",
+          "grabacion": "182d8302-7d5b-4d86-a120-619d283b9adb",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2019
+      }
     },
     {
       "id": "pop-internacional-001",
@@ -36263,13 +38980,34 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
+        "okAnio": true,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4TxtOWAWoXrd2wjBxZ6IXx",
+      "duracion_ms": 156204,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "4TxtOWAWoXrd2wjBxZ6IXx",
+          "nombre": "Mi Buenos Aires Querido",
+          "artistas": "Carlos Gardel",
+          "disco": "Mi Buenos Aires Querido",
+          "tipo": "album",
+          "fecha": "1946-10-12",
+          "isrc": "BRVLM2000039"
+        },
+        "musicbrainz": {
+          "fecha": "1984",
+          "grabacion": "2688d81d-fac8-49b6-8453-7a49d65b192b",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1984
+      }
     },
     {
       "id": "variados-002",
@@ -36282,13 +39020,34 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
+        "okAnio": true,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "71bkiosdVssjMrVDbdeG7n",
+      "duracion_ms": 172613,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "71bkiosdVssjMrVDbdeG7n",
+          "nombre": "Volver",
+          "artistas": "Carlos Gardel",
+          "disco": "El Album De Oro De Carlos Gardel",
+          "tipo": "album",
+          "fecha": "1931-01-01",
+          "isrc": "ARF049500025"
+        },
+        "musicbrainz": {
+          "fecha": "1987",
+          "grabacion": "f8c9d130-1bf3-4dc4-a325-6fb28659c338",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1987
+      }
     },
     {
       "id": "variados-003",
@@ -36301,13 +39060,35 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
+        "okAnio": true,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4lS82MLmdkdquXaCn56nwq",
+      "duracion_ms": 152492,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "4lS82MLmdkdquXaCn56nwq",
+          "nombre": "Por una Cabeza",
+          "artistas": "Carlos Gardel",
+          "disco": "Por una Cabeza",
+          "tipo": "single",
+          "fecha": "2014-12-03",
+          "isrc": "QM6MZ1442702"
+        },
+        "musicbrainz": {
+          "fecha": "1976",
+          "grabacion": "41af64c3-8f94-4e5f-a574-cc42dd0ee864",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1976
+      }
     },
     {
       "id": "variados-004",
@@ -36324,9 +39105,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4Hhv2vrOTy89HFRcjU3QOx",
+      "duracion_ms": 179693,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4Hhv2vrOTy89HFRcjU3QOx",
+          "nombre": "At Last",
+          "artistas": "Etta James",
+          "disco": "At Last!",
+          "tipo": "album",
+          "fecha": "1960",
+          "isrc": "USMC16046323"
+        },
+        "musicbrainz": {
+          "fecha": "1960-11-15",
+          "grabacion": "c81a809c-10d0-4fa7-9171-2ce8635ce87c",
+          "via": "isrc"
+        },
+        "anio_mb": 1960
+      }
     },
     {
       "id": "variados-005",
@@ -36339,13 +39139,35 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
+        "okAnio": true,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "28oWUQCEDG6sK0HTev979v",
+      "duracion_ms": 119880,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "28oWUQCEDG6sK0HTev979v",
+          "nombre": "Hit the Road Jack",
+          "artistas": "Ray Charles",
+          "disco": "Soul",
+          "tipo": "single",
+          "fecha": "2021-06-04",
+          "isrc": "QZR8K2111005"
+        },
+        "musicbrainz": {
+          "fecha": "1980",
+          "grabacion": "e0c45f27-053e-4cd2-b1d1-05afb116b4dc",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1980
+      }
     },
     {
       "id": "variados-006",
@@ -36358,13 +39180,34 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
+        "okAnio": true,
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1mzKd4lul92VCIdehoP8rg",
+      "duracion_ms": 174826,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "1mzKd4lul92VCIdehoP8rg",
+          "nombre": "The Girl From Ipanema",
+          "artistas": "Stan Getz, João Gilberto, Astrud Gilberto, Antônio Carlos Jobim",
+          "disco": "Getz/Gilberto",
+          "tipo": "album",
+          "fecha": "1964-03-01",
+          "isrc": "USUMG0000425"
+        },
+        "musicbrainz": {
+          "fecha": "1970-03-10",
+          "grabacion": "b513d873-39a3-4e0c-896a-e4bccf0a43c7",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1970
+      }
     },
     {
       "id": "variados-007",
@@ -36381,9 +39224,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1PVTvvxpSkyJWemW1CwVVk",
+      "duracion_ms": 148866,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1PVTvvxpSkyJWemW1CwVVk",
+          "nombre": "Fly Me To The Moon",
+          "artistas": "Frank Sinatra",
+          "disco": "A Man And His Music",
+          "tipo": "album",
+          "fecha": "1965-12",
+          "isrc": "USRH10800921"
+        },
+        "musicbrainz": {
+          "fecha": "1964-06-09",
+          "grabacion": "96e25e14-65be-47bb-971a-be6fd28c741f",
+          "via": "isrc"
+        },
+        "anio_mb": 1964
+      }
     },
     {
       "id": "variados-008",
@@ -36400,9 +39262,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5haXbSJqjjM0TCJ5XkfEaC",
+      "duracion_ms": 165800,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5haXbSJqjjM0TCJ5XkfEaC",
+          "nombre": "I Got You (I Feel Good)",
+          "artistas": "James Brown & The Famous Flames",
+          "disco": "I Got You (I Feel Good)",
+          "tipo": "album",
+          "fecha": "1966-02-01",
+          "isrc": "USF066625050"
+        },
+        "musicbrainz": {
+          "fecha": "1965",
+          "grabacion": "c6fe631e-8cdd-4248-a85a-dae9f0b124c5",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1965
+      }
     },
     {
       "id": "variados-009",
@@ -36419,9 +39300,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "6Rqn2GFlmvmV4w9Ala0I1e",
+      "duracion_ms": 174000,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6Rqn2GFlmvmV4w9Ala0I1e",
+          "nombre": "Feeling Good",
+          "artistas": "Nina Simone",
+          "disco": "I Put A Spell On You",
+          "tipo": "album",
+          "fecha": "1965-06-01",
+          "isrc": "USPR36500094"
+        },
+        "musicbrainz": {
+          "fecha": "1965",
+          "grabacion": "96b8213c-48ab-435a-bd70-7f9d491fd107",
+          "via": "isrc"
+        },
+        "anio_mb": 1965
+      }
     },
     {
       "id": "variados-010",
@@ -36438,9 +39338,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2AX8asCpJSCGnPVlRIopVa",
+      "duracion_ms": 158773,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2AX8asCpJSCGnPVlRIopVa",
+          "nombre": "Mas Que Nada",
+          "artistas": "Sergio Mendes & Brasil '66",
+          "disco": "Herb Alpert Presents Sergio Mendes & Brasil '66",
+          "tipo": "album",
+          "fecha": "1966-08-01",
+          "isrc": "USAM16600001"
+        },
+        "musicbrainz": {
+          "fecha": "1966",
+          "grabacion": "ad3f6a84-a070-422f-82ad-b70108e84421",
+          "via": "isrc"
+        },
+        "anio_mb": 1966
+      }
     },
     {
       "id": "variados-011",
@@ -36457,9 +39376,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "29U7stRjqHU6rMiS8BfaI9",
+      "duracion_ms": 139226,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "29U7stRjqHU6rMiS8BfaI9",
+          "nombre": "What A Wonderful World",
+          "artistas": "Louis Armstrong",
+          "disco": "What A Wonderful World",
+          "tipo": "album",
+          "fecha": "1968-01-01",
+          "isrc": "USMC16758823"
+        },
+        "musicbrainz": {
+          "fecha": "1967-10",
+          "grabacion": "20655d93-c325-4825-9018-50fa1b54bf77",
+          "via": "isrc"
+        },
+        "anio_mb": 1967
+      }
     },
     {
       "id": "variados-012",
@@ -36476,9 +39414,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7tqhbajSfrz2F7E1Z75ASX",
+      "duracion_ms": 151666,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7tqhbajSfrz2F7E1Z75ASX",
+          "nombre": "Ain't No Mountain High Enough",
+          "artistas": "Marvin Gaye, Tammi Terrell",
+          "disco": "United",
+          "tipo": "album",
+          "fecha": "1967-08-29",
+          "isrc": "USMO16700534"
+        },
+        "musicbrainz": {
+          "fecha": "1967",
+          "grabacion": "c3350d02-af15-457c-9862-e800bd3982fa",
+          "via": "isrc"
+        },
+        "anio_mb": 1967
+      }
     },
     {
       "id": "variados-013",
@@ -36492,12 +39449,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7aQUylpLZdnsSBDNFPXPyY",
+      "duracion_ms": 279413,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "7aQUylpLZdnsSBDNFPXPyY",
+          "nombre": "Alfonsina Y El Mar",
+          "artistas": "Mercedes Sosa, Ariel Ramírez, Hector Zeoli",
+          "disco": "Mujeres Argentinas",
+          "tipo": "album",
+          "fecha": "1991-01-01",
+          "isrc": "ARF096900004"
+        },
+        "musicbrainz": {
+          "fecha": "1969",
+          "grabacion": "8a880390-7348-4163-96f0-83d2eb5560d8",
+          "via": "isrc"
+        },
+        "anio_mb": 1969
+      }
     },
     {
       "id": "variados-014",
@@ -36511,12 +39489,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0UKSse3fcKetDzXnXzE1Pv",
+      "duracion_ms": 264197,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "0UKSse3fcKetDzXnXzE1Pv",
+          "nombre": "Gracias A La Vida",
+          "artistas": "Mercedes Sosa",
+          "disco": "30 años",
+          "tipo": "album",
+          "fecha": "1993-01-01",
+          "isrc": "ARF097100137"
+        },
+        "musicbrainz": {
+          "fecha": "1971",
+          "grabacion": "e03e6e95-fe36-496b-8712-95240ec98de1",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1971
+      }
     },
     {
       "id": "variados-015",
@@ -36533,9 +39532,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4N0TP4Rmj6QQezWV88ARNJ",
+      "duracion_ms": 266133,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4N0TP4Rmj6QQezWV88ARNJ",
+          "nombre": "Superstition",
+          "artistas": "Stevie Wonder",
+          "disco": "Talking Book",
+          "tipo": "album",
+          "fecha": "1972-10-28",
+          "isrc": "USMO17200984"
+        },
+        "musicbrainz": {
+          "fecha": "1972-10-27",
+          "grabacion": "1d9a8f3b-e7b7-44b0-a004-04bc62f9755b",
+          "via": "isrc"
+        },
+        "anio_mb": 1972
+      }
     },
     {
       "id": "variados-016",
@@ -36552,9 +39570,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "4xrJsnIpEKl9wRk7FOJ94S",
+      "duracion_ms": 165770,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4xrJsnIpEKl9wRk7FOJ94S",
+          "nombre": "Libertango",
+          "artistas": "Astor Piazzolla",
+          "disco": "Libertango",
+          "tipo": "album",
+          "fecha": "1974-01-01",
+          "isrc": "ITB261004000"
+        },
+        "musicbrainz": {
+          "fecha": "1974",
+          "grabacion": "d1cd1321-0b66-4848-935e-f3afba6c7356",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1974
+      }
     },
     {
       "id": "variados-017",
@@ -36571,9 +39608,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7yFvSYKk3g5g8e7Ffl16ws",
+      "duracion_ms": 180266,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7yFvSYKk3g5g8e7Ffl16ws",
+          "nombre": "Three Little Birds",
+          "artistas": "Bob Marley & The Wailers",
+          "disco": "Exodus",
+          "tipo": "album",
+          "fecha": "1977-06-03",
+          "isrc": "USIR27700016"
+        },
+        "musicbrainz": {
+          "fecha": "1977",
+          "grabacion": "6969ba30-1e28-4fbd-bd7c-54412abc2deb",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1977
+      }
     },
     {
       "id": "variados-018",
@@ -36586,13 +39642,35 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
+        "okAnio": true,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0hYnLnEWVlMH7BRQ951BGY",
+      "duracion_ms": 170960,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0hYnLnEWVlMH7BRQ951BGY",
+          "nombre": "Rapper's Delight",
+          "artistas": "The Sugarhill Gang",
+          "disco": "Rapmania: The Roots Of Rap",
+          "tipo": "compilation",
+          "fecha": "2003-08-12",
+          "isrc": "USA560682752"
+        },
+        "musicbrainz": {
+          "fecha": "1980",
+          "grabacion": "13aa6fc2-317f-45db-b909-3cc881f1b16d",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1980
+      }
     },
     {
       "id": "variados-019",
@@ -36605,13 +39683,34 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
+        "okAnio": true,
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5O4erNlJ74PIF6kGol1ZrC",
+      "duracion_ms": 237000,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "5O4erNlJ74PIF6kGol1ZrC",
+          "nombre": "Could You Be Loved",
+          "artistas": "Bob Marley & The Wailers",
+          "disco": "Uprising",
+          "tipo": "album",
+          "fecha": "1980-06-10",
+          "isrc": "USIR28000016"
+        },
+        "musicbrainz": {
+          "fecha": "1979",
+          "grabacion": "624049bf-73f5-48b5-a0c7-d00ef7e5db76",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1979
+      }
     },
     {
       "id": "variados-020",
@@ -36628,9 +39727,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0njOsb3y8TnwIJC7GnlWwD",
+      "duracion_ms": 284680,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0njOsb3y8TnwIJC7GnlWwD",
+          "nombre": "Todo Cambia",
+          "artistas": "Mercedes Sosa",
+          "disco": "¿Será Posible El Sur?",
+          "tipo": "album",
+          "fecha": "1984-01-01",
+          "isrc": "ARF098400031"
+        },
+        "musicbrainz": {
+          "fecha": "1984",
+          "grabacion": "58f0b7b8-f1fd-4229-a03c-13966a356c51",
+          "via": "isrc"
+        },
+        "anio_mb": 1984
+      }
     },
     {
       "id": "variados-021",
@@ -36639,9 +39757,9 @@
       "titulo": "Walk This Way",
       "anio": 1986,
       "pelicula": null,
-      "fuera": false,
+      "fuera": true,
       "opciones": {
-        "fuera": false,
+        "fuera": true,
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
@@ -36649,7 +39767,20 @@
       },
       "spotify": null,
       "duracion_ms": null,
-      "verificacion": null
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "anio_distinto"
+        ],
+        "musicbrainz": {
+          "fecha": "2003",
+          "grabacion": "809d7040-099b-4ffc-b4b4-2dd3a9414d15",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2003
+      }
     },
     {
       "id": "variados-022",
@@ -36663,12 +39794,33 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "5ODVxUulyknEVXwjDaZpkp",
+      "duracion_ms": 209906,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "5ODVxUulyknEVXwjDaZpkp",
+          "nombre": "(You Gotta) Fight For Your Right (To Party!)",
+          "artistas": "Beastie Boys",
+          "disco": "Def Jam Classics, Vol.1",
+          "tipo": "compilation",
+          "fecha": "1989-01-01",
+          "isrc": "USDJ28600007"
+        },
+        "musicbrainz": {
+          "fecha": "1986-11-15",
+          "grabacion": "026c26a7-70b4-4355-83d8-7ca66d5d68b8",
+          "via": "isrc"
+        },
+        "anio_mb": 1986
+      }
     },
     {
       "id": "variados-023",
@@ -36681,13 +39833,35 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
-        "okVersion": false,
+        "okAnio": true,
+        "okVersion": true,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "6sWJr1iryG4A1Luv0p4y15",
+      "duracion_ms": 348000,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "6sWJr1iryG4A1Luv0p4y15",
+          "nombre": "California Love",
+          "artistas": "2Pac",
+          "disco": "California Love",
+          "tipo": "compilation",
+          "fecha": "2011-03-11",
+          "isrc": "USV291347098"
+        },
+        "musicbrainz": {
+          "fecha": "1996",
+          "grabacion": "ddf3b468-0bc7-4705-8780-50d9876afe91",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1996
+      }
     },
     {
       "id": "variados-024",
@@ -36700,13 +39874,34 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
+        "okAnio": true,
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0Q0IVlqMV64kNLlwjPj0Hl",
+      "duracion_ms": 298666,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0Q0IVlqMV64kNLlwjPj0Hl",
+          "nombre": "Killing Me Softly With His Song",
+          "artistas": "Fugees, Ms. Lauryn Hill",
+          "disco": "The Score (Expanded Edition)",
+          "tipo": "album",
+          "fecha": "1996-02-13",
+          "isrc": "USSM19600055"
+        },
+        "musicbrainz": {
+          "fecha": "2010",
+          "grabacion": "bb6f987d-f95b-45b2-80b7-35a8638c8759",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2010
+      }
     },
     {
       "id": "variados-025",
@@ -36723,16 +39918,35 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3NKCYnaiQjR7abtjMjmef1",
+      "duracion_ms": 189160,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3NKCYnaiQjR7abtjMjmef1",
+          "nombre": "A Don Ata",
+          "artistas": "Soledad",
+          "disco": "Poncho Al Viento",
+          "tipo": "album",
+          "fecha": "1996-10-18",
+          "isrc": "ARF109600094"
+        },
+        "musicbrainz": {
+          "fecha": "1996",
+          "grabacion": "42d13af4-aff8-4f50-a4e4-6279feb0ccfb",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1996
+      }
     },
     {
       "id": "variados-026",
       "mazo": "variados",
       "artista": "Los Nocheros",
       "titulo": "Entre la tierra y el cielo",
-      "anio": 1999,
+      "anio": 1998,
       "pelicula": null,
       "fuera": false,
       "opciones": {
@@ -36742,9 +39956,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1hQgzgaxymIbhqoWpMYDnf",
+      "duracion_ms": 291040,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1hQgzgaxymIbhqoWpMYDnf",
+          "nombre": "Entre La Tierra Y El Cielo",
+          "artistas": "Los Nocheros",
+          "disco": "Signos",
+          "tipo": "album",
+          "fecha": "1998-01-01",
+          "isrc": "ARF049800205"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "8f44e1bc-9072-4bef-871d-200350d2d088",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
+      }
     },
     {
       "id": "variados-027",
@@ -36761,9 +39994,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "503OTo2dSqe7qk76rgsbep",
+      "duracion_ms": 270586,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "503OTo2dSqe7qk76rgsbep",
+          "nombre": "Still D.R.E.",
+          "artistas": "Dr. Dre, Snoop Dogg",
+          "disco": "2001",
+          "tipo": "album",
+          "fecha": "1999-11-16",
+          "isrc": "USIR19905031"
+        },
+        "musicbrainz": {
+          "fecha": "1999",
+          "grabacion": "3460f55e-a166-4d3a-862c-5b95ea3dcca5",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1999
+      }
     },
     {
       "id": "variados-028",
@@ -36776,13 +40028,34 @@
       "opciones": {
         "fuera": false,
         "reserva": false,
-        "okAnio": false,
+        "okAnio": true,
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3yfqSUWxFvZELEM4PmlwIR",
+      "duracion_ms": 284200,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "3yfqSUWxFvZELEM4PmlwIR",
+          "nombre": "The Real Slim Shady",
+          "artistas": "Eminem",
+          "disco": "The Marshall Mathers LP",
+          "tipo": "album",
+          "fecha": "2000-05-23",
+          "isrc": "USIR10000448"
+        },
+        "musicbrainz": {
+          "fecha": "1999",
+          "grabacion": "a8545827-c272-42b0-af39-dc98848cac01",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1999
+      }
     },
     {
       "id": "variados-029",
@@ -36799,9 +40072,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "65MDo5mxRY45IHpyVkLEU5",
+      "duracion_ms": 357906,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "65MDo5mxRY45IHpyVkLEU5",
+          "nombre": "Santa María (del Buen Ayre)",
+          "artistas": "Gotan Project",
+          "disco": "La revancha del tango",
+          "tipo": "album",
+          "fecha": "2001",
+          "isrc": "FR99S9900014"
+        },
+        "musicbrainz": {
+          "fecha": "2001",
+          "grabacion": "688c24ae-4d57-4e9f-87d1-212a37445baa",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2001
+      }
     },
     {
       "id": "variados-030",
@@ -36818,9 +40110,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7lQ8MOhq6IN2w8EYcFNSUk",
+      "duracion_ms": 290320,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7lQ8MOhq6IN2w8EYcFNSUk",
+          "nombre": "Without Me",
+          "artistas": "Eminem",
+          "disco": "The Eminem Show",
+          "tipo": "album",
+          "fecha": "2002-05-26",
+          "isrc": "USIR10211038"
+        },
+        "musicbrainz": {
+          "fecha": "2002",
+          "grabacion": "0d32aa85-e4f1-429b-8e83-e623877313e8",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2002
+      }
     },
     {
       "id": "variados-031",
@@ -36837,9 +40148,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "7iL6o9tox1zgHpKUfh9vuC",
+      "duracion_ms": 193466,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7iL6o9tox1zgHpKUfh9vuC",
+          "nombre": "In Da Club",
+          "artistas": "50 Cent",
+          "disco": "Get Rich Or Die Tryin'",
+          "tipo": "album",
+          "fecha": "2003-02-06",
+          "isrc": "USIR10300033"
+        },
+        "musicbrainz": {
+          "fecha": "2003",
+          "grabacion": "4f04b9a3-f302-4df4-bd3f-9d29adb725a7",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2003
+      }
     },
     {
       "id": "variados-032",
@@ -36856,9 +40186,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2NBQmPrOEEjA8VbeWOQGxO",
+      "duracion_ms": 266066,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2NBQmPrOEEjA8VbeWOQGxO",
+          "nombre": "Drop It Like It's Hot",
+          "artistas": "Snoop Dogg, Pharrell Williams",
+          "disco": "R&G (Rhythm & Gangsta): The Masterpiece",
+          "tipo": "album",
+          "fecha": "2004-01-01",
+          "isrc": "USMC10400640"
+        },
+        "musicbrainz": {
+          "fecha": "2004",
+          "grabacion": "2850b95b-2a3e-4c4a-a283-af8b7842b076",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2004
+      }
     },
     {
       "id": "variados-033",
@@ -36875,9 +40224,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "1Sr0201YyWpEJDI6eF1inM",
+      "duracion_ms": 239000,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1Sr0201YyWpEJDI6eF1inM",
+          "nombre": "Pa' Bailar",
+          "artistas": "Bajofondo",
+          "disco": "Mar Dulce",
+          "tipo": "album",
+          "fecha": "2007-01-01",
+          "isrc": "USUM70738967"
+        },
+        "musicbrainz": {
+          "fecha": "2007",
+          "grabacion": "09c7c8b4-5b5d-4475-ae79-690e9a48ceb6",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2007
+      }
     },
     {
       "id": "variados-034",
@@ -36894,9 +40262,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2VysjemU93ac5oRg4MfYGp",
+      "duracion_ms": 312373,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2VysjemU93ac5oRg4MfYGp",
+          "nombre": "Stronger",
+          "artistas": "Kanye West",
+          "disco": "Stronger",
+          "tipo": "single",
+          "fecha": "2007-01-01",
+          "isrc": "USUM70741299"
+        },
+        "musicbrainz": {
+          "fecha": "2007",
+          "grabacion": "7829c368-6c2a-4829-a31e-30492e910e47",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2007
+      }
     },
     {
       "id": "variados-035",
@@ -36913,16 +40300,35 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2igwFfvr1OAGX9SKDCPBwO",
+      "duracion_ms": 276920,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2igwFfvr1OAGX9SKDCPBwO",
+          "nombre": "Empire State Of Mind",
+          "artistas": "JAŸ-Z, Alicia Keys",
+          "disco": "The Blueprint 3",
+          "tipo": "album",
+          "fecha": "2009-09-08",
+          "isrc": "USJZ10900031"
+        },
+        "musicbrainz": {
+          "fecha": "2009",
+          "grabacion": "bea57dbc-35c0-4d96-a219-19a2bd4b6ada",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2009
+      }
     },
     {
       "id": "variados-036",
       "mazo": "variados",
       "artista": "Abel Pintos",
       "titulo": "Sueño dorado",
-      "anio": 2014,
+      "anio": 2004,
       "pelicula": null,
       "fuera": false,
       "opciones": {
@@ -36932,9 +40338,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "61a4GxLGyDkUzUQgRqe7wv",
+      "duracion_ms": 276266,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "61a4GxLGyDkUzUQgRqe7wv",
+          "nombre": "Sueño Dorado",
+          "artistas": "Abel Pintos",
+          "disco": "Sentidos",
+          "tipo": "album",
+          "fecha": "2004-03-23",
+          "isrc": "ARF030400002"
+        },
+        "musicbrainz": {
+          "fecha": "2004-10-28",
+          "grabacion": "2dbf1e49-f74c-45e8-83fa-6d6e2159d8b4",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2004
+      }
     },
     {
       "id": "variados-037",
@@ -36951,9 +40376,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "0wwPcA6wtMf6HUMpIRdeP7",
+      "duracion_ms": 267066,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0wwPcA6wtMf6HUMpIRdeP7",
+          "nombre": "Hotline Bling",
+          "artistas": "Drake",
+          "disco": "Views",
+          "tipo": "album",
+          "fecha": "2016-05-06",
+          "isrc": "USCM51500238"
+        },
+        "musicbrainz": {
+          "fecha": "2015-07-31",
+          "grabacion": "e288e33a-5c40-4b9f-98f6-0062be760e4a",
+          "via": "isrc"
+        },
+        "anio_mb": 2015
+      }
     },
     {
       "id": "variados-038",
@@ -36970,9 +40414,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "131OLY5J8XyfGuSjXRiTRM",
+      "duracion_ms": 177000,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "131OLY5J8XyfGuSjXRiTRM",
+          "nombre": "HUMBLE.",
+          "artistas": "Kendrick Lamar",
+          "disco": "DAMN.",
+          "tipo": "album",
+          "fecha": "2017-04-13",
+          "isrc": "USUM71703150"
+        },
+        "musicbrainz": {
+          "fecha": "2017-03-31",
+          "grabacion": "398bf241-7d57-4993-860b-1f9ef496c97f",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2017
+      }
     },
     {
       "id": "variados-039",
@@ -36989,9 +40452,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "2xLMifQCjDGFmkHkpNLD9h",
+      "duracion_ms": 312820,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2xLMifQCjDGFmkHkpNLD9h",
+          "nombre": "SICKO MODE",
+          "artistas": "Travis Scott",
+          "disco": "ASTROWORLD",
+          "tipo": "album",
+          "fecha": "2018-08-03",
+          "isrc": "USSM11806660"
+        },
+        "musicbrainz": {
+          "fecha": "2018-08-03",
+          "grabacion": "73784600-a665-4a6c-9687-187dbefc556d",
+          "via": "isrc"
+        },
+        "anio_mb": 2018
+      }
     },
     {
       "id": "variados-040",
@@ -37008,9 +40490,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null
+      "spotify": "3IAfUEeaXRX9s9UdKOJrFI",
+      "duracion_ms": 193805,
+      "verificacion": {
+        "fecha": "2026-11-15",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3IAfUEeaXRX9s9UdKOJrFI",
+          "nombre": "Envolver",
+          "artistas": "Anitta",
+          "disco": "Envolver",
+          "tipo": "single",
+          "fecha": "2021-11-11",
+          "isrc": "USWL12100576"
+        },
+        "musicbrainz": {
+          "fecha": "2021-11-11",
+          "grabacion": "bd81109f-5975-45cd-8c1f-a577563eb72a",
+          "via": "isrc"
+        },
+        "anio_mb": 2021
+      }
     }
   ]
 }

@@ -1,34 +1,34 @@
 # nombre: Variados
 # oculto: si
 # formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
-Carlos Gardel | Mi Buenos Aires querido | 1934
-Carlos Gardel | Volver | 1935
-Carlos Gardel | Por una cabeza | 1935
+Carlos Gardel | Mi Buenos Aires querido | 1934 | ok-año, ok-versión
+Carlos Gardel | Volver | 1935 | ok-año, ok-versión
+Carlos Gardel | Por una cabeza | 1935 | ok-año, ok-versión
 Etta James | At Last | 1960
-Ray Charles | Hit the Road Jack | 1961
-Astrud Gilberto | The Girl from Ipanema | 1964
+Ray Charles | Hit the Road Jack | 1961 | ok-año, ok-versión
+Astrud Gilberto | The Girl from Ipanema | 1964 | ok-año
 Frank Sinatra | Fly Me to the Moon | 1964
 James Brown | I Got You (I Feel Good) | 1965
 Nina Simone | Feeling Good | 1965
 Sergio Mendes & Brasil '66 | Mas que nada | 1966
 Louis Armstrong | What a Wonderful World | 1967
 Marvin Gaye | Ain't No Mountain High Enough | 1967
-Mercedes Sosa | Alfonsina y el mar | 1969
-Mercedes Sosa | Gracias a la vida | 1971
+Mercedes Sosa | Alfonsina y el mar | 1969 | ok-versión
+Mercedes Sosa | Gracias a la vida | 1971 | ok-versión
 Stevie Wonder | Superstition | 1972
 Astor Piazzolla | Libertango | 1974
 Bob Marley & The Wailers | Three Little Birds | 1977
-The Sugarhill Gang | Rapper's Delight | 1979
-Bob Marley & The Wailers | Could You Be Loved | 1980
+The Sugarhill Gang | Rapper's Delight | 1979 | ok-año, ok-versión
+Bob Marley & The Wailers | Could You Be Loved | 1980 | ok-año
 Mercedes Sosa | Todo cambia | 1984
-Run-DMC | Walk This Way | 1986
-Beastie Boys | (You Gotta) Fight for Your Right (To Party!) | 1986
-2Pac | California Love | 1995
-Fugees | Killing Me Softly with His Song | 1996
+Run-DMC | Walk This Way | 1986 | fuera
+Beastie Boys | (You Gotta) Fight for Your Right (To Party!) | 1986 | ok-versión
+2Pac | California Love | 1995 | ok-año, ok-versión
+Fugees | Killing Me Softly with His Song | 1996 | ok-año
 Soledad | A Don Ata | 1996
-Los Nocheros | Entre la tierra y el cielo | 1999
+Los Nocheros | Entre la tierra y el cielo | 1998
 Dr. Dre | Still D.R.E. | 1999
-Eminem | The Real Slim Shady | 2000
+Eminem | The Real Slim Shady | 2000 | ok-año
 Gotan Project | Santa María (del Buen Ayre) | 2001
 Eminem | Without Me | 2002
 50 Cent | In da Club | 2003
@@ -36,7 +36,7 @@ Snoop Dogg | Drop It Like It's Hot | 2004
 Bajofondo | Pa' bailar | 2007
 Kanye West | Stronger | 2007
 Jay-Z | Empire State of Mind | 2009
-Abel Pintos | Sueño dorado | 2014
+Abel Pintos | Sueño dorado | 2004
 Drake | Hotline Bling | 2015
 Kendrick Lamar | HUMBLE. | 2017
 Travis Scott | SICKO MODE | 2018
