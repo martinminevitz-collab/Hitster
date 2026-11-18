@@ -41,10 +41,10 @@ const Ranking = (() => {
 
   function encolar(ruta, valor) { const q = leer(PEND, {}); q[ruta] = valor; escribir(PEND, q); }
 
-  let enCurso = null;
+  let enCurso = null, otraVez = false;
   function sincronizar() {
     if (!DB_URL) return Promise.resolve();
-    if (enCurso) return enCurso;
+    if (enCurso) { otraVez = true; return enCurso; } // llegó algo nuevo mientras subía: se vuelve a subir al terminar
     estado = { sync: "sincronizando", error: null }; avisar();
     enCurso = (async () => {
       try {
@@ -68,7 +68,10 @@ const Ranking = (() => {
         estado = { sync: "ok", error: null };
       } catch (e) {
         estado = { sync: "error", error: "No se pudo conectar con el ranking online. Lo nuevo queda guardado y se sube después." };
-      } finally { enCurso = null; avisar(); }
+      } finally {
+        enCurso = null; avisar();
+        if (otraVez) { otraVez = false; setTimeout(sincronizar, 0); }
+      }
     })();
     return enCurso;
   }
