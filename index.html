@@ -209,6 +209,18 @@ button.slot.hot{border-color:var(--pc);color:var(--pc);background:rgba(255,250,2
 .winpage h1 span{color:var(--pc)}
 .wline{display:flex;flex-wrap:wrap;gap:6px;justify-content:center}
 .wline .card{--w:76px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.uchip{border:1.5px solid var(--line);background:var(--cream);color:var(--ink);border-radius:999px;padding:5px 12px;font:inherit;font-size:13px;min-height:32px;cursor:pointer}
+.uchip:hover{border-color:var(--red)}
+.tabs{display:flex;flex-wrap:wrap;gap:6px}
+.rk-wrap{overflow-x:auto;max-width:100%}
+.rk{border-collapse:collapse;width:100%;font-size:14px;min-width:520px}
+.rk th{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-soft);font-weight:600;text-align:right;padding:6px 8px;border-bottom:1.5px solid var(--line)}
+.rk th:nth-child(-n+2),.rk td:nth-child(-n+2){text-align:left}
+.rk td{padding:8px;border-bottom:1px solid var(--line);text-align:right;font-variant-numeric:tabular-nums}
+.rk td.pos{width:28px;color:var(--ink-soft)}
+.rk tr.top td{font-weight:700}
+.rk td.main{font-size:17px;font-weight:700;color:var(--red)}
 .standings{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
 .stand{display:flex;gap:8px;align-items:center;background:var(--cream);border-radius:999px;padding:5px 14px}
 .stand b{color:var(--pc)}
@@ -226,6 +238,7 @@ button.slot.hot{border-color:var(--pc);color:var(--pc);background:rgba(255,250,2
 <div id="toast" class="toast" hidden></div>
 
 <script src="spotify.js"></script>
+<script src="ranking.js"></script>
 <script>
 /* Los temas viven en songs.json (los arma tools/biblioteca.mjs). Cada partida usa un mazo, o todos mezclados. */
 const TODOS="todos",MAZO_KEY="hitster-mazo";
@@ -234,7 +247,7 @@ function buildDeck(id){
   const deck=LIB.temas.filter(t=>(id===TODOS||t.mazo===id)&&!t.fuera&&t.spotify);
   const vistos=new Set(); // en "todos" un mismo tema puede estar en dos mazos
   return deck.filter(t=>{const k=t.spotify;if(vistos.has(k))return false;vistos.add(k);return true})
-    .map((t,i)=>({id:i,key:t.id,t:t.titulo,a:t.artista,y:t.anio,spotify:t.spotify,dur:t.duracion_ms||null,pe:t.pelicula||null,mz:t.mazo}));
+    .map((t,i)=>({id:i,key:t.id,t:t.titulo,a:t.artista,y:t.anio,spotify:t.spotify,dur:t.duracion_ms||null,pe:id===TODOS?null:(t.pelicula||null),mz:t.mazo})); // en el mix no hay ficha extra por la película
 }
 function useMazo(id){
   if(id!==TODOS&&!MAZOS.some(m=>m.id===id))id=(MAZOS[0]||{}).id||id;
@@ -265,6 +278,7 @@ const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()
 const song=id=>SONGS[id];
 const P=id=>state.players.find(p=>p.id===id);
 const cur=()=>state.players[state.current];
+const st=p=>p.st||(p.st={ok:0,robos:0,temas:0}); // para el ranking: cartas bien ubicadas, robos y temas adivinados
 const jitter=id=>(((id*37)%7)-3)*.6+"deg";
 
 function save(){try{state?localStorage.setItem(KEY,JSON.stringify(state)):localStorage.removeItem(KEY)}catch(e){}}
@@ -288,7 +302,8 @@ function newGame(){
   if(!SONGS.length){toast("No se pudieron cargar los temas. Revisá la conexión y recargá.");return}
   state={phase:"turn",mazo:MAZO,sig:deckSig(),target:setup.target,startMode:setup.start,device:setup.device,deck:shuffle(SONGS.map(s=>s.id)),discard:[],current:0,
     players:names.map((n,i)=>({id:i,name:n,color:PCOLORS[i%PCOLORS.length],timeline:[],tokens:setup.tokens}))};
-  state.players.forEach(p=>p.timeline.push(draw()));
+  state.players.forEach(p=>{p.timeline.push(draw());st(p)});
+  Ranking.registrar(names);
   state.current=Math.floor(Math.random()*state.players.length);
   ui.angle=null;keepAwake();startTurn();
 }
@@ -340,10 +355,10 @@ function reveal(){
   const a=cur(),y=song(state.card).y,tl=a.timeline.slice();
   state.snap=tl;
   let r;
-  if(fits(tl,state.placement,y)){insertSorted(a.timeline,state.card);r={type:"active",pid:a.id}}
+  if(fits(tl,state.placement,y)){insertSorted(a.timeline,state.card);st(a).ok++;r={type:"active",pid:a.id}}
   else{
     const w=state.challenges.find(c=>fits(tl,c.slot,y));
-    if(w){insertSorted(P(w.pid).timeline,state.card);r={type:"challenger",pid:w.pid}}
+    if(w){insertSorted(P(w.pid).timeline,state.card);st(P(w.pid)).robos++;r={type:"challenger",pid:w.pid}}
     else{state.discard.push(state.card);r={type:"none"}}
   }
   state.result=r;state.phase="reveal";ui.flipDone=false;ui.stealDone=r.type!=="challenger";render();
@@ -351,6 +366,7 @@ function reveal(){
 function nextTurn(){
   const a=cur();
   // tema y artista: +1 ficha; en temas de películas, decir la película: +1 más (máximo 5 en total)
+  if(state.guess===true)st(a).temas++;
   a.tokens=Math.min(MAX_TOKENS,a.tokens+(state.guess===true?1:0)+(state.guessMovie===true?1:0));
   const w=state.players.find(p=>p.timeline.length>=state.target);
   if(w){state.phase="win";state.winner=w.id;stopMusic();render();return}
@@ -561,13 +577,14 @@ function viewSetup(){
     <p class="hint">Primero el que tiene enfrente el lado de abajo de la tablet, y después siguiendo como las agujas del reloj. Así cada línea queda mirando a su dueño y los turnos van en ronda.</p>
     <div class="plist">${setup.names.map((n,i)=>`<div class="prow" style="--pc:${PCOLORS[i]}"><span class="dot"></span><input id="name-${i}" data-name="${i}" value="${esc(n)}" maxlength="14" aria-label="Nombre del jugador ${i+1}">${setup.names.length>2?`<button class="btn small" data-act="rm" data-i="${i}" aria-label="Sacar jugador">✕</button>`:""}</div>`).join("")}</div>
     ${setup.names.length<8?`<div><button class="btn small" data-act="add">+ Sumar jugador</button></div>`:""}
+    ${(()=>{const en=new Set(setup.names.map(n=>Ranking.clave(n))),us=Ranking.usuarios().filter(u=>!en.has(Ranking.clave(u)));return us.length&&setup.names.length<=8?`<div class="opt"><label>Jugadores guardados (tocá para sumar)</label><div class="chips">${us.map(u=>`<button class="uchip" data-act="adduser" data-v="${esc(u)}">${esc(u)}</button>`).join("")}</div></div>`:""})()}
     ${MAZOS.length?`<div class="opt"><label>Temática</label><div class="decks" role="radiogroup" aria-label="Temática">${[...MAZOS,...(MAZOS.length>1?[{id:TODOS,nombre:"Todos mezclados",n:buildDeck(TODOS).length}]:[])].map(m=>`<button class="deckcard ${MAZO===m.id?"sel":""}" role="radio" aria-checked="${MAZO===m.id}" data-act="mazo" data-v="${esc(m.id)}"><div class="card" style="--w:92px">${deckFace(m.id===TODOS?"todos":m.id,m.nombre)}</div><span class="mono">${m.n} temas</span></button>`).join("")}</div></div>`:""}
     <div class="opts">
       <div class="opt"><label>Cartas para ganar</label><div class="stepper"><button class="btn small" data-act="tgt" data-d="-1" aria-label="Menos">−</button><output class="mono">${setup.target}</output><button class="btn small" data-act="tgt" data-d="1" aria-label="Más">+</button></div></div>
       <div class="opt"><label>Fichas al empezar</label><div class="stepper"><button class="btn small" data-act="tok" data-d="-1" aria-label="Menos">−</button><output class="mono">${setup.tokens}</output><button class="btn small" data-act="tok" data-d="1" aria-label="Más">+</button></div></div>
       <div class="opt"><label>El tema arranca</label><div class="stepper"><button class="btn small ${setup.start==="begin"?"sel":""}" data-act="smode" data-v="begin" aria-pressed="${setup.start==="begin"}">Del principio</button><button class="btn small ${setup.start==="random"?"sel":""}" data-act="smode" data-v="random" aria-pressed="${setup.start==="random"}">En un punto al azar</button></div></div>
     </div>
-    <div class="btnrow"><button class="btn start" data-act="start">Arrancar partida</button></div>
+    <div class="btnrow" style="align-items:center"><button class="btn start" data-act="start">Arrancar partida</button><button class="btn" data-act="ranking">Ver ranking</button></div>
   </div>
   <div class="panel">
     <h3>Reglas (las originales)</h3>
@@ -576,7 +593,7 @@ function viewSetup(){
       <li>En tu turno suena un tema y tocás <b>dónde va</b> en tu línea. Si acertás, te la quedás.</li>
       <li>Si alguien no está de acuerdo, toca <b>Hitster</b>, gasta 1 ficha y elige otro lugar. Si el que jugaba le erró y el del Hitster acertó, se la lleva él.</li>
       <li>Si decís <b>tema y artista</b> antes de darla vuelta, ganás 1 ficha (máximo ${MAX_TOKENS}).</li>
-      <li>En las canciones de películas, si además decís <b>la película</b>, ganás otra ficha.</li>
+      <li>En el mazo de películas (no en el mix), si además decís <b>la película</b>, ganás otra ficha.</li>
       <li>Con fichas también podés <b>saltear un tema</b> (1) o <b>canjear 3</b> por una carta que entra directo a tu línea.</li>
     </ul>
     <p class="hint">La música suena por Spotify en el dispositivo que elijan antes de arrancar. El tema y el artista no aparecen hasta que se da vuelta la carta.</p>
@@ -635,6 +652,29 @@ function modalHTML(rot){
   </div></div>`;
 }
 
+function registrarFin(){
+  if(!state||state.phase!=="win"||state.recorded)return;
+  state.recorded=true;
+  if(!state.players.some(p=>st(p).ok||st(p).robos))return; // partida sin jugadas: no cuenta
+  Ranking.guardarPartida({fecha:new Date().toISOString(),mazo:state.mazo||MAZO,objetivo:state.target,
+    jugadores:state.players.map(p=>({nombre:p.name,cartas:p.timeline.length,acertadas:st(p).ok+st(p).robos,robos:st(p).robos,temas:st(p).temas,gano:state.winner===p.id}))});
+}
+const mazoNombre=id=>id===TODOS?"Todos mezclados":((LIB.mazos||[]).find(m=>m.id===id)||{}).nombre||id;
+function viewRanking(){
+  const sel=ui.rk||null,mz=Ranking.mazosJugados(),filas=Ranking.tabla(sel),e=Ranking.estado();
+  const tabs=[{id:null,n:"General"},...mz.sort((a,b)=>mazoNombre(a).localeCompare(mazoNombre(b),"es")).map(id=>({id,n:mazoNombre(id)}))];
+  const pct=f=>f.jugadas?Math.round(100*f.ganadas/f.jugadas)+"%":"–";
+  return `<div class="page"><div class="panel">
+    <h3>Ranking</h3>
+    <p class="hint">Ordenado por <b>cartas acertadas</b>: cada carta que ubicaste bien en tu turno o que robaste con Hitster. Cuentan las partidas terminadas.</p>
+    ${tabs.length>2||sel?`<div class="tabs" role="tablist">${tabs.map(t=>`<button class="btn small ${(t.id||null)===sel?"sel":""}" role="tab" aria-selected="${(t.id||null)===sel}" data-act="rktab" data-v="${esc(t.id||"")}">${esc(t.n)}</button>`).join("")}</div>`:""}
+    ${filas.length?`<div class="rk-wrap"><table class="rk"><thead><tr><th></th><th>Jugador</th><th>Cartas acertadas</th><th>Jugadas</th><th>Ganadas</th><th>Robos</th><th>Temas adivinados</th></tr></thead><tbody>
+      ${filas.map((f,i)=>`<tr class="${i===0?"top":""}"><td class="pos">${i+1}</td><td>${esc(f.nombre)}</td><td class="main">${f.acertadas}</td><td>${f.jugadas}</td><td>${f.ganadas} <span class="soft">(${pct(f)})</span></td><td>${f.robos}</td><td>${f.temas}</td></tr>`).join("")}
+    </tbody></table></div>`:`<p class="soft" style="margin:0">Todavía no hay partidas terminadas${sel?" con este mazo":""}. Cuando alguien gane una, aparece acá.</p>`}
+    ${e.sync==="error"?`<p class="hint">${esc(e.error)}</p>`:e.sync==="sincronizando"?`<p class="soft" style="margin:0;font-size:13px">Actualizando el ranking online…</p>`:Ranking.online()?"":`<p class="soft" style="margin:0;font-size:13px">Por ahora el ranking se guarda solo en este dispositivo.</p>`}
+    <div class="btnrow"><button class="btn dark" data-act="rkback">Volver</button></div>
+  </div></div>`;
+}
 function viewWin(){
   const w=state.winner!==null?P(state.winner):null;
   const ranked=state.players.slice().sort((x,y)=>y.timeline.length-x.timeline.length);
@@ -644,7 +684,7 @@ function viewWin(){
     ${w?"":`<p class="soft">Va primero <b style="color:${top.color}">${esc(top.name)}</b> con ${top.timeline.length} cartas.</p>`}
     <div class="standings">${ranked.map(p=>`<span class="stand" style="--pc:${p.color}"><b>${esc(p.name)}</b><span class="mono">${p.timeline.length}</span></span>`).join("")}</div>
     <div class="wline">${top.timeline.map(id=>cardUp(id)).join("")}</div>
-    <div class="btnrow" style="justify-content:center"><button class="btn dark" data-act="again">Jugar de nuevo</button><button class="btn" data-act="quit">Cambiar jugadores</button></div>
+    <div class="btnrow" style="justify-content:center"><button class="btn dark" data-act="again">Jugar de nuevo</button><button class="btn" data-act="quit">Cambiar jugadores</button><button class="btn" data-act="ranking">Ver ranking</button></div>
   </div></div>`;
 }
 
@@ -655,7 +695,8 @@ function render(){
   // para animar el cambio de turno: dónde estaba cada línea antes de redibujar
   const turno=inGame&&ui.lastCurrent!=null&&ui.lastCurrent!==state.current&&!reduce,antes={};
   if(turno)document.querySelectorAll(".rail[data-pid]").forEach(r=>antes[r.dataset.pid]=r.getBoundingClientRect());
-  $app.innerHTML=!state?(ui.screen==="devices"?viewDevices():viewSetup()):state.phase==="win"?viewWin():viewGame();
+  registrarFin();
+  $app.innerHTML=ui.screen==="ranking"?viewRanking():!state?(ui.screen==="devices"?viewDevices():viewSetup()):state.phase==="win"?viewWin():viewGame();
   ui.lastCurrent=inGame?state.current:null;
   if(turno){
     // la mesa gira: cada línea viaja en arco alrededor del centro, todas en el mismo sentido
@@ -751,6 +792,10 @@ document.addEventListener("click",e=>{
   const act=b.dataset.act;
   if(act==="closemodal"&&b.classList.contains("modal")&&e.target!==b)return;
   switch(act){
+    case "adduser":{const v=b.dataset.v,i=setup.names.findIndex(n=>!n.trim()||/^Jugador \d+$/.test(n.trim()));if(i>=0)setup.names[i]=v;else if(setup.names.length<8)setup.names.push(v);else{toast("Ya hay 8 jugadores");break}render();break}
+    case "ranking":ui.screen="ranking";ui.rk=null;render();Ranking.sincronizar();break;
+    case "rktab":ui.rk=b.dataset.v||null;render();break;
+    case "rkback":ui.screen=null;render();break;
     case "add":setup.names.push(`Jugador ${setup.names.length+1}`);render();break;
     case "rm":setup.names.splice(+b.dataset.i,1);render();break;
     case "tgt":setup.target=Math.min(20,Math.max(3,setup.target+ +b.dataset.d));render();break;
@@ -788,7 +833,8 @@ document.addEventListener("click",e=>{
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&ui.modal){ui.modal=null;render()}});
 let rz;addEventListener("resize",()=>{clearTimeout(rz);rz=setTimeout(()=>{if(state&&state.phase!=="win"){ui.flipDone=true;if(!ui.stealT)ui.stealDone=true;render()}},150)});
 
-async function start(data){await loadSongs();if(data&&data.state){state=data.state;useMazo(state.mazo||"rock-nacional");ui.flipDone=true}render();Spotify.init(()=>{if(!state)render()})}
+Ranking.alCambiar(()=>{if(ui.screen==="ranking"||!state)render()});
+async function start(data){await loadSongs();Ranking.sincronizar();if(data&&data.state){state=data.state;useMazo(state.mazo||"rock-nacional");ui.flipDone=true}render();Spotify.init(()=>{if(!state)render()})}
 if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 window.claude?.hot?.snapshot?.(()=>({state}));
 window.claude?.hot?.ready?window.claude.hot.ready(start):start(window.claude?.hot?.data??{});
