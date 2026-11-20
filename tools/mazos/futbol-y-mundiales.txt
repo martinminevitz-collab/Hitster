@@ -1,0 +1,46 @@
+# nombre: Fútbol y Mundiales
+# playlist: 00AJObtSVC4rZnBI8I5Jkm
+# formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
+Los Ramblers | El rock del Mundial | 1962 | ok-año, ok-versión, spotify:4GxsXEhvOhmp2M2aAtKMRl
+Gerry and the Pacemakers | You'll Never Walk Alone | 1963 | spotify:2VfvfFSVD1Ki0PH0Xd0jcv, ok-año, ok-versión
+Neil Diamond | Sweet Caroline | 1969 | spotify:62AuGbAkt8Ox2IrFFb8GKV
+Queen | We Will Rock You | 1977 | spotify:6ofZctOpjFdf4HruRdjWBP
+Queen | We Are the Champions | 1977 | spotify:5z8Mxyz04yoHO4ptUQO195
+Gloria Gaynor | I Will Survive | 1978 | spotify:7rIovIsXE6kMn629b7kDig, ok-año
+AC/DC | Thunderstruck | 1990 | spotify:57bgtoPSgt236HzfBOd8kj
+Gianna Nannini | Un'estate italiana | 1990 | ok-año, ok-versión, spotify:7iNCutCNzD4zRsDLw6SPKZ
+Pet Shop Boys | Go West | 1993 | spotify:1Tl6ruPji9K2xLNx0SxoIZ
+Daryl Hall | Gloryland | 1994 | fuera
+Mano Negra | Santa Maradona | 1994 | ok-versión, spotify:3CIrrUbjQjEx3oDT3Evesb
+Los Fabulosos Cadillacs | Matador | 1993 | ok-versión, spotify:3EsjrObXPhXA79Cr4QixY8
+Baddiel, Skinner & The Lightning Seeds | Three Lions | 1996 | spotify:78wQVHL1HPk6o6RPnxO4xS, ok-año, ok-versión
+Gala | Freed from Desire | 1996 | ok-versión, spotify:3u5N55tHf7hXATSQrjBh2q
+Bellini | Samba de Janeiro | 1997 | ok-año, spotify:5aIfLbdgkbH7NbQryd1poB
+Ricky Martin | La copa de la vida | 1998 | spotify:5PrGG8gAKXl4bi1odVla7l, ok-versión
+Youssou N'Dour | La cour des grands | 1998 | ok-versión, spotify:2echKEeQCNq2AzS8CZZfVl
+Los Piojos | Maradó | 1996 | spotify:4kKI4Tpn6v1qUWP7tOPKcP
+Los Piojos | Tan solo | 1992 | ok-año, spotify:6Soxxi73U6SO4rOGJwYYxI
+Rodrigo | La mano de Dios | 2000 | spotify:6bQkinbnTaWeLtMObzIxf0, ok-versión
+Bersuit Vergarabat | Se viene | 1998 | spotify:3sDmwlRdEdsb1BLDChJSJV
+Kernkraft 400 | Zombie Nation | 1999 | fuera
+Anastacia | Boom | 2002 | spotify:6UhIbqY2luV12f5FdSHpiU
+Vangelis | Anthem | 2002 | ok-versión, spotify:3bZXJyYVTKXhkaE8jRpqSM
+The White Stripes | Seven Nation Army | 2003 | spotify:3dPQuX8Gs42Y7b454ybpMR
+Il Divo | The Time of Our Lives | 2006 | ok-año, ok-versión, spotify:4xhEm6HeJf22eJimytvf6h
+Shakira | Hips Don't Lie | 2006 | spotify:3d0WouFnFmr0K3kjeza3fF, ok-año, ok-versión
+Bob Sinclar | Love Generation | 2005 | spotify:0ZzxMTVrZ68e5d0Rmybfod
+K'naan | Wavin' Flag | 2009 | spotify:0zREtnLmVnt8KUJZZbSdla
+Shakira | Waka Waka (Esto es África) | 2010 | spotify:0W8nDs4H2cqxxAgszNMYO3, ok-versión
+Pitbull | We Are One (Ole Ola) | 2014 | ok-versión, spotify:4pn0G7yHNfTgRYRWca8gYA
+Shakira | La La La (Brazil 2014) | 2014 | spotify:18hNqyuWDWmnr0NixQHIos
+David Guetta | This One's for You | 2016 | ok-versión, spotify:46NBoIAHrmR7qcUGCIFEjR
+Nicky Jam | Live It Up | 2018 | ok-versión, spotify:4DnHUy01jEA4b5ydC3HgsT
+Jason Derulo | Colors | 2018 | spotify:0AmjoOwf1G8MB8SEG1AOGi
+Martin Garrix | We Are the People | 2021 | ok-versión, spotify:2iL0W5qi0ivZ9WRXbZ74cS
+La Mosca Tsé-Tsé | Muchachos | 2022 | spotify:79d6fVzRM6DRYxR302AJFY, ok-año, ok-versión
+Jung Kook | Dreamers | 2022 | ok-versión, spotify:0jY618wuln0b5b8sCxFgjk
+Trinidad Cardona | Hayya Hayya (Better Together) | 2022 | ok-versión, spotify:7vAJiDFrFtMYVOrZbOw7jj
+Nicki Minaj | Tukoh Taka | 2022 | ok-versión, spotify:7twsd0lwXyy0ARdsTyzHoJ
+Patricio Rey y sus Redonditos de Ricota | Jijiji | 1986 | ok-año, spotify:0VWBsKl936U9OO0zypvRCZ
+Sergio Mendes & Brasil '66 | Mas que nada | 1966 | spotify:2AX8asCpJSCGnPVlRIopVa
+Zombie Nation | Kernkraft 400 | 1999 | spotify:4KmhqQGmmNA2QE13Sdn8Bs, ok-versión

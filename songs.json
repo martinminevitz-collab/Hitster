@@ -13,6 +13,14 @@
       "nombre": "Fiesta y casamiento"
     },
     {
+      "id": "futbol-y-mundiales",
+      "nombre": "Fútbol y Mundiales"
+    },
+    {
+      "id": "hip-hop-rap-y-trap",
+      "nombre": "Hip hop, rap y trap"
+    },
+    {
       "id": "one-hit-wonders",
       "nombre": "One-hit wonders"
     },
@@ -2142,7 +2150,7 @@
       "spotify": "3IJY8cdmwPRj2mGavppjCc",
       "duracion_ms": 240973,
       "verificacion": {
-        "fecha": "2026-11-15",
+        "fecha": "2026-11-20",
         "estado": "revisar",
         "motivos": [
           "error en MusicBrainz: MusicBrainz 400"
@@ -3418,22 +3426,22 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": "0s3olIAndtYz8sEBTyCKjW"
+        "spotify": "60nZcImufyMA1MKQY3dcCH"
       },
-      "spotify": "0s3olIAndtYz8sEBTyCKjW",
-      "duracion_ms": 174920,
+      "spotify": "60nZcImufyMA1MKQY3dcCH",
+      "duracion_ms": 233306,
       "verificacion": {
-        "fecha": "2026-11-13",
+        "fecha": "2026-11-20",
         "estado": "ok",
         "motivos": [],
         "spotify": {
-          "id": "0s3olIAndtYz8sEBTyCKjW",
-          "nombre": "Happy",
-          "artistas": "Pharrell Williams, Espen Gomperud Alvim, Vokalensemblet Skrik, Jon Flydal Blichfeldt",
-          "disco": "Gnist",
+          "id": "60nZcImufyMA1MKQY3dcCH",
+          "nombre": "Happy - From \"Despicable Me 2\"",
+          "artistas": "Pharrell Williams",
+          "disco": "G I R L",
           "tipo": "album",
-          "fecha": "2014-12-01",
-          "isrc": "QMFME2103574"
+          "fecha": "2014-03-03",
+          "isrc": "USQ4E1300686"
         },
         "musicbrainz": {
           "fecha": "2013",
@@ -4004,29 +4012,27 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": true,
-        "spotify": "14NK3uHQg0VGP1ywBnHJbz"
+        "spotify": "6wf7Yu7cxBSPrRlWeSeK0Q"
       },
-      "spotify": "14NK3uHQg0VGP1ywBnHJbz",
-      "duracion_ms": 221120,
+      "spotify": "6wf7Yu7cxBSPrRlWeSeK0Q",
+      "duracion_ms": 222369,
       "verificacion": {
-        "fecha": "2026-11-13",
+        "fecha": "2026-11-20",
         "estado": "ok",
-        "motivos": [
-          "disco_posterior"
-        ],
+        "motivos": [],
         "spotify": {
-          "id": "14NK3uHQg0VGP1ywBnHJbz",
-          "nombre": "What Was I Made For?",
-          "artistas": "Billie Eilish, Finneas O'Connell, Lyyra",
-          "disco": "Rising",
-          "tipo": "album",
-          "fecha": "2026-03-27",
-          "isrc": "GBPFW2500482"
+          "id": "6wf7Yu7cxBSPrRlWeSeK0Q",
+          "nombre": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+          "artistas": "Billie Eilish",
+          "disco": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+          "tipo": "single",
+          "fecha": "2023-07-13",
+          "isrc": "USUM72307484"
         },
         "musicbrainz": {
           "fecha": "2023-07-13",
           "grabacion": "74c2e388-4e59-4ed1-8c97-f3fd3317323d",
-          "via": "búsqueda"
+          "via": "isrc"
         },
         "anio_mb": 2023
       }
@@ -4043,30 +4049,30 @@
         "reserva": false,
         "okAnio": true,
         "okVersion": true,
-        "spotify": "2jnq2bneNUS6pgIvuVhXjs"
+        "spotify": "0AnwIwxt96ERVRohy7hcnU"
       },
-      "spotify": "2jnq2bneNUS6pgIvuVhXjs",
-      "duracion_ms": 177462,
+      "spotify": "0AnwIwxt96ERVRohy7hcnU",
+      "duracion_ms": 169600,
       "verificacion": {
-        "fecha": "2026-11-13",
+        "fecha": "2026-11-20",
         "estado": "ok",
         "motivos": [
           "disco_posterior",
           "anio_distinto"
         ],
         "spotify": {
-          "id": "2jnq2bneNUS6pgIvuVhXjs",
-          "nombre": "La danza de los Mirlos",
-          "artistas": "Astros de Mendoza, Tropikore, Los Mirlos",
-          "disco": "Abducción Amazónica",
+          "id": "0AnwIwxt96ERVRohy7hcnU",
+          "nombre": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
+          "artistas": "Los Mirlos",
+          "disco": "Cumbia Amazonica",
           "tipo": "album",
-          "fecha": "2000",
-          "isrc": "MX3742100435"
+          "fecha": "2014-12-08",
+          "isrc": "PEIF21101002"
         },
         "musicbrainz": {
           "fecha": "1978",
           "grabacion": "de38fdf7-6289-486b-885a-4519c9983e90",
-          "via": "búsqueda"
+          "via": "isrc"
         },
         "anio_mb": 1978
       },
@@ -4772,23 +4778,23 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
-        "spotify": "7HPE3gX2LPxRAGlzyMg14u"
+        "okVersion": true,
+        "spotify": "6bQkinbnTaWeLtMObzIxf0"
       },
-      "spotify": "7HPE3gX2LPxRAGlzyMg14u",
-      "duracion_ms": 437506,
+      "spotify": "6bQkinbnTaWeLtMObzIxf0",
+      "duracion_ms": 344186,
       "verificacion": {
-        "fecha": "2026-11-13",
+        "fecha": "2026-11-20",
         "estado": "ok",
         "motivos": [],
         "spotify": {
-          "id": "7HPE3gX2LPxRAGlzyMg14u",
-          "nombre": "La mano de Dios",
-          "artistas": "Rodrigo",
-          "disco": "Rodrigo en el Luna Park",
+          "id": "6bQkinbnTaWeLtMObzIxf0",
+          "nombre": "La mano de Dios (Homenaje a Diego Maradona)",
+          "artistas": "Rodrigo, Magenta",
+          "disco": "La Mano de Dios (Homenaje a Diego Maradona)",
           "tipo": "album",
-          "fecha": "2001-04-15",
-          "isrc": "ARG991003652"
+          "fecha": "2000-03-08",
+          "isrc": "ARG991012382"
         },
         "musicbrainz": {
           "fecha": "2000",
@@ -10158,22 +10164,22 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": "0s3olIAndtYz8sEBTyCKjW"
+        "spotify": "60nZcImufyMA1MKQY3dcCH"
       },
-      "spotify": "0s3olIAndtYz8sEBTyCKjW",
-      "duracion_ms": 174920,
+      "spotify": "60nZcImufyMA1MKQY3dcCH",
+      "duracion_ms": 233306,
       "verificacion": {
-        "fecha": "2026-11-15",
+        "fecha": "2026-11-20",
         "estado": "ok",
         "motivos": [],
         "spotify": {
-          "id": "0s3olIAndtYz8sEBTyCKjW",
-          "nombre": "Happy",
-          "artistas": "Pharrell Williams, Espen Gomperud Alvim, Vokalensemblet Skrik, Jon Flydal Blichfeldt",
-          "disco": "Gnist",
+          "id": "60nZcImufyMA1MKQY3dcCH",
+          "nombre": "Happy - From \"Despicable Me 2\"",
+          "artistas": "Pharrell Williams",
+          "disco": "G I R L",
           "tipo": "album",
-          "fecha": "2014-12-01",
-          "isrc": "QMFME2103574"
+          "fecha": "2014-03-03",
+          "isrc": "USQ4E1300686"
         },
         "musicbrainz": {
           "fecha": "2013",
@@ -10488,6 +10494,4827 @@
       }
     },
     {
+      "id": "futbol-y-mundiales-001",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Los Ramblers",
+      "titulo": "El rock del Mundial",
+      "anio": 1962,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "4GxsXEhvOhmp2M2aAtKMRl"
+      },
+      "spotify": "4GxsXEhvOhmp2M2aAtKMRl",
+      "duracion_ms": 163723,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado",
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "4GxsXEhvOhmp2M2aAtKMRl",
+          "nombre": "El Rock del Mundial",
+          "artistas": "Ramblers",
+          "disco": "South American Rock Vol. 1",
+          "tipo": "compilation",
+          "fecha": "2015-01-01",
+          "isrc": "QM6N21436157"
+        }
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-002",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Gerry and the Pacemakers",
+      "titulo": "You'll Never Walk Alone",
+      "anio": 1963,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "2VfvfFSVD1Ki0PH0Xd0jcv"
+      },
+      "spotify": "2VfvfFSVD1Ki0PH0Xd0jcv",
+      "duracion_ms": 164173,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2VfvfFSVD1Ki0PH0Xd0jcv",
+          "nombre": "You'll Never Walk Alone - Stereo; 1997 Remaster",
+          "artistas": "Gerry & The Pacemakers",
+          "disco": "How Do You Like It? [Mono And Stereo Version]",
+          "tipo": "album",
+          "fecha": "1963-10-01",
+          "isrc": "GBAYE9702799"
+        },
+        "musicbrainz": {
+          "fecha": "1963",
+          "grabacion": "2cf4c03e-a2ce-4462-9339-0f9ad651d42d",
+          "via": "isrc"
+        },
+        "anio_mb": 1963
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-003",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Neil Diamond",
+      "titulo": "Sweet Caroline",
+      "anio": 1969,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "62AuGbAkt8Ox2IrFFb8GKV"
+      },
+      "spotify": "62AuGbAkt8Ox2IrFFb8GKV",
+      "duracion_ms": 203573,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "62AuGbAkt8Ox2IrFFb8GKV",
+          "nombre": "Sweet Caroline",
+          "artistas": "Neil Diamond",
+          "disco": "Sweet Caroline",
+          "tipo": "album",
+          "fecha": "1969-06-06",
+          "isrc": "USMC16991138"
+        },
+        "musicbrainz": {
+          "fecha": "1969",
+          "grabacion": "78ea7ea5-a451-4efe-b1fe-840f0697a419",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1969
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-004",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Queen",
+      "titulo": "We Will Rock You",
+      "anio": 1977,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6ofZctOpjFdf4HruRdjWBP"
+      },
+      "spotify": "6ofZctOpjFdf4HruRdjWBP",
+      "duracion_ms": 122134,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6ofZctOpjFdf4HruRdjWBP",
+          "nombre": "We Will Rock You",
+          "artistas": "Queen",
+          "disco": "We Are The Champions / We Will Rock You",
+          "tipo": "single",
+          "fecha": "1977-10-07",
+          "isrc": "GBUM71029618"
+        },
+        "musicbrainz": {
+          "fecha": "1977-10-28",
+          "grabacion": "f8581c2b-61ac-465d-82ae-0fa2916a4799",
+          "via": "isrc"
+        },
+        "anio_mb": 1977
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-005",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Queen",
+      "titulo": "We Are the Champions",
+      "anio": 1977,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5z8Mxyz04yoHO4ptUQO195"
+      },
+      "spotify": "5z8Mxyz04yoHO4ptUQO195",
+      "duracion_ms": 180188,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5z8Mxyz04yoHO4ptUQO195",
+          "nombre": "We Are the Champions",
+          "artistas": "Queen",
+          "disco": "We Are The Champions / We Will Rock You",
+          "tipo": "single",
+          "fecha": "1977-10-07",
+          "isrc": "GBUM71029619"
+        },
+        "musicbrainz": {
+          "fecha": "1977-10-28",
+          "grabacion": "3604eb06-4bc2-4416-9b31-ceadae51bc70",
+          "via": "isrc"
+        },
+        "anio_mb": 1977
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-006",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Gloria Gaynor",
+      "titulo": "I Will Survive",
+      "anio": 1978,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "7rIovIsXE6kMn629b7kDig"
+      },
+      "spotify": "7rIovIsXE6kMn629b7kDig",
+      "duracion_ms": 296106,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7rIovIsXE6kMn629b7kDig",
+          "nombre": "I Will Survive",
+          "artistas": "Gloria Gaynor",
+          "disco": "Love Tracks",
+          "tipo": "album",
+          "fecha": "1978-11-27",
+          "isrc": "USUR10200634"
+        },
+        "musicbrainz": {
+          "fecha": "1978",
+          "grabacion": "e7327ec7-d544-49da-ad93-03d240bd32ad",
+          "via": "isrc"
+        },
+        "anio_mb": 1978
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-007",
+      "mazo": "futbol-y-mundiales",
+      "artista": "AC/DC",
+      "titulo": "Thunderstruck",
+      "anio": 1990,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "57bgtoPSgt236HzfBOd8kj"
+      },
+      "spotify": "57bgtoPSgt236HzfBOd8kj",
+      "duracion_ms": 292333,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "57bgtoPSgt236HzfBOd8kj",
+          "nombre": "Thunderstruck",
+          "artistas": "AC/DC",
+          "disco": "The Razors Edge",
+          "tipo": "album",
+          "fecha": "1990-09-24",
+          "isrc": "AUAP09000014"
+        },
+        "musicbrainz": {
+          "fecha": "1990-09-10",
+          "grabacion": "6d19aaa7-1eb5-4488-a54d-fe07d0621a7f",
+          "via": "isrc"
+        },
+        "anio_mb": 1990
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-008",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Gianna Nannini",
+      "titulo": "Un'estate italiana",
+      "anio": 1990,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "7iNCutCNzD4zRsDLw6SPKZ"
+      },
+      "spotify": "7iNCutCNzD4zRsDLw6SPKZ",
+      "duracion_ms": 252440,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: otro artista primero, título con agregado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "7iNCutCNzD4zRsDLw6SPKZ",
+          "nombre": "Un'Estate Italiana (Notti Magiche)",
+          "artistas": "Edoardo Bennato, Gianna Nannini",
+          "disco": "Un'Estate Italiana (Notti Magiche)",
+          "tipo": "single",
+          "fecha": "1987-01-01",
+          "isrc": "ITZ040000602"
+        },
+        "musicbrainz": {
+          "fecha": "1989",
+          "grabacion": "3df4ca32-0ced-4b69-b3f8-ec803db24dda",
+          "via": "isrc"
+        },
+        "anio_mb": 1989
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-009",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Pet Shop Boys",
+      "titulo": "Go West",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1Tl6ruPji9K2xLNx0SxoIZ"
+      },
+      "spotify": "1Tl6ruPji9K2xLNx0SxoIZ",
+      "duracion_ms": 503826,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "1Tl6ruPji9K2xLNx0SxoIZ",
+          "nombre": "Go West - 2018 Remaster; Hidden Track",
+          "artistas": "Pet Shop Boys",
+          "disco": "Very (2018 Remaster)",
+          "tipo": "album",
+          "fecha": "1993-09-27",
+          "isrc": "GBAYE1700946"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "0e0662dd-a363-44a0-9604-e3039f092000",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1993
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-010",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Daryl Hall",
+      "titulo": "Gloryland",
+      "anio": 1994,
+      "pelicula": null,
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify"
+        ],
+        "musicbrainz": {
+          "fecha": "1994",
+          "grabacion": "99a63c15-7201-4d80-9bda-f9887e8eeaf9",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1994
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-011",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Mano Negra",
+      "titulo": "Santa Maradona",
+      "anio": 1994,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "3CIrrUbjQjEx3oDT3Evesb"
+      },
+      "spotify": "3CIrrUbjQjEx3oDT3Evesb",
+      "duracion_ms": 195960,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: título con agregado"
+        ],
+        "spotify": {
+          "id": "3CIrrUbjQjEx3oDT3Evesb",
+          "nombre": "Santa Maradona (Larchuma Football Club)",
+          "artistas": "Mano Negra, Manu Chao",
+          "disco": "Casa Babylon",
+          "tipo": "album",
+          "fecha": "1994-05-10",
+          "isrc": "FRZ189800154"
+        },
+        "musicbrainz": {
+          "fecha": "1994",
+          "grabacion": "786ac4fa-6625-4da2-9d42-f92b6f88ac95",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1994
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-012",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Los Fabulosos Cadillacs",
+      "titulo": "Matador",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "3EsjrObXPhXA79Cr4QixY8"
+      },
+      "spotify": "3EsjrObXPhXA79Cr4QixY8",
+      "duracion_ms": 274093,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "3EsjrObXPhXA79Cr4QixY8",
+          "nombre": "El Matador",
+          "artistas": "Los Fabulosos Cadillacs",
+          "disco": "20 Grandes Exitos",
+          "tipo": "compilation",
+          "fecha": "1998-06-05",
+          "isrc": "ARF109700582"
+        },
+        "musicbrainz": {
+          "fecha": "1993-09-23",
+          "grabacion": "72db51cf-d099-4e69-9975-83c6d71c4aed",
+          "via": "isrc"
+        },
+        "anio_mb": 1993
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-013",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Baddiel, Skinner & The Lightning Seeds",
+      "titulo": "Three Lions",
+      "anio": 1996,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "78wQVHL1HPk6o6RPnxO4xS"
+      },
+      "spotify": "78wQVHL1HPk6o6RPnxO4xS",
+      "duracion_ms": 227306,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "78wQVHL1HPk6o6RPnxO4xS",
+          "nombre": "Three Lions 96 - Remastered",
+          "artistas": "Baddiel, Skinner & Lightning Seeds, The Lightning Seeds",
+          "disco": "It's Coming Home (Three Lions On A Shirt)",
+          "tipo": "album",
+          "fecha": "2026-07-08",
+          "isrc": "GBARL2201602"
+        },
+        "musicbrainz": {
+          "fecha": "1996-10-28",
+          "grabacion": "ab1c3923-c289-4ff0-8cf0-f5df53aeef59",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1996
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-014",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Gala",
+      "titulo": "Freed from Desire",
+      "anio": 1996,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "3u5N55tHf7hXATSQrjBh2q"
+      },
+      "spotify": "3u5N55tHf7hXATSQrjBh2q",
+      "duracion_ms": 213333,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más"
+        ],
+        "spotify": {
+          "id": "3u5N55tHf7hXATSQrjBh2q",
+          "nombre": "Freed From Desire",
+          "artistas": "Gala, Molella, Phil Jay",
+          "disco": "Come Into My Life (The Album)",
+          "tipo": "album",
+          "fecha": "1997-11-17",
+          "isrc": "ITA179700143"
+        },
+        "musicbrainz": {
+          "fecha": "1996",
+          "grabacion": "59746791-eb99-4064-8861-b9ac80194217",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1996
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-015",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Bellini",
+      "titulo": "Samba de Janeiro",
+      "anio": 1997,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "5aIfLbdgkbH7NbQryd1poB"
+      },
+      "spotify": "5aIfLbdgkbH7NbQryd1poB",
+      "duracion_ms": 168444,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "5aIfLbdgkbH7NbQryd1poB",
+          "nombre": "Samba de Janeiro",
+          "artistas": "Bellini",
+          "disco": "Samba de Janeiro",
+          "tipo": "album",
+          "fecha": "1997-08-01",
+          "isrc": "DEP992200029"
+        },
+        "musicbrainz": {
+          "fecha": "1996",
+          "grabacion": "a5aa60e3-51db-40b8-bfd1-2c0ec8b1e39b",
+          "via": "isrc"
+        },
+        "anio_mb": 1996
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-016",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Ricky Martin",
+      "titulo": "La copa de la vida",
+      "anio": 1998,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "5PrGG8gAKXl4bi1odVla7l"
+      },
+      "spotify": "5PrGG8gAKXl4bi1odVla7l",
+      "duracion_ms": 267658,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5PrGG8gAKXl4bi1odVla7l",
+          "nombre": "La Copa de la Vida (La Canción Oficial de la Copa Mundial, Francia '98) - Spanish Version",
+          "artistas": "Ricky Martin",
+          "disco": "Vuelve",
+          "tipo": "album",
+          "fecha": "1998-02-10",
+          "isrc": "NLB639810015"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "90d852a9-d37f-4fee-970f-2442e5b86a2f",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-017",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Youssou N'Dour",
+      "titulo": "La cour des grands",
+      "anio": 1998,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "2echKEeQCNq2AzS8CZZfVl"
+      },
+      "spotify": "2echKEeQCNq2AzS8CZZfVl",
+      "duracion_ms": 214133,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado, con invitado, título con agregado"
+        ],
+        "spotify": {
+          "id": "2echKEeQCNq2AzS8CZZfVl",
+          "nombre": "La Cour Des Grands (Do You Mind If I Play) (feat. Axelle Red)",
+          "artistas": "Youssou N'Dour, Axelle Red",
+          "disco": "Music Of The World Cup - Allez! Ola! Olé!",
+          "tipo": "compilation",
+          "fecha": "1998-06-08",
+          "isrc": "USSM19800330"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "325b0d2c-d686-4146-b8d3-5aec6d9c6168",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-018",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Los Piojos",
+      "titulo": "Maradó",
+      "anio": 1996,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4kKI4Tpn6v1qUWP7tOPKcP"
+      },
+      "spotify": "4kKI4Tpn6v1qUWP7tOPKcP",
+      "duracion_ms": 242893,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4kKI4Tpn6v1qUWP7tOPKcP",
+          "nombre": "Marado",
+          "artistas": "Los Piojos",
+          "disco": "3er Arco",
+          "tipo": "album",
+          "fecha": "1996-01-01",
+          "isrc": "ARG601100123"
+        },
+        "musicbrainz": {
+          "fecha": "1996",
+          "grabacion": "a504330f-3ca6-4f9e-b556-e52c20aadde4",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1996
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-019",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Los Piojos",
+      "titulo": "Tan solo",
+      "anio": 1992,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "6Soxxi73U6SO4rOGJwYYxI"
+      },
+      "spotify": "6Soxxi73U6SO4rOGJwYYxI",
+      "duracion_ms": 240013,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "6Soxxi73U6SO4rOGJwYYxI",
+          "nombre": "Tan Solo",
+          "artistas": "Los Piojos",
+          "disco": "Chac Tu Chac",
+          "tipo": "album",
+          "fecha": "1992-01-01",
+          "isrc": "ARG601100044"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "dbd063c7-1dee-4c66-896a-5eed81b70205",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1993
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-020",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Rodrigo",
+      "titulo": "La mano de Dios",
+      "anio": 2000,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "6bQkinbnTaWeLtMObzIxf0"
+      },
+      "spotify": "6bQkinbnTaWeLtMObzIxf0",
+      "duracion_ms": 344186,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6bQkinbnTaWeLtMObzIxf0",
+          "nombre": "La mano de Dios (Homenaje a Diego Maradona)",
+          "artistas": "Rodrigo, Magenta",
+          "disco": "La Mano de Dios (Homenaje a Diego Maradona)",
+          "tipo": "album",
+          "fecha": "2000-03-08",
+          "isrc": "ARG991012382"
+        },
+        "musicbrainz": {
+          "fecha": "2000",
+          "grabacion": "6477c9e6-fb16-4b5b-ab46-96931b928ca1",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-021",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Bersuit Vergarabat",
+      "titulo": "Se viene",
+      "anio": 1998,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3sDmwlRdEdsb1BLDChJSJV"
+      },
+      "spotify": "3sDmwlRdEdsb1BLDChJSJV",
+      "duracion_ms": 205946,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3sDmwlRdEdsb1BLDChJSJV",
+          "nombre": "Se Viene",
+          "artistas": "Bersuit Vergarabat",
+          "disco": "Libertinaje",
+          "tipo": "album",
+          "fecha": "1998-01-01",
+          "isrc": "ARF149800006"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "4c474a62-4ab6-4eee-8022-84afbd342b3b",
+          "via": "isrc"
+        },
+        "anio_mb": 1998
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-022",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Kernkraft 400",
+      "titulo": "Zombie Nation",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "anio_distinto"
+        ],
+        "musicbrainz": {
+          "fecha": "2000",
+          "grabacion": "3fb2855e-15df-4f88-909c-3d4295be3743",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-023",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Anastacia",
+      "titulo": "Boom",
+      "anio": 2002,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6UhIbqY2luV12f5FdSHpiU"
+      },
+      "spotify": "6UhIbqY2luV12f5FdSHpiU",
+      "duracion_ms": 198533,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6UhIbqY2luV12f5FdSHpiU",
+          "nombre": "Boom",
+          "artistas": "Anastacia",
+          "disco": "Boom",
+          "tipo": "single",
+          "fecha": "2002-05-26",
+          "isrc": "USSM10114137"
+        },
+        "musicbrainz": {
+          "fecha": "2002",
+          "grabacion": "9459b10a-717e-4a3e-9955-1c3013746959",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2002
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-024",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Vangelis",
+      "titulo": "Anthem",
+      "anio": 2002,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "3bZXJyYVTKXhkaE8jRpqSM"
+      },
+      "spotify": "3bZXJyYVTKXhkaE8jRpqSM",
+      "duracion_ms": 271573,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: vivo/versión"
+        ],
+        "spotify": {
+          "id": "3bZXJyYVTKXhkaE8jRpqSM",
+          "nombre": "Anthem (The 2002 FIFA World Cup Official Anthem) - Orchestra version with choral introduction",
+          "artistas": "Vangelis, Blake Neely",
+          "disco": "Anthem (The 2002 FIFA World Cup Official Anthem)",
+          "tipo": "single",
+          "fecha": "2002-04-08",
+          "isrc": "USSM10201573"
+        },
+        "musicbrainz": {
+          "fecha": "2002-03-27",
+          "grabacion": "6aef450d-e985-4cee-a762-b92c964a40f8",
+          "via": "isrc"
+        },
+        "anio_mb": 2002
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-025",
+      "mazo": "futbol-y-mundiales",
+      "artista": "The White Stripes",
+      "titulo": "Seven Nation Army",
+      "anio": 2003,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3dPQuX8Gs42Y7b454ybpMR"
+      },
+      "spotify": "3dPQuX8Gs42Y7b454ybpMR",
+      "duracion_ms": 232106,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3dPQuX8Gs42Y7b454ybpMR",
+          "nombre": "Seven Nation Army",
+          "artistas": "The White Stripes",
+          "disco": "Elephant",
+          "tipo": "album",
+          "fecha": "2003-04-01",
+          "isrc": "USVT10300001"
+        },
+        "musicbrainz": {
+          "fecha": "2003",
+          "grabacion": "d6a88304-87b7-4392-95a9-30b6b5b15d86",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2003
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-026",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Il Divo",
+      "titulo": "The Time of Our Lives",
+      "anio": 2006,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "4xhEm6HeJf22eJimytvf6h"
+      },
+      "spotify": "4xhEm6HeJf22eJimytvf6h",
+      "duracion_ms": 198413,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: vivo/versión",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "4xhEm6HeJf22eJimytvf6h",
+          "nombre": "The Time of Our Lives (with Toni Braxton) - Radio Edit",
+          "artistas": "Il Divo, Toni Braxton",
+          "disco": "The Time Of Our Lives (with Toni Braxton)",
+          "tipo": "single",
+          "fecha": "2006-01-01",
+          "isrc": "GBHMU0600059"
+        },
+        "musicbrainz": {
+          "fecha": "2005-11-04",
+          "grabacion": "b7050a85-c002-4088-a066-55d0a3364fb1",
+          "via": "isrc"
+        },
+        "anio_mb": 2005
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-027",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Shakira",
+      "titulo": "Hips Don't Lie",
+      "anio": 2006,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "3d0WouFnFmr0K3kjeza3fF"
+      },
+      "spotify": "3d0WouFnFmr0K3kjeza3fF",
+      "duracion_ms": 220360,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "3d0WouFnFmr0K3kjeza3fF",
+          "nombre": "Hips Don't Lie (feat. Wyclef Jean)",
+          "artistas": "Shakira, Wyclef Jean",
+          "disco": "Oral Fixation, Vol. 2 (Expanded Edition)",
+          "tipo": "album",
+          "fecha": "2005-11-28",
+          "isrc": "USSM10600677"
+        },
+        "musicbrainz": {
+          "fecha": "2005-05-05",
+          "grabacion": "72b5a857-b809-4e82-a058-00a826873583",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2005
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-028",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Bob Sinclar",
+      "titulo": "Love Generation",
+      "anio": 2005,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0ZzxMTVrZ68e5d0Rmybfod"
+      },
+      "spotify": "0ZzxMTVrZ68e5d0Rmybfod",
+      "duracion_ms": 532840,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0ZzxMTVrZ68e5d0Rmybfod",
+          "nombre": "Love Generation",
+          "artistas": "Bob Sinclar, Gary Pine",
+          "disco": "Western Dream",
+          "tipo": "album",
+          "fecha": "2006-04-10",
+          "isrc": "FR4E40500170"
+        },
+        "musicbrainz": {
+          "fecha": "2005",
+          "grabacion": "8799afdc-bbc7-4c14-b57c-f10f71d566ac",
+          "via": "isrc"
+        },
+        "anio_mb": 2005
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-029",
+      "mazo": "futbol-y-mundiales",
+      "artista": "K'naan",
+      "titulo": "Wavin' Flag",
+      "anio": 2009,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0zREtnLmVnt8KUJZZbSdla"
+      },
+      "spotify": "0zREtnLmVnt8KUJZZbSdla",
+      "duracion_ms": 220520,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0zREtnLmVnt8KUJZZbSdla",
+          "nombre": "Wavin' Flag",
+          "artistas": "K'NAAN",
+          "disco": "Troubadour",
+          "tipo": "album",
+          "fecha": "2009",
+          "isrc": "USUM70951245"
+        },
+        "musicbrainz": {
+          "fecha": "2009",
+          "grabacion": "dde841a8-0709-458a-b9de-9a8b6b63fd5f",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2009
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-030",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Shakira",
+      "titulo": "Waka Waka (Esto es África)",
+      "anio": 2010,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "0W8nDs4H2cqxxAgszNMYO3"
+      },
+      "spotify": "0W8nDs4H2cqxxAgszNMYO3",
+      "duracion_ms": 202653,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0W8nDs4H2cqxxAgszNMYO3",
+          "nombre": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
+          "artistas": "Shakira, Freshlyground",
+          "disco": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
+          "tipo": "single",
+          "fecha": "2010-04-29",
+          "isrc": "USSM11001354"
+        },
+        "musicbrainz": {
+          "fecha": "2010",
+          "grabacion": "5337a556-5572-4c28-bd9c-1607cc683c33",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2010
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-031",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Pitbull",
+      "titulo": "We Are One (Ole Ola)",
+      "anio": 2014,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "4pn0G7yHNfTgRYRWca8gYA"
+      },
+      "spotify": "4pn0G7yHNfTgRYRWca8gYA",
+      "duracion_ms": 222466,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: con invitado, título con agregado"
+        ],
+        "spotify": {
+          "id": "4pn0G7yHNfTgRYRWca8gYA",
+          "nombre": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
+          "artistas": "Pitbull, Jennifer Lopez, Claudia Leitte",
+          "disco": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
+          "tipo": "single",
+          "fecha": "2014-04-08",
+          "isrc": "USRC11400285"
+        },
+        "musicbrainz": {
+          "fecha": "2014-04-08",
+          "grabacion": "97f5b5f7-1f57-43da-afa5-cb1ed5e3c8a6",
+          "via": "isrc"
+        },
+        "anio_mb": 2014
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-032",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Shakira",
+      "titulo": "La La La (Brazil 2014)",
+      "anio": 2014,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "18hNqyuWDWmnr0NixQHIos"
+      },
+      "spotify": "18hNqyuWDWmnr0NixQHIos",
+      "duracion_ms": 186333,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "18hNqyuWDWmnr0NixQHIos",
+          "nombre": "La La La",
+          "artistas": "Shakira",
+          "disco": "Shakira. (Expanded Edition)",
+          "tipo": "album",
+          "fecha": "2014-03-21",
+          "isrc": "USRC11400414"
+        },
+        "musicbrainz": {
+          "fecha": "2014-03-13",
+          "grabacion": "479cd3a2-432b-47aa-a5fc-dda7441f9279",
+          "via": "isrc"
+        },
+        "anio_mb": 2014
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-033",
+      "mazo": "futbol-y-mundiales",
+      "artista": "David Guetta",
+      "titulo": "This One's for You",
+      "anio": 2016,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "46NBoIAHrmR7qcUGCIFEjR"
+      },
+      "spotify": "46NBoIAHrmR7qcUGCIFEjR",
+      "duracion_ms": 207272,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: con invitado, título con agregado"
+        ],
+        "spotify": {
+          "id": "46NBoIAHrmR7qcUGCIFEjR",
+          "nombre": "This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016)",
+          "artistas": "David Guetta, Zara Larsson",
+          "disco": "This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016]",
+          "tipo": "single",
+          "fecha": "2016-05-13",
+          "isrc": "GB28K1500141"
+        },
+        "musicbrainz": {
+          "fecha": "2016-05-13",
+          "grabacion": "de7e3e07-fd7b-4b0a-982e-63a5c0c288f8",
+          "via": "isrc"
+        },
+        "anio_mb": 2016
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-034",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Nicky Jam",
+      "titulo": "Live It Up",
+      "anio": 2018,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "4DnHUy01jEA4b5ydC3HgsT"
+      },
+      "spotify": "4DnHUy01jEA4b5ydC3HgsT",
+      "duracion_ms": 207977,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más, vivo/versión"
+        ],
+        "spotify": {
+          "id": "4DnHUy01jEA4b5ydC3HgsT",
+          "nombre": "Live It Up - Official Song 2018 FIFA World Cup Russia",
+          "artistas": "Nicky Jam, Will Smith, Era Istrefi",
+          "disco": "Live It Up (Official Song 2018 FIFA World Cup Russia)",
+          "tipo": "single",
+          "fecha": "2018-05-25",
+          "isrc": "USSD11800241"
+        },
+        "musicbrainz": {
+          "fecha": "2018-05-25",
+          "grabacion": "f4d0f5cd-ed29-49cd-896b-2b4da8eefc60",
+          "via": "isrc"
+        },
+        "anio_mb": 2018
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-035",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Jason Derulo",
+      "titulo": "Colors",
+      "anio": 2018,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0AmjoOwf1G8MB8SEG1AOGi"
+      },
+      "spotify": "0AmjoOwf1G8MB8SEG1AOGi",
+      "duracion_ms": 199719,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0AmjoOwf1G8MB8SEG1AOGi",
+          "nombre": "Colors",
+          "artistas": "Jason Derulo, Maluma",
+          "disco": "Colors",
+          "tipo": "single",
+          "fecha": "2018-04-13",
+          "isrc": "USWB11800778"
+        },
+        "musicbrainz": {
+          "fecha": "2018-03-09",
+          "grabacion": "6f7703eb-cded-4705-bec4-4a20bc5c54e4",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2018
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-036",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Martin Garrix",
+      "titulo": "We Are the People",
+      "anio": 2021,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "2iL0W5qi0ivZ9WRXbZ74cS"
+      },
+      "spotify": "2iL0W5qi0ivZ9WRXbZ74cS",
+      "duracion_ms": 217000,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: con invitado, título con agregado"
+        ],
+        "spotify": {
+          "id": "2iL0W5qi0ivZ9WRXbZ74cS",
+          "nombre": "We Are The People (feat. Bono & The Edge) - Official UEFA EURO 2020 Song",
+          "artistas": "Martin Garrix, Bono, The Edge",
+          "disco": "We Are The People (feat. Bono & The Edge) [Official UEFA EURO 2020 Song]",
+          "tipo": "single",
+          "fecha": "2021-05-13",
+          "isrc": "NLM5S2101216"
+        },
+        "musicbrainz": {
+          "fecha": "2021-05-13",
+          "grabacion": "109ee18b-a38c-4b9a-b655-f079cae287c7",
+          "via": "isrc"
+        },
+        "anio_mb": 2021
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-037",
+      "mazo": "futbol-y-mundiales",
+      "artista": "La Mosca Tsé-Tsé",
+      "titulo": "Muchachos",
+      "anio": 2022,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "79d6fVzRM6DRYxR302AJFY"
+      },
+      "spotify": "79d6fVzRM6DRYxR302AJFY",
+      "duracion_ms": 141237,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "79d6fVzRM6DRYxR302AJFY",
+          "nombre": "Muchachos, Ahora Nos Volvimos a Ilusionar",
+          "artistas": "La Mosca",
+          "disco": "Muchachos, Ahora Nos Volvimos a Ilusionar",
+          "tipo": "single",
+          "fecha": "2022-11-11",
+          "isrc": "ARF102200368"
+        }
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-038",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Jung Kook",
+      "titulo": "Dreamers",
+      "anio": 2022,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "0jY618wuln0b5b8sCxFgjk"
+      },
+      "spotify": "0jY618wuln0b5b8sCxFgjk",
+      "duracion_ms": 201391,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más, título con agregado"
+        ],
+        "spotify": {
+          "id": "0jY618wuln0b5b8sCxFgjk",
+          "nombre": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
+          "artistas": "Jung Kook, BTS, FIFA Sound",
+          "disco": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
+          "tipo": "single",
+          "fecha": "2022-11-20",
+          "isrc": "QZNMY2232113"
+        },
+        "musicbrainz": {
+          "fecha": "2022-11-20",
+          "grabacion": "69ad687b-ada1-49bf-8840-6f87626a610e",
+          "via": "isrc"
+        },
+        "anio_mb": 2022
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-039",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Trinidad Cardona",
+      "titulo": "Hayya Hayya (Better Together)",
+      "anio": 2022,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "7vAJiDFrFtMYVOrZbOw7jj"
+      },
+      "spotify": "7vAJiDFrFtMYVOrZbOw7jj",
+      "duracion_ms": 206069,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más, título con agregado"
+        ],
+        "spotify": {
+          "id": "7vAJiDFrFtMYVOrZbOw7jj",
+          "nombre": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
+          "artistas": "Trinidad Cardona, Davido, Aisha, FIFA Sound",
+          "disco": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
+          "tipo": "single",
+          "fecha": "2022-04-01",
+          "isrc": "USUG12201908"
+        },
+        "musicbrainz": {
+          "fecha": "2022-12-09",
+          "grabacion": "38dc055c-34c9-4c42-9243-6c0b08c5710e",
+          "via": "isrc"
+        },
+        "anio_mb": 2022
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-040",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Nicki Minaj",
+      "titulo": "Tukoh Taka",
+      "anio": 2022,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "7twsd0lwXyy0ARdsTyzHoJ"
+      },
+      "spotify": "7twsd0lwXyy0ARdsTyzHoJ",
+      "duracion_ms": 178529,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más, título con agregado"
+        ],
+        "spotify": {
+          "id": "7twsd0lwXyy0ARdsTyzHoJ",
+          "nombre": "Tukoh Taka - Official FIFA Fan Festival™ Anthem",
+          "artistas": "Nicki Minaj, Maluma, Myriam Fares, FIFA Sound",
+          "disco": "Tukoh Taka (Official FIFA Fan Festival™Anthem)",
+          "tipo": "single",
+          "fecha": "2022-11-18",
+          "isrc": "USUM72221299"
+        },
+        "musicbrainz": {
+          "fecha": "2022-11-18",
+          "grabacion": "b6188ef9-d6fe-4d5c-96c3-be8ea7983942",
+          "via": "isrc"
+        },
+        "anio_mb": 2022
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-041",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Patricio Rey y sus Redonditos de Ricota",
+      "titulo": "Jijiji",
+      "anio": 1986,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "0VWBsKl936U9OO0zypvRCZ"
+      },
+      "spotify": "0VWBsKl936U9OO0zypvRCZ",
+      "duracion_ms": 334600,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0VWBsKl936U9OO0zypvRCZ",
+          "nombre": "Ji Ji Ji",
+          "artistas": "Patricio Rey y sus Redonditos de Ricota",
+          "disco": "Oktubre",
+          "tipo": "album",
+          "fecha": "1986-01-10",
+          "isrc": "AR5CC8600007"
+        },
+        "musicbrainz": {
+          "fecha": "1986-10-04",
+          "grabacion": "a5bcfaa5-dba5-4e53-a914-a5732c75c65c",
+          "via": "isrc"
+        },
+        "anio_mb": 1986
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-042",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Sergio Mendes & Brasil '66",
+      "titulo": "Mas que nada",
+      "anio": 1966,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2AX8asCpJSCGnPVlRIopVa"
+      },
+      "spotify": "2AX8asCpJSCGnPVlRIopVa",
+      "duracion_ms": 158773,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2AX8asCpJSCGnPVlRIopVa",
+          "nombre": "Mas Que Nada",
+          "artistas": "Sergio Mendes & Brasil '66",
+          "disco": "Herb Alpert Presents Sergio Mendes & Brasil '66",
+          "tipo": "album",
+          "fecha": "1966-08-01",
+          "isrc": "USAM16600001"
+        },
+        "musicbrainz": {
+          "fecha": "1966",
+          "grabacion": "ad3f6a84-a070-422f-82ad-b70108e84421",
+          "via": "isrc"
+        },
+        "anio_mb": 1966
+      }
+    },
+    {
+      "id": "futbol-y-mundiales-043",
+      "mazo": "futbol-y-mundiales",
+      "artista": "Zombie Nation",
+      "titulo": "Kernkraft 400",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "4KmhqQGmmNA2QE13Sdn8Bs"
+      },
+      "spotify": "4KmhqQGmmNA2QE13Sdn8Bs",
+      "duracion_ms": 285933,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "revisar",
+        "motivos": [
+          "error en MusicBrainz: MusicBrainz 400"
+        ],
+        "spotify": {
+          "id": "4KmhqQGmmNA2QE13Sdn8Bs",
+          "nombre": "Kernkraft 400 - Original Mix",
+          "artistas": "Zombie Nation",
+          "disco": "Leichenschmaus",
+          "tipo": "album",
+          "fecha": "1999-09-01",
+          "isrc": "DE-Z20-06-00038"
+        }
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-001",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "The Sugarhill Gang",
+      "titulo": "Rapper's Delight",
+      "anio": 1979,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "0hYnLnEWVlMH7BRQ951BGY"
+      },
+      "spotify": "0hYnLnEWVlMH7BRQ951BGY",
+      "duracion_ms": 170960,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "0hYnLnEWVlMH7BRQ951BGY",
+          "nombre": "Rapper's Delight",
+          "artistas": "The Sugarhill Gang",
+          "disco": "Rapmania: The Roots Of Rap",
+          "tipo": "compilation",
+          "fecha": "2003-08-12",
+          "isrc": "USA560682752"
+        },
+        "musicbrainz": {
+          "fecha": "1979",
+          "grabacion": "c64c4530-098a-4bfb-9f13-567cc51a5173",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1979
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-002",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Grandmaster Flash & The Furious Five",
+      "titulo": "The Message",
+      "anio": 1982,
+      "pelicula": null,
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5g52MCuuPbV4vsKKMTZl0q"
+      },
+      "spotify": "5g52MCuuPbV4vsKKMTZl0q",
+      "duracion_ms": 264614,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "revisar",
+        "motivos": [
+          "solo_remaster",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "5g52MCuuPbV4vsKKMTZl0q",
+          "nombre": "The Message (Re-Recorded / Remastered)",
+          "artistas": "Grandmaster Flash & The Furious Five",
+          "disco": "White Lines",
+          "tipo": "single",
+          "fecha": "1984",
+          "isrc": "USA560935397"
+        },
+        "musicbrainz": {
+          "fecha": "1983",
+          "grabacion": "8aebbc30-1c62-44a4-b637-e20ce3feada5",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1983
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-003",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Run-DMC",
+      "titulo": "It's Tricky",
+      "anio": 1986,
+      "pelicula": null,
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "anio_distinto"
+        ],
+        "musicbrainz": {
+          "fecha": "1988",
+          "grabacion": "a7dd827a-6ebf-4e2b-899d-9cad011ec20b",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1988
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-004",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Beastie Boys",
+      "titulo": "(You Gotta) Fight for Your Right (To Party!)",
+      "anio": 1986,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "5ODVxUulyknEVXwjDaZpkp"
+      },
+      "spotify": "5ODVxUulyknEVXwjDaZpkp",
+      "duracion_ms": 209906,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "5ODVxUulyknEVXwjDaZpkp",
+          "nombre": "(You Gotta) Fight For Your Right (To Party!)",
+          "artistas": "Beastie Boys",
+          "disco": "Def Jam Classics, Vol.1",
+          "tipo": "compilation",
+          "fecha": "1989-01-01",
+          "isrc": "USDJ28600007"
+        },
+        "musicbrainz": {
+          "fecha": "1986-11-15",
+          "grabacion": "026c26a7-70b4-4355-83d8-7ca66d5d68b8",
+          "via": "isrc"
+        },
+        "anio_mb": 1986
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-005",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Salt-N-Pepa",
+      "titulo": "Push It",
+      "anio": 1986,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6sT9MWlJManry3EQwf4V80"
+      },
+      "spotify": "6sT9MWlJManry3EQwf4V80",
+      "duracion_ms": 272133,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6sT9MWlJManry3EQwf4V80",
+          "nombre": "Push It",
+          "artistas": "Salt-N-Pepa",
+          "disco": "Hot, Cool & Vicious",
+          "tipo": "album",
+          "fecha": "1986-12-08",
+          "isrc": "USIR20180482"
+        },
+        "musicbrainz": {
+          "fecha": "1986",
+          "grabacion": "c7a22a58-98e0-43b6-b4e9-baecbab92826",
+          "via": "isrc"
+        },
+        "anio_mb": 1986
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-006",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "N.W.A",
+      "titulo": "Straight Outta Compton",
+      "anio": 1988,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5QKM7U6l7bMdJItolkM4x4"
+      },
+      "spotify": "5QKM7U6l7bMdJItolkM4x4",
+      "duracion_ms": 243333,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5QKM7U6l7bMdJItolkM4x4",
+          "nombre": "Straight Outta Compton",
+          "artistas": "N.W.A.",
+          "disco": "Straight Outta Compton",
+          "tipo": "album",
+          "fecha": "1988",
+          "isrc": "USPO18800008"
+        },
+        "musicbrainz": {
+          "fecha": "1988-08-08",
+          "grabacion": "179e7031-0c6c-498b-beb1-c9b27be9fb0c",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1988
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-007",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Tone-Lōc",
+      "titulo": "Funky Cold Medina",
+      "anio": 1989,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5YIF6HSOtHN9HdcE5IPzMe"
+      },
+      "spotify": "5YIF6HSOtHN9HdcE5IPzMe",
+      "duracion_ms": 248160,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5YIF6HSOtHN9HdcE5IPzMe",
+          "nombre": "Funky Cold Medina",
+          "artistas": "Tone-Loc",
+          "disco": "Loc-ed After Dark",
+          "tipo": "album",
+          "fecha": "1989-01-01",
+          "isrc": "USA370507637"
+        },
+        "musicbrainz": {
+          "fecha": "1989",
+          "grabacion": "dc252c14-99ba-4ec5-b572-5731ea8860ca",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1989
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-008",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Young MC",
+      "titulo": "Bust a Move",
+      "anio": 1989,
+      "pelicula": null,
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "60iIUp7tWx8gQlKgLTZop9"
+      },
+      "spotify": "60iIUp7tWx8gQlKgLTZop9",
+      "duracion_ms": 254480,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: título con agregado"
+        ],
+        "spotify": {
+          "id": "60iIUp7tWx8gQlKgLTZop9",
+          "nombre": "Bust A Move - Diplo RMX",
+          "artistas": "Young MC",
+          "disco": "Stone Cold Rhymin' (Deluxe Edition)",
+          "tipo": "album",
+          "fecha": "1989-01-01",
+          "isrc": "USDE10701392"
+        },
+        "musicbrainz": {
+          "fecha": "1989",
+          "grabacion": "9ec7c047-8806-4ba6-b760-0269db99d026",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1989
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-009",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Public Enemy",
+      "titulo": "Fight the Power",
+      "anio": 1989,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6JmrKTzhhiC31o7vTTxRE8"
+      },
+      "spotify": "6JmrKTzhhiC31o7vTTxRE8",
+      "duracion_ms": 323120,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6JmrKTzhhiC31o7vTTxRE8",
+          "nombre": "Fight The Power - From \"Do The Right Thing\" Soundtrack",
+          "artistas": "Public Enemy",
+          "disco": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+          "tipo": "album",
+          "fecha": "1988-06-28",
+          "isrc": "USDJ20110629"
+        },
+        "musicbrainz": {
+          "fecha": "1989",
+          "grabacion": "b7561ec7-2ea4-42b7-a449-4b158fccd762",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1989
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-010",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "MC Hammer",
+      "titulo": "U Can't Touch This",
+      "anio": 1990,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1B75hgRqe7A4fwee3g3Wmu"
+      },
+      "spotify": "1B75hgRqe7A4fwee3g3Wmu",
+      "duracion_ms": 257359,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1B75hgRqe7A4fwee3g3Wmu",
+          "nombre": "U Can't Touch This",
+          "artistas": "MC Hammer",
+          "disco": "Please Hammer Don't Hurt 'Em",
+          "tipo": "album",
+          "fecha": "1990-02-20",
+          "isrc": "USCA29000294"
+        },
+        "musicbrainz": {
+          "fecha": "1990",
+          "grabacion": "162a2680-ca5e-47a4-af1b-543d91a47d95",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1990
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-011",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Vanilla Ice",
+      "titulo": "Ice Ice Baby",
+      "anio": 1990,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "11d9oUiwHuYt216EFA2tiz"
+      },
+      "spotify": "11d9oUiwHuYt216EFA2tiz",
+      "duracion_ms": 271466,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "11d9oUiwHuYt216EFA2tiz",
+          "nombre": "Ice Ice Baby",
+          "artistas": "Vanilla Ice",
+          "disco": "To The Extreme",
+          "tipo": "album",
+          "fecha": "1990-01-01",
+          "isrc": "USSB29000129"
+        },
+        "musicbrainz": {
+          "fecha": "1990",
+          "grabacion": "1cd7d430-7daf-4758-bad1-1c34f71d42ca",
+          "via": "isrc"
+        },
+        "anio_mb": 1990
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-012",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "LL Cool J",
+      "titulo": "Mama Said Knock You Out",
+      "anio": 1990,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6C7ZgThn6Yan5MTZdAEEFw"
+      },
+      "spotify": "6C7ZgThn6Yan5MTZdAEEFw",
+      "duracion_ms": 289693,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6C7ZgThn6Yan5MTZdAEEFw",
+          "nombre": "Mama Said Knock You Out",
+          "artistas": "LL COOL J",
+          "disco": "Mama Said Knock You Out",
+          "tipo": "album",
+          "fecha": "1990-08-27",
+          "isrc": "USDJ29000008"
+        },
+        "musicbrainz": {
+          "fecha": "1990-09-18",
+          "grabacion": "72de8de0-4a1c-4184-a95e-558546986772",
+          "via": "isrc"
+        },
+        "anio_mb": 1990
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-013",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Naughty by Nature",
+      "titulo": "O.P.P.",
+      "anio": 1991,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1k28sDTLOz942qa3wEtMQE"
+      },
+      "spotify": "1k28sDTLOz942qa3wEtMQE",
+      "duracion_ms": 271066,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1k28sDTLOz942qa3wEtMQE",
+          "nombre": "O.P.P",
+          "artistas": "Naughty By Nature",
+          "disco": "Naughty By Nature",
+          "tipo": "album",
+          "fecha": "1991-09-03",
+          "isrc": "USTB10250000"
+        },
+        "musicbrainz": {
+          "fecha": "1991-08-30",
+          "grabacion": "360a21a5-68e9-4f34-a4f6-fb306f870c82",
+          "via": "isrc"
+        },
+        "anio_mb": 1991
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-014",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "House of Pain",
+      "titulo": "Jump Around",
+      "anio": 1992,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6JymsaWDHk2Yj4e0yNBIFH"
+      },
+      "spotify": "6JymsaWDHk2Yj4e0yNBIFH",
+      "duracion_ms": 214946,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6JymsaWDHk2Yj4e0yNBIFH",
+          "nombre": "Jump Around",
+          "artistas": "House Of Pain",
+          "disco": "House of Pain (Fine Malt Lyrics)",
+          "tipo": "album",
+          "fecha": "1992-07-21",
+          "isrc": "USTB10300119"
+        },
+        "musicbrainz": {
+          "fecha": "1992",
+          "grabacion": "e5561cab-8fcd-4042-baf7-1cabe6fdb1a1",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1992
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-015",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Dr. Dre",
+      "titulo": "Nuthin' but a \"G\" Thang",
+      "anio": 1992,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5Tbpp3OLLClPJF8t1DmrFD"
+      },
+      "spotify": "5Tbpp3OLLClPJF8t1DmrFD",
+      "duracion_ms": 237573,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5Tbpp3OLLClPJF8t1DmrFD",
+          "nombre": "Nuthin' But A \"G\" Thang",
+          "artistas": "Dr. Dre, Snoop Dogg",
+          "disco": "The Chronic",
+          "tipo": "album",
+          "fecha": "1992-12-15",
+          "isrc": "USIR19200849"
+        },
+        "musicbrainz": {
+          "fecha": "1992",
+          "grabacion": "405e97eb-4a3a-4072-9fc4-2cb6cfe5eec8",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1992
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-016",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Cypress Hill",
+      "titulo": "Insane in the Brain",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1oTHteQbmJw15rPxPVXUTv"
+      },
+      "spotify": "1oTHteQbmJw15rPxPVXUTv",
+      "duracion_ms": 208266,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1oTHteQbmJw15rPxPVXUTv",
+          "nombre": "Insane in the Brain",
+          "artistas": "Cypress Hill",
+          "disco": "Black Sunday",
+          "tipo": "album",
+          "fecha": "1993-07-20",
+          "isrc": "USSM19303133"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "915b79a0-7452-4746-b5cc-a71389051714",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1993
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-017",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Wu-Tang Clan",
+      "titulo": "C.R.E.A.M.",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "119c93MHjrDLJTApCVGpvx"
+      },
+      "spotify": "119c93MHjrDLJTApCVGpvx",
+      "duracion_ms": 252026,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: título con agregado"
+        ],
+        "spotify": {
+          "id": "119c93MHjrDLJTApCVGpvx",
+          "nombre": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+          "artistas": "Wu-Tang Clan",
+          "disco": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+          "tipo": "album",
+          "fecha": "1993-11-09",
+          "isrc": "USRC19300133"
+        },
+        "musicbrainz": {
+          "fecha": "1993",
+          "grabacion": "6c4771fa-5e40-492d-97ca-2ae35e7e78bd",
+          "via": "isrc"
+        },
+        "anio_mb": 1993
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-018",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Snoop Dogg",
+      "titulo": "Gin and Juice",
+      "anio": 1994,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "39QBkWKnap8wRSW4WB9OK0"
+      },
+      "spotify": "39QBkWKnap8wRSW4WB9OK0",
+      "duracion_ms": 211866,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "39QBkWKnap8wRSW4WB9OK0",
+          "nombre": "Gin and Juice",
+          "artistas": "Snoop Dogg",
+          "disco": "Doggystyle",
+          "tipo": "album",
+          "fecha": "1993-11-23",
+          "isrc": "USKO10403590"
+        },
+        "musicbrainz": {
+          "fecha": "1994",
+          "grabacion": "b958d4b5-7c1b-43e9-a9d5-08a1c0abbd84",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1994
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-019",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "The Notorious B.I.G.",
+      "titulo": "Juicy",
+      "anio": 1994,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "5ByAIlEEnxYdvpnezg7HTX"
+      },
+      "spotify": "5ByAIlEEnxYdvpnezg7HTX",
+      "duracion_ms": 302760,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5ByAIlEEnxYdvpnezg7HTX",
+          "nombre": "Juicy - 2005 Remaster",
+          "artistas": "The Notorious B.I.G.",
+          "disco": "Ready to Die (The Remaster)",
+          "tipo": "album",
+          "fecha": "1994-09-13",
+          "isrc": "USBB40580814"
+        },
+        "musicbrainz": {
+          "fecha": "1994-09-13",
+          "grabacion": "181c0a32-6e3f-4680-8a7d-1daf0b42e43b",
+          "via": "isrc"
+        },
+        "anio_mb": 1994
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-020",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Warren G",
+      "titulo": "Regulate",
+      "anio": 1994,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4uIKHABS2ixy0AW0Y31rj4"
+      },
+      "spotify": "4uIKHABS2ixy0AW0Y31rj4",
+      "duracion_ms": 248866,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4uIKHABS2ixy0AW0Y31rj4",
+          "nombre": "Regulate",
+          "artistas": "Warren G, Nate Dogg",
+          "disco": "Regulate...G Funk Era (20th Anniversary)",
+          "tipo": "album",
+          "fecha": "1994-06-07",
+          "isrc": "USPR39401366"
+        },
+        "musicbrainz": {
+          "fecha": "1994",
+          "grabacion": "239712cf-fc3d-4ba0-92d7-a558ef7e4611",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1994
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-021",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Beastie Boys",
+      "titulo": "Sabotage",
+      "anio": 1994,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0Puj4YlTm6xNzDDADXHMI9"
+      },
+      "spotify": "0Puj4YlTm6xNzDDADXHMI9",
+      "duracion_ms": 178440,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0Puj4YlTm6xNzDDADXHMI9",
+          "nombre": "Sabotage",
+          "artistas": "Beastie Boys",
+          "disco": "Ill Communication",
+          "tipo": "album",
+          "fecha": "1994-05-23",
+          "isrc": "USCA29400020"
+        },
+        "musicbrainz": {
+          "fecha": "1994",
+          "grabacion": "f9f5bf91-a749-488a-bfcc-85b470ee95e3",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1994
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-022",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Coolio",
+      "titulo": "Gangsta's Paradise",
+      "anio": 1995,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1DIXPcTDzTj8ZMHt3PDt8p"
+      },
+      "spotify": "1DIXPcTDzTj8ZMHt3PDt8p",
+      "duracion_ms": 240693,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1DIXPcTDzTj8ZMHt3PDt8p",
+          "nombre": "Gangsta's Paradise",
+          "artistas": "Coolio, L.V.",
+          "disco": "Gangsta's Paradise",
+          "tipo": "album",
+          "fecha": "1995-11-07",
+          "isrc": "USTB10400128"
+        },
+        "musicbrainz": {
+          "fecha": "1995-07-11",
+          "grabacion": "2f7a6735-2e09-4ce2-81e4-b148e6c39a55",
+          "via": "isrc"
+        },
+        "anio_mb": 1995
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-023",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "2Pac",
+      "titulo": "California Love",
+      "anio": 1995,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "6sWJr1iryG4A1Luv0p4y15"
+      },
+      "spotify": "6sWJr1iryG4A1Luv0p4y15",
+      "duracion_ms": 348000,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "6sWJr1iryG4A1Luv0p4y15",
+          "nombre": "California Love",
+          "artistas": "2Pac",
+          "disco": "California Love",
+          "tipo": "compilation",
+          "fecha": "2011-03-11",
+          "isrc": "USV291347098"
+        },
+        "musicbrainz": {
+          "fecha": "1996",
+          "grabacion": "ddf3b468-0bc7-4705-8780-50d9876afe91",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1996
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-024",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Fugees",
+      "titulo": "Killing Me Softly with His Song",
+      "anio": 1996,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "0Q0IVlqMV64kNLlwjPj0Hl"
+      },
+      "spotify": "0Q0IVlqMV64kNLlwjPj0Hl",
+      "duracion_ms": 298666,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0Q0IVlqMV64kNLlwjPj0Hl",
+          "nombre": "Killing Me Softly With His Song",
+          "artistas": "Fugees, Ms. Lauryn Hill",
+          "disco": "The Score (Expanded Edition)",
+          "tipo": "album",
+          "fecha": "1996-02-13",
+          "isrc": "USSM19600055"
+        },
+        "musicbrainz": {
+          "fecha": "2010",
+          "grabacion": "bb6f987d-f95b-45b2-80b7-35a8638c8759",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2010
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-025",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "The Notorious B.I.G.",
+      "titulo": "Hypnotize",
+      "anio": 1997,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "7KwZNVEaqikRSBSpyhXK2j"
+      },
+      "spotify": "7KwZNVEaqikRSBSpyhXK2j",
+      "duracion_ms": 229826,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "7KwZNVEaqikRSBSpyhXK2j",
+          "nombre": "Hypnotize - 2014 Remaster",
+          "artistas": "The Notorious B.I.G.",
+          "disco": "Life After Death (2014 Remastered Edition)",
+          "tipo": "album",
+          "fecha": "1997-03-04",
+          "isrc": "USAT21402725"
+        },
+        "musicbrainz": {
+          "fecha": "1996-07-30",
+          "grabacion": "641db42c-eea2-4d36-b033-b5247ffeac21",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1996
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-026",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Puff Daddy",
+      "titulo": "I'll Be Missing You",
+      "anio": 1997,
+      "pelicula": null,
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify"
+        ],
+        "musicbrainz": {
+          "fecha": "1997",
+          "grabacion": "81362927-5bf5-495a-9615-83d3336d6307",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1997
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-027",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Will Smith",
+      "titulo": "Gettin' Jiggy wit It",
+      "anio": 1997,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0weAUscowxeqDtpCgtbpgp"
+      },
+      "spotify": "0weAUscowxeqDtpCgtbpgp",
+      "duracion_ms": 227933,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0weAUscowxeqDtpCgtbpgp",
+          "nombre": "Gettin' Jiggy Wit It",
+          "artistas": "Will Smith",
+          "disco": "Big Willie Style",
+          "tipo": "album",
+          "fecha": "1997-10-03",
+          "isrc": "USSM19702582"
+        },
+        "musicbrainz": {
+          "fecha": "1997",
+          "grabacion": "70808d5f-6768-4609-ba17-458423e13e01",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1997
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-028",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Will Smith",
+      "titulo": "Men in Black",
+      "anio": 1997,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "3erVSz5zNidXId7Joo4bg4"
+      },
+      "spotify": "3erVSz5zNidXId7Joo4bg4",
+      "duracion_ms": 225493,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3erVSz5zNidXId7Joo4bg4",
+          "nombre": "Men In Black - From \"Men In Black\" Soundtrack",
+          "artistas": "Will Smith",
+          "disco": "Black Suits Comin' (Nod Ya Head)",
+          "tipo": "single",
+          "fecha": "1997",
+          "isrc": "USSM19700762"
+        },
+        "musicbrainz": {
+          "fecha": "1997",
+          "grabacion": "421a7145-d72d-41dc-9a0a-af9ca7a05e4a",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1997
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-029",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Illya Kuryaki and the Valderramas",
+      "titulo": "Coolo",
+      "anio": 1995,
+      "pelicula": null,
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "anio_distinto"
+        ],
+        "musicbrainz": {
+          "fecha": "1999-08-10",
+          "grabacion": "8a0ff233-ada3-4f77-bbbc-2d482a86204d",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1999
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-030",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Lauryn Hill",
+      "titulo": "Doo Wop (That Thing)",
+      "anio": 1998,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0uEp9E98JB5awlA084uaIg"
+      },
+      "spotify": "0uEp9E98JB5awlA084uaIg",
+      "duracion_ms": 320266,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0uEp9E98JB5awlA084uaIg",
+          "nombre": "Doo Wop (That Thing)",
+          "artistas": "Ms. Lauryn Hill",
+          "disco": "The Miseducation of Lauryn Hill",
+          "tipo": "album",
+          "fecha": "1998-08-25",
+          "isrc": "USSM19802337"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "31f10bbb-e90a-4c74-b2b8-54d7e73df5be",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-031",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "2Pac",
+      "titulo": "Changes",
+      "anio": 1998,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "1ofhfV90EnYhEr7Un2fWiv"
+      },
+      "spotify": "1ofhfV90EnYhEr7Un2fWiv",
+      "duracion_ms": 268826,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "1ofhfV90EnYhEr7Un2fWiv",
+          "nombre": "Changes",
+          "artistas": "2Pac, Talent",
+          "disco": "Greatest Hits",
+          "tipo": "compilation",
+          "fecha": "1998-01-01",
+          "isrc": "USIR10110269"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "005f75d3-22c0-42d6-91ca-f1ea4bdbe75a",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-032",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Dr. Dre",
+      "titulo": "Still D.R.E.",
+      "anio": 1999,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "503OTo2dSqe7qk76rgsbep"
+      },
+      "spotify": "503OTo2dSqe7qk76rgsbep",
+      "duracion_ms": 270586,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "503OTo2dSqe7qk76rgsbep",
+          "nombre": "Still D.R.E.",
+          "artistas": "Dr. Dre, Snoop Dogg",
+          "disco": "2001",
+          "tipo": "album",
+          "fecha": "1999-11-16",
+          "isrc": "USIR19905031"
+        },
+        "musicbrainz": {
+          "fecha": "1999",
+          "grabacion": "3460f55e-a166-4d3a-862c-5b95ea3dcca5",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1999
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-033",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Eminem",
+      "titulo": "The Real Slim Shady",
+      "anio": 2000,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "3yfqSUWxFvZELEM4PmlwIR"
+      },
+      "spotify": "3yfqSUWxFvZELEM4PmlwIR",
+      "duracion_ms": 284200,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "3yfqSUWxFvZELEM4PmlwIR",
+          "nombre": "The Real Slim Shady",
+          "artistas": "Eminem",
+          "disco": "The Marshall Mathers LP",
+          "tipo": "album",
+          "fecha": "2000-05-23",
+          "isrc": "USIR10000448"
+        },
+        "musicbrainz": {
+          "fecha": "1999",
+          "grabacion": "a8545827-c272-42b0-af39-dc98848cac01",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1999
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-034",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Eminem",
+      "titulo": "Stan",
+      "anio": 2000,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3UmaczJpikHgJFyBTAJVoz"
+      },
+      "spotify": "3UmaczJpikHgJFyBTAJVoz",
+      "duracion_ms": 404106,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3UmaczJpikHgJFyBTAJVoz",
+          "nombre": "Stan",
+          "artistas": "Eminem, Dido",
+          "disco": "The Marshall Mathers LP",
+          "tipo": "album",
+          "fecha": "2000-05-23",
+          "isrc": "USIR10001280"
+        },
+        "musicbrainz": {
+          "fecha": "2000",
+          "grabacion": "26ae1430-2f2d-42ea-9bb6-470937191bd4",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-035",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "OutKast",
+      "titulo": "Ms. Jackson",
+      "anio": 2000,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0I3q5fE6wg7LIfHGngUTnV"
+      },
+      "spotify": "0I3q5fE6wg7LIfHGngUTnV",
+      "duracion_ms": 270506,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0I3q5fE6wg7LIfHGngUTnV",
+          "nombre": "Ms. Jackson",
+          "artistas": "Outkast",
+          "disco": "Stankonia",
+          "tipo": "album",
+          "fecha": "2000-10-31",
+          "isrc": "USLF20000357"
+        },
+        "musicbrainz": {
+          "fecha": "2000",
+          "grabacion": "17fb5cc4-909b-4425-84ff-847379992d4c",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-036",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Missy Elliott",
+      "titulo": "Get Ur Freak On",
+      "anio": 2001,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6zsk6uF3MxfIeHPlubKBvR"
+      },
+      "spotify": "6zsk6uF3MxfIeHPlubKBvR",
+      "duracion_ms": 211120,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6zsk6uF3MxfIeHPlubKBvR",
+          "nombre": "Get Ur Freak On",
+          "artistas": "Missy Elliott",
+          "disco": "Miss E... So Addictive",
+          "tipo": "album",
+          "fecha": "2001-05-14",
+          "isrc": "USEW20100036"
+        },
+        "musicbrainz": {
+          "fecha": "2001",
+          "grabacion": "83a552f7-e3a0-4207-9e6a-22edbbb46518",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2001
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-037",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Eminem",
+      "titulo": "Without Me",
+      "anio": 2002,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "7lQ8MOhq6IN2w8EYcFNSUk"
+      },
+      "spotify": "7lQ8MOhq6IN2w8EYcFNSUk",
+      "duracion_ms": 290320,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7lQ8MOhq6IN2w8EYcFNSUk",
+          "nombre": "Without Me",
+          "artistas": "Eminem",
+          "disco": "The Eminem Show",
+          "tipo": "album",
+          "fecha": "2002-05-26",
+          "isrc": "USIR10211038"
+        },
+        "musicbrainz": {
+          "fecha": "2002",
+          "grabacion": "edda1de4-0241-4783-ba3f-bb364ebe102b",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2002
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-038",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Eminem",
+      "titulo": "Lose Yourself",
+      "anio": 2002,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "1v7L65Lzy0j0vdpRjJewt1"
+      },
+      "spotify": "1v7L65Lzy0j0vdpRjJewt1",
+      "duracion_ms": 322226,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "1v7L65Lzy0j0vdpRjJewt1",
+          "nombre": "Lose Yourself",
+          "artistas": "Eminem",
+          "disco": "Just Lose It",
+          "tipo": "single",
+          "fecha": "2004-01-01",
+          "isrc": "USIR10211559"
+        },
+        "musicbrainz": {
+          "fecha": "2002",
+          "grabacion": "cf76fae2-4169-47e7-8665-06b2f976c979",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2002
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-039",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Missy Elliott",
+      "titulo": "Work It",
+      "anio": 2002,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3jagJCUbdqhDSPuxP8cAqF"
+      },
+      "spotify": "3jagJCUbdqhDSPuxP8cAqF",
+      "duracion_ms": 263226,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3jagJCUbdqhDSPuxP8cAqF",
+          "nombre": "Work It",
+          "artistas": "Missy Elliott",
+          "disco": "Under Construction",
+          "tipo": "album",
+          "fecha": "2002-11-12",
+          "isrc": "USEE10240730"
+        },
+        "musicbrainz": {
+          "fecha": "2002",
+          "grabacion": "bfb40db2-fffd-4979-85a7-7d27f1f466e4",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2002
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-040",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Nelly",
+      "titulo": "Dilemma",
+      "anio": 2002,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0ARK753YaiJbpLUk7z5yIM"
+      },
+      "spotify": "0ARK753YaiJbpLUk7z5yIM",
+      "duracion_ms": 289160,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0ARK753YaiJbpLUk7z5yIM",
+          "nombre": "Dilemma",
+          "artistas": "Nelly, Kelly Rowland",
+          "disco": "Nellyville",
+          "tipo": "album",
+          "fecha": "2002-06-25",
+          "isrc": "USUR10200370"
+        },
+        "musicbrainz": {
+          "fecha": "2002",
+          "grabacion": "e706c93c-ba80-40be-942b-60344458e318",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2002
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-041",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Nelly",
+      "titulo": "Hot in Herre",
+      "anio": 2002,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "04KTF78FFg8sOHC1BADqbY"
+      },
+      "spotify": "04KTF78FFg8sOHC1BADqbY",
+      "duracion_ms": 228240,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "04KTF78FFg8sOHC1BADqbY",
+          "nombre": "Hot In Herre",
+          "artistas": "Nelly",
+          "disco": "Nellyville",
+          "tipo": "album",
+          "fecha": "2002-06-25",
+          "isrc": "USUR10200371"
+        },
+        "musicbrainz": {
+          "fecha": "2002",
+          "grabacion": "a7c296e3-67ab-4687-9f7b-069dce1be9ba",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2002
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-042",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "50 Cent",
+      "titulo": "In da Club",
+      "anio": 2003,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "7iL6o9tox1zgHpKUfh9vuC"
+      },
+      "spotify": "7iL6o9tox1zgHpKUfh9vuC",
+      "duracion_ms": 193466,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7iL6o9tox1zgHpKUfh9vuC",
+          "nombre": "In Da Club",
+          "artistas": "50 Cent",
+          "disco": "Get Rich Or Die Tryin'",
+          "tipo": "album",
+          "fecha": "2003-02-06",
+          "isrc": "USIR10300033"
+        },
+        "musicbrainz": {
+          "fecha": "2003",
+          "grabacion": "cb176c4a-0eac-4495-b19d-951406ede770",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2003
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-043",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "The Black Eyed Peas",
+      "titulo": "Where Is the Love?",
+      "anio": 2003,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0xmjwnQ3FNE6HuWCt2nHdZ"
+      },
+      "spotify": "0xmjwnQ3FNE6HuWCt2nHdZ",
+      "duracion_ms": 272533,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0xmjwnQ3FNE6HuWCt2nHdZ",
+          "nombre": "Where Is The Love?",
+          "artistas": "Black Eyed Peas",
+          "disco": "Elephunk",
+          "tipo": "album",
+          "fecha": "2003-06-24",
+          "isrc": "USIR10311862"
+        },
+        "musicbrainz": {
+          "fecha": "2003",
+          "grabacion": "aec224ad-a86e-4973-9ea6-7648826e3097",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2003
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-044",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Jay-Z",
+      "titulo": "99 Problems",
+      "anio": 2003,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "7IdFdRlCjUi6kkhbPoRfnw"
+      },
+      "spotify": "7IdFdRlCjUi6kkhbPoRfnw",
+      "duracion_ms": 234626,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7IdFdRlCjUi6kkhbPoRfnw",
+          "nombre": "99 Problems",
+          "artistas": "JAŸ-Z",
+          "disco": "The Black Album",
+          "tipo": "album",
+          "fecha": "2003-11-14",
+          "isrc": "USDJ20301460"
+        },
+        "musicbrainz": {
+          "fecha": "2003",
+          "grabacion": "fb0fa2c8-507f-4fcb-a02e-bdb6f0128029",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2003
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-045",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Snoop Dogg",
+      "titulo": "Drop It Like It's Hot",
+      "anio": 2004,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2NBQmPrOEEjA8VbeWOQGxO"
+      },
+      "spotify": "2NBQmPrOEEjA8VbeWOQGxO",
+      "duracion_ms": 266066,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2NBQmPrOEEjA8VbeWOQGxO",
+          "nombre": "Drop It Like It's Hot",
+          "artistas": "Snoop Dogg, Pharrell Williams",
+          "disco": "R&G (Rhythm & Gangsta): The Masterpiece",
+          "tipo": "album",
+          "fecha": "2004-01-01",
+          "isrc": "USMC10400640"
+        },
+        "musicbrainz": {
+          "fecha": "2004",
+          "grabacion": "2850b95b-2a3e-4c4a-a283-af8b7842b076",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2004
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-046",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "50 Cent",
+      "titulo": "Candy Shop",
+      "anio": 2005,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "7Cw7lE5VJt4avuE1xjeM4q"
+      },
+      "spotify": "7Cw7lE5VJt4avuE1xjeM4q",
+      "duracion_ms": 208160,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7Cw7lE5VJt4avuE1xjeM4q",
+          "nombre": "Candy Shop",
+          "artistas": "50 Cent, Olivia",
+          "disco": "Candy Shop",
+          "tipo": "single",
+          "fecha": "2005-01-01",
+          "isrc": "USIR10500072"
+        },
+        "musicbrainz": {
+          "fecha": "2005",
+          "grabacion": "2a928ce2-9b46-488e-b62a-623204fff469",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2005
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-047",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Kanye West",
+      "titulo": "Gold Digger",
+      "anio": 2005,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1PS1QMdUqOal0ai3Gt7sDQ"
+      },
+      "spotify": "1PS1QMdUqOal0ai3Gt7sDQ",
+      "duracion_ms": 207626,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1PS1QMdUqOal0ai3Gt7sDQ",
+          "nombre": "Gold Digger",
+          "artistas": "Kanye West, Jamie Foxx",
+          "disco": "Late Registration",
+          "tipo": "album",
+          "fecha": "2005-08-30",
+          "isrc": "USUM70500143"
+        },
+        "musicbrainz": {
+          "fecha": "2005",
+          "grabacion": "68e42c36-e8d9-48e7-a8d4-59fd70f52220",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2005
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-048",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Calle 13",
+      "titulo": "Atrévete-te-te",
+      "anio": 2005,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "68w7WU7ak4ApUBiwx0HnpY"
+      },
+      "spotify": "68w7WU7ak4ApUBiwx0HnpY",
+      "duracion_ms": 240733,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "68w7WU7ak4ApUBiwx0HnpY",
+          "nombre": "Atrévete-Te-Te",
+          "artistas": "Calle 13",
+          "disco": "Music From The Motion Picture \"Feel The Noise\"",
+          "tipo": "album",
+          "fecha": "2005",
+          "isrc": "US3H30500209"
+        },
+        "musicbrainz": {
+          "fecha": "2005-11-29",
+          "grabacion": "ed8bf4a6-9f27-4b58-8ace-8746ecf7451b",
+          "via": "isrc"
+        },
+        "anio_mb": 2005
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-049",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Kanye West",
+      "titulo": "Stronger",
+      "anio": 2007,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2VysjemU93ac5oRg4MfYGp"
+      },
+      "spotify": "2VysjemU93ac5oRg4MfYGp",
+      "duracion_ms": 312373,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2VysjemU93ac5oRg4MfYGp",
+          "nombre": "Stronger",
+          "artistas": "Kanye West",
+          "disco": "Stronger",
+          "tipo": "single",
+          "fecha": "2007-01-01",
+          "isrc": "USUM70741299"
+        },
+        "musicbrainz": {
+          "fecha": "2007",
+          "grabacion": "6bf1a7c5-5e42-4dc2-8841-3bee9822334b",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2007
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-050",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Lil Wayne",
+      "titulo": "Lollipop",
+      "anio": 2008,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5jnxxpX2834SB6LJ0S73Uz"
+      },
+      "spotify": "5jnxxpX2834SB6LJ0S73Uz",
+      "duracion_ms": 299333,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5jnxxpX2834SB6LJ0S73Uz",
+          "nombre": "Lollipop",
+          "artistas": "Lil Wayne, Static Major",
+          "disco": "Tha Carter III",
+          "tipo": "album",
+          "fecha": "2008-01-01",
+          "isrc": "USCM50800556"
+        },
+        "musicbrainz": {
+          "fecha": "2008",
+          "grabacion": "e6c5a720-d31f-43e2-b77e-074f2ef61bb4",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2008
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-051",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "T.I.",
+      "titulo": "Whatever You Like",
+      "anio": 2008,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "1IAzD1muglOxOcPbUHs70R"
+      },
+      "spotify": "1IAzD1muglOxOcPbUHs70R",
+      "duracion_ms": 249533,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "1IAzD1muglOxOcPbUHs70R",
+          "nombre": "Whatever You Like",
+          "artistas": "T.I.",
+          "disco": "Paper Trail",
+          "tipo": "album",
+          "fecha": "2008-09-07",
+          "isrc": "USAT20803170"
+        },
+        "musicbrainz": {
+          "fecha": "2007-09-18",
+          "grabacion": "94bb7399-5769-43c4-a89a-f0494edde102",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2007
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-052",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Jay-Z",
+      "titulo": "Empire State of Mind",
+      "anio": 2009,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2igwFfvr1OAGX9SKDCPBwO"
+      },
+      "spotify": "2igwFfvr1OAGX9SKDCPBwO",
+      "duracion_ms": 276920,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2igwFfvr1OAGX9SKDCPBwO",
+          "nombre": "Empire State Of Mind",
+          "artistas": "JAŸ-Z, Alicia Keys",
+          "disco": "The Blueprint 3",
+          "tipo": "album",
+          "fecha": "2009-09-08",
+          "isrc": "USJZ10900031"
+        },
+        "musicbrainz": {
+          "fecha": "2009",
+          "grabacion": "bea57dbc-35c0-4d96-a219-19a2bd4b6ada",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2009
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-053",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Wiz Khalifa",
+      "titulo": "Black and Yellow",
+      "anio": 2010,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6NdkIejC39Pcwg9Buw5f2B"
+      },
+      "spotify": "6NdkIejC39Pcwg9Buw5f2B",
+      "duracion_ms": 217666,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6NdkIejC39Pcwg9Buw5f2B",
+          "nombre": "Black and Yellow",
+          "artistas": "Wiz Khalifa",
+          "disco": "Black and Yellow",
+          "tipo": "single",
+          "fecha": "2010-09-14",
+          "isrc": "USAT21001800"
+        },
+        "musicbrainz": {
+          "fecha": "2010-09-14",
+          "grabacion": "f5ceb8f5-9575-4d93-b3f9-a39aa3069882",
+          "via": "isrc"
+        },
+        "anio_mb": 2010
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-054",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Nicki Minaj",
+      "titulo": "Super Bass",
+      "anio": 2010,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3hlksXnvbKogFdPbpO9vel"
+      },
+      "spotify": "3hlksXnvbKogFdPbpO9vel",
+      "duracion_ms": 200013,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3hlksXnvbKogFdPbpO9vel",
+          "nombre": "Super Bass",
+          "artistas": "Nicki Minaj",
+          "disco": "Pink Friday (Complete Edition)",
+          "tipo": "album",
+          "fecha": "2010-11-22",
+          "isrc": "USCM51000734"
+        },
+        "musicbrainz": {
+          "fecha": "2010-11-21",
+          "grabacion": "df6b866c-a056-42f2-9cf9-135aa3fbdad4",
+          "via": "isrc"
+        },
+        "anio_mb": 2010
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-055",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Macklemore & Ryan Lewis",
+      "titulo": "Can't Hold Us",
+      "anio": 2011,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "3bidbhpOYeV4knp8AIu8Xn"
+      },
+      "spotify": "3bidbhpOYeV4knp8AIu8Xn",
+      "duracion_ms": 258342,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3bidbhpOYeV4knp8AIu8Xn",
+          "nombre": "Can't Hold Us (feat. Ray Dalton)",
+          "artistas": "Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton",
+          "disco": "The Heist",
+          "tipo": "album",
+          "fecha": "2012-10-09",
+          "isrc": "GMM881200021"
+        },
+        "musicbrainz": {
+          "fecha": "2011-08-16",
+          "grabacion": "25a2c3cc-0383-461a-a813-d22318df4b0f",
+          "via": "isrc"
+        },
+        "anio_mb": 2011
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-056",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Macklemore & Ryan Lewis",
+      "titulo": "Thrift Shop",
+      "anio": 2012,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "7bYZBVrnRfqeaPbhRyEvK3"
+      },
+      "spotify": "7bYZBVrnRfqeaPbhRyEvK3",
+      "duracion_ms": 235613,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: con invitado, título con agregado"
+        ],
+        "spotify": {
+          "id": "7bYZBVrnRfqeaPbhRyEvK3",
+          "nombre": "Thrift Shop (feat. Wanz)",
+          "artistas": "Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Wanz",
+          "disco": "The Heist (Deluxe Edition)",
+          "tipo": "album",
+          "fecha": "2012-10-09",
+          "isrc": "GMM881200003"
+        },
+        "musicbrainz": {
+          "fecha": "2012-08-01",
+          "grabacion": "42f0b591-cf89-4e45-aaca-7b97a2d1d98a",
+          "via": "isrc"
+        },
+        "anio_mb": 2012
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-057",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Drake",
+      "titulo": "Hotline Bling",
+      "anio": 2015,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0wwPcA6wtMf6HUMpIRdeP7"
+      },
+      "spotify": "0wwPcA6wtMf6HUMpIRdeP7",
+      "duracion_ms": 267066,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0wwPcA6wtMf6HUMpIRdeP7",
+          "nombre": "Hotline Bling",
+          "artistas": "Drake",
+          "disco": "Views",
+          "tipo": "album",
+          "fecha": "2016-05-06",
+          "isrc": "USCM51500238"
+        },
+        "musicbrainz": {
+          "fecha": "2015-07-31",
+          "grabacion": "e288e33a-5c40-4b9f-98f6-0062be760e4a",
+          "via": "isrc"
+        },
+        "anio_mb": 2015
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-058",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Drake",
+      "titulo": "One Dance",
+      "anio": 2016,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "1zi7xx7UVEFkmKfv06H8x0"
+      },
+      "spotify": "1zi7xx7UVEFkmKfv06H8x0",
+      "duracion_ms": 173986,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1zi7xx7UVEFkmKfv06H8x0",
+          "nombre": "One Dance",
+          "artistas": "Drake, Wizkid, Kyla",
+          "disco": "Views",
+          "tipo": "album",
+          "fecha": "2016-05-06",
+          "isrc": "USCM51600028"
+        },
+        "musicbrainz": {
+          "fecha": "2016-04-05",
+          "grabacion": "be9e4a6b-3f56-468a-aa61-b1bcb6fc277f",
+          "via": "isrc"
+        },
+        "anio_mb": 2016
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-059",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Migos",
+      "titulo": "Bad and Boujee",
+      "anio": 2016,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "1eZX1EeMN7I99hTV7QzuAw"
+      },
+      "spotify": "1eZX1EeMN7I99hTV7QzuAw",
+      "duracion_ms": 343150,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "1eZX1EeMN7I99hTV7QzuAw",
+          "nombre": "Bad and Boujee",
+          "artistas": "Migos, Lil Uzi Vert",
+          "disco": "Rap Hits",
+          "tipo": "compilation",
+          "fecha": "2022-09-14",
+          "isrc": "QMCE31600796"
+        },
+        "musicbrainz": {
+          "fecha": "2016-10-28",
+          "grabacion": "de1b824d-b42a-4cca-b388-ad1aa1f2f665",
+          "via": "isrc"
+        },
+        "anio_mb": 2016
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-060",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Post Malone",
+      "titulo": "Congratulations",
+      "anio": 2016,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3a1lNhkSLSkpJE4MSHpDu9"
+      },
+      "spotify": "3a1lNhkSLSkpJE4MSHpDu9",
+      "duracion_ms": 220293,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3a1lNhkSLSkpJE4MSHpDu9",
+          "nombre": "Congratulations",
+          "artistas": "Post Malone, Quavo",
+          "disco": "Stoney (Deluxe)",
+          "tipo": "album",
+          "fecha": "2016-12-09",
+          "isrc": "USUM71614484"
+        },
+        "musicbrainz": {
+          "fecha": "2016-11-04",
+          "grabacion": "a614fca3-0339-49a8-9348-175acae56bdb",
+          "via": "isrc"
+        },
+        "anio_mb": 2016
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-061",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Kendrick Lamar",
+      "titulo": "HUMBLE.",
+      "anio": 2017,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "131OLY5J8XyfGuSjXRiTRM"
+      },
+      "spotify": "131OLY5J8XyfGuSjXRiTRM",
+      "duracion_ms": 177000,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "131OLY5J8XyfGuSjXRiTRM",
+          "nombre": "HUMBLE.",
+          "artistas": "Kendrick Lamar",
+          "disco": "DAMN.",
+          "tipo": "album",
+          "fecha": "2017-04-13",
+          "isrc": "USUM71703150"
+        },
+        "musicbrainz": {
+          "fecha": "2017-03-31",
+          "grabacion": "398bf241-7d57-4993-860b-1f9ef496c97f",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2017
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-062",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Cardi B",
+      "titulo": "Bodak Yellow",
+      "anio": 2017,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6KBYefIoo7KydImq1uUQlL"
+      },
+      "spotify": "6KBYefIoo7KydImq1uUQlL",
+      "duracion_ms": 223712,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6KBYefIoo7KydImq1uUQlL",
+          "nombre": "Bodak Yellow",
+          "artistas": "Cardi B",
+          "disco": "Invasion of Privacy",
+          "tipo": "album",
+          "fecha": "2018-04-06",
+          "isrc": "USAT21701762"
+        },
+        "musicbrainz": {
+          "fecha": "2017-06-16",
+          "grabacion": "6cc8749c-83b5-4160-ba42-fe52bb90da47",
+          "via": "isrc"
+        },
+        "anio_mb": 2017
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-063",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Post Malone",
+      "titulo": "rockstar",
+      "anio": 2017,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "19bX4zmC2zDben2ldhoRB3"
+      },
+      "spotify": "19bX4zmC2zDben2ldhoRB3",
+      "duracion_ms": 218146,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "19bX4zmC2zDben2ldhoRB3",
+          "nombre": "rockstar",
+          "artistas": "Post Malone, 21 Savage",
+          "disco": "beerbongs & bentleys",
+          "tipo": "album",
+          "fecha": "2018-04-27",
+          "isrc": "USUM71710097"
+        },
+        "musicbrainz": {
+          "fecha": "2017-09-15",
+          "grabacion": "08cbf725-d3d1-48e7-8629-c9117e85d8f6",
+          "via": "isrc"
+        },
+        "anio_mb": 2017
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-064",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Khea",
+      "titulo": "Loca",
+      "anio": 2017,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "0vnrhysrKKRdNYFKLAGzRc"
+      },
+      "spotify": "0vnrhysrKKRdNYFKLAGzRc",
+      "duracion_ms": 246382,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más"
+        ],
+        "spotify": {
+          "id": "0vnrhysrKKRdNYFKLAGzRc",
+          "nombre": "Loca",
+          "artistas": "KHEA, Duki, Cazzu, Omar Varela, MYKKA",
+          "disco": "Loca",
+          "tipo": "single",
+          "fecha": "2017-11-22",
+          "isrc": "CA5KR1701303"
+        },
+        "musicbrainz": {
+          "fecha": "2017",
+          "grabacion": "c71ac7fc-e57e-4e47-aa9c-4501d003ff94",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2017
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-065",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Duki",
+      "titulo": "She Don't Give a FO",
+      "anio": 2018,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "03a359wbiUsjN9h6yzXvmS"
+      },
+      "spotify": "03a359wbiUsjN9h6yzXvmS",
+      "duracion_ms": 209531,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "03a359wbiUsjN9h6yzXvmS",
+          "nombre": "She Don't Give a Fo",
+          "artistas": "Duki, KHEA",
+          "disco": "She Don't Give a Fo",
+          "tipo": "single",
+          "fecha": "2018-03-12",
+          "isrc": "QZ5FN1767793"
+        },
+        "musicbrainz": {
+          "fecha": "2018-03-12",
+          "grabacion": "8d41f048-8737-4cf2-9429-f5f6a9b21473",
+          "via": "isrc"
+        },
+        "anio_mb": 2018
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-066",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Drake",
+      "titulo": "God's Plan",
+      "anio": 2018,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6DCZcSspjsKoFjzjrWoCdn"
+      },
+      "spotify": "6DCZcSspjsKoFjzjrWoCdn",
+      "duracion_ms": 198973,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6DCZcSspjsKoFjzjrWoCdn",
+          "nombre": "God's Plan",
+          "artistas": "Drake",
+          "disco": "Scorpion",
+          "tipo": "album",
+          "fecha": "2018-06-29",
+          "isrc": "USCM51800004"
+        },
+        "musicbrainz": {
+          "fecha": "2018-01-19",
+          "grabacion": "7bc3d832-09fb-4e57-a266-fd8cfa15b6f3",
+          "via": "isrc"
+        },
+        "anio_mb": 2018
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-067",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Travis Scott",
+      "titulo": "SICKO MODE",
+      "anio": 2018,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2xLMifQCjDGFmkHkpNLD9h"
+      },
+      "spotify": "2xLMifQCjDGFmkHkpNLD9h",
+      "duracion_ms": 312820,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2xLMifQCjDGFmkHkpNLD9h",
+          "nombre": "SICKO MODE",
+          "artistas": "Travis Scott",
+          "disco": "ASTROWORLD",
+          "tipo": "album",
+          "fecha": "2018-08-03",
+          "isrc": "USSM11806660"
+        },
+        "musicbrainz": {
+          "fecha": "2018-08-03",
+          "grabacion": "73784600-a665-4a6c-9687-187dbefc556d",
+          "via": "isrc"
+        },
+        "anio_mb": 2018
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-068",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Childish Gambino",
+      "titulo": "This Is America",
+      "anio": 2018,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0b9oOr2ZgvyQu88wzixux9"
+      },
+      "spotify": "0b9oOr2ZgvyQu88wzixux9",
+      "duracion_ms": 225773,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0b9oOr2ZgvyQu88wzixux9",
+          "nombre": "This Is America",
+          "artistas": "Childish Gambino",
+          "disco": "This Is America",
+          "tipo": "single",
+          "fecha": "2018-05-06",
+          "isrc": "USRC11801773"
+        },
+        "musicbrainz": {
+          "fecha": "2018",
+          "grabacion": "dc0d2a42-7b19-458e-aad7-269cbe38b1b7",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2018
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-069",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "XXXTENTACION",
+      "titulo": "SAD!",
+      "anio": 2018,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3ee8Jmje8o58CHK66QrVC2"
+      },
+      "spotify": "3ee8Jmje8o58CHK66QrVC2",
+      "duracion_ms": 166605,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3ee8Jmje8o58CHK66QrVC2",
+          "nombre": "SAD!",
+          "artistas": "XXXTENTACION",
+          "disco": "?",
+          "tipo": "album",
+          "fecha": "2018-03-16",
+          "isrc": "USUG11800208"
+        },
+        "musicbrainz": {
+          "fecha": "2018-03-02",
+          "grabacion": "f55b8704-f119-4103-9988-0eb4f713c880",
+          "via": "isrc"
+        },
+        "anio_mb": 2018
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-070",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Juice WRLD",
+      "titulo": "Lucid Dreams",
+      "anio": 2018,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "67a0mDgFlYXRznyyImBbJu"
+      },
+      "spotify": "67a0mDgFlYXRznyyImBbJu",
+      "duracion_ms": 239835,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "67a0mDgFlYXRznyyImBbJu",
+          "nombre": "Lucid Dreams",
+          "artistas": "Juice WRLD",
+          "disco": "Goodbye & Good Riddance (Anniversary)",
+          "tipo": "album",
+          "fecha": "2021-05-28",
+          "isrc": "USUG11801302"
+        },
+        "musicbrainz": {
+          "fecha": "2017-06-15",
+          "grabacion": "19c232bc-1960-4df2-bbc9-7742b7180a7f",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2017
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-071",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Paulo Londra",
+      "titulo": "Adán y Eva",
+      "anio": 2018,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6FyRXC8tJUh863JCkyWqtk"
+      },
+      "spotify": "6FyRXC8tJUh863JCkyWqtk",
+      "duracion_ms": 258638,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6FyRXC8tJUh863JCkyWqtk",
+          "nombre": "Adan y Eva",
+          "artistas": "Paulo Londra",
+          "disco": "Adan y Eva",
+          "tipo": "single",
+          "fecha": "2018-11-05",
+          "isrc": "USWL11801206"
+        },
+        "musicbrainz": {
+          "fecha": "2018-11-05",
+          "grabacion": "51bee18f-0e72-41db-a4d3-d27db4809506",
+          "via": "isrc"
+        },
+        "anio_mb": 2018
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-072",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Lil Nas X",
+      "titulo": "Old Town Road",
+      "anio": 2019,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "0F7FA14euOIX8KcbEturGH"
+      },
+      "spotify": "0F7FA14euOIX8KcbEturGH",
+      "duracion_ms": 113000,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0F7FA14euOIX8KcbEturGH",
+          "nombre": "Old Town Road",
+          "artistas": "Lil Nas X",
+          "disco": "7",
+          "tipo": "album",
+          "fecha": "2019-06-21",
+          "isrc": "USSM11901941"
+        },
+        "musicbrainz": {
+          "fecha": "2018-12-03",
+          "grabacion": "4d1bb5a1-14ba-438d-b96d-070704f400f5",
+          "via": "isrc"
+        },
+        "anio_mb": 2018
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-073",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Doja Cat",
+      "titulo": "Say So",
+      "anio": 2019,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3Dv1eDb0MEgF93GpLXlucZ"
+      },
+      "spotify": "3Dv1eDb0MEgF93GpLXlucZ",
+      "duracion_ms": 237894,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3Dv1eDb0MEgF93GpLXlucZ",
+          "nombre": "Say So",
+          "artistas": "Doja Cat",
+          "disco": "Hot Pink",
+          "tipo": "album",
+          "fecha": "2019-11-07",
+          "isrc": "USRC11903454"
+        },
+        "musicbrainz": {
+          "fecha": "2019-11-07",
+          "grabacion": "5cd7baaf-e1f7-49fb-981a-cf502c165fe9",
+          "via": "isrc"
+        },
+        "anio_mb": 2019
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-074",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Wos",
+      "titulo": "Canguro",
+      "anio": 2019,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4wyNKAZe82BNlp2lHiR1FX"
+      },
+      "spotify": "4wyNKAZe82BNlp2lHiR1FX",
+      "duracion_ms": 196745,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4wyNKAZe82BNlp2lHiR1FX",
+          "nombre": "CANGURO",
+          "artistas": "WOS",
+          "disco": "CANGURO",
+          "tipo": "single",
+          "fecha": "2019-08-09",
+          "isrc": "QM6P41996460"
+        },
+        "musicbrainz": {
+          "fecha": "2019-08-09",
+          "grabacion": "ce293b2f-252d-4044-9f97-4d74e99a4ec2",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2019
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-075",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Duki",
+      "titulo": "Goteo",
+      "anio": 2019,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1EoEU4HY57qaITp06TkC6B"
+      },
+      "spotify": "1EoEU4HY57qaITp06TkC6B",
+      "duracion_ms": 164457,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1EoEU4HY57qaITp06TkC6B",
+          "nombre": "Goteo",
+          "artistas": "Duki",
+          "disco": "Goteo",
+          "tipo": "single",
+          "fecha": "2019-08-07",
+          "isrc": "ARBEC1900003"
+        },
+        "musicbrainz": {
+          "fecha": "2019-11-01",
+          "grabacion": "7ee1b6cb-852f-4c9c-9879-bf60f5d27817",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2019
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-076",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Nicki Nicole",
+      "titulo": "Wapo traketero",
+      "anio": 2019,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5ctNuquTVDsfMb9jKzsYu0"
+      },
+      "spotify": "5ctNuquTVDsfMb9jKzsYu0",
+      "duracion_ms": 181000,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5ctNuquTVDsfMb9jKzsYu0",
+          "nombre": "Wapo Traketero",
+          "artistas": "Nicki Nicole",
+          "disco": "Wapo Traketero",
+          "tipo": "single",
+          "fecha": "2019-04-26",
+          "isrc": "ARBEC1800075"
+        },
+        "musicbrainz": {
+          "fecha": "2019",
+          "grabacion": "59406c83-2ae3-4c9d-9169-f9ec832b9152",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2019
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-077",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Paulo Londra",
+      "titulo": "Tal vez",
+      "anio": 2019,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5jW3rF4URMdK7tO2xjS5EI"
+      },
+      "spotify": "5jW3rF4URMdK7tO2xjS5EI",
+      "duracion_ms": 263899,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5jW3rF4URMdK7tO2xjS5EI",
+          "nombre": "Tal Vez",
+          "artistas": "Paulo Londra",
+          "disco": "Homerun",
+          "tipo": "album",
+          "fecha": "2019-05-23",
+          "isrc": "USWL11900063"
+        },
+        "musicbrainz": {
+          "fecha": "2019-04-03",
+          "grabacion": "032f6de5-fd07-4f22-be45-3f4c7d0c4fa6",
+          "via": "isrc"
+        },
+        "anio_mb": 2019
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-078",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Trueno",
+      "titulo": "Mamichula",
+      "anio": 2020,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "0TUW9faHNaBmi89wsYGp9y"
+      },
+      "spotify": "0TUW9faHNaBmi89wsYGp9y",
+      "duracion_ms": 219201,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0TUW9faHNaBmi89wsYGp9y",
+          "nombre": "Mamichula - con Nicki Nicole",
+          "artistas": "Trueno, Nicki Nicole, Bizarrap, Taiu, tatool",
+          "disco": "Atrevido",
+          "tipo": "album",
+          "fecha": "2020-07-23",
+          "isrc": "ARRWN2000010"
+        },
+        "musicbrainz": {
+          "fecha": "2020-07-23",
+          "grabacion": "7614b4d2-0043-45bd-810c-79cf08e50315",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2020
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-079",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Bizarrap",
+      "titulo": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+      "anio": 2020,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "78SeXVRJ7KCqVmOwTiFjnI"
+      },
+      "spotify": "78SeXVRJ7KCqVmOwTiFjnI",
+      "duracion_ms": 171215,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "78SeXVRJ7KCqVmOwTiFjnI",
+          "nombre": "Nathy Peluso: Bzrp Music Sessions, Vol. 36/66",
+          "artistas": "Bizarrap, NATHY PELUSO",
+          "disco": "Nathy Peluso: Bzrp Music Sessions, Vol. 36/66",
+          "tipo": "single",
+          "fecha": "2020-11-27",
+          "isrc": "UYB282001011"
+        },
+        "musicbrainz": {
+          "fecha": "2020-11-27",
+          "grabacion": "d5264ce1-4d32-4918-a856-857defa5ee1b",
+          "via": "isrc"
+        },
+        "anio_mb": 2020
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-080",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Residente",
+      "titulo": "René",
+      "anio": 2020,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6gm12xlADJwiBbHIKBXzGW"
+      },
+      "spotify": "6gm12xlADJwiBbHIKBXzGW",
+      "duracion_ms": 457591,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6gm12xlADJwiBbHIKBXzGW",
+          "nombre": "René",
+          "artistas": "Residente",
+          "disco": "René",
+          "tipo": "single",
+          "fecha": "2020-02-27",
+          "isrc": "USSD12000022"
+        },
+        "musicbrainz": {
+          "fecha": "2020-02-29",
+          "grabacion": "9972f3c5-8203-4fc1-83dc-4ebbde8c9291",
+          "via": "isrc"
+        },
+        "anio_mb": 2020
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-081",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Wos",
+      "titulo": "Arrancármelo",
+      "anio": 2022,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2x8oBuYaObjqHqgGuIUZ0b"
+      },
+      "spotify": "2x8oBuYaObjqHqgGuIUZ0b",
+      "duracion_ms": 183547,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2x8oBuYaObjqHqgGuIUZ0b",
+          "nombre": "ARRANCÁRMELO",
+          "artistas": "WOS",
+          "disco": "ARRANCÁRMELO",
+          "tipo": "single",
+          "fecha": "2022-04-06",
+          "isrc": "UYB282206048"
+        },
+        "musicbrainz": {
+          "fecha": "2022-04-06",
+          "grabacion": "9d1a9a67-8d04-4fbb-aa46-7ef0a79d8baa",
+          "via": "isrc"
+        },
+        "anio_mb": 2022
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-082",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Bizarrap",
+      "titulo": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "anio": 2022,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2tTmW7RDtMQtBk7m2rYeSw"
+      },
+      "spotify": "2tTmW7RDtMQtBk7m2rYeSw",
+      "duracion_ms": 198937,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2tTmW7RDtMQtBk7m2rYeSw",
+          "nombre": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
+          "artistas": "Bizarrap, Quevedo",
+          "disco": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
+          "tipo": "single",
+          "fecha": "2022-07-06",
+          "isrc": "UYB282201028"
+        },
+        "musicbrainz": {
+          "fecha": "2022-07-06",
+          "grabacion": "ceb41ddc-6fce-469e-b5b5-36106ca4aa18",
+          "via": "isrc"
+        },
+        "anio_mb": 2022
+      }
+    },
+    {
+      "id": "hip-hop-rap-y-trap-083",
+      "mazo": "hip-hop-rap-y-trap",
+      "artista": "Kendrick Lamar",
+      "titulo": "Not Like Us",
+      "anio": 2024,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6ZWalyzfVcNCc1XwKnnyyn"
+      },
+      "spotify": "6ZWalyzfVcNCc1XwKnnyyn",
+      "duracion_ms": 274192,
+      "verificacion": {
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6ZWalyzfVcNCc1XwKnnyyn",
+          "nombre": "Not Like Us",
+          "artistas": "Kendrick Lamar",
+          "disco": "Not Like Us",
+          "tipo": "single",
+          "fecha": "2024-05-03",
+          "isrc": "USUG12408506"
+        },
+        "musicbrainz": {
+          "fecha": "2024",
+          "grabacion": "78b9afd5-72d2-46e4-be86-184efd0770eb",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2024
+      }
+    },
+    {
       "id": "one-hit-wonders-001",
       "mazo": "one-hit-wonders",
       "artista": "Domenico Modugno",
@@ -10500,7 +15327,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": true,
-        "spotify": null
+        "spotify": "006Ndmw2hHxvnLbJsBFnPx"
       },
       "spotify": "006Ndmw2hHxvnLbJsBFnPx",
       "duracion_ms": 216373,
@@ -10540,7 +15367,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "4uaffKRsN1NEQWVmkwMDAZ"
       },
       "spotify": "4uaffKRsN1NEQWVmkwMDAZ",
       "duracion_ms": 176973,
@@ -10578,7 +15405,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "0Z3xhSOhrawLV81YdiDiiJ"
       },
       "spotify": "0Z3xhSOhrawLV81YdiDiiJ",
       "duracion_ms": 187533,
@@ -10616,7 +15443,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": true,
-        "spotify": null
+        "spotify": "1nOSlE8I7bLmvLw6tRlJSh"
       },
       "spotify": "1nOSlE8I7bLmvLw6tRlJSh",
       "duracion_ms": 239866,
@@ -10656,7 +15483,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "34yLFPvEIL9Xpgjnpac6tw"
       },
       "spotify": "34yLFPvEIL9Xpgjnpac6tw",
       "duracion_ms": 215800,
@@ -10694,7 +15521,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "7K8QsHbmUpSX37oOCL4e2g"
       },
       "spotify": "7K8QsHbmUpSX37oOCL4e2g",
       "duracion_ms": 197935,
@@ -10732,7 +15559,7 @@
         "reserva": false,
         "okAnio": true,
         "okVersion": true,
-        "spotify": null
+        "spotify": "3eKIqI2cNG4vAXJlr7am9a"
       },
       "spotify": "3eKIqI2cNG4vAXJlr7am9a",
       "duracion_ms": 241485,
@@ -10804,7 +15631,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "2XVQdI3m0giGxNrwUhV3yP"
       },
       "spotify": "2XVQdI3m0giGxNrwUhV3yP",
       "duracion_ms": 470346,
@@ -10842,7 +15669,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "7o7E1nrHWncYY7PY94gCiX"
       },
       "spotify": "7o7E1nrHWncYY7PY94gCiX",
       "duracion_ms": 252773,
@@ -10880,7 +15707,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "7iN2AiwBr3FKuloMzDjIQO"
       },
       "spotify": "7iN2AiwBr3FKuloMzDjIQO",
       "duracion_ms": 154733,
@@ -10920,7 +15747,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "5b6v3PGTEXnOEh4hy9aPhS"
       },
       "spotify": "5b6v3PGTEXnOEh4hy9aPhS",
       "duracion_ms": 253199,
@@ -10996,7 +15823,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "5ZpDiWqCG93McsnuHu9uCR"
       },
       "spotify": "5ZpDiWqCG93McsnuHu9uCR",
       "duracion_ms": 277480,
@@ -11072,7 +15899,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "3dVS0btHyIciq1iNn8fXMV"
       },
       "spotify": "3dVS0btHyIciq1iNn8fXMV",
       "duracion_ms": 219468,
@@ -11110,7 +15937,7 @@
         "reserva": false,
         "okAnio": true,
         "okVersion": false,
-        "spotify": null
+        "spotify": "6WEBIVqiEsevfgJefTyuQQ"
       },
       "spotify": "6WEBIVqiEsevfgJefTyuQQ",
       "duracion_ms": 221520,
@@ -11150,7 +15977,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "6ybNzYikzBr4ayhsbGSHfB"
       },
       "spotify": "6ybNzYikzBr4ayhsbGSHfB",
       "duracion_ms": 536066,
@@ -11190,7 +16017,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "2fv6Qeb7Z3uaqBeYINvJ0f"
       },
       "spotify": "2fv6Qeb7Z3uaqBeYINvJ0f",
       "duracion_ms": 229440,
@@ -11228,7 +16055,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "1mCsF9Tw4AkIZOjvZbZZdT"
       },
       "spotify": "1mCsF9Tw4AkIZOjvZbZZdT",
       "duracion_ms": 184480,
@@ -11266,7 +16093,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "4SfYXfkltDIUVWdHkOnZn0"
       },
       "spotify": "4SfYXfkltDIUVWdHkOnZn0",
       "duracion_ms": 220160,
@@ -11339,7 +16166,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "0DfG1ltJnZyq4Tx3ZLL7ZU"
       },
       "spotify": "0DfG1ltJnZyq4Tx3ZLL7ZU",
       "duracion_ms": 202236,
@@ -11377,7 +16204,7 @@
         "reserva": false,
         "okAnio": true,
         "okVersion": false,
-        "spotify": null
+        "spotify": "273uCXd7NPrInaiNqtkOrA"
       },
       "spotify": "273uCXd7NPrInaiNqtkOrA",
       "duracion_ms": 378946,
@@ -11417,7 +16244,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "3wK7oxonZMb1kPcfV0PJkl"
       },
       "spotify": "3wK7oxonZMb1kPcfV0PJkl",
       "duracion_ms": 238333,
@@ -11569,7 +16396,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "1F8cCNOchnil7feYXXD2In"
       },
       "spotify": "1F8cCNOchnil7feYXXD2In",
       "duracion_ms": 280040,
@@ -11645,7 +16472,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "1EFjbeFr7WhVhN7eoTOgR2"
       },
       "spotify": "1EFjbeFr7WhVhN7eoTOgR2",
       "duracion_ms": 234173,
@@ -11683,7 +16510,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": true,
-        "spotify": null
+        "spotify": "4mwh83eddomW2ydl0BbiZS"
       },
       "spotify": "4mwh83eddomW2ydl0BbiZS",
       "duracion_ms": 250931,
@@ -11723,7 +16550,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "5YBnb8pOGOHkkGUEoqreWL"
       },
       "spotify": "5YBnb8pOGOHkkGUEoqreWL",
       "duracion_ms": 170466,
@@ -11761,7 +16588,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "0jWgAnTrNZmOGmqgvHhZEm"
       },
       "spotify": "0jWgAnTrNZmOGmqgvHhZEm",
       "duracion_ms": 295533,
@@ -11799,7 +16626,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "76nvqWPFucUra1xCkN1tnD"
       },
       "spotify": "76nvqWPFucUra1xCkN1tnD",
       "duracion_ms": 235173,
@@ -11875,7 +16702,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": true,
-        "spotify": null
+        "spotify": "5vu0SrOmfXVZfRCBl8sABH"
       },
       "spotify": "5vu0SrOmfXVZfRCBl8sABH",
       "duracion_ms": 240133,
@@ -11915,7 +16742,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "22HYEJveCvykVDHDiEEmjZ"
       },
       "spotify": "22HYEJveCvykVDHDiEEmjZ",
       "duracion_ms": 278778,
@@ -11991,7 +16818,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "1Jaah2tmN9Hv81A87KZ1MU"
       },
       "spotify": "1Jaah2tmN9Hv81A87KZ1MU",
       "duracion_ms": 244666,
@@ -12029,7 +16856,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "3i6qNxyVgIdUZTTi5m25EM"
       },
       "spotify": "3i6qNxyVgIdUZTTi5m25EM",
       "duracion_ms": 252760,
@@ -12067,7 +16894,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "303ccTay2FiDTZ9fZ2AdBt"
       },
       "spotify": "303ccTay2FiDTZ9fZ2AdBt",
       "duracion_ms": 403293,
@@ -12105,7 +16932,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "3l8WwsQTLPysuRph7WIRYq"
       },
       "spotify": "3l8WwsQTLPysuRph7WIRYq",
       "duracion_ms": 220293,
@@ -12143,7 +16970,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "3gyYkQZkgJ3skbCmseIK7P"
       },
       "spotify": "3gyYkQZkgJ3skbCmseIK7P",
       "duracion_ms": 446466,
@@ -12219,7 +17046,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "1H5tvpoApNDxvxDexoaAUo"
       },
       "spotify": "1H5tvpoApNDxvxDexoaAUo",
       "duracion_ms": 198400,
@@ -12295,7 +17122,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": true,
-        "spotify": null
+        "spotify": "1LWcT4pjjNjOVNw50VlkbK"
       },
       "spotify": "1LWcT4pjjNjOVNw50VlkbK",
       "duracion_ms": 214355,
@@ -12335,7 +17162,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "52Zr0sinhWTCRrQhRRY4EP"
       },
       "spotify": "52Zr0sinhWTCRrQhRRY4EP",
       "duracion_ms": 215386,
@@ -12411,7 +17238,7 @@
         "reserva": false,
         "okAnio": true,
         "okVersion": false,
-        "spotify": null
+        "spotify": "0mUyMawtxj1CJ76kn9gIZK"
       },
       "spotify": "0mUyMawtxj1CJ76kn9gIZK",
       "duracion_ms": 233640,
@@ -12451,7 +17278,7 @@
         "reserva": false,
         "okAnio": true,
         "okVersion": true,
-        "spotify": null
+        "spotify": "0Bo5fjMtTfCD8vHGebivqc"
       },
       "spotify": "0Bo5fjMtTfCD8vHGebivqc",
       "duracion_ms": 171739,
@@ -12492,7 +17319,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "1vxw6aYJls2oq3gW0DujAo"
       },
       "spotify": "1vxw6aYJls2oq3gW0DujAo",
       "duracion_ms": 177933,
@@ -12606,7 +17433,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": true,
-        "spotify": null
+        "spotify": "0INaMqjJJe1BZpnWuCxDzt"
       },
       "spotify": "0INaMqjJJe1BZpnWuCxDzt",
       "duracion_ms": 170893,
@@ -12684,7 +17511,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "01XFgRZfZI7oBagNf1Loml"
       },
       "spotify": "01XFgRZfZI7oBagNf1Loml",
       "duracion_ms": 196664,
@@ -12722,7 +17549,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "2XU0oxnq2qxCpomAAuJY8K"
       },
       "spotify": "2XU0oxnq2qxCpomAAuJY8K",
       "duracion_ms": 209438,
@@ -13920,29 +18747,27 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": true,
-        "spotify": "5FdalXawYnUXKUUKEuiZiR"
+        "spotify": "5T7ywazdGIydr6JCW6t02j"
       },
-      "spotify": "5FdalXawYnUXKUUKEuiZiR",
-      "duracion_ms": 188000,
+      "spotify": "5T7ywazdGIydr6JCW6t02j",
+      "duracion_ms": 257766,
       "verificacion": {
-        "fecha": "2026-11-13",
+        "fecha": "2026-11-20",
         "estado": "ok",
-        "motivos": [
-          "disco_posterior"
-        ],
+        "motivos": [],
         "spotify": {
-          "id": "5FdalXawYnUXKUUKEuiZiR",
-          "nombre": "Smooth Criminal",
-          "artistas": "Michael Jackson, David Garrett, Ivan Kojouharov, Bulgarian Symphony Orchestra",
-          "disco": "Encore",
+          "id": "5T7ywazdGIydr6JCW6t02j",
+          "nombre": "Smooth Criminal - 2012 Remaster",
+          "artistas": "Michael Jackson",
+          "disco": "Bad (Remastered)",
           "tipo": "album",
-          "fecha": "2008-01-01",
-          "isrc": "GBBBA0841930"
+          "fecha": "1987-08-31",
+          "isrc": "USSM11204989"
         },
         "musicbrainz": {
           "fecha": "1987",
           "grabacion": "bf16e494-bb17-4f6f-b30a-4104c6d19e8f",
-          "via": "búsqueda"
+          "via": "isrc"
         },
         "anio_mb": 1987
       },
@@ -15890,22 +20715,22 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": "0s3olIAndtYz8sEBTyCKjW"
+        "spotify": "60nZcImufyMA1MKQY3dcCH"
       },
-      "spotify": "0s3olIAndtYz8sEBTyCKjW",
-      "duracion_ms": 174920,
+      "spotify": "60nZcImufyMA1MKQY3dcCH",
+      "duracion_ms": 233306,
       "verificacion": {
-        "fecha": "2026-11-13",
+        "fecha": "2026-11-20",
         "estado": "ok",
         "motivos": [],
         "spotify": {
-          "id": "0s3olIAndtYz8sEBTyCKjW",
-          "nombre": "Happy",
-          "artistas": "Pharrell Williams, Espen Gomperud Alvim, Vokalensemblet Skrik, Jon Flydal Blichfeldt",
-          "disco": "Gnist",
+          "id": "60nZcImufyMA1MKQY3dcCH",
+          "nombre": "Happy - From \"Despicable Me 2\"",
+          "artistas": "Pharrell Williams",
+          "disco": "G I R L",
           "tipo": "album",
-          "fecha": "2014-12-01",
-          "isrc": "QMFME2103574"
+          "fecha": "2014-03-03",
+          "isrc": "USQ4E1300686"
         },
         "musicbrainz": {
           "fecha": "2013",
@@ -18689,27 +23514,27 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": "1agM7M68LaVYg6SjPDByz9"
+        "spotify": "1rfofaqEpACxVEHIZBJe6W"
       },
-      "spotify": "1agM7M68LaVYg6SjPDByz9",
-      "duracion_ms": 193160,
+      "spotify": "1rfofaqEpACxVEHIZBJe6W",
+      "duracion_ms": 217308,
       "verificacion": {
-        "fecha": "2026-11-13",
+        "fecha": "2026-11-20",
         "estado": "ok",
         "motivos": [],
         "spotify": {
-          "id": "1agM7M68LaVYg6SjPDByz9",
-          "nombre": "Havana",
-          "artistas": "Camila Cabello, Jeffery Williams, Pharrell Williams, Ali Tamposi, Adam Feeney, WATT, Brittany Hazard, Brian Lee, Kaan Gunesberk, Louis Bell",
-          "disco": "Peaceful Guitar Music",
+          "id": "1rfofaqEpACxVEHIZBJe6W",
+          "nombre": "Havana (feat. Young Thug)",
+          "artistas": "Camila Cabello, Young Thug",
+          "disco": "Camila",
           "tipo": "album",
-          "fecha": "2018-07-08",
-          "isrc": "GBMNA1811133"
+          "fecha": "2018-01-12",
+          "isrc": "USSM11706905"
         },
         "musicbrainz": {
           "fecha": "2017-03-11",
           "grabacion": "d782a964-71fe-4adb-af01-cd7769c32ae8",
-          "via": "búsqueda"
+          "via": "isrc"
         },
         "anio_mb": 2017
       }
@@ -20579,32 +25404,35 @@
       "artista": "Ricky Martin",
       "titulo": "La copa de la vida",
       "anio": 1998,
-      "fuera": true,
+      "fuera": false,
       "opciones": {
-        "fuera": true,
+        "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
-        "spotify": "5fyncGBCyPmMZTdTNRbXfA"
+        "okVersion": true,
+        "spotify": "5PrGG8gAKXl4bi1odVla7l"
       },
-      "spotify": "5fyncGBCyPmMZTdTNRbXfA",
-      "duracion_ms": 279989,
+      "spotify": "5PrGG8gAKXl4bi1odVla7l",
+      "duracion_ms": 267658,
       "verificacion": {
-        "fecha": "2026-11-13",
-        "estado": "revisar",
-        "motivos": [
-          "version_dudosa: compilado",
-          "error en MusicBrainz: MusicBrainz 400"
-        ],
+        "fecha": "2026-11-20",
+        "estado": "ok",
+        "motivos": [],
         "spotify": {
-          "id": "5fyncGBCyPmMZTdTNRbXfA",
-          "nombre": "Copa de la Vida",
-          "artistas": "Ricky Martin, Østerdølens Musikkorps",
-          "disco": "Nm Janitsjar 2012 - Lottodivisjon",
-          "tipo": "compilation",
-          "fecha": "2012-04-13",
-          "isrc": "nocjb1218080"
-        }
+          "id": "5PrGG8gAKXl4bi1odVla7l",
+          "nombre": "La Copa de la Vida (La Canción Oficial de la Copa Mundial, Francia '98) - Spanish Version",
+          "artistas": "Ricky Martin",
+          "disco": "Vuelve",
+          "tipo": "album",
+          "fecha": "1998-02-10",
+          "isrc": "NLB639810015"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "90d852a9-d37f-4fee-970f-2442e5b86a2f",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
       },
       "pelicula": null
     },
@@ -25586,32 +30414,29 @@
         "reserva": false,
         "okAnio": true,
         "okVersion": true,
-        "spotify": "0EzrQy3TgroefG4ar9tfYC"
+        "spotify": "3ix6K4wZY29bCujrSznwFZ"
       },
-      "spotify": "0EzrQy3TgroefG4ar9tfYC",
-      "duracion_ms": 142133,
+      "spotify": "3ix6K4wZY29bCujrSznwFZ",
+      "duracion_ms": 457675,
       "verificacion": {
-        "fecha": "2026-11-14",
+        "fecha": "2026-11-20",
         "estado": "ok",
-        "motivos": [
-          "disco_posterior",
-          "anio_distinto"
-        ],
+        "motivos": [],
         "spotify": {
-          "id": "0EzrQy3TgroefG4ar9tfYC",
-          "nombre": "Let's Dance",
-          "artistas": "David Bowie, Angèle Dubeau, La Pietà",
-          "disco": "Let's Dance",
+          "id": "3ix6K4wZY29bCujrSznwFZ",
+          "nombre": "Let's Dance - 2018 Remaster",
+          "artistas": "David Bowie",
+          "disco": "Let's Dance (2018 Remaster)",
           "tipo": "album",
-          "fecha": "1999",
-          "isrc": "USA370524060"
+          "fecha": "1983-04-14",
+          "isrc": "USJT11700482"
         },
         "musicbrainz": {
-          "fecha": "1985",
-          "grabacion": "3c602532-8d0d-476a-9af2-9321881bd44a",
-          "via": "búsqueda"
+          "fecha": "1983-03",
+          "grabacion": "c7ffdbaf-cda4-41a6-a175-b289f3e8596a",
+          "via": "isrc"
         },
-        "anio_mb": 1985
+        "anio_mb": 1983
       },
       "pelicula": null
     },
@@ -36988,24 +41813,22 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": true,
-        "spotify": "65Qrbg8lrpnboMq7MVC7N8"
+        "spotify": "2A2EgOYotJAkS93OdhoHPd"
       },
-      "spotify": "65Qrbg8lrpnboMq7MVC7N8",
-      "duracion_ms": 275400,
+      "spotify": "2A2EgOYotJAkS93OdhoHPd",
+      "duracion_ms": 228133,
       "verificacion": {
-        "fecha": "2026-11-13",
+        "fecha": "2026-11-20",
         "estado": "ok",
-        "motivos": [
-          "disco_posterior"
-        ],
+        "motivos": [],
         "spotify": {
-          "id": "65Qrbg8lrpnboMq7MVC7N8",
-          "nombre": "Marcha de la Bronca",
-          "artistas": "Miguel Cantilo, Hilda Lizarazu, Pedro Y Pablo, Ricardo Mollo, Andrés Calamaro, Ruben Rada, Alejandro Lerner, Fabiana Cantilo, Moris, León Gieco",
-          "disco": "Clásicos",
+          "id": "2A2EgOYotJAkS93OdhoHPd",
+          "nombre": "La Marcha De La Bronca",
+          "artistas": "Pedro Y Pablo",
+          "disco": "Yo Vivo en Esta Ciudad",
           "tipo": "album",
-          "fecha": "2005",
-          "isrc": "ES7180564914"
+          "fecha": "1970-12-09",
+          "isrc": "ARF109902100"
         },
         "musicbrainz": {
           "fecha": "1970-10-13",

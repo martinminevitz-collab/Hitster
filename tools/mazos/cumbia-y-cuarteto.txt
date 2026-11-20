@@ -1,7 +1,7 @@
 # nombre: Cumbia, cuarteto y reggaetón
 # playlist: 178gxSj44ftGg3JYGtNAOl
 # formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
-Los Mirlos | La danza de los mirlos | 1974 | spotify:2jnq2bneNUS6pgIvuVhXjs, ok-año, ok-versión
+Los Mirlos | La danza de los mirlos | 1974 | spotify:0AnwIwxt96ERVRohy7hcnU, ok-año, ok-versión
 Los Palmeras | Soy sabalero | 1985 | spotify:6MIulZ9FG6Td02EpvFC5ZL, ok-año, ok-versión
 La Mona Jiménez | Quién se ha tomado todo el vino | 1984 | spotify:7cIuLJf6nziM45HNA5muIG, fuera
 La Mona Jiménez | Beso a beso | 1998 | spotify:0vV3UvotpuHNC3mmKbUpSS
@@ -20,7 +20,7 @@ Rodrigo | Ocho cuarenta | 1999 | spotify:6jDx3MNG0yJdrvEBZohKBE
 Rodrigo | Cómo le digo | 1999 | spotify:4nH1lpWkgzQPpTYPPjWKaI
 Rodrigo | Amor clasificado | 1999 | spotify:5MK642wCaNr9hRDZ3kWyDX
 Ráfaga | Mentirosa | 1999 | spotify:3Iw4UVS7fo2TdD6Spmgqaj, ok-año
-Rodrigo | La mano de Dios | 2000 | spotify:7HPE3gX2LPxRAGlzyMg14u
+Rodrigo | La mano de Dios | 2000 | spotify:6bQkinbnTaWeLtMObzIxf0, ok-versión
 Rodrigo | Soy cordobés | 2000 | spotify:5wG4J1UECH0c42YhMhSkcS
 Amar Azul | Yo me enamoré | 1997 | spotify:6pHggeQk3ZnOm10uAnsqAG, ok-versión
 Damas Gratis | Se te ve la tanga | 2000 | spotify:3GUMMzUB7Kk0BSqxEDyieS, ok-versión

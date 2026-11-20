@@ -1,0 +1,86 @@
+# nombre: Hip hop, rap y trap
+# playlist: 4WUz1GvAHtd9O9f0juavaQ
+# formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión)
+The Sugarhill Gang | Rapper's Delight | 1979 | ok-año, ok-versión, spotify:0hYnLnEWVlMH7BRQ951BGY
+Grandmaster Flash & The Furious Five | The Message | 1982 | fuera, spotify:5g52MCuuPbV4vsKKMTZl0q
+Run-DMC | It's Tricky | 1986 | fuera
+Beastie Boys | (You Gotta) Fight for Your Right (To Party!) | 1986 | ok-versión, spotify:5ODVxUulyknEVXwjDaZpkp
+Salt-N-Pepa | Push It | 1986 | spotify:6sT9MWlJManry3EQwf4V80
+N.W.A | Straight Outta Compton | 1988 | spotify:5QKM7U6l7bMdJItolkM4x4
+Tone-Lōc | Funky Cold Medina | 1989 | spotify:5YIF6HSOtHN9HdcE5IPzMe
+Young MC | Bust a Move | 1989 | fuera, spotify:60iIUp7tWx8gQlKgLTZop9
+Public Enemy | Fight the Power | 1989 | spotify:6JmrKTzhhiC31o7vTTxRE8
+MC Hammer | U Can't Touch This | 1990 | spotify:1B75hgRqe7A4fwee3g3Wmu
+Vanilla Ice | Ice Ice Baby | 1990 | spotify:11d9oUiwHuYt216EFA2tiz
+LL Cool J | Mama Said Knock You Out | 1990 | spotify:6C7ZgThn6Yan5MTZdAEEFw
+Naughty by Nature | O.P.P. | 1991 | spotify:1k28sDTLOz942qa3wEtMQE
+House of Pain | Jump Around | 1992 | spotify:6JymsaWDHk2Yj4e0yNBIFH
+Dr. Dre | Nuthin' but a "G" Thang | 1992 | spotify:5Tbpp3OLLClPJF8t1DmrFD
+Cypress Hill | Insane in the Brain | 1993 | spotify:1oTHteQbmJw15rPxPVXUTv
+Wu-Tang Clan | C.R.E.A.M. | 1993 | ok-versión, spotify:119c93MHjrDLJTApCVGpvx
+Snoop Dogg | Gin and Juice | 1994 | spotify:39QBkWKnap8wRSW4WB9OK0
+The Notorious B.I.G. | Juicy | 1994 | spotify:5ByAIlEEnxYdvpnezg7HTX, ok-versión
+Warren G | Regulate | 1994 | spotify:4uIKHABS2ixy0AW0Y31rj4
+Beastie Boys | Sabotage | 1994 | spotify:0Puj4YlTm6xNzDDADXHMI9
+Coolio | Gangsta's Paradise | 1995 | spotify:1DIXPcTDzTj8ZMHt3PDt8p
+2Pac | California Love | 1995 | ok-año, ok-versión, spotify:6sWJr1iryG4A1Luv0p4y15
+Fugees | Killing Me Softly with His Song | 1996 | ok-año, spotify:0Q0IVlqMV64kNLlwjPj0Hl
+The Notorious B.I.G. | Hypnotize | 1997 | ok-año, spotify:7KwZNVEaqikRSBSpyhXK2j
+Puff Daddy | I'll Be Missing You | 1997 | fuera
+Will Smith | Gettin' Jiggy wit It | 1997 | spotify:0weAUscowxeqDtpCgtbpgp
+Will Smith | Men in Black | 1997 | spotify:3erVSz5zNidXId7Joo4bg4, ok-versión
+Illya Kuryaki and the Valderramas | Coolo | 1995 | fuera
+Lauryn Hill | Doo Wop (That Thing) | 1998 | spotify:0uEp9E98JB5awlA084uaIg
+2Pac | Changes | 1998 | ok-versión, spotify:1ofhfV90EnYhEr7Un2fWiv
+Dr. Dre | Still D.R.E. | 1999 | spotify:503OTo2dSqe7qk76rgsbep
+Eminem | The Real Slim Shady | 2000 | ok-año, spotify:3yfqSUWxFvZELEM4PmlwIR
+Eminem | Stan | 2000 | spotify:3UmaczJpikHgJFyBTAJVoz
+OutKast | Ms. Jackson | 2000 | spotify:0I3q5fE6wg7LIfHGngUTnV
+Missy Elliott | Get Ur Freak On | 2001 | spotify:6zsk6uF3MxfIeHPlubKBvR
+Eminem | Without Me | 2002 | spotify:7lQ8MOhq6IN2w8EYcFNSUk
+Eminem | Lose Yourself | 2002 | spotify:1v7L65Lzy0j0vdpRjJewt1, ok-versión
+Missy Elliott | Work It | 2002 | spotify:3jagJCUbdqhDSPuxP8cAqF
+Nelly | Dilemma | 2002 | spotify:0ARK753YaiJbpLUk7z5yIM
+Nelly | Hot in Herre | 2002 | spotify:04KTF78FFg8sOHC1BADqbY
+50 Cent | In da Club | 2003 | spotify:7iL6o9tox1zgHpKUfh9vuC
+The Black Eyed Peas | Where Is the Love? | 2003 | spotify:0xmjwnQ3FNE6HuWCt2nHdZ
+Jay-Z | 99 Problems | 2003 | spotify:7IdFdRlCjUi6kkhbPoRfnw
+Snoop Dogg | Drop It Like It's Hot | 2004 | spotify:2NBQmPrOEEjA8VbeWOQGxO
+50 Cent | Candy Shop | 2005 | spotify:7Cw7lE5VJt4avuE1xjeM4q
+Kanye West | Gold Digger | 2005 | spotify:1PS1QMdUqOal0ai3Gt7sDQ
+Calle 13 | Atrévete-te-te | 2005 | spotify:68w7WU7ak4ApUBiwx0HnpY
+Kanye West | Stronger | 2007 | spotify:2VysjemU93ac5oRg4MfYGp
+Lil Wayne | Lollipop | 2008 | spotify:5jnxxpX2834SB6LJ0S73Uz
+T.I. | Whatever You Like | 2008 | ok-año, spotify:1IAzD1muglOxOcPbUHs70R
+Jay-Z | Empire State of Mind | 2009 | spotify:2igwFfvr1OAGX9SKDCPBwO
+Wiz Khalifa | Black and Yellow | 2010 | spotify:6NdkIejC39Pcwg9Buw5f2B
+Nicki Minaj | Super Bass | 2010 | spotify:3hlksXnvbKogFdPbpO9vel
+Macklemore & Ryan Lewis | Can't Hold Us | 2011 | spotify:3bidbhpOYeV4knp8AIu8Xn, ok-versión
+Macklemore & Ryan Lewis | Thrift Shop | 2012 | ok-versión, spotify:7bYZBVrnRfqeaPbhRyEvK3
+Drake | Hotline Bling | 2015 | spotify:0wwPcA6wtMf6HUMpIRdeP7
+Drake | One Dance | 2016 | spotify:1zi7xx7UVEFkmKfv06H8x0, ok-versión
+Migos | Bad and Boujee | 2016 | ok-versión, spotify:1eZX1EeMN7I99hTV7QzuAw
+Post Malone | Congratulations | 2016 | spotify:3a1lNhkSLSkpJE4MSHpDu9
+Kendrick Lamar | HUMBLE. | 2017 | spotify:131OLY5J8XyfGuSjXRiTRM
+Cardi B | Bodak Yellow | 2017 | spotify:6KBYefIoo7KydImq1uUQlL
+Post Malone | rockstar | 2017 | spotify:19bX4zmC2zDben2ldhoRB3
+Khea | Loca | 2017 | ok-versión, spotify:0vnrhysrKKRdNYFKLAGzRc
+Duki | She Don't Give a FO | 2018 | spotify:03a359wbiUsjN9h6yzXvmS
+Drake | God's Plan | 2018 | spotify:6DCZcSspjsKoFjzjrWoCdn
+Travis Scott | SICKO MODE | 2018 | spotify:2xLMifQCjDGFmkHkpNLD9h
+Childish Gambino | This Is America | 2018 | spotify:0b9oOr2ZgvyQu88wzixux9
+XXXTENTACION | SAD! | 2018 | spotify:3ee8Jmje8o58CHK66QrVC2
+Juice WRLD | Lucid Dreams | 2018 | ok-año, ok-versión, spotify:67a0mDgFlYXRznyyImBbJu
+Paulo Londra | Adán y Eva | 2018 | spotify:6FyRXC8tJUh863JCkyWqtk
+Lil Nas X | Old Town Road | 2019 | ok-año, spotify:0F7FA14euOIX8KcbEturGH
+Doja Cat | Say So | 2019 | spotify:3Dv1eDb0MEgF93GpLXlucZ
+Wos | Canguro | 2019 | spotify:4wyNKAZe82BNlp2lHiR1FX
+Duki | Goteo | 2019 | spotify:1EoEU4HY57qaITp06TkC6B
+Nicki Nicole | Wapo traketero | 2019 | spotify:5ctNuquTVDsfMb9jKzsYu0
+Paulo Londra | Tal vez | 2019 | spotify:5jW3rF4URMdK7tO2xjS5EI
+Trueno | Mamichula | 2020 | spotify:0TUW9faHNaBmi89wsYGp9y, ok-versión
+Bizarrap | Nathy Peluso: Bzrp Music Sessions, Vol. 36 | 2020 | spotify:78SeXVRJ7KCqVmOwTiFjnI
+Residente | René | 2020 | spotify:6gm12xlADJwiBbHIKBXzGW
+Wos | Arrancármelo | 2022 | spotify:2x8oBuYaObjqHqgGuIUZ0b
+Bizarrap | Quevedo: Bzrp Music Sessions, Vol. 52 | 2022 | spotify:2tTmW7RDtMQtBk7m2rYeSw
+Kendrick Lamar | Not Like Us | 2024 | spotify:6ZWalyzfVcNCc1XwKnnyyn

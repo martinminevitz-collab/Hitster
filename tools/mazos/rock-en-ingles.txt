@@ -27,7 +27,7 @@ Black Sabbath | Paranoid | 1970 | spotify:2z71jdeVcC782NgsYZ6N8q
 Deep Purple | Smoke on the Water | 1972 | spotify:5MMnwYs0hIxkENRsbkWJ2G
 David Bowie | Space Oddity | 1969 | spotify:0zViuvCvyMnIkqtMC5hOAE, fuera
 David Bowie | Heroes | 1977 | spotify:7Jh1bpe76CNTCgdgAdBw4Z
-David Bowie | Let's Dance | 1983 | spotify:0EzrQy3TgroefG4ar9tfYC, ok-año, ok-versión
+David Bowie | Let's Dance | 1983 | spotify:3ix6K4wZY29bCujrSznwFZ, ok-año, ok-versión
 Pink Floyd | Money | 1973 | spotify:0vFOzaXqZHahrZp6enQwQb
 Pink Floyd | Wish You Were Here | 1975 | spotify:6mFkJmJqdDVQ1REhVfGgd1
 Pink Floyd | Another Brick in the Wall, Pt. 2 | 1979 | spotify:4gMgiXfqyzZLMhsksGmbQV, ok-año

@@ -1,12 +1,12 @@
 # Revisión de la biblioteca de temas
 
-Generado el 2026-11-18 por `node tools/biblioteca.mjs`.
+Generado el 2026-11-20 por `node tools/biblioteca.mjs`.
 
-**1056 temas** en 9 mazo(s) · **941 listos para jugar** · 1 para revisar · 0 sin procesar · 79 fuera del mazo · 35 en reserva.
+**1182 temas** en 11 mazo(s) · **1060 listos para jugar** · 2 para revisar · 0 sin procesar · 85 fuera del mazo · 35 en reserva.
 
 Las correcciones se hacen en `tools/mazos/*.txt`: el año en la 3ª columna, y en la 4ª (opcional, separadas por comas) `fuera`, `ok-año`, `ok-versión` o `spotify:ID` / link de Spotify para fijar la versión a mano.
 
-## Solo hay remaster (aviso) (49)
+## Solo hay remaster (aviso) (51)
 
 No hay versión sin remasterizar: se usa el remaster del disco original. No hace falta hacer nada.
 
@@ -15,6 +15,8 @@ No hay versión sin remasterizar: se usa el remaster del disco original. No hace
 | Peabo Bryson | A Whole New World | A Whole New World (Aladdin's Theme) - Remastered 2022 | Walt Disney Records The Legacy Collection: Aladdin (2022-09-16) |
 | Sister Sledge | We Are Family | We Are Family - 1995 Remaster | We Are Family (1995 Remaster) (1979) |
 | Kaoma | Lambada | Lambada - Remastered 2022 | Lambada (Remastered 2022) (2022-09-01) |
+| Pet Shop Boys | Go West | Go West - 2018 Remaster; Hidden Track | Very (2018 Remaster) (1993-09-27) |
+| The Notorious B.I.G. | Hypnotize | Hypnotize - 2014 Remaster | Life After Death (2014 Remastered Edition) (1997-03-04) |
 | Soft Cell | Tainted Love | Tainted Love - Remastered 2023 | Non-Stop Erotic Cabaret (1981-11-27) |
 | Phil Collins | In the Air Tonight | In the Air Tonight - 2015 Remaster | Face Value (Deluxe Editon) (1981-01-01) |
 | Pet Shop Boys | West End Girls | West End Girls - 2018 Remaster | Please: Further Listening 1984 - 1986 (2018 Remaster) (1986-03-24) |
@@ -104,7 +106,7 @@ Marcados con `reserva`: no salen en el juego para que haya más artistas distint
 | Gustavo Cerati | Engaña | 1999 |
 | Gustavo Cerati | Cosas imposibles | 2002 |
 
-## Fuera del mazo (79)
+## Fuera del mazo (85)
 
 Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, pasá un link de Spotify con `spotify:` y sacá `fuera`.
 
@@ -138,6 +140,13 @@ Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, 
 | Proyecto Uno | El tiburón | 1993 | disco posterior |
 | Tom Jones | Sex Bomb | 1999 | version dudosa: vivo/versión, anio distinto |
 | King Africa | El Humahuaqueño | 1999 | no spotify, anio distinto |
+| Daryl Hall | Gloryland | 1994 | no spotify |
+| Kernkraft 400 | Zombie Nation | 1999 | no spotify, anio distinto |
+| Grandmaster Flash & The Furious Five | The Message | 1982 | anio distinto |
+| Run-DMC | It's Tricky | 1986 | no spotify, anio distinto |
+| Young MC | Bust a Move | 1989 | version dudosa: título con agregado |
+| Puff Daddy | I'll Be Missing You | 1997 | no spotify |
+| Illya Kuryaki and the Valderramas | Coolo | 1995 | no spotify, anio distinto |
 | Gazebo | I Like Chopin | 1983 | disco posterior |
 | Opus | Live Is Life | 1984 | version dudosa: vivo/versión, no musicbrainz |
 | Village People | Y.M.C.A. | 1978 | version dudosa: compilado, anio distinto |
@@ -150,7 +159,6 @@ Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, 
 | Pink | Get the Party Started | 2001 | no spotify |
 | Flo Rida | Low | 2007 | disco posterior |
 | Clean Bandit | Rather Be | 2014 | version dudosa: título con agregado |
-| Ricky Martin | La copa de la vida | 1998 | version dudosa: compilado, error en MusicBrainz: MusicBrainz 400 |
 | Santana | Smooth | 1999 | disco posterior |
 | Zoé | Labios rotos | 2006 | version dudosa: vivo/versión, anio distinto |
 | Enrique Iglesias | Bailando | 2014 | version dudosa: vivo/versión |
@@ -191,4 +199,4 @@ Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, 
 | Run-DMC | Walk This Way | 1986 | no spotify, anio distinto |
 
 - Error con Patrick Swayze – She's Like the Wind: error en MusicBrainz: MusicBrainz 400
-- Error con Ricky Martin – La copa de la vida: error en MusicBrainz: MusicBrainz 400
+- Error con Zombie Nation – Kernkraft 400: error en MusicBrainz: MusicBrainz 400

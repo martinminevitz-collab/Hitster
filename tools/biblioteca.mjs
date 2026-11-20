@@ -186,9 +186,18 @@ const VIVO = /en vivo|\bvivo\b|\blive\b|directo|concierto|\bgira\b|\btour\b|en o
 const COMPILADO = /[eé]xitos|grandes|obras cumbres|obras fundamentales|lo mejor|antolog|best of|colecci[oó]n|\bhits\b|esencial|\bcaja\b|box set|tributo|homenaje/i;
 const REMASTER = /remaster/i;
 
-function puntaje(t, titulo) {
+const SIN_FROM = s => String(s).replace(/\s+-\s+from\s.*$|\s*[(\[]from\s[^)\]]*[)\]]/i, ""); // "Happy - From "Despicable Me 2"" es el mismo tema
+function puntaje(t, titulo, artista = "") {
   const motivos = [];
   let p = 0;
+  // los covers suelen figurar con el autor original como artista más otros nombres (coros, orquestas, guitarristas)
+  if (artista) {
+    const nombres = t.artists.map(a => a.name), es = n => mismoArtista([n], artista);
+    const extra = nombres.filter(n => !es(n) && !norm(t.name).includes(norm(n)));
+    if (!es(nombres[0])) { p += 3; motivos.push("otro artista primero"); }
+    if (extra.length >= 2) { p += 3; motivos.push("artistas de más"); }
+  }
+  t = { ...t, name: SIN_FROM(t.name) };
   if (VIVO.test(t.name) || VIVO.test(t.album.name)) { p += 8; motivos.push("vivo/versión"); }
   if (t.album.album_type === "compilation" || COMPILADO.test(t.album.name)) { p += 4; motivos.push("compilado"); }
   if (/feat\.|\bft\.|\(con /i.test(t.name)) { p += 4; motivos.push("con invitado"); }
@@ -205,7 +214,7 @@ async function buscarEnSpotify(t) {
   const sirve = x => mismoTitulo(x.name, t.titulo) && mismoArtista(x.artists.map(a => a.name), t.artista);
   let items = await buscar(estricta);
   for (const offset of [10, 20]) {
-    if (items.some(x => sirve(x) && puntaje(x, t.titulo).p === 0)) break;
+    if (items.some(x => sirve(x) && puntaje(x, t.titulo, t.artista).p === 0)) break;
     const mas = await buscar(estricta, offset); items.push(...mas); if (mas.length < 10) break;
   }
   let candidatos = items.filter(sirve);
@@ -214,7 +223,7 @@ async function buscarEnSpotify(t) {
     candidatos = items.filter(x => mismoTitulo(x.name, t.titulo) && mismoArtista(x.artists.map(a => a.name), t.artista));
   }
   const vistos = new Set();
-  candidatos = candidatos.filter(x => !vistos.has(x.id) && vistos.add(x.id)).map(x => ({ x, ...puntaje(x, t.titulo) }));
+  candidatos = candidatos.filter(x => !vistos.has(x.id) && vistos.add(x.id)).map(x => ({ x, ...puntaje(x, t.titulo, t.artista) }));
   candidatos.sort((a, b) => a.p - b.p || String(a.x.album.release_date).localeCompare(String(b.x.album.release_date)));
   return candidatos[0] || null;
 }
