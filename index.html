@@ -288,7 +288,7 @@ const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()
 const song=id=>SONGS[id];
 const P=id=>state.players.find(p=>p.id===id);
 const cur=()=>state.players[state.current];
-const st=p=>p.st||(p.st={ok:0,robos:0,temas:0}); // para el ranking: cartas bien ubicadas, robos y temas adivinados
+const st=p=>p.st||(p.st={ok:0,robos:0,temas:0,turnos:0,hitsters:0}); // para el ranking: cartas bien ubicadas, robos y temas adivinados
 const jitter=id=>(((id*37)%7)-3)*.6+"deg";
 
 function save(){try{state?localStorage.setItem(KEY,JSON.stringify(state)):localStorage.removeItem(KEY)}catch(e){}}
@@ -383,6 +383,7 @@ function place(slot){
 function reveal(){
   const a=cur(),y=song(state.card).y,tl=a.timeline.slice();
   state.snap=tl;
+  st(a).turnos=(st(a).turnos||0)+1;state.challenges.forEach(c=>{const x=st(P(c.pid));x.hitsters=(x.hitsters||0)+1});
   let r;
   if(fits(tl,state.placement,y)){insertSorted(a.timeline,state.card);st(a).ok++;r={type:"active",pid:a.id}}
   else{
@@ -686,20 +687,31 @@ function registrarFin(){
   state.recorded=true;
   if(!state.players.some(p=>st(p).ok||st(p).robos))return; // partida sin jugadas: no cuenta
   Ranking.guardarPartida({fecha:new Date().toISOString(),mazo:state.mazo||MAZO,objetivo:state.target,
-    jugadores:state.players.map(p=>({nombre:p.name,cartas:p.timeline.length,acertadas:st(p).ok+st(p).robos,robos:st(p).robos,temas:st(p).temas,gano:state.winner===p.id}))});
+    jugadores:state.players.map(p=>({nombre:p.name,cartas:p.timeline.length,acertadas:st(p).ok+st(p).robos,robos:st(p).robos,temas:st(p).temas,turnos:st(p).turnos||0,hitsters:st(p).hitsters||0,gano:state.winner===p.id}))});
 }
 const mazoNombre=id=>id===TODOS?"Todos mezclados":((LIB.mazos||[]).find(m=>m.id===id)||{}).nombre||id;
+/* columnas del ranking: todo en porcentaje, así el que juega más no queda arriba por cantidad */
+const RK_COLS=[
+  {id:"acierto",n:"Aciertos en su turno",d:"cartas bien ubicadas sobre turnos jugados",v:f=>f.turnos?f.enTurno/f.turnos:null,x:f=>`${f.enTurno}/${f.turnos}`},
+  {id:"ganadas",n:"Partidas ganadas",d:"partidas ganadas sobre partidas jugadas",v:f=>f.jugadas?f.ganadas/f.jugadas:null,x:f=>`${f.ganadas}/${f.jugadas}`},
+  {id:"robos",n:"Hitster con robo",d:"veces que cantó Hitster y se llevó la carta",v:f=>f.hitsters?f.robosH/f.hitsters:null,x:f=>`${f.robosH}/${f.hitsters}`},
+  {id:"temas",n:"Temas adivinados",d:"turnos en que dijo tema y artista",v:f=>f.turnos?f.temasT/f.turnos:null,x:f=>`${f.temasT}/${f.turnos}`}];
 function viewRanking(){
-  const sel=ui.rk||null,mz=Ranking.mazosJugados(),filas=Ranking.tabla(sel),e=Ranking.estado();
+  const sel=ui.rk||null,mz=Ranking.mazosJugados(),e=Ranking.estado();
+  const col=RK_COLS.find(c=>c.id===ui.rkSort)||RK_COLS[0];
+  // sin datos para esa columna va al fondo; empate: el que más jugó
+  const filas=Ranking.tabla(sel).sort((a,b)=>{const x=col.v(a),y=col.v(b);if(x===null||y===null)return (x===null)-(y===null);return y-x||b.jugadas-a.jugadas||a.nombre.localeCompare(b.nombre,"es")});
   const tabs=[{id:null,n:"General"},...mz.sort((a,b)=>mazoNombre(a).localeCompare(mazoNombre(b),"es")).map(id=>({id,n:mazoNombre(id)}))];
-  const pct=f=>f.jugadas?Math.round(100*f.ganadas/f.jugadas)+"%":"–";
+  const cell=(c,f)=>{const v=c.v(f);return v===null?`<span class="soft">–</span>`:`${Math.round(100*v)}% <span class="soft" style="font-size:11px">${c.x(f)}</span>`};
   return `<div class="page"><div class="panel">
     <h3>Ranking</h3>
-    <p class="hint">Ordenado por <b>cartas acertadas</b>: cada carta que ubicaste bien en tu turno o que robaste con Hitster. Cuentan las partidas terminadas.</p>
+    <div class="tabs" role="radiogroup" aria-label="Ordenar por">${RK_COLS.map(c=>`<button class="btn small ${c===col?"sel":""}" role="radio" aria-checked="${c===col}" data-act="rksort" data-v="${c.id}">${c.n}</button>`).join("")}</div>
+    <p class="hint">Ordenado por <b>${col.n.toLowerCase()}</b>: ${col.d}. Todo va en porcentaje, así jugar más no te sube solo. Con pocas partidas los números saltan mucho.</p>
     ${tabs.length>2||sel?`<div class="tabs" role="tablist">${tabs.map(t=>`<button class="btn small ${(t.id||null)===sel?"sel":""}" role="tab" aria-selected="${(t.id||null)===sel}" data-act="rktab" data-v="${esc(t.id||"")}">${esc(t.n)}</button>`).join("")}</div>`:""}
-    ${filas.length?`<div class="rk-wrap"><table class="rk"><thead><tr><th></th><th>Jugador</th><th>Cartas acertadas</th><th>Jugadas</th><th>Ganadas</th><th>Robos</th><th>Temas adivinados</th></tr></thead><tbody>
-      ${filas.map((f,i)=>`<tr class="${i===0?"top":""}"><td class="pos">${i+1}</td><td>${esc(f.nombre)}</td><td class="main">${f.acertadas}</td><td>${f.jugadas}</td><td>${f.ganadas} <span class="soft">(${pct(f)})</span></td><td>${f.robos}</td><td>${f.temas}</td></tr>`).join("")}
-    </tbody></table></div>`:`<p class="soft" style="margin:0">Todavía no hay partidas terminadas${sel?" con este mazo":""}. Cuando alguien gane una, aparece acá.</p>`}
+    ${filas.length?`<div class="rk-wrap"><table class="rk"><thead><tr><th></th><th>Jugador</th>${RK_COLS.map(c=>`<th><button data-act="rksort" data-v="${c.id}" style="font:inherit;color:inherit;text-transform:inherit;letter-spacing:inherit">${c.n}${c===col?" ▼":""}</button></th>`).join("")}<th>Jugadas</th></tr></thead><tbody>
+      ${filas.map((f,i)=>`<tr class="${i===0?"top":""}"><td class="pos">${i+1}</td><td>${esc(f.nombre)}</td>${RK_COLS.map(c=>`<td class="${c===col?"main":""}">${cell(c,f)}</td>`).join("")}<td>${f.jugadas}</td></tr>`).join("")}
+    </tbody></table></div>
+    <p class="soft" style="margin:0;font-size:12px">"–" = todavía sin datos. Los aciertos, robos y temas en porcentaje se cuentan desde esta versión; las partidas viejas solo suman a "partidas ganadas".</p>`:`<p class="soft" style="margin:0">Todavía no hay partidas terminadas${sel?" con este mazo":""}. Cuando alguien gane una, aparece acá.</p>`}
     ${e.sync==="error"?`<p class="hint">${esc(e.error)}</p>`:e.sync==="sincronizando"?`<p class="soft" style="margin:0;font-size:13px">Actualizando el ranking online…</p>`:Ranking.online()?"":`<p class="soft" style="margin:0;font-size:13px">Por ahora el ranking se guarda solo en este dispositivo.</p>`}
     <div class="btnrow"><button class="btn dark" data-act="rkback">Volver</button></div>
   </div></div>`;
@@ -823,6 +835,7 @@ document.addEventListener("click",e=>{
   switch(act){
     case "adduser":{const v=b.dataset.v,i=setup.names.findIndex(n=>!n.trim()||/^Jugador \d+$/.test(n.trim()));if(i>=0)setup.names[i]=v;else if(setup.names.length<8)setup.names.push(v);else{toast("Ya hay 8 jugadores");break}render();break}
     case "ranking":ui.screen="ranking";ui.rk=null;render();Ranking.sincronizar();break;
+    case "rksort":ui.rkSort=b.dataset.v;render();break;
     case "rktab":ui.rk=b.dataset.v||null;render();break;
     case "rkback":ui.screen=null;render();break;
     case "add":setup.names.push(`Jugador ${setup.names.length+1}`);render();break;

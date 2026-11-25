@@ -91,8 +91,12 @@ const Ranking = (() => {
       for (const j of p.jugadores || []) {
         const k = clave(j.nombre);
         if (porDefecto(j.nombre)) continue; // "Jugador 3" no es nadie: no entra al ranking
-        const f = filas.get(k) || { nombre: j.nombre, acertadas: 0, jugadas: 0, ganadas: 0, robos: 0, temas: 0 };
+        const f = filas.get(k) || { nombre: j.nombre, acertadas: 0, jugadas: 0, ganadas: 0, robos: 0, temas: 0,
+          turnos: 0, enTurno: 0, temasT: 0, hitsters: 0, robosH: 0 };
         f.acertadas += j.acertadas || 0; f.jugadas++; f.ganadas += j.gano ? 1 : 0; f.robos += j.robos || 0; f.temas += j.temas || 0;
+        // para los porcentajes solo sirven las partidas que guardaron turnos y Hitsters cantados (desde nov 2026)
+        if (j.turnos != null) { f.turnos += j.turnos; f.enTurno += (j.acertadas || 0) - (j.robos || 0); f.temasT += j.temas || 0; }
+        if (j.hitsters != null) { f.hitsters += j.hitsters; f.robosH += j.robos || 0; }
         filas.set(k, f);
       }
     }
