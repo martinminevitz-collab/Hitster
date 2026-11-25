@@ -5028,39 +5028,20 @@
     {
       "id": "cumbia-y-cuarteto-027",
       "mazo": "cumbia-y-cuarteto",
-      "artista": "Walter Olmos",
+      "artista": "Rodrigo",
       "titulo": "Por lo que yo te quiero",
-      "anio": 2001,
+      "anio": 1999,
       "fuera": false,
       "opciones": {
         "fuera": false,
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": "3dKjmF3Yjl79hybcSkE9M5"
+        "spotify": null
       },
-      "spotify": "3dKjmF3Yjl79hybcSkE9M5",
-      "duracion_ms": 230946,
-      "verificacion": {
-        "fecha": "2026-11-13",
-        "estado": "ok",
-        "motivos": [],
-        "spotify": {
-          "id": "3dKjmF3Yjl79hybcSkE9M5",
-          "nombre": "Por Lo Que Yo Te Quiero",
-          "artistas": "Walter Olmos",
-          "disco": "A Pura Sangre",
-          "tipo": "album",
-          "fecha": "2000-07-05",
-          "isrc": "ARF060600799"
-        },
-        "musicbrainz": {
-          "fecha": "2001",
-          "grabacion": "a4c9509e-f836-4993-9708-e332f23ab53e",
-          "via": "búsqueda"
-        },
-        "anio_mb": 2001
-      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
       "pelicula": null
     },
     {
@@ -20674,33 +20655,12 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": true,
-        "spotify": "2pA2IoMpMbLVDc1qDGg4UC"
+        "okVersion": false,
+        "spotify": null
       },
-      "spotify": "2pA2IoMpMbLVDc1qDGg4UC",
-      "duracion_ms": 204920,
-      "verificacion": {
-        "fecha": "2026-11-13",
-        "estado": "ok",
-        "motivos": [
-          "disco_posterior"
-        ],
-        "spotify": {
-          "id": "2pA2IoMpMbLVDc1qDGg4UC",
-          "nombre": "Get Lucky",
-          "artistas": "Daft Punk Experience, Zico Oliveira",
-          "disco": "Get Lucky",
-          "tipo": "single",
-          "fecha": "2022-07-06",
-          "isrc": "BXCPT2000157"
-        },
-        "musicbrainz": {
-          "fecha": "2013",
-          "grabacion": "b1211755-60d8-4f27-8c28-ba0cb1f0cf56",
-          "via": "búsqueda"
-        },
-        "anio_mb": 2013
-      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": null,
       "pelicula": null
     },
     {

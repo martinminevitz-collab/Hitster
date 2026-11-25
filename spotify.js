@@ -174,6 +174,14 @@ const Spotify = (() => {
       pos = Math.floor(from + Math.random() * (to - from));
     }
     await api("/me/player/play?device_id=" + encodeURIComponent(deviceId), { method: "PUT", body: JSON.stringify({ uris: [r.uri], position_ms: pos }) });
+    let dur = r.dur;
+    if (!dur) { try { dur = (await api("/tracks/" + r.id)).duration_ms; } catch (e) {} }
+    return { pos, dur: dur || null };
+  }
+
+  /* Salta a un punto del tema (en milisegundos). */
+  async function seek(deviceId, ms) {
+    await api("/me/player/seek?position_ms=" + Math.max(0, Math.round(ms)) + "&device_id=" + encodeURIComponent(deviceId), { method: "PUT" });
   }
 
   async function pause(deviceId) {
@@ -188,5 +196,5 @@ const Spotify = (() => {
   }
 
   return { init, login, logout, api, status, connected: () => status.state === "connected",
-    devices, play, pause, playError, lastDevice, rememberDevice, resolve };
+    devices, play, pause, seek, playError, lastDevice, rememberDevice, resolve };
 })();

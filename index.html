@@ -158,6 +158,11 @@ button.slot.hot{border-color:var(--pc);color:var(--pc);background:rgba(255,250,2
 .note h2 span{color:var(--pc)}
 .note p{margin:0;color:var(--ink-soft);font-size:14px}
 .playing{display:inline-flex;align-items:center;justify-content:center;gap:6px;font-size:11px;color:var(--ink-soft);letter-spacing:.08em;text-transform:uppercase}
+.player{display:flex;align-items:center;gap:8px;width:min(320px,100%)}
+.ptrack{flex:1;display:grid;gap:3px;min-width:90px}
+.pbar{display:block;height:6px;border-radius:99px;background:var(--line);overflow:hidden}
+.pbar i{display:block;height:100%;background:var(--red);border-radius:inherit;transition:width .5s linear}
+.ptime{font-size:11px;color:var(--ink-soft);text-align:center}
 .eq{display:inline-flex;gap:2px;height:12px;align-items:flex-end}
 .eq i{width:3px;background:var(--red);border-radius:2px;animation:eq 1s ease-in-out infinite}
 .eq i:nth-child(2){animation-delay:-.3s}.eq i:nth-child(3){animation-delay:-.6s}
@@ -264,7 +269,10 @@ async function loadSongs(){
 }
 
 const PCOLORS=["#B8362E","#2A5DA8","#2E7D4F","#D9A21E","#7A4FA6","#D46F2A","#1F8A8A","#C2507E"];
-const MAX_TOKENS=5, KEY="hitster-rocknac-v4";
+const KEY="hitster-rocknac-v4";
+/* tope de fichas: 5, salvo en el mazo de películas (ahí se ganan más, por la ficha extra de la película) */
+const TOPE_FICHAS={"canciones-de-peliculas":8};
+const maxTok=()=>TOPE_FICHAS[state&&state.phase!=="win"&&state.mazo||MAZO]||5;
 const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
 /* asientos por borde [abajo, izquierda, arriba, derecha] según cantidad de jugadores */
 const SEATS={2:[1,0,1,0],3:[1,1,0,1],4:[1,1,1,1],5:[2,1,1,1],6:[2,1,2,1],7:[2,2,2,1],8:[2,2,2,2]};
@@ -323,13 +331,32 @@ function playCurrent(){
   if(!state.device){ui.audio={st:"error",msg:"No hay un dispositivo elegido para la música."};updateAudio();return}
   ui.audio={st:"loading"};updateAudio();
   Spotify.play(song(id),state.device.id,state.startMode)
-    .then(()=>{if(seq===playSeq){ui.audio={st:"playing"};updateAudio()}})
+    .then(r=>{if(seq===playSeq){ui.audio={st:"playing",pos:r&&r.pos||0,dur:r&&r.dur||null,t0:Date.now()};updateAudio()}})
     .catch(e=>{if(seq===playSeq){ui.audio={st:"error",msg:Spotify.playError(e)};updateAudio()}});
 }
-function stopMusic(){playSeq++;if(state&&state.device)Spotify.pause(state.device.id)}
+function stopMusic(){playSeq++;ui.audio={st:"stopped"};if(state&&state.device)Spotify.pause(state.device.id)}
+/* línea de reproducción: el tiempo se calcula acá (no se le pregunta a Spotify cada segundo) */
+const nowPos=a=>{const p=a.pos+(Date.now()-a.t0);return a.dur?Math.min(a.dur,p):p};
+const mmss=ms=>{const t=Math.floor(ms/1000);return Math.floor(t/60)+":"+String(t%60).padStart(2,"0")};
+function seekBy(d){
+  const a=ui.audio;if(a.st!=="playing"||!state||!state.device)return;
+  let to=nowPos(a)+d;to=Math.max(0,a.dur?Math.min(a.dur-1500,to):to);
+  Object.assign(a,{pos:to,t0:Date.now()});updateAudio();
+  Spotify.seek(state.device.id,to).catch(e=>toast(Spotify.playError(e)));
+}
+function tickAudio(){
+  const a=ui.audio;if(a.st!=="playing")return;
+  const p=nowPos(a),b=document.querySelector("#audio .pbar i"),t=document.querySelector("#audio .ptime");
+  if(b&&a.dur)b.style.width=(100*p/a.dur).toFixed(1)+"%";
+  if(t)t.textContent=mmss(p)+(a.dur?" / "+mmss(a.dur):"");
+}
+setInterval(tickAudio,500);
 function audioHTML(){
   const a=ui.audio;
-  if(a.st==="playing")return `<span class="playing"><span class="eq" aria-hidden="true"><i></i><i></i><i></i></span>Sonando</span>`;
+  if(a.st==="playing"){const p=nowPos(a);return `<span class="playing"><span class="eq" aria-hidden="true"><i></i><i></i><i></i></span>Sonando</span>
+    <div class="player"><button class="btn small" data-act="seek" data-d="-10000" aria-label="Atrasar 10 segundos">−10s</button>
+      <div class="ptrack"><span class="pbar"><i style="width:${a.dur?(100*p/a.dur).toFixed(1):0}%"></i></span><span class="ptime mono">${mmss(p)}${a.dur?" / "+mmss(a.dur):""}</span></div>
+      <button class="btn small" data-act="seek" data-d="10000" aria-label="Adelantar 10 segundos">+10s</button></div>`}
   if(a.st==="error")return `<span style="font-size:13px;color:var(--bad);font-weight:600">${esc(a.msg)}</span><div><button class="btn small" data-act="replay">Reintentar</button></div>`;
   return `<span class="playing">Poniendo el tema…</span>`;
 }
@@ -367,9 +394,9 @@ function reveal(){
 }
 function nextTurn(){
   const a=cur();
-  // tema y artista: +1 ficha; en temas de películas, decir la película: +1 más (máximo 5 en total)
+  // tema y artista: +1 ficha; en temas de películas, decir la película: +1 más (con el tope del mazo)
   if(state.guess===true)st(a).temas++;
-  a.tokens=Math.min(MAX_TOKENS,a.tokens+(state.guess===true?1:0)+(state.guessMovie===true?1:0));
+  a.tokens=Math.min(maxTok(),a.tokens+(state.guess===true?1:0)+(state.guessMovie===true?1:0));
   const w=state.players.find(p=>p.timeline.length>=state.target);
   if(w){state.phase="win";state.winner=w.id;stopMusic();render();return}
   state.current=(state.current+1)%state.players.length;startTurn();
@@ -448,7 +475,7 @@ function lineCard(id,fit,attrs="",cls="",style=""){
   const s=song(id);
   return `<div class="card slim ${cls}" ${attrs} title="${esc(s.a)} — ${esc(s.t)} (${s.y})" style="--w:${fit.w}px;--h:${fit.h}px;--fs:${fit.fs}px;${style}"><div class="slimf" data-th="${esc(s.mz||"")}" style="--c:${dec(s.y)}"><span class="yr">${s.y}</span>${fit.h>=96?`<span class="ar">${esc(s.a)}</span>`:""}</div></div>`;
 }
-const tokensHTML=n=>`<span class="tokens" aria-label="${n} fichas">${Array.from({length:MAX_TOKENS},(_,i)=>`<i class="${i<n?"f":""}"></i>`).join("")}</span>`;
+const tokensHTML=n=>`<span class="tokens" aria-label="${n} fichas">${Array.from({length:Math.max(maxTok(),n)},(_,i)=>`<i class="${i<n?"f":""}"></i>`).join("")}</span>`;
 const chip=(p,cls="")=>`<span class="chip ${cls}" style="--pc:${p.color}" title="${esc(p.name)}">${esc((p.name[0]||"?").toUpperCase())}</span>`;
 
 function currentLine(fit){
@@ -517,7 +544,7 @@ function stageInner(cw){
   const a=cur();
   const pile=`<div class="pile">${cardDown()}${cardDown()}${state.deck.length?cardDown():""}<span class="pile-n"><span class="mono">${state.deck.length}</span> en el mazo</span></div>`;
   if(state.phase==="reveal"){
-    const r=state.result,s=song(state.card),room=MAX_TOKENS-a.tokens,full=room<=0;
+    const r=state.result,s=song(state.card),room=maxTok()-a.tokens,full=room<=0;
     const usado=(state.guess===true?1:0)+(state.guessMovie===true?1:0),sinLugar=v=>v!==true&&usado>=room; // no se puede pasar de 5
     let head,cls;
     if(r.type==="active"){head=`¡Bien! ${esc(a.name)} se la queda.`;cls="ok"}
@@ -529,7 +556,7 @@ function stageInner(cw){
         <div><b>${esc(s.t)}</b> · ${esc(s.a)} · <span class="mono">${s.y}</span></div>
         ${s.pe?`<div class="soft" style="font-size:14px">De la película <b style="color:var(--ink)">${esc(s.pe)}</b></div>`:""}
       </div>
-      <div class="note"><span class="soft" style="font-size:13px">¿${esc(a.name)} dijo tema y artista antes de darla vuelta?${full?" (ya tiene 5 fichas)":""}</span>
+      <div class="note"><span class="soft" style="font-size:13px">¿${esc(a.name)} dijo tema y artista antes de darla vuelta?${full?` (ya tiene ${maxTok()} fichas)`:""}</span>
         <div class="tools"><button class="btn small ${state.guess===true?"sel":""}" data-act="guess" data-v="1" ${sinLugar(state.guess)?"disabled":""}>Sí, +1 ficha</button><button class="btn small ${state.guess===false?"sel":""}" data-act="guess" data-v="0">No</button></div>
         ${s.pe?`<span class="soft" style="font-size:13px">¿Y dijo la película?</span><div class="tools"><button class="btn small ${state.guessMovie===true?"sel":""}" data-act="guessm" data-v="1" ${sinLugar(state.guessMovie)?"disabled":""}>Sí, +1 ficha</button><button class="btn small ${state.guessMovie===false?"sel":""}" data-act="guessm" data-v="0">No</button></div>`:""}
       </div>
@@ -594,7 +621,7 @@ function viewSetup(){
       <li>Cada uno arranca con una carta boca arriba. Gana el primero en llegar a <b>${setup.target} cartas</b>.</li>
       <li>En tu turno suena un tema y tocás <b>dónde va</b> en tu línea. Si acertás, te la quedás.</li>
       <li>Si alguien no está de acuerdo, toca <b>Hitster</b>, gasta 1 ficha y elige otro lugar. Si el que jugaba le erró y el del Hitster acertó, se la lleva él.</li>
-      <li>Si decís <b>tema y artista</b> antes de darla vuelta, ganás 1 ficha (máximo ${MAX_TOKENS}).</li>
+      <li>Si decís <b>tema y artista</b> antes de darla vuelta, ganás 1 ficha (máximo ${maxTok()}).</li>
       <li>En el mazo de películas (no en el mix), si además decís <b>la película</b>, ganás otra ficha.</li>
       <li>Con fichas también podés <b>saltear un tema</b> (1) o <b>canjear 3</b> por una carta que entra directo a tu línea.</li>
     </ul>
@@ -801,14 +828,15 @@ document.addEventListener("click",e=>{
     case "add":setup.names.push(`Jugador ${setup.names.length+1}`);render();break;
     case "rm":setup.names.splice(+b.dataset.i,1);render();break;
     case "tgt":setup.target=Math.min(20,Math.max(3,setup.target+ +b.dataset.d));render();break;
-    case "tok":setup.tokens=Math.min(MAX_TOKENS,Math.max(0,setup.tokens+ +b.dataset.d));render();break;
+    case "tok":setup.tokens=Math.min(maxTok(),Math.max(0,setup.tokens+ +b.dataset.d));render();break;
     case "start":if(setup.names.filter(n=>n.trim()).length<2){toast("Hacen falta al menos 2 jugadores");break}ui.screen="devices";loadDevices();break;
     case "smode":setup.start=b.dataset.v;render();break;
-    case "mazo":useMazo(b.dataset.v);try{localStorage.setItem(MAZO_KEY,MAZO)}catch(e){}render();break;
+    case "mazo":useMazo(b.dataset.v);setup.tokens=Math.min(setup.tokens,maxTok());try{localStorage.setItem(MAZO_KEY,MAZO)}catch(e){}render();break;
     case "devrefresh":loadDevices();break;
     case "devback":ui.screen=null;render();break;
     case "device":{const v=ui.dev.list.find(x=>x.id===b.dataset.id);if(!v)break;setup.device={id:v.id,name:v.name};Spotify.rememberDevice(v);ui.screen=null;newGame();break}
     case "replay":playCurrent();break;
+    case "seek":seekBy(+b.dataset.d);break;
     case "vista":setVista(vista()==="pantalla"?"mesa":"pantalla");ui.flipDone=true;if(!ui.stealT)ui.stealDone=true;render();break;
     case "vistaset":setVista(b.dataset.v);render();break;
     case "orient":setOrient(b.dataset.v);render();break;
