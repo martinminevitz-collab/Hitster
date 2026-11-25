@@ -12,7 +12,7 @@ const Ranking = (() => {
   const escribir = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
   const datos = () => { const d = leer(LOCAL, {}); d.usuarios = d.usuarios || {}; d.partidas = d.partidas || {}; return d; };
   const idDe = k => k.replace(/[.#$/\[\]]/g, "_"); // las claves de Firebase no admiten esos caracteres
-  const porDefecto = n => /^jugador \d+$/.test(clave(n));
+  const porDefecto = n => /^jugador ?\d+$/.test(clave(n)) || /^(equipo|team)\b/.test(clave(n)); // "Jugador 3" o cualquier "Equipo …" no es nadie: no entra al ranking
 
   let estado = { sync: DB_URL ? "pendiente" : "local", error: null };
   const avisos = new Set();
