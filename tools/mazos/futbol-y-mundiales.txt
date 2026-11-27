@@ -44,3 +44,39 @@ Nicki Minaj | Tukoh Taka | 2022 | ok-versión, spotify:7twsd0lwXyy0ARdsTyzHoJ
 Patricio Rey y sus Redonditos de Ricota | Jijiji | 1986 | ok-año, spotify:0VWBsKl936U9OO0zypvRCZ
 Sergio Mendes & Brasil '66 | Mas que nada | 1966 | spotify:2AX8asCpJSCGnPVlRIopVa
 Zombie Nation | Kernkraft 400 | 1999 | spotify:4KmhqQGmmNA2QE13Sdn8Bs, ok-versión
+Dave Clark Five | Glad All Over | 1963 | ok-versión, spotify:2xvDWGaZDw4Cnp5N3vrCZe
+Jorge Ben | País tropical | 1969 | spotify:4877bJ149OUJZHTiU5Jg8P
+Survivor | Eye of the Tiger | 1982 | spotify:2HHtWyy5CgaQbC7XSoOb0e
+Los Abuelos de la Nada | Mil horas | 1983 | spotify:7Mj6R7TjsPxeLYu0Xdvl73
+Europe | The Final Countdown | 1986 | spotify:3MrRksHupTVEQ7YbA0FsZK
+Luciano Pavarotti | Nessun dorma | 1990 | spotify:2XeYlM8XKFCP6DYsKWZdh2, ok-año, ok-versión
+New Order | World in Motion | 1990 | spotify:47x8g4l24IpCvlcRxv2Jb6
+Tony Britten | UEFA Champions League Anthem | 1992 | ok-año, ok-versión, spotify:69kObbDYzMGITSSeTfcA1T
+Oasis | Don't Look Back in Anger | 1995 | spotify:6qkIxHddw8eqVefnJwo4YM
+Blur | Song 2 | 1997 | spotify:1FTSo4v6BOZH9QxKc3MbVM
+Chumbawamba | Tubthumping | 1997 | spotify:22HYEJveCvykVDHDiEEmjZ
+Fat Les | Vindaloo | 1998 | spotify:0b7j16ybxD7YJFtj8dou8Z
+Gigi D'Agostino | L'amour toujours | 1999 | spotify:1QJFW9TapmQA41A1gp9nNe
+Diego Torres | Color esperanza | 2001 | spotify:3T07pNAEVr9adeIG9i1ex4
+The Black Eyed Peas | Pump It | 2005 | spotify:4HuHoYjNcbGIHFpRVbRj2T
+Herbert Grönemeyer | Zeit, dass sich was dreht | 2006 | fuera, spotify:1IKrQYsa6XmvWlxf9tsYr1
+Coldplay | Viva la Vida | 2008 | spotify:1mea3bSkSGXuIRvnydlB5b
+Kasabian | Fire | 2009 | spotify:0Ln5tJyLX5qusquBOtq7wf
+Ricky Martin | Vida | 2014 | ok-versión, spotify:0adtsOTVGJ9SBIRHwqQPdw
+Ozuna | Arhbo | 2022 | ok-versión, spotify:4lojDT8NBK7lGFMfPVrUZk
+Nora Fatehi | Light the Sky | 2022 | ok-versión, spotify:24WKKbXqIu21pJNHyPekv2
+Attaque 77 | Hacelo por mí | 1990 | spotify:5zqXco5gN08t20hf5AO62z
+Louis Armstrong | When the Saints Go Marching In | 1938 | ok-año, ok-versión, spotify:2rXJChN7Glrn5sgY422mWv
+Doris Day | Que Sera, Sera (Whatever Will Be, Will Be) | 1956 | ok-año, ok-versión, spotify:4pZgmj6DESkb1hpwrJl3sY
+Domenico Modugno | Nel blu dipinto di blu (Volare) | 1958 | ok-versión, spotify:006Ndmw2hHxvnLbJsBFnPx
+The Marcels | Blue Moon | 1961 | ok-año, spotify:5114WgGC0RoPjZscVfOkAg
+The Beatles | Yellow Submarine | 1966 | ok-versión, spotify:1tdltVUBkiBCW1C3yB4zyD
+Tom Jones | Delilah | 1968 | spotify:2v8B8d17Xxu9uLU5sNiHSL
+England World Cup Squad | Back Home | 1970 | ok-versión, spotify:6BM2TOtKfGNMA5Bt6WKszk
+Jorge Ben | Taj Mahal | 1976 | spotify:7pdCDKs0i05N8ag4tAC5u5, ok-año, ok-versión
+Los Abuelos de la Nada | Himno de mi corazón | 1984 | spotify:2kIhana7Cw57qXztsUb7NN, ok-versión
+DJ Ötzi | Hey Baby | 2000 | ok-versión, spotify:5g3rL93FXCoTZwP2zr9RE5
+The Killers | Mr. Brightside | 2003 | spotify:003vvx7Niy0yvhvHt4a68B, ok-año, ok-versión
+Herbert Grönemeyer | Celebrate the Day | 2006 | spotify:1pZjPllfuCFAFogePMgtxC
+Manu Chao | La vida tómbola | 2007 | spotify:3U34tMYhMbr6tBWZdCUp6f
+Carlos Santana | Dar um jeito (We Will Find a Way) | 2014 | ok-versión, spotify:4RabxUkDmdvt6hJRqblvEZ

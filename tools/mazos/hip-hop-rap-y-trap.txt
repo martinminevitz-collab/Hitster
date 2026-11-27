@@ -84,3 +84,37 @@ Residente | René | 2020 | spotify:6gm12xlADJwiBbHIKBXzGW
 Wos | Arrancármelo | 2022 | spotify:2x8oBuYaObjqHqgGuIUZ0b
 Bizarrap | Quevedo: Bzrp Music Sessions, Vol. 52 | 2022 | spotify:2tTmW7RDtMQtBk7m2rYeSw
 Kendrick Lamar | Not Like Us | 2024 | spotify:6ZWalyzfVcNCc1XwKnnyyn
+Bone Thugs-N-Harmony | Tha Crossroads | 1995 | spotify:5KSJ9k1FYjFLnIRlJT2wF8
+Fugees | Ready or Not | 1996 | ok-versión, spotify:3vZO25GdYuqFrR1kzZADnp
+Busta Rhymes | Gimme Some More | 1998 | spotify:47wZfF4OdME3xkIPhhpSSF
+Orishas | A lo cubano | 1999 | spotify:0BVYZVB6ITPs5jojmJaNQT
+Control Machete | Sí señor | 1999 | spotify:3MameTW9RiNTUpFEoadsA3
+Mala Rodríguez | Tengo un trato | 2000 | spotify:3sg4RFemnrzSDr0LpaxqCy
+Lil Jon & The East Side Boyz | Get Low | 2002 | spotify:0r2Bul2NuCViraT2zX1l5j
+DMX | X Gon' Give It to Ya | 2003 | ok-año, ok-versión, spotify:2eWLNSTA7RvUBmnTYVvR8s
+Ludacris | Stand Up | 2003 | spotify:2CtCwQhY0ZLvr8L2l8Bo6e
+OutKast | Roses | 2003 | spotify:6bUNEbXT7HovLW6BgPCBsb
+Gorillaz | Feel Good Inc. | 2005 | ok-año, spotify:0d28khcov6AiegSCpG5TuT
+Kanye West | Power | 2010 | spotify:2gZUPNdnz5Y45eiGxpHGSc
+Kid Cudi | Pursuit of Happiness | 2009 | ok-versión, spotify:4LVDnRxfljiEerC26z3JW4
+Flo Rida | Right Round | 2009 | spotify:3GpbwCm3YxiWDvy29Uo3vP
+Calle 13 | Latinoamérica | 2010 | spotify:1xuYajTJZh8zZrPRmUaagf, ok-año, ok-versión
+Snoop Dogg | Young, Wild & Free | 2011 | ok-año, ok-versión, spotify:5HQVUIKwCEXpe7JIHyY734
+Kendrick Lamar | Swimming Pools (Drank) | 2012 | spotify:6REbwUNlppTfcnV4d4ZoZi
+J. Cole | No Role Modelz | 2014 | spotify:69kFyd2ymmN4o7o4ozZCQS
+Travis Scott | goosebumps | 2016 | spotify:2SzjMcZIsE2zUWQnccsTAo
+Future | Mask Off | 2017 | spotify:0VgkVdmE4gld66l8iyGjgx
+Lil Uzi Vert | XO Tour Llif3 | 2017 | ok-versión, spotify:7GX5flRQZVHRAGd6B4TmDO
+Drake | In My Feelings | 2018 | spotify:2G7V7zsVDxg1yRsu7Ew9RJ
+A$AP Rocky | Praise the Lord (Da Shine) | 2018 | ok-versión, spotify:7ycWLEP1GsNjVvcjawXz3z
+Tyler, The Creator | EARFQUAKE | 2019 | spotify:5hVghJ4KaYES3BFUATCYn0
+Roddy Ricch | The Box | 2019 | spotify:0nbXyq5TXYPCO7pr3N8S4I
+Megan Thee Stallion | Savage | 2020 | spotify:6Nth4LOPIqBNe7OKzXWeoK
+Jack Harlow | First Class | 2022 | spotify:3os9JEuXCDI2u8uoKi0xPY
+Residente | This Is Not America | 2022 | ok-versión, spotify:7d8LusdMBU3yWUSWBpETjG
+Duki | Givenchy | 2022 | spotify:6bTVP50bbtMtD6RGe2cUoQ
+Bizarrap | Duki: Bzrp Music Sessions, Vol. 50 | 2022 | spotify:7MkylDYvKTSuWgrsBhHlsG
+Trueno | Dance Crip | 2022 | spotify:1kjs5eR4DMzyB0gm1Z8waV
+Wos | Melancolía | 2024 | spotify:41N9Co3jknF8m5BH0cNdqb
+Tiago PZK | Entre nosotros | 2021 | ok-año, spotify:6w8yBI2vthyN9UnwO4UBWb
+Milo J | Rara vez | 2023 | spotify:7MVIfkyzuUmQ716j8U7yGR

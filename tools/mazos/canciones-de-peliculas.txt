@@ -7,7 +7,7 @@ Elvis Presley | Jailhouse Rock | 1957 | spotify:4gphxUgq0JSFv2BCLhNDiE, ok-versi
 Chuck Berry | Johnny B. Goode | 1958 | spotify:2QfiRTz5Yc8DdShCxG1tB2 | Volver al futuro
 Ben E. King | Stand by Me | 1961 | spotify:3SdTKo2uVsxFblQjpScoHy, ok-año | Cuenta conmigo
 Audrey Hepburn | Moon River | 1961 | spotify:2EOo6tJpZIgmVQHmUv1dtg, ok-versión | Desayuno en Tiffany's
-Dick Dale | Misirlou | 1962 | spotify:1hlT8E7Zk07UgTphcFJidJ | Pulp Fiction
+Dick Dale | Misirlou | 1962 | spotify:1hlT8E7Zk07UgTphcFJidJ, ok-año | Pulp Fiction
 The Ronettes | Be My Baby | 1963 | spotify:1WN4uNclrDuczTO3bCr8s1 | Dirty Dancing
 Roy Orbison | Oh, Pretty Woman | 1964 | spotify:01jOnfF6OMQx2ZgC3nKi3o, fuera | Mujer bonita
 Shirley Bassey | Goldfinger | 1964 | spotify:22IZCY5XOrnmwmfDzr053R, ok-año, ok-versión | 007 contra Goldfinger
@@ -104,3 +104,25 @@ Carolina Gaitán | We Don't Talk About Bruno | 2021 | spotify:52xJxFP6TqMuO4Yt0e
 Lady Gaga | Hold My Hand | 2022 | spotify:0oWraSo5ASJ0h1BEagTyEw | Top Gun: Maverick
 Dua Lipa | Dance The Night | 2023 | spotify:1vYXt7VSjH9JIM5oRRo7vA, ok-versión | Barbie
 Billie Eilish | What Was I Made For? | 2023 | spotify:6wf7Yu7cxBSPrRlWeSeK0Q, ok-versión | Barbie
+Judy Garland | Over the Rainbow | 1939 | spotify:06x3nxqPS7NbvVyuW9aUdz, ok-año, ok-versión | El mago de Oz
+Dooley Wilson | As Time Goes By | 1942 | ok-año, ok-versión, spotify:3gDPjU8URd9mtZhBBYwI2R | Casablanca
+Gene Kelly | Singin' in the Rain | 1952 | spotify:1Manf5JK8RFq82sJo5zOYv | Cantando bajo la lluvia
+Dick Dale & His Del-Tones | Misirlou | 1962 | ok-año, spotify:6wmb6Mi0XcPEALiyCGWi2N | Tiempos violentos
+Simon & Garfunkel | The Sound of Silence | 1965 | spotify:2YplrdHMBoRdnHgMeHEwHm, ok-año, ok-versión | El graduado
+Dusty Springfield | Son of a Preacher Man | 1968 | spotify:6ek9SiEj5a65WIs2EV7qiM | Tiempos violentos
+Bill Conti | Gonna Fly Now | 1976 | ok-versión, spotify:7iXYRR70wewzVYzWScm99j | Rocky
+Joe Cocker | Up Where We Belong | 1982 | ok-versión, spotify:4U6mBgGP8FXN6UH4T3AJhu | Reto al destino
+Queen | Bohemian Rhapsody | 1975 | spotify:2JiDi0qAXsPwhPqA2qaKGt | El mundo según Wayne
+The Cardigans | Lovefool | 1996 | spotify:7aQjPecQdIuNd1sz3KCDhD | Romeo + Julieta
+Sixpence None the Richer | Kiss Me | 1997 | spotify:754kgU5rWscRTfvlsuEwFp | Ella es así
+The Goo Goo Dolls | Iris | 1998 | spotify:6Qyc6fS4DsZjB2mRW9DsQs | Un ángel enamorado
+Elvis Presley | Can't Help Falling in Love | 1961 | spotify:44AyOl4qVkzS48vBsbNXaC | Amor en Hawái
+Monty Norman | James Bond Theme | 1962 | ok-año, ok-versión, spotify:14GqpIDY8agKfzHjqfzEWM | El satánico Dr. No
+Henry Mancini | The Pink Panther Theme | 1963 | spotify:0juPSJLFnLFim7BK6VzTes | La pantera rosa
+Ennio Morricone | The Good, the Bad and the Ugly | 1966 | ok-año, ok-versión, spotify:150bCeASorH3nlZHCrWWz9 | El bueno, el malo y el feo
+John Williams | Star Wars (Main Title) | 1977 | spotify:3ZSf1TJZyRb0rnWYuUtdX4, ok-año, ok-versión | La guerra de las galaxias
+Vangelis | Chariots of Fire | 1981 | spotify:2JsQOAw8XVii6RMxiPmVZj, ok-versión | Carrozas de fuego
+Harold Faltermeyer | Axel F | 1984 | spotify:3pgTnWleIriTapci1F71Fz | Un detective suelto en Hollywood
+Prince | Purple Rain | 1984 | spotify:1uvyZBs4IZYRebHIB1747m | Purple Rain
+Klaus Badelt | He's a Pirate | 2003 | fuera, spotify:2lDWq3rUnYGLjr2CymZluh | Piratas del Caribe
+A. R. Rahman | Jai Ho | 2008 | spotify:4L9GjflAckf3yTNKRkgELa | ¿Quién quiere ser millonario?

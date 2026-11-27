@@ -1,23 +1,25 @@
 # Revisión de la biblioteca de temas
 
-Generado el 2026-11-20 por `node tools/biblioteca.mjs`.
+Generado el 2026-11-27 por `node tools/biblioteca.mjs`.
 
-**1182 temas** en 11 mazo(s) · **1060 listos para jugar** · 2 para revisar · 0 sin procesar · 85 fuera del mazo · 35 en reserva.
+**1381 temas** en 11 mazo(s) · **1245 listos para jugar** · 2 para revisar · 0 sin procesar · 99 fuera del mazo · 35 en reserva.
 
 Las correcciones se hacen en `tools/mazos/*.txt`: el año en la 3ª columna, y en la 4ª (opcional, separadas por comas) `fuera`, `ok-año`, `ok-versión` o `spotify:ID` / link de Spotify para fijar la versión a mano.
 
-## Solo hay remaster (aviso) (51)
+## Solo hay remaster (aviso) (53)
 
 No hay versión sin remasterizar: se usa el remaster del disco original. No hace falta hacer nada.
 
 | Artista | Tema | Track elegido | Disco |
 |---|---|---|---|
 | Peabo Bryson | A Whole New World | A Whole New World (Aladdin's Theme) - Remastered 2022 | Walt Disney Records The Legacy Collection: Aladdin (2022-09-16) |
+| The Cardigans | Lovefool | Lovefool | First Band On The Moon (Remastered) (1996-01-01) |
 | Sister Sledge | We Are Family | We Are Family - 1995 Remaster | We Are Family (1995 Remaster) (1979) |
 | Kaoma | Lambada | Lambada - Remastered 2022 | Lambada (Remastered 2022) (2022-09-01) |
 | Pet Shop Boys | Go West | Go West - 2018 Remaster; Hidden Track | Very (2018 Remaster) (1993-09-27) |
 | The Notorious B.I.G. | Hypnotize | Hypnotize - 2014 Remaster | Life After Death (2014 Remastered Edition) (1997-03-04) |
 | Soft Cell | Tainted Love | Tainted Love - Remastered 2023 | Non-Stop Erotic Cabaret (1981-11-27) |
+| Arrow | Hot Hot Hot | Hot Hot Hot | Hot Hot Hot (Remastered) (1982-12-15) |
 | Phil Collins | In the Air Tonight | In the Air Tonight - 2015 Remaster | Face Value (Deluxe Editon) (1981-01-01) |
 | Pet Shop Boys | West End Girls | West End Girls - 2018 Remaster | Please: Further Listening 1984 - 1986 (2018 Remaster) (1986-03-24) |
 | Ritchie Valens | La Bamba | La Bamba - Remastered | Donna & La Bamba (Remastered) (1958-03-01) |
@@ -106,7 +108,7 @@ Marcados con `reserva`: no salen en el juego para que haya más artistas distint
 | Gustavo Cerati | Engaña | 1999 |
 | Gustavo Cerati | Cosas imposibles | 2002 |
 
-## Fuera del mazo (85)
+## Fuera del mazo (99)
 
 Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, pasá un link de Spotify con `spotify:` y sacá `fuera`.
 
@@ -127,12 +129,22 @@ Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, 
 | Phil Collins | You'll Be in My Heart | 1999 | disco posterior |
 | Christina Aguilera | Lady Marmalade | 2001 | disco posterior |
 | Idina Menzel | Let It Go | 2013 | version dudosa: título con agregado |
+| Klaus Badelt | He's a Pirate | 2003 | disco posterior |
 | La Mona Jiménez | Quién se ha tomado todo el vino | 1984 | version dudosa: vivo/versión, anio distinto |
 | Los Charros | Una calle nos separa | 1996 | no spotify, no musicbrainz |
 | Flor de Piedra | La vamo a tomar | 2000 | no spotify, no musicbrainz |
 | Ráfaga | Una cerveza | 2002 | anio distinto |
 | Los Palmeras | El bombón asesino | 2009 | no spotify, no musicbrainz |
 | Ke Personajes | Pensando en ti | 2019 | no spotify, no musicbrainz |
+| La Mona Jiménez | Ciego de amor | 1988 | no spotify, no musicbrainz |
+| Damas Gratis | Me vas a extrañar | 2000 | version dudosa: vivo/versión, anio distinto |
+| Leo Mattioli | Tu ingratitud | 2004 | no spotify, no musicbrainz |
+| La K'onga | Te quiero | 2019 | no spotify, no musicbrainz |
+| L-Gante | Bebote | 2021 | no spotify, no musicbrainz |
+| Ulises Bueno | Fuera | 2018 | no spotify, no musicbrainz |
+| Daniel Agostini | Hasta el día de hoy | 1996 | no spotify, no musicbrainz |
+| Banda XXI | Agüita | 1999 | no spotify, no musicbrainz |
+| Sabroso | Que se mueran de envidia | 2006 | no spotify, no musicbrainz |
 | Chubby Checker | The Twist | 1960 | disco posterior, anio distinto |
 | Village People | Y.M.C.A. | 1978 | version dudosa: compilado, anio distinto |
 | KC and the Sunshine Band | Give It Up | 1983 | version dudosa: vivo/versión, anio distinto |
@@ -142,6 +154,7 @@ Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, 
 | King Africa | El Humahuaqueño | 1999 | no spotify, anio distinto |
 | Daryl Hall | Gloryland | 1994 | no spotify |
 | Kernkraft 400 | Zombie Nation | 1999 | no spotify, anio distinto |
+| Herbert Grönemeyer | Zeit, dass sich was dreht | 2006 | version dudosa: artistas de más, título con agregado |
 | Grandmaster Flash & The Furious Five | The Message | 1982 | anio distinto |
 | Run-DMC | It's Tricky | 1986 | no spotify, anio distinto |
 | Young MC | Bust a Move | 1989 | version dudosa: título con agregado |
@@ -149,6 +162,9 @@ Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, 
 | Illya Kuryaki and the Valderramas | Coolo | 1995 | no spotify, anio distinto |
 | Gazebo | I Like Chopin | 1983 | disco posterior |
 | Opus | Live Is Life | 1984 | version dudosa: vivo/versión, no musicbrainz |
+| Hanson | MMMBop | 1997 | disco posterior, anio distinto |
+| Trio | Da Da Da | 1982 | no spotify, anio distinto |
+| MARRS | Pump Up the Volume | 1987 | no spotify |
 | Village People | Y.M.C.A. | 1978 | version dudosa: compilado, anio distinto |
 | Eiffel 65 | Blue (Da Ba Dee) | 1998 | disco posterior, anio distinto |
 | Beyoncé | Crazy in Love | 2003 | disco posterior, anio distinto |
