@@ -2,7 +2,7 @@
 
 Generado el 2026-11-27 por `node tools/biblioteca.mjs`.
 
-**1596 temas** en 13 mazo(s) · **1420 listos para jugar** · 3 para revisar · 17 sin procesar · 121 fuera del mazo · 35 en reserva.
+**1596 temas** en 13 mazo(s) · **1419 listos para jugar** · 3 para revisar · 17 sin procesar · 122 fuera del mazo · 35 en reserva.
 
 Las correcciones se hacen en `tools/mazos/*.txt`: el año en la 3ª columna, y en la 4ª (opcional, separadas por comas) `fuera`, `ok-año`, `ok-versión` o `spotify:ID` / link de Spotify para fijar la versión a mano.
 
@@ -137,7 +137,7 @@ Marcados con `reserva`: no salen en el juego para que haya más artistas distint
 | Gustavo Cerati | Engaña | 1999 |
 | Gustavo Cerati | Cosas imposibles | 2002 |
 
-## Fuera del mazo (121)
+## Fuera del mazo (122)
 
 Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, pasá un link de Spotify con `spotify:` y sacá `fuera`.
 
@@ -158,6 +158,7 @@ Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, 
 | Phil Collins | You'll Be in My Heart | 1999 | disco posterior |
 | Christina Aguilera | Lady Marmalade | 2001 | disco posterior |
 | Idina Menzel | Let It Go | 2013 | version dudosa: título con agregado |
+| Dick Dale & His Del-Tones | Misirlou | 1962 | no musicbrainz |
 | Klaus Badelt | He's a Pirate | 2003 | disco posterior |
 | La Mona Jiménez | Quién se ha tomado todo el vino | 1984 | version dudosa: vivo/versión, anio distinto |
 | Los Charros | Una calle nos separa | 1996 | no spotify, no musicbrainz |

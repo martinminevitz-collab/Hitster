@@ -61,7 +61,7 @@
       "artista": "Bill Haley & His Comets",
       "titulo": "Rock Around the Clock",
       "anio": 1954,
-      "pelicula": "Semilla de maldad",
+      "pelicula": "Semilla de maldad / Blackboard Jungle",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -102,7 +102,7 @@
       "artista": "Elvis Presley",
       "titulo": "Jailhouse Rock",
       "anio": 1957,
-      "pelicula": "El rock de la cárcel",
+      "pelicula": "El rock de la cárcel / Jailhouse Rock",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -142,7 +142,7 @@
       "artista": "Chuck Berry",
       "titulo": "Johnny B. Goode",
       "anio": 1958,
-      "pelicula": "Volver al futuro",
+      "pelicula": "Volver al futuro / Back to the Future",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -180,7 +180,7 @@
       "artista": "Ben E. King",
       "titulo": "Stand by Me",
       "anio": 1961,
-      "pelicula": "Cuenta conmigo",
+      "pelicula": "Cuenta conmigo / Stand by Me",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -220,7 +220,7 @@
       "artista": "Audrey Hepburn",
       "titulo": "Moon River",
       "anio": 1961,
-      "pelicula": "Desayuno en Tiffany's",
+      "pelicula": "Desayuno en Tiffany's / Breakfast at Tiffany's",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -260,7 +260,7 @@
       "artista": "Dick Dale",
       "titulo": "Misirlou",
       "anio": 1962,
-      "pelicula": "Pulp Fiction",
+      "pelicula": "Tiempos violentos / Pulp Fiction",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -336,7 +336,7 @@
       "artista": "Roy Orbison",
       "titulo": "Oh, Pretty Woman",
       "anio": 1964,
-      "pelicula": "Mujer bonita",
+      "pelicula": "Mujer bonita / Pretty Woman",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -377,7 +377,7 @@
       "artista": "Shirley Bassey",
       "titulo": "Goldfinger",
       "anio": 1964,
-      "pelicula": "007 contra Goldfinger",
+      "pelicula": "007 contra Goldfinger / Goldfinger",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -458,7 +458,7 @@
       "artista": "Chuck Berry",
       "titulo": "You Never Can Tell",
       "anio": 1964,
-      "pelicula": "Pulp Fiction",
+      "pelicula": "Tiempos violentos / Pulp Fiction",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -498,7 +498,7 @@
       "artista": "The Righteous Brothers",
       "titulo": "Unchained Melody",
       "anio": 1965,
-      "pelicula": "Ghost: la sombra del amor",
+      "pelicula": "Ghost: la sombra del amor / Ghost",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -536,7 +536,7 @@
       "artista": "Simon & Garfunkel",
       "titulo": "Mrs. Robinson",
       "anio": 1968,
-      "pelicula": "El graduado",
+      "pelicula": "El graduado / The Graduate",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -576,7 +576,7 @@
       "artista": "Steppenwolf",
       "titulo": "Born to Be Wild",
       "anio": 1968,
-      "pelicula": "Busco mi destino",
+      "pelicula": "Busco mi destino / Easy Rider",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -616,7 +616,7 @@
       "artista": "B.J. Thomas",
       "titulo": "Raindrops Keep Fallin' on My Head",
       "anio": 1969,
-      "pelicula": "Butch Cassidy",
+      "pelicula": "Butch Cassidy / Butch Cassidy and the Sundance Kid",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -696,7 +696,7 @@
       "artista": "Stealers Wheel",
       "titulo": "Stuck in the Middle with You",
       "anio": 1972,
-      "pelicula": "Perros de la calle",
+      "pelicula": "Perros de la calle / Reservoir Dogs",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -734,7 +734,7 @@
       "artista": "Paul McCartney & Wings",
       "titulo": "Live and Let Die",
       "anio": 1973,
-      "pelicula": "007: Vivir y dejar morir",
+      "pelicula": "007: Vivir y dejar morir / Live and Let Die",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -775,7 +775,7 @@
       "artista": "Blue Swede",
       "titulo": "Hooked on a Feeling",
       "anio": 1973,
-      "pelicula": "Guardianes de la galaxia",
+      "pelicula": "Guardianes de la galaxia / Guardians of the Galaxy",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -813,7 +813,7 @@
       "artista": "Redbone",
       "titulo": "Come and Get Your Love",
       "anio": 1973,
-      "pelicula": "Guardianes de la galaxia",
+      "pelicula": "Guardianes de la galaxia / Guardians of the Galaxy",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -889,7 +889,7 @@
       "artista": "Bee Gees",
       "titulo": "Stayin' Alive",
       "anio": 1977,
-      "pelicula": "Fiebre de sábado por la noche",
+      "pelicula": "Fiebre de sábado por la noche / Saturday Night Fever",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -929,7 +929,7 @@
       "artista": "Bee Gees",
       "titulo": "How Deep Is Your Love",
       "anio": 1977,
-      "pelicula": "Fiebre de sábado por la noche",
+      "pelicula": "Fiebre de sábado por la noche / Saturday Night Fever",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -1007,7 +1007,7 @@
       "artista": "John Travolta",
       "titulo": "You're the One That I Want",
       "anio": 1978,
-      "pelicula": "Grease (Vaselina)",
+      "pelicula": "Vaselina / Grease",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -1047,7 +1047,7 @@
       "artista": "John Travolta",
       "titulo": "Summer Nights",
       "anio": 1978,
-      "pelicula": "Grease (Vaselina)",
+      "pelicula": "Vaselina / Grease",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -1087,7 +1087,7 @@
       "artista": "Olivia Newton-John",
       "titulo": "Hopelessly Devoted to You",
       "anio": 1978,
-      "pelicula": "Grease (Vaselina)",
+      "pelicula": "Vaselina / Grease",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -1127,7 +1127,7 @@
       "artista": "Bob Seger",
       "titulo": "Old Time Rock & Roll",
       "anio": 1978,
-      "pelicula": "Negocios riesgosos",
+      "pelicula": "Negocios riesgosos / Risky Business",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -1165,7 +1165,7 @@
       "artista": "Irene Cara",
       "titulo": "Fame",
       "anio": 1980,
-      "pelicula": "Fama",
+      "pelicula": "Fama / Fame",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -1444,7 +1444,7 @@
       "artista": "Ray Parker Jr.",
       "titulo": "Ghostbusters",
       "anio": 1984,
-      "pelicula": "Los cazafantasmas",
+      "pelicula": "Los cazafantasmas / Ghostbusters",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -1522,7 +1522,7 @@
       "artista": "Joe Esposito",
       "titulo": "You're the Best",
       "anio": 1984,
-      "pelicula": "Karate Kid",
+      "pelicula": "Karate Kid / The Karate Kid",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -1554,7 +1554,7 @@
       "artista": "Glenn Frey",
       "titulo": "The Heat Is On",
       "anio": 1984,
-      "pelicula": "Un detective suelto en Hollywood",
+      "pelicula": "Un detective suelto en Hollywood / Beverly Hills Cop",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -1594,7 +1594,7 @@
       "artista": "Stevie Wonder",
       "titulo": "I Just Called to Say I Love You",
       "anio": 1984,
-      "pelicula": "La mujer de rojo",
+      "pelicula": "La mujer de rojo / The Woman in Red",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -1632,7 +1632,7 @@
       "artista": "Simple Minds",
       "titulo": "Don't You (Forget About Me)",
       "anio": 1985,
-      "pelicula": "El club de los cinco",
+      "pelicula": "El club de los cinco / The Breakfast Club",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -1672,7 +1672,7 @@
       "artista": "Huey Lewis & The News",
       "titulo": "The Power of Love",
       "anio": 1985,
-      "pelicula": "Volver al futuro",
+      "pelicula": "Volver al futuro / Back to the Future",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -1712,7 +1712,7 @@
       "artista": "Tina Turner",
       "titulo": "We Don't Need Another Hero (Thunderdome)",
       "anio": 1985,
-      "pelicula": "Mad Max: más allá de la cúpula del trueno",
+      "pelicula": "Mad Max: más allá de la cúpula del trueno / Mad Max Beyond Thunderdome",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -1750,7 +1750,7 @@
       "artista": "Cyndi Lauper",
       "titulo": "The Goonies 'R' Good Enough",
       "anio": 1985,
-      "pelicula": "Los Goonies",
+      "pelicula": "Los Goonies / The Goonies",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -1790,7 +1790,7 @@
       "artista": "Lionel Richie",
       "titulo": "Say You, Say Me",
       "anio": 1985,
-      "pelicula": "Noches blancas",
+      "pelicula": "Noches blancas / White Nights",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -1828,7 +1828,7 @@
       "artista": "Yello",
       "titulo": "Oh Yeah",
       "anio": 1985,
-      "pelicula": "Todo en un día",
+      "pelicula": "Todo en un día / Ferris Bueller's Day Off",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -2028,7 +2028,7 @@
       "artista": "Peter Cetera",
       "titulo": "Glory of Love",
       "anio": 1986,
-      "pelicula": "Karate Kid 2",
+      "pelicula": "Karate Kid 2 / The Karate Kid Part II",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2066,7 +2066,7 @@
       "artista": "Orchestral Manoeuvres In The Dark",
       "titulo": "If You Leave",
       "anio": 1986,
-      "pelicula": "La chica de rosa",
+      "pelicula": "La chica de rosa / Pretty in Pink",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2258,7 +2258,7 @@
       "artista": "Samuel E. Wright",
       "titulo": "Under the Sea",
       "anio": 1989,
-      "pelicula": "La sirenita",
+      "pelicula": "La sirenita / The Little Mermaid",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2298,7 +2298,7 @@
       "artista": "Bryan Adams",
       "titulo": "(Everything I Do) I Do It for You",
       "anio": 1991,
-      "pelicula": "Robin Hood: príncipe de los ladrones",
+      "pelicula": "Robin Hood: príncipe de los ladrones / Robin Hood: Prince of Thieves",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2336,7 +2336,7 @@
       "artista": "Celine Dion",
       "titulo": "Beauty and the Beast",
       "anio": 1991,
-      "pelicula": "La bella y la bestia",
+      "pelicula": "La bella y la bestia / Beauty and the Beast",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2376,7 +2376,7 @@
       "artista": "Whitney Houston",
       "titulo": "I Will Always Love You",
       "anio": 1992,
-      "pelicula": "El guardaespaldas",
+      "pelicula": "El guardaespaldas / The Bodyguard",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2414,7 +2414,7 @@
       "artista": "Peabo Bryson",
       "titulo": "A Whole New World",
       "anio": 1992,
-      "pelicula": "Aladdín",
+      "pelicula": "Aladdín / Aladdin",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2454,7 +2454,7 @@
       "artista": "Rage Against The Machine",
       "titulo": "Wake Up",
       "anio": 1992,
-      "pelicula": "Matrix",
+      "pelicula": "Matrix / The Matrix",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2492,7 +2492,7 @@
       "artista": "Bruce Springsteen",
       "titulo": "Streets of Philadelphia",
       "anio": 1993,
-      "pelicula": "Filadelfia",
+      "pelicula": "Filadelfia / Philadelphia",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2532,7 +2532,7 @@
       "artista": "Elton John",
       "titulo": "Can You Feel the Love Tonight",
       "anio": 1994,
-      "pelicula": "El rey león",
+      "pelicula": "El rey león / The Lion King",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -2572,7 +2572,7 @@
       "artista": "Nathan Lane",
       "titulo": "Hakuna Matata",
       "anio": 1994,
-      "pelicula": "El rey león",
+      "pelicula": "El rey león / The Lion King",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -2612,7 +2612,7 @@
       "artista": "Wet Wet Wet",
       "titulo": "Love Is All Around",
       "anio": 1994,
-      "pelicula": "Cuatro bodas y un funeral",
+      "pelicula": "Cuatro bodas y un funeral / Four Weddings and a Funeral",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2652,7 +2652,7 @@
       "artista": "Seal",
       "titulo": "Kiss from a Rose",
       "anio": 1994,
-      "pelicula": "Batman eternamente",
+      "pelicula": "Batman eternamente / Batman Forever",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2728,7 +2728,7 @@
       "artista": "Coolio",
       "titulo": "Gangsta's Paradise",
       "anio": 1995,
-      "pelicula": "Mentes peligrosas",
+      "pelicula": "Mentes peligrosas / Dangerous Minds",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2804,7 +2804,7 @@
       "artista": "Des'ree",
       "titulo": "Kissing You",
       "anio": 1996,
-      "pelicula": "Romeo y Julieta",
+      "pelicula": "Romeo y Julieta / Romeo and Juliet",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -2876,7 +2876,7 @@
       "artista": "Will Smith",
       "titulo": "Men in Black",
       "anio": 1997,
-      "pelicula": "Hombres de negro",
+      "pelicula": "Hombres de negro / Men in Black",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2956,7 +2956,7 @@
       "artista": "Goo Goo Dolls",
       "titulo": "Iris",
       "anio": 1998,
-      "pelicula": "Un ángel enamorado",
+      "pelicula": "Un ángel enamorado / City of Angels",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -2994,7 +2994,7 @@
       "artista": "Madonna",
       "titulo": "Beautiful Stranger",
       "anio": 1999,
-      "pelicula": "Austin Powers 2",
+      "pelicula": "Austin Powers 2 / Austin Powers: The Spy Who Shagged Me",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -3034,7 +3034,7 @@
       "artista": "Phil Collins",
       "titulo": "You'll Be in My Heart",
       "anio": 1999,
-      "pelicula": "Tarzán",
+      "pelicula": "Tarzán / Tarzan",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -3074,7 +3074,7 @@
       "artista": "Ronan Keating",
       "titulo": "When You Say Nothing at All",
       "anio": 1999,
-      "pelicula": "Un lugar llamado Notting Hill",
+      "pelicula": "Un lugar llamado Notting Hill / Notting Hill",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -3153,7 +3153,7 @@
       "artista": "Limp Bizkit",
       "titulo": "Take a Look Around",
       "anio": 2000,
-      "pelicula": "Misión imposible 2",
+      "pelicula": "Misión imposible 2 / Mission: Impossible 2",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -3191,7 +3191,7 @@
       "artista": "Christina Aguilera",
       "titulo": "Lady Marmalade",
       "anio": 2001,
-      "pelicula": "Moulin Rouge",
+      "pelicula": "Moulin Rouge / Moulin Rouge!",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -3309,7 +3309,7 @@
       "artista": "Chad Kroeger",
       "titulo": "Hero",
       "anio": 2002,
-      "pelicula": "El hombre araña",
+      "pelicula": "El hombre araña / Spider-Man",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -3349,7 +3349,7 @@
       "artista": "Eminem",
       "titulo": "Lose Yourself",
       "anio": 2002,
-      "pelicula": "8 Millas",
+      "pelicula": "8 Millas / 8 Mile",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -3427,7 +3427,7 @@
       "artista": "Pharrell Williams",
       "titulo": "Happy",
       "anio": 2013,
-      "pelicula": "Mi villano favorito 2",
+      "pelicula": "Mi villano favorito 2 / Despicable Me 2",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -3505,7 +3505,7 @@
       "artista": "Wiz Khalifa",
       "titulo": "See You Again",
       "anio": 2015,
-      "pelicula": "Rápidos y furiosos 7",
+      "pelicula": "Rápidos y furiosos 7 / Furious 7",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -3703,7 +3703,7 @@
       "artista": "Keala Settle",
       "titulo": "This Is Me",
       "anio": 2017,
-      "pelicula": "El gran showman",
+      "pelicula": "El gran showman / The Greatest Showman",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -3741,7 +3741,7 @@
       "artista": "Lady Gaga",
       "titulo": "Shallow",
       "anio": 2018,
-      "pelicula": "Nace una estrella",
+      "pelicula": "Nace una estrella / A Star Is Born",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -3779,7 +3779,7 @@
       "artista": "Kendrick Lamar",
       "titulo": "All the Stars",
       "anio": 2018,
-      "pelicula": "Pantera Negra",
+      "pelicula": "Pantera Negra / Black Panther",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -3819,7 +3819,7 @@
       "artista": "Post Malone",
       "titulo": "Sunflower",
       "anio": 2018,
-      "pelicula": "Spider-Man: un nuevo universo",
+      "pelicula": "Spider-Man: un nuevo universo / Spider-Man: Into the Spider-Verse",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -3859,7 +3859,7 @@
       "artista": "Billie Eilish",
       "titulo": "No Time To Die",
       "anio": 2020,
-      "pelicula": "Sin tiempo para morir",
+      "pelicula": "Sin tiempo para morir / No Time to Die",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4051,7 +4051,7 @@
       "artista": "Judy Garland",
       "titulo": "Over the Rainbow",
       "anio": 1939,
-      "pelicula": "El mago de Oz",
+      "pelicula": "El mago de Oz / The Wizard of Oz",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4133,7 +4133,7 @@
       "artista": "Gene Kelly",
       "titulo": "Singin' in the Rain",
       "anio": 1952,
-      "pelicula": "Cantando bajo la lluvia",
+      "pelicula": "Cantando bajo la lluvia / Singin' in the Rain",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4171,10 +4171,10 @@
       "artista": "Dick Dale & His Del-Tones",
       "titulo": "Misirlou",
       "anio": 1962,
-      "pelicula": "Tiempos violentos",
-      "fuera": false,
+      "pelicula": "Tiempos violentos / Pulp Fiction",
+      "fuera": true,
       "opciones": {
-        "fuera": false,
+        "fuera": true,
         "reserva": false,
         "okAnio": true,
         "okVersion": false,
@@ -4205,7 +4205,7 @@
       "artista": "Simon & Garfunkel",
       "titulo": "The Sound of Silence",
       "anio": 1965,
-      "pelicula": "El graduado",
+      "pelicula": "El graduado / The Graduate",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4245,7 +4245,7 @@
       "artista": "Dusty Springfield",
       "titulo": "Son of a Preacher Man",
       "anio": 1968,
-      "pelicula": "Tiempos violentos",
+      "pelicula": "Tiempos violentos / Pulp Fiction",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4323,7 +4323,7 @@
       "artista": "Joe Cocker",
       "titulo": "Up Where We Belong",
       "anio": 1982,
-      "pelicula": "Reto al destino",
+      "pelicula": "Reto al destino / An Officer and a Gentleman",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4363,7 +4363,7 @@
       "artista": "Queen",
       "titulo": "Bohemian Rhapsody",
       "anio": 1975,
-      "pelicula": "El mundo según Wayne",
+      "pelicula": "El mundo según Wayne / Wayne's World",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4401,7 +4401,7 @@
       "artista": "The Cardigans",
       "titulo": "Lovefool",
       "anio": 1996,
-      "pelicula": "Romeo + Julieta",
+      "pelicula": "Romeo + Julieta / Romeo + Juliet",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4441,7 +4441,7 @@
       "artista": "Sixpence None the Richer",
       "titulo": "Kiss Me",
       "anio": 1997,
-      "pelicula": "Ella es así",
+      "pelicula": "Ella es así / She's All That",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4479,7 +4479,7 @@
       "artista": "The Goo Goo Dolls",
       "titulo": "Iris",
       "anio": 1998,
-      "pelicula": "Un ángel enamorado",
+      "pelicula": "Un ángel enamorado / City of Angels",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4517,7 +4517,7 @@
       "artista": "Elvis Presley",
       "titulo": "Can't Help Falling in Love",
       "anio": 1961,
-      "pelicula": "Amor en Hawái",
+      "pelicula": "Amor en Hawái / Blue Hawaii",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4555,7 +4555,7 @@
       "artista": "Monty Norman",
       "titulo": "James Bond Theme",
       "anio": 1962,
-      "pelicula": "El satánico Dr. No",
+      "pelicula": "El satánico Dr. No / Dr. No",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4596,7 +4596,7 @@
       "artista": "Henry Mancini",
       "titulo": "The Pink Panther Theme",
       "anio": 1963,
-      "pelicula": "La pantera rosa",
+      "pelicula": "La pantera rosa / The Pink Panther",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4634,7 +4634,7 @@
       "artista": "Ennio Morricone",
       "titulo": "The Good, the Bad and the Ugly",
       "anio": 1966,
-      "pelicula": "El bueno, el malo y el feo",
+      "pelicula": "El bueno, el malo y el feo / The Good, the Bad and the Ugly",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4675,7 +4675,7 @@
       "artista": "John Williams",
       "titulo": "Star Wars (Main Title)",
       "anio": 1977,
-      "pelicula": "La guerra de las galaxias",
+      "pelicula": "La guerra de las galaxias / Star Wars",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4715,7 +4715,7 @@
       "artista": "Vangelis",
       "titulo": "Chariots of Fire",
       "anio": 1981,
-      "pelicula": "Carrozas de fuego",
+      "pelicula": "Carrozas de fuego / Chariots of Fire",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4753,7 +4753,7 @@
       "artista": "Harold Faltermeyer",
       "titulo": "Axel F",
       "anio": 1984,
-      "pelicula": "Un detective suelto en Hollywood",
+      "pelicula": "Un detective suelto en Hollywood / Beverly Hills Cop",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -4829,7 +4829,7 @@
       "artista": "Klaus Badelt",
       "titulo": "He's a Pirate",
       "anio": 2003,
-      "pelicula": "Piratas del Caribe",
+      "pelicula": "Piratas del Caribe / Pirates of the Caribbean",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -4869,7 +4869,7 @@
       "artista": "A. R. Rahman",
       "titulo": "Jai Ho",
       "anio": 2008,
-      "pelicula": "¿Quién quiere ser millonario?",
+      "pelicula": "¿Quién quiere ser millonario? / Slumdog Millionaire",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -9303,7 +9303,7 @@
       "artista": "The Dwarfs",
       "titulo": "Heigh-Ho",
       "anio": 1937,
-      "pelicula": "Blancanieves",
+      "pelicula": "Blancanieves / Snow White and the Seven Dwarfs",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -9344,7 +9344,7 @@
       "artista": "Cliff Edwards",
       "titulo": "When You Wish Upon a Star",
       "anio": 1940,
-      "pelicula": "Pinocho",
+      "pelicula": "Pinocho / Pinocchio",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -9384,7 +9384,7 @@
       "artista": "Ilene Woods",
       "titulo": "A Dream Is a Wish Your Heart Makes",
       "anio": 1950,
-      "pelicula": "La Cenicienta",
+      "pelicula": "La Cenicienta / Cinderella",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -9424,7 +9424,7 @@
       "artista": "Verna Felton",
       "titulo": "Bibbidi-Bobbidi-Boo",
       "anio": 1950,
-      "pelicula": "La Cenicienta",
+      "pelicula": "La Cenicienta / Cinderella",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -9465,7 +9465,7 @@
       "artista": "Hoyt Curtin",
       "titulo": "Meet the Flintstones",
       "anio": 1960,
-      "pelicula": "Los Picapiedra",
+      "pelicula": "Los Picapiedra / The Flintstones",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -9506,7 +9506,7 @@
       "artista": "Hoyt Curtin",
       "titulo": "The Jetsons Main Theme",
       "anio": 1962,
-      "pelicula": "Los Supersónicos",
+      "pelicula": "Los Supersónicos / The Jetsons",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -9573,7 +9573,7 @@
       "artista": "Phil Harris",
       "titulo": "The Bare Necessities",
       "anio": 1967,
-      "pelicula": "El libro de la selva",
+      "pelicula": "El libro de la selva / The Jungle Book",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -9613,7 +9613,7 @@
       "artista": "Louis Prima",
       "titulo": "I Wan'na Be Like You",
       "anio": 1967,
-      "pelicula": "El libro de la selva",
+      "pelicula": "El libro de la selva / The Jungle Book",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -9653,7 +9653,7 @@
       "artista": "Paul Francis Webster",
       "titulo": "Spider-Man Theme",
       "anio": 1967,
-      "pelicula": "El Hombre Araña",
+      "pelicula": "El Hombre Araña / Spider-Man",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -9685,7 +9685,7 @@
       "artista": "Joe Raposo",
       "titulo": "Sesame Street Theme",
       "anio": 1969,
-      "pelicula": "Plaza Sésamo",
+      "pelicula": "Plaza Sésamo / Sesame Street",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -9720,7 +9720,7 @@
       "artista": "Scatman Crothers",
       "titulo": "Ev'rybody Wants to Be a Cat",
       "anio": 1970,
-      "pelicula": "Los aristogatos",
+      "pelicula": "Los aristogatos / The Aristocats",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -9838,7 +9838,7 @@
       "artista": "The Muppets",
       "titulo": "The Muppet Show Theme",
       "anio": 1976,
-      "pelicula": "El show de los Muppets",
+      "pelicula": "El show de los Muppets / The Muppet Show",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -9879,7 +9879,7 @@
       "artista": "Father Abraham",
       "titulo": "The Smurf Song",
       "anio": 1977,
-      "pelicula": "Los Pitufos",
+      "pelicula": "Los Pitufos / The Smurfs",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -9978,7 +9978,7 @@
       "artista": "Chuck Lorre",
       "titulo": "Teenage Mutant Ninja Turtles",
       "anio": 1987,
-      "pelicula": "Las Tortugas Ninja",
+      "pelicula": "Las Tortugas Ninja / Teenage Mutant Ninja Turtles",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10012,7 +10012,7 @@
       "artista": "Jeff Pescetto",
       "titulo": "DuckTales Theme",
       "anio": 1987,
-      "pelicula": "Patoaventuras",
+      "pelicula": "Patoaventuras / DuckTales",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10046,7 +10046,7 @@
       "artista": "Xuxa",
       "titulo": "Ilarié",
       "anio": 1988,
-      "pelicula": "El show de Xuxa",
+      "pelicula": "El show de Xuxa / Xou da Xuxa",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10084,7 +10084,7 @@
       "artista": "Jodi Benson",
       "titulo": "Part of Your World",
       "anio": 1989,
-      "pelicula": "La sirenita",
+      "pelicula": "La sirenita / The Little Mermaid",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10124,7 +10124,7 @@
       "artista": "Samuel E. Wright",
       "titulo": "Under the Sea",
       "anio": 1989,
-      "pelicula": "La sirenita",
+      "pelicula": "La sirenita / The Little Mermaid",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10164,7 +10164,7 @@
       "artista": "Samuel E. Wright",
       "titulo": "Kiss the Girl",
       "anio": 1989,
-      "pelicula": "La sirenita",
+      "pelicula": "La sirenita / The Little Mermaid",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10204,7 +10204,7 @@
       "artista": "Angela Lansbury",
       "titulo": "Be Our Guest",
       "anio": 1991,
-      "pelicula": "La Bella y la Bestia",
+      "pelicula": "La Bella y la Bestia / Beauty and the Beast",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10244,7 +10244,7 @@
       "artista": "Robin Williams",
       "titulo": "Friend Like Me",
       "anio": 1992,
-      "pelicula": "Aladdín",
+      "pelicula": "Aladdín / Aladdin",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10284,7 +10284,7 @@
       "artista": "Peabo Bryson",
       "titulo": "A Whole New World",
       "anio": 1992,
-      "pelicula": "Aladdín",
+      "pelicula": "Aladdín / Aladdin",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10435,7 +10435,7 @@
       "artista": "Carmen Twillie",
       "titulo": "Circle of Life",
       "anio": 1994,
-      "pelicula": "El rey león",
+      "pelicula": "El rey león / The Lion King",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10475,7 +10475,7 @@
       "artista": "Jason Weaver",
       "titulo": "I Just Can't Wait to Be King",
       "anio": 1994,
-      "pelicula": "El rey león",
+      "pelicula": "El rey león / The Lion King",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10633,7 +10633,7 @@
       "artista": "Roger Bart",
       "titulo": "Go the Distance",
       "anio": 1997,
-      "pelicula": "Hércules",
+      "pelicula": "Hércules / Hercules",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10752,7 +10752,7 @@
       "artista": "Lea Salonga",
       "titulo": "Reflection",
       "anio": 1998,
-      "pelicula": "Mulán",
+      "pelicula": "Mulán / Mulan",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10790,7 +10790,7 @@
       "artista": "Donny Osmond",
       "titulo": "I'll Make a Man Out of You",
       "anio": 1998,
-      "pelicula": "Mulán",
+      "pelicula": "Mulán / Mulan",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10864,7 +10864,7 @@
       "artista": "Painty the Pirate",
       "titulo": "SpongeBob SquarePants Theme",
       "anio": 1999,
-      "pelicula": "Bob Esponja",
+      "pelicula": "Bob Esponja / SpongeBob SquarePants",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -10980,7 +10980,7 @@
       "artista": "Bob the Builder",
       "titulo": "Can We Fix It?",
       "anio": 2000,
-      "pelicula": "Bob el constructor",
+      "pelicula": "Bob el constructor / Bob the Builder",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -11254,7 +11254,7 @@
       "artista": "Bowling for Soup",
       "titulo": "Today Is Gonna Be a Great Day",
       "anio": 2007,
-      "pelicula": "Phineas y Ferb",
+      "pelicula": "Phineas y Ferb / Phineas and Ferb",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -11295,7 +11295,7 @@
       "artista": "Gummibär",
       "titulo": "I'm a Gummy Bear (The Gummy Bear Song)",
       "anio": 2006,
-      "pelicula": "Osito Gominola",
+      "pelicula": "Osito Gominola / Gummibär",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -11487,7 +11487,7 @@
       "artista": "Pharrell Williams",
       "titulo": "Happy",
       "anio": 2013,
-      "pelicula": "Mi villano favorito 2",
+      "pelicula": "Mi villano favorito 2 / Despicable Me 2",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12110,7 +12110,7 @@
       "artista": "Shuki Levy",
       "titulo": "Inspector Gadget Main Title",
       "anio": 1983,
-      "pelicula": "El Inspector Gadget",
+      "pelicula": "El Inspector Gadget / Inspector Gadget",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -12136,7 +12136,7 @@
       "artista": "Make-Up",
       "titulo": "Pegasus Fantasy",
       "anio": 1986,
-      "pelicula": "Los Caballeros del Zodíaco",
+      "pelicula": "Los Caballeros del Zodíaco / Saint Seiya",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -12167,7 +12167,7 @@
       "artista": "Angela Lansbury",
       "titulo": "Beauty and the Beast",
       "anio": 1991,
-      "pelicula": "La Bella y la Bestia",
+      "pelicula": "La Bella y la Bestia / Beauty and the Beast",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12207,7 +12207,7 @@
       "artista": "Robin Williams",
       "titulo": "Prince Ali",
       "anio": 1992,
-      "pelicula": "Aladdín",
+      "pelicula": "Aladdín / Aladdin",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12247,7 +12247,7 @@
       "artista": "Barney",
       "titulo": "I Love You",
       "anio": 1992,
-      "pelicula": "Barney y sus amigos",
+      "pelicula": "Barney y sus amigos / Barney & Friends",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12288,7 +12288,7 @@
       "artista": "Nathan Lane",
       "titulo": "Hakuna Matata",
       "anio": 1994,
-      "pelicula": "El rey león",
+      "pelicula": "El rey león / The Lion King",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -12366,7 +12366,7 @@
       "artista": "Lillias White",
       "titulo": "Zero to Hero",
       "anio": 1997,
-      "pelicula": "Hércules",
+      "pelicula": "Hércules / Hercules",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12440,7 +12440,7 @@
       "artista": "Phil Collins",
       "titulo": "Strangers Like Me",
       "anio": 1999,
-      "pelicula": "Tarzán",
+      "pelicula": "Tarzán / Tarzan",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12480,7 +12480,7 @@
       "artista": "Phil Collins",
       "titulo": "Two Worlds",
       "anio": 1999,
-      "pelicula": "Tarzán",
+      "pelicula": "Tarzán / Tarzan",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12600,7 +12600,7 @@
       "artista": "Christina Milian",
       "titulo": "Call Me, Beep Me!",
       "anio": 2002,
-      "pelicula": "Kate Possible",
+      "pelicula": "Kim Possible",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12680,7 +12680,7 @@
       "artista": "They Might Be Giants",
       "titulo": "Hot Dog!",
       "anio": 2006,
-      "pelicula": "La casa de Mickey Mouse",
+      "pelicula": "La casa de Mickey Mouse / Mickey Mouse Clubhouse",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12798,7 +12798,7 @@
       "artista": "Michael Giacchino",
       "titulo": "Married Life",
       "anio": 2009,
-      "pelicula": "Up",
+      "pelicula": "Up: una aventura de altura / Up",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12839,7 +12839,7 @@
       "artista": "Anika Noni Rose",
       "titulo": "Almost There",
       "anio": 2009,
-      "pelicula": "La princesa y el sapo",
+      "pelicula": "La princesa y el sapo / The Princess and the Frog",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12879,7 +12879,7 @@
       "artista": "Mandy Moore",
       "titulo": "When Will My Life Begin",
       "anio": 2010,
-      "pelicula": "Enredados",
+      "pelicula": "Enredados / Tangled",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12919,7 +12919,7 @@
       "artista": "Mandy Moore",
       "titulo": "I See the Light",
       "anio": 2010,
-      "pelicula": "Enredados",
+      "pelicula": "Enredados / Tangled",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -12959,7 +12959,7 @@
       "artista": "Jamie Foxx",
       "titulo": "Real in Rio",
       "anio": 2011,
-      "pelicula": "Río",
+      "pelicula": "Río / Rio",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -13219,7 +13219,7 @@
       "artista": "Taron Egerton",
       "titulo": "I'm Still Standing",
       "anio": 2016,
-      "pelicula": "Sing",
+      "pelicula": "Sing: ven y canta / Sing",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -13340,7 +13340,7 @@
       "artista": "Naomi Scott",
       "titulo": "Speechless",
       "anio": 2019,
-      "pelicula": "Aladdín",
+      "pelicula": "Aladdín / Aladdin",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -55540,7 +55540,7 @@
       "artista": "Frank Sinatra",
       "titulo": "Love and Marriage",
       "anio": 1955,
-      "pelicula": "Casados con hijos",
+      "pelicula": "Casados con hijos / Married... with Children",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -55580,7 +55580,7 @@
       "artista": "Marius Constant",
       "titulo": "The Twilight Zone",
       "anio": 1959,
-      "pelicula": "La dimensión desconocida",
+      "pelicula": "La dimensión desconocida / The Twilight Zone",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -55693,7 +55693,7 @@
       "artista": "Alexander Courage",
       "titulo": "Star Trek Theme",
       "anio": 1966,
-      "pelicula": "Viaje a las estrellas",
+      "pelicula": "Viaje a las estrellas / Star Trek",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -55734,7 +55734,7 @@
       "artista": "Lalo Schifrin",
       "titulo": "Mission: Impossible Theme",
       "anio": 1967,
-      "pelicula": "Misión imposible",
+      "pelicula": "Misión imposible / Mission: Impossible",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -55772,7 +55772,7 @@
       "artista": "Joe Cocker",
       "titulo": "With a Little Help from My Friends",
       "anio": 1968,
-      "pelicula": "Los años maravillosos",
+      "pelicula": "Los años maravillosos / The Wonder Years",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -55812,7 +55812,7 @@
       "artista": "The Ventures",
       "titulo": "Hawaii Five-O",
       "anio": 1969,
-      "pelicula": "Hawaii 5-0",
+      "pelicula": "Hawaii 5-0 / Hawaii Five-O",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -55932,7 +55932,7 @@
       "artista": "Pratt & McClain",
       "titulo": "Happy Days",
       "anio": 1976,
-      "pelicula": "Días felices",
+      "pelicula": "Días felices / Happy Days",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -56012,7 +56012,7 @@
       "artista": "Joey Scarbury",
       "titulo": "Believe It or Not",
       "anio": 1981,
-      "pelicula": "El gran héroe americano",
+      "pelicula": "El gran héroe americano / The Greatest American Hero",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -56053,7 +56053,7 @@
       "artista": "Stu Phillips",
       "titulo": "Knight Rider Theme",
       "anio": 1982,
-      "pelicula": "El auto fantástico",
+      "pelicula": "El auto fantástico / Knight Rider",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -56094,7 +56094,7 @@
       "artista": "Mike Post",
       "titulo": "The A-Team",
       "anio": 1983,
-      "pelicula": "Brigada A",
+      "pelicula": "Brigada A / The A-Team",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -56213,7 +56213,7 @@
       "artista": "Al Jarreau",
       "titulo": "Moonlighting",
       "anio": 1985,
-      "pelicula": "Luz de luna",
+      "pelicula": "Luz de luna / Moonlighting",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -56332,7 +56332,7 @@
       "artista": "Danny Elfman",
       "titulo": "The Simpsons Theme",
       "anio": 1989,
-      "pelicula": "Los Simpson",
+      "pelicula": "Los Simpson / The Simpsons",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -56373,7 +56373,7 @@
       "artista": "Will Smith",
       "titulo": "The Fresh Prince of Bel-Air",
       "anio": 1990,
-      "pelicula": "El príncipe del rap",
+      "pelicula": "El príncipe del rap / The Fresh Prince of Bel-Air",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -56454,7 +56454,7 @@
       "artista": "Jimi Jamison",
       "titulo": "I'm Always Here",
       "anio": 1991,
-      "pelicula": "Guardianes de la bahía",
+      "pelicula": "Guardianes de la bahía / Baywatch",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -56495,7 +56495,7 @@
       "artista": "Mark Snow",
       "titulo": "The X-Files",
       "anio": 1993,
-      "pelicula": "Los expedientes secretos X",
+      "pelicula": "Los expedientes secretos X / The X-Files",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -56613,7 +56613,7 @@
       "artista": "Alabama 3",
       "titulo": "Woke Up This Morning",
       "anio": 1997,
-      "pelicula": "Los Soprano",
+      "pelicula": "Los Soprano / The Sopranos",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -56691,7 +56691,7 @@
       "artista": "Massive Attack",
       "titulo": "Teardrop",
       "anio": 1998,
-      "pelicula": "Dr. House",
+      "pelicula": "Dr. House / House",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -56729,7 +56729,7 @@
       "artista": "They Might Be Giants",
       "titulo": "Boss of Me",
       "anio": 2000,
-      "pelicula": "Malcolm",
+      "pelicula": "Malcolm / Malcolm in the Middle",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -57004,7 +57004,7 @@
       "artista": "The Fray",
       "titulo": "How to Save a Life",
       "anio": 2005,
-      "pelicula": "Grey's Anatomy",
+      "pelicula": "Anatomía de Grey / Grey's Anatomy",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -57042,7 +57042,7 @@
       "artista": "Snow Patrol",
       "titulo": "Chasing Cars",
       "anio": 2006,
-      "pelicula": "Grey's Anatomy",
+      "pelicula": "Anatomía de Grey / Grey's Anatomy",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -57190,7 +57190,7 @@
       "artista": "Curtis Stigers & The Forest Rangers",
       "titulo": "This Life",
       "anio": 2008,
-      "pelicula": "Hijos de la anarquía",
+      "pelicula": "Hijos de la anarquía / Sons of Anarchy",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -57230,7 +57230,7 @@
       "artista": "Fever Ray",
       "titulo": "If I Had a Heart",
       "anio": 2009,
-      "pelicula": "Vikingos",
+      "pelicula": "Vikingos / Vikings",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -57344,7 +57344,7 @@
       "artista": "Ramin Djawadi",
       "titulo": "Game of Thrones Main Title",
       "anio": 2011,
-      "pelicula": "Game of Thrones",
+      "pelicula": "Juego de tronos / Game of Thrones",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -57378,7 +57378,7 @@
       "artista": "Lady Gaga",
       "titulo": "Bloody Mary",
       "anio": 2011,
-      "pelicula": "Merlina",
+      "pelicula": "Merlina / Wednesday",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -57534,7 +57534,7 @@
       "artista": "Cecilia Krull",
       "titulo": "My Life Is Going On",
       "anio": 2017,
-      "pelicula": "La casa de papel",
+      "pelicula": "La casa de papel / Money Heist",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -57574,7 +57574,7 @@
       "artista": "Manu Pilas",
       "titulo": "Bella ciao",
       "anio": 2018,
-      "pelicula": "La casa de papel",
+      "pelicula": "La casa de papel / Money Heist",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -57728,7 +57728,7 @@
       "artista": "The Cramps",
       "titulo": "Goo Goo Muck",
       "anio": 1981,
-      "pelicula": "Merlina",
+      "pelicula": "Merlina / Wednesday",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -57768,7 +57768,7 @@
       "artista": "Ann Hampton Callaway",
       "titulo": "The Nanny Named Fran",
       "anio": 1993,
-      "pelicula": "La niñera",
+      "pelicula": "La niñera / The Nanny",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -57926,7 +57926,7 @@
       "artista": "Jung Jae-il",
       "titulo": "Way Back Then",
       "anio": 2021,
-      "pelicula": "El juego del calamar",
+      "pelicula": "El juego del calamar / Squid Game",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -58186,7 +58186,7 @@
       "artista": "Carole King",
       "titulo": "Where You Lead",
       "anio": 1971,
-      "pelicula": "Gilmore Girls",
+      "pelicula": "Las chicas Gilmore / Gilmore Girls",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -58224,7 +58224,7 @@
       "artista": "Andrew Gold",
       "titulo": "Thank You for Being a Friend",
       "anio": 1978,
-      "pelicula": "Las chicas de oro",
+      "pelicula": "Las chicas de oro / The Golden Girls",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -58419,7 +58419,7 @@
       "artista": "Love Spit Love",
       "titulo": "How Soon Is Now?",
       "anio": 1997,
-      "pelicula": "Hechiceras",
+      "pelicula": "Hechiceras / Charmed",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -58451,7 +58451,7 @@
       "artista": "Nerf Herder",
       "titulo": "Buffy the Vampire Slayer Theme",
       "anio": 1997,
-      "pelicula": "Buffy, la cazavampiros",
+      "pelicula": "Buffy, la cazavampiros / Buffy the Vampire Slayer",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -58521,7 +58521,7 @@
       "artista": "Cheap Trick",
       "titulo": "In the Street",
       "anio": 1998,
-      "pelicula": "That '70s Show",
+      "pelicula": "El show de los 70 / That '70s Show",
       "fuera": true,
       "opciones": {
         "fuera": true,
@@ -58547,7 +58547,7 @@
       "artista": "The Solids",
       "titulo": "Hey Beautiful",
       "anio": 1998,
-      "pelicula": "Cómo conocí a tu madre",
+      "pelicula": "Cómo conocí a tu madre / How I Met Your Mother",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -58588,7 +58588,7 @@
       "artista": "Journey",
       "titulo": "Don't Stop Believin'",
       "anio": 1981,
-      "pelicula": "Los Soprano",
+      "pelicula": "Los Soprano / The Sopranos",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -58707,7 +58707,7 @@
       "artista": "Jane's Addiction",
       "titulo": "Superhero",
       "anio": 2002,
-      "pelicula": "El séquito",
+      "pelicula": "El séquito / Entourage",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -58823,7 +58823,7 @@
       "artista": "Sia",
       "titulo": "Breathe Me",
       "anio": 2004,
-      "pelicula": "Six Feet Under",
+      "pelicula": "A dos metros bajo tierra / Six Feet Under",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -59034,7 +59034,7 @@
       "artista": "Lord Huron",
       "titulo": "The Night We Met",
       "anio": 2015,
-      "pelicula": "13 Reasons Why",
+      "pelicula": "Por trece razones / 13 Reasons Why",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -59053,7 +59053,7 @@
       "artista": "Ramin Djawadi",
       "titulo": "Light of the Seven",
       "anio": 2016,
-      "pelicula": "Game of Thrones",
+      "pelicula": "Juego de tronos / Game of Thrones",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -59072,7 +59072,7 @@
       "artista": "Billie Eilish",
       "titulo": "lovely",
       "anio": 2018,
-      "pelicula": "13 Reasons Why",
+      "pelicula": "Por trece razones / 13 Reasons Why",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -59148,7 +59148,7 @@
       "artista": "The Rolling Stones",
       "titulo": "Paint It Black",
       "anio": 1966,
-      "pelicula": "Misión del deber",
+      "pelicula": "Misión del deber / Tour of Duty",
       "fuera": false,
       "opciones": {
         "fuera": false,
@@ -59224,7 +59224,7 @@
       "artista": "Danny Elfman",
       "titulo": "Desperate Housewives Main Title",
       "anio": 2004,
-      "pelicula": "Esposas desesperadas",
+      "pelicula": "Esposas desesperadas / Desperate Housewives",
       "fuera": false,
       "opciones": {
         "fuera": false,

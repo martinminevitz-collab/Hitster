@@ -2,127 +2,127 @@
 # playlist: 3P24zGB9qJfvzv6NRhcezs
 # formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión) | película
 # El año es el del tema. Si el tema es anterior a la película (por ejemplo "Stand by Me"), vale el año del tema.
-Bill Haley & His Comets | Rock Around the Clock | 1954 | spotify:4YXvM3J4tfEgcRWsuTiJeB, ok-año, ok-versión | Semilla de maldad
-Elvis Presley | Jailhouse Rock | 1957 | spotify:4gphxUgq0JSFv2BCLhNDiE, ok-versión | El rock de la cárcel
-Chuck Berry | Johnny B. Goode | 1958 | spotify:2QfiRTz5Yc8DdShCxG1tB2 | Volver al futuro
-Ben E. King | Stand by Me | 1961 | spotify:3SdTKo2uVsxFblQjpScoHy, ok-año | Cuenta conmigo
-Audrey Hepburn | Moon River | 1961 | spotify:2EOo6tJpZIgmVQHmUv1dtg, ok-versión | Desayuno en Tiffany's
-Dick Dale | Misirlou | 1962 | spotify:1hlT8E7Zk07UgTphcFJidJ, ok-año | Pulp Fiction
+Bill Haley & His Comets | Rock Around the Clock | 1954 | spotify:4YXvM3J4tfEgcRWsuTiJeB, ok-año, ok-versión | Semilla de maldad / Blackboard Jungle
+Elvis Presley | Jailhouse Rock | 1957 | spotify:4gphxUgq0JSFv2BCLhNDiE, ok-versión | El rock de la cárcel / Jailhouse Rock
+Chuck Berry | Johnny B. Goode | 1958 | spotify:2QfiRTz5Yc8DdShCxG1tB2 | Volver al futuro / Back to the Future
+Ben E. King | Stand by Me | 1961 | spotify:3SdTKo2uVsxFblQjpScoHy, ok-año | Cuenta conmigo / Stand by Me
+Audrey Hepburn | Moon River | 1961 | spotify:2EOo6tJpZIgmVQHmUv1dtg, ok-versión | Desayuno en Tiffany's / Breakfast at Tiffany's
+Dick Dale | Misirlou | 1962 | spotify:1hlT8E7Zk07UgTphcFJidJ, ok-año | Tiempos violentos / Pulp Fiction
 The Ronettes | Be My Baby | 1963 | spotify:1WN4uNclrDuczTO3bCr8s1 | Dirty Dancing
-Roy Orbison | Oh, Pretty Woman | 1964 | spotify:01jOnfF6OMQx2ZgC3nKi3o, fuera | Mujer bonita
-Shirley Bassey | Goldfinger | 1964 | spotify:22IZCY5XOrnmwmfDzr053R, ok-año, ok-versión | 007 contra Goldfinger
+Roy Orbison | Oh, Pretty Woman | 1964 | spotify:01jOnfF6OMQx2ZgC3nKi3o, fuera | Mujer bonita / Pretty Woman
+Shirley Bassey | Goldfinger | 1964 | spotify:22IZCY5XOrnmwmfDzr053R, ok-año, ok-versión | 007 contra Goldfinger / Goldfinger
 Julie Andrews | Supercalifragilisticexpialidocious | 1964 | spotify:5cvzqk8wsmLA9P7LrZCRb2, ok-versión | Mary Poppins
-Chuck Berry | You Never Can Tell | 1964 | spotify:6FT83pFXKhDlXDsNJFAHWz, ok-versión | Pulp Fiction
-The Righteous Brothers | Unchained Melody | 1965 | spotify:2qhASBzpbFhPRtrnZ5lLnz | Ghost: la sombra del amor
-Simon & Garfunkel | Mrs. Robinson | 1968 | spotify:6i5vGqXmUxwyQyiEkVVo6G, ok-versión | El graduado
-Steppenwolf | Born to Be Wild | 1968 | spotify:2VPGmrcBw5X4yAu3B8UZNE, ok-versión | Busco mi destino
-B.J. Thomas | Raindrops Keep Fallin' on My Head | 1969 | spotify:0oMTxTIHAt3hstaoObsmFs, ok-versión | Butch Cassidy
+Chuck Berry | You Never Can Tell | 1964 | spotify:6FT83pFXKhDlXDsNJFAHWz, ok-versión | Tiempos violentos / Pulp Fiction
+The Righteous Brothers | Unchained Melody | 1965 | spotify:2qhASBzpbFhPRtrnZ5lLnz | Ghost: la sombra del amor / Ghost
+Simon & Garfunkel | Mrs. Robinson | 1968 | spotify:6i5vGqXmUxwyQyiEkVVo6G, ok-versión | El graduado / The Graduate
+Steppenwolf | Born to Be Wild | 1968 | spotify:2VPGmrcBw5X4yAu3B8UZNE, ok-versión | Busco mi destino / Easy Rider
+B.J. Thomas | Raindrops Keep Fallin' on My Head | 1969 | spotify:0oMTxTIHAt3hstaoObsmFs, ok-versión | Butch Cassidy / Butch Cassidy and the Sundance Kid
 Isaac Hayes | Theme from Shaft | 1971 | spotify:4GPzDnkvhLdNLsI8xYkcLO, ok-versión | Shaft
-Stealers Wheel | Stuck in the Middle with You | 1972 | spotify:3Vby4nGmtbDo7HDJamOWkT | Perros de la calle
-Paul McCartney & Wings | Live and Let Die | 1973 | spotify:5F1KPBA60tNgtIEzl4vwHI, fuera | 007: Vivir y dejar morir
-Blue Swede | Hooked on a Feeling | 1973 | spotify:4PLDCPnxz4duALtJwdlqE9 | Guardianes de la galaxia
-Redbone | Come and Get Your Love | 1973 | spotify:23hrvdvkIi1X1voQG2bJH9 | Guardianes de la galaxia
+Stealers Wheel | Stuck in the Middle with You | 1972 | spotify:3Vby4nGmtbDo7HDJamOWkT | Perros de la calle / Reservoir Dogs
+Paul McCartney & Wings | Live and Let Die | 1973 | spotify:5F1KPBA60tNgtIEzl4vwHI, fuera | 007: Vivir y dejar morir / Live and Let Die
+Blue Swede | Hooked on a Feeling | 1973 | spotify:4PLDCPnxz4duALtJwdlqE9 | Guardianes de la galaxia / Guardians of the Galaxy
+Redbone | Come and Get Your Love | 1973 | spotify:23hrvdvkIi1X1voQG2bJH9 | Guardianes de la galaxia / Guardians of the Galaxy
 ABBA | Mamma Mia | 1975 | spotify:2TxCwUlqaOH3TIyJqGgR91 | Mamma Mia!
-Bee Gees | Stayin' Alive | 1977 | spotify:2Lz4iCypeUTy62CP3Xwk6i, ok-versión | Fiebre de sábado por la noche
-Bee Gees | How Deep Is Your Love | 1977 | spotify:2tAaAsvb9tqyMKBC2sbQid, ok-versión | Fiebre de sábado por la noche
+Bee Gees | Stayin' Alive | 1977 | spotify:2Lz4iCypeUTy62CP3Xwk6i, ok-versión | Fiebre de sábado por la noche / Saturday Night Fever
+Bee Gees | How Deep Is Your Love | 1977 | spotify:2tAaAsvb9tqyMKBC2sbQid, ok-versión | Fiebre de sábado por la noche / Saturday Night Fever
 Iggy Pop | Lust for Life | 1977 | spotify:21YxK0klhpfLW8budkJaMF | Trainspotting
-John Travolta | You're the One That I Want | 1978 | spotify:1OBAPPxgujYUVYerorsg90, ok-versión | Grease (Vaselina)
-John Travolta | Summer Nights | 1978 | spotify:2AVkArcfALVk2X8sfPRzya, ok-versión | Grease (Vaselina)
-Olivia Newton-John | Hopelessly Devoted to You | 1978 | spotify:62PQbEvmoliAsIfJpFKX6F, fuera | Grease (Vaselina)
-Bob Seger | Old Time Rock & Roll | 1978 | spotify:5EOoMWIB9iK4ZpcSex9Ec7 | Negocios riesgosos
-Irene Cara | Fame | 1980 | spotify:0ryKcLwHBonJgSVvE0IblU, ok-versión | Fama
+John Travolta | You're the One That I Want | 1978 | spotify:1OBAPPxgujYUVYerorsg90, ok-versión | Vaselina / Grease
+John Travolta | Summer Nights | 1978 | spotify:2AVkArcfALVk2X8sfPRzya, ok-versión | Vaselina / Grease
+Olivia Newton-John | Hopelessly Devoted to You | 1978 | spotify:62PQbEvmoliAsIfJpFKX6F, fuera | Vaselina / Grease
+Bob Seger | Old Time Rock & Roll | 1978 | spotify:5EOoMWIB9iK4ZpcSex9Ec7 | Negocios riesgosos / Risky Business
+Irene Cara | Fame | 1980 | spotify:0ryKcLwHBonJgSVvE0IblU, ok-versión | Fama / Fame
 Queen | Flash | 1980 | spotify:4kxDvEIjqrOCEDtaSXJXHP, fuera | Flash Gordon
 Survivor | Eye of the Tiger | 1982 | spotify:2HHtWyy5CgaQbC7XSoOb0e | Rocky III
 Irene Cara | Flashdance... What a Feeling | 1983 | spotify:39ZgyFCf8pVphJfuV5xkiW, ok-año, ok-versión | Flashdance
 Michael Sembello | Maniac | 1983 | spotify:0QKfiqpEU4h9ycPSzIFwYe, ok-versión | Flashdance
 Kenny Loggins | Footloose | 1984 | spotify:6W2VbtvMrDXm5vYeB7amkO, ok-versión | Footloose
 Bonnie Tyler | Holding Out for a Hero | 1984 | spotify:4ojl5o30oQFdavVkpYYgYk, fuera | Footloose
-Ray Parker Jr. | Ghostbusters | 1984 | spotify:2Sm4UVxZvNe3k2yxrPPeJO, fuera | Los cazafantasmas
+Ray Parker Jr. | Ghostbusters | 1984 | spotify:2Sm4UVxZvNe3k2yxrPPeJO, fuera | Los cazafantasmas / Ghostbusters
 Prince | When Doves Cry | 1984 | spotify:6sby78fghipoXHQLeeZFFH | Purple Rain
-Joe Esposito | You're the Best | 1984 | fuera | Karate Kid
-Glenn Frey | The Heat Is On | 1984 | spotify:4yVYOpNP5OBi0YyieRL33O, ok-versión | Un detective suelto en Hollywood
-Stevie Wonder | I Just Called to Say I Love You | 1984 | spotify:4ruHS8PIYMhRD9D5FXYgqM | La mujer de rojo
-Simple Minds | Don't You (Forget About Me) | 1985 | spotify:5Y8Rj0s6wuM5DlQdllYiWl, ok-versión | El club de los cinco
-Huey Lewis & The News | The Power of Love | 1985 | spotify:6BeOb7wvuMugzPi853W3HU, ok-versión | Volver al futuro
-Tina Turner | We Don't Need Another Hero (Thunderdome) | 1985 | spotify:50XXRUFNjs85P0MjCZ1c9X | Mad Max: más allá de la cúpula del trueno
-Cyndi Lauper | The Goonies 'R' Good Enough | 1985 | spotify:1hY60LJWE6B9gHV1Oi9kE5, ok-versión | Los Goonies
-Lionel Richie | Say You, Say Me | 1985 | spotify:17CPezzLWzvGfpZW6X8XT0 | Noches blancas
-Yello | Oh Yeah | 1985 | spotify:6K7JSTOrKQi2zMbEXRdJyC, fuera | Todo en un día
+Joe Esposito | You're the Best | 1984 | fuera | Karate Kid / The Karate Kid
+Glenn Frey | The Heat Is On | 1984 | spotify:4yVYOpNP5OBi0YyieRL33O, ok-versión | Un detective suelto en Hollywood / Beverly Hills Cop
+Stevie Wonder | I Just Called to Say I Love You | 1984 | spotify:4ruHS8PIYMhRD9D5FXYgqM | La mujer de rojo / The Woman in Red
+Simple Minds | Don't You (Forget About Me) | 1985 | spotify:5Y8Rj0s6wuM5DlQdllYiWl, ok-versión | El club de los cinco / The Breakfast Club
+Huey Lewis & The News | The Power of Love | 1985 | spotify:6BeOb7wvuMugzPi853W3HU, ok-versión | Volver al futuro / Back to the Future
+Tina Turner | We Don't Need Another Hero (Thunderdome) | 1985 | spotify:50XXRUFNjs85P0MjCZ1c9X | Mad Max: más allá de la cúpula del trueno / Mad Max Beyond Thunderdome
+Cyndi Lauper | The Goonies 'R' Good Enough | 1985 | spotify:1hY60LJWE6B9gHV1Oi9kE5, ok-versión | Los Goonies / The Goonies
+Lionel Richie | Say You, Say Me | 1985 | spotify:17CPezzLWzvGfpZW6X8XT0 | Noches blancas / White Nights
+Yello | Oh Yeah | 1985 | spotify:6K7JSTOrKQi2zMbEXRdJyC, fuera | Todo en un día / Ferris Bueller's Day Off
 James Brown | Living in America | 1985 | spotify:0T1OrvV6bOQVL2vSQiDn6W, ok-versión | Rocky IV
 Kenny Loggins | Danger Zone | 1986 | spotify:50J6XwEbkYxNb5e4k6R9s1, fuera | Top Gun
 Berlin | Take My Breath Away | 1986 | spotify:1hZJcuz9iMoz6tLkFlIaUy, ok-versión | Top Gun
 Queen | Who Wants to Live Forever | 1986 | spotify:3kLZptMCccE21dytQ8bvcv, ok-versión | Highlander
-Peter Cetera | Glory of Love | 1986 | spotify:1eyq8cjUQ2daFthW2PC2GM | Karate Kid 2
-Orchestral Manoeuvres In The Dark | If You Leave | 1986 | spotify:05oFyvdztPdpwSwpoclD4c, ok-versión | La chica de rosa
+Peter Cetera | Glory of Love | 1986 | spotify:1eyq8cjUQ2daFthW2PC2GM | Karate Kid 2 / The Karate Kid Part II
+Orchestral Manoeuvres In The Dark | If You Leave | 1986 | spotify:05oFyvdztPdpwSwpoclD4c, ok-versión | La chica de rosa / Pretty in Pink
 Bill Medley | (I've Had) The Time of My Life | 1987 | spotify:6W7ztLBiRzBN46ZaPAcQ0F, ok-versión | Dirty Dancing
 Patrick Swayze | She's Like the Wind | 1987 | spotify:3IJY8cdmwPRj2mGavppjCc, ok-año | Dirty Dancing
 Los Lobos | La Bamba | 1987 | spotify:0uMMLry3hzWGn3q3loqMkm | La Bamba
 The Proclaimers | I'm Gonna Be (500 Miles) | 1988 | spotify:67iAlVNDDdddxqSD2EZhFs, ok-año | Benny & Joon
-Samuel E. Wright | Under the Sea | 1989 | spotify:6oYkwjI1TKP9D0Y9II1GT7, ok-versión | La sirenita
-Bryan Adams | (Everything I Do) I Do It for You | 1991 | spotify:1Eb90nmqTrxylKFhcUzW8P | Robin Hood: príncipe de los ladrones
-Celine Dion | Beauty and the Beast | 1991 | spotify:7B3UAPLYAbwXVgbHSKEaTw, ok-versión | La bella y la bestia
-Whitney Houston | I Will Always Love You | 1992 | spotify:4eHbdreAnSOrDDsFfc4Fpm | El guardaespaldas
-Peabo Bryson | A Whole New World | 1992 | spotify:32eutEsa8LRg7AsnCZHJaE | Aladdín
-Rage Against The Machine | Wake Up | 1992 | spotify:2QiqwOVUctPRVggO9G1Zs5 | Matrix
-Bruce Springsteen | Streets of Philadelphia | 1993 | spotify:5Nj8kBJdpJJ4I9wxQyp8JH, ok-versión | Filadelfia
-Elton John | Can You Feel the Love Tonight | 1994 | spotify:1Rbdbumw7guL6Ufps9fdgP, fuera | El rey león
-Nathan Lane | Hakuna Matata | 1994 | spotify:1FtFKXjGORcYvnw5EyIznl, fuera | El rey león
-Wet Wet Wet | Love Is All Around | 1994 | spotify:5vCQBUIWzPj0MnRcqhHJfs, ok-versión | Cuatro bodas y un funeral
-Seal | Kiss from a Rose | 1994 | spotify:3YKptz29AsOlm7WAVnztBh | Batman eternamente
+Samuel E. Wright | Under the Sea | 1989 | spotify:6oYkwjI1TKP9D0Y9II1GT7, ok-versión | La sirenita / The Little Mermaid
+Bryan Adams | (Everything I Do) I Do It for You | 1991 | spotify:1Eb90nmqTrxylKFhcUzW8P | Robin Hood: príncipe de los ladrones / Robin Hood: Prince of Thieves
+Celine Dion | Beauty and the Beast | 1991 | spotify:7B3UAPLYAbwXVgbHSKEaTw, ok-versión | La bella y la bestia / Beauty and the Beast
+Whitney Houston | I Will Always Love You | 1992 | spotify:4eHbdreAnSOrDDsFfc4Fpm | El guardaespaldas / The Bodyguard
+Peabo Bryson | A Whole New World | 1992 | spotify:32eutEsa8LRg7AsnCZHJaE | Aladdín / Aladdin
+Rage Against The Machine | Wake Up | 1992 | spotify:2QiqwOVUctPRVggO9G1Zs5 | Matrix / The Matrix
+Bruce Springsteen | Streets of Philadelphia | 1993 | spotify:5Nj8kBJdpJJ4I9wxQyp8JH, ok-versión | Filadelfia / Philadelphia
+Elton John | Can You Feel the Love Tonight | 1994 | spotify:1Rbdbumw7guL6Ufps9fdgP, fuera | El rey león / The Lion King
+Nathan Lane | Hakuna Matata | 1994 | spotify:1FtFKXjGORcYvnw5EyIznl, fuera | El rey león / The Lion King
+Wet Wet Wet | Love Is All Around | 1994 | spotify:5vCQBUIWzPj0MnRcqhHJfs, ok-versión | Cuatro bodas y un funeral / Four Weddings and a Funeral
+Seal | Kiss from a Rose | 1994 | spotify:3YKptz29AsOlm7WAVnztBh | Batman eternamente / Batman Forever
 Lisa Loeb | Stay (I Missed You) | 1994 | spotify:00U1MDChdOTxWwtKoOoBXE | Reality Bites
-Coolio | Gangsta's Paradise | 1995 | spotify:1DIXPcTDzTj8ZMHt3PDt8p | Mentes peligrosas
+Coolio | Gangsta's Paradise | 1995 | spotify:1DIXPcTDzTj8ZMHt3PDt8p | Mentes peligrosas / Dangerous Minds
 Randy Newman | You've Got a Friend in Me | 1995 | spotify:2stkLJ0JNcXkIRDNF3ld6c | Toy Story
-Des'ree | Kissing You | 1996 | fuera | Romeo y Julieta
+Des'ree | Kissing You | 1996 | fuera | Romeo y Julieta / Romeo and Juliet
 Celine Dion | My Heart Will Go On | 1997 | spotify:6e7N7cQ8MuPtu3FweRQYJz, ok-año, ok-versión | Titanic
-Will Smith | Men in Black | 1997 | spotify:3erVSz5zNidXId7Joo4bg4, ok-versión | Hombres de negro
+Will Smith | Men in Black | 1997 | spotify:3erVSz5zNidXId7Joo4bg4, ok-versión | Hombres de negro / Men in Black
 Aerosmith | I Don't Want to Miss a Thing | 1998 | spotify:5qlJg0Wbj3sslxfwiaRNpq, ok-versión | Armageddon
-Goo Goo Dolls | Iris | 1998 | spotify:4DPdJvSMB6hmrjgC5eC85d | Un ángel enamorado
-Madonna | Beautiful Stranger | 1999 | spotify:4jRaFkR8dBYwbKXryAI29a, ok-versión | Austin Powers 2
-Phil Collins | You'll Be in My Heart | 1999 | spotify:0DidTYZASn99B0whVcUumP, fuera | Tarzán
-Ronan Keating | When You Say Nothing at All | 1999 | spotify:4Yt8zTDHrKpzpwcxB6pDp7 | Un lugar llamado Notting Hill
+Goo Goo Dolls | Iris | 1998 | spotify:4DPdJvSMB6hmrjgC5eC85d | Un ángel enamorado / City of Angels
+Madonna | Beautiful Stranger | 1999 | spotify:4jRaFkR8dBYwbKXryAI29a, ok-versión | Austin Powers 2 / Austin Powers: The Spy Who Shagged Me
+Phil Collins | You'll Be in My Heart | 1999 | spotify:0DidTYZASn99B0whVcUumP, fuera | Tarzán / Tarzan
+Ronan Keating | When You Say Nothing at All | 1999 | spotify:4Yt8zTDHrKpzpwcxB6pDp7 | Un lugar llamado Notting Hill / Notting Hill
 Smash Mouth | All Star | 1999 | spotify:3cfOd4CMv2snFaKAnMdnvK, ok-año, ok-versión | Shrek
-Limp Bizkit | Take a Look Around | 2000 | spotify:2avKuMN2QXkaG9vvHa2JLt | Misión imposible 2
-Christina Aguilera | Lady Marmalade | 2001 | spotify:6kWk4F4eQtApqOT1c6XJpj, fuera | Moulin Rouge
+Limp Bizkit | Take a Look Around | 2000 | spotify:2avKuMN2QXkaG9vvHa2JLt | Misión imposible 2 / Mission: Impossible 2
+Christina Aguilera | Lady Marmalade | 2001 | spotify:6kWk4F4eQtApqOT1c6XJpj, fuera | Moulin Rouge / Moulin Rouge!
 Smash Mouth | I'm a Believer | 2001 | spotify:0C9jZPUv4SuaXkuEQw6L40 | Shrek
 Rufus Wainwright | Hallelujah | 2001 | spotify:5USZyz6dnBEn1oLsKcAKQy, ok-versión | Shrek
-Chad Kroeger | Hero | 2002 | spotify:779ooI3rBd0CLqCiiJmtVo, ok-versión | El hombre araña
-Eminem | Lose Yourself | 2002 | spotify:1v7L65Lzy0j0vdpRjJewt1, ok-versión | 8 Millas
+Chad Kroeger | Hero | 2002 | spotify:779ooI3rBd0CLqCiiJmtVo, ok-versión | El hombre araña / Spider-Man
+Eminem | Lose Yourself | 2002 | spotify:1v7L65Lzy0j0vdpRjJewt1, ok-versión | 8 Millas / 8 Mile
 Adele | Skyfall | 2012 | spotify:6VObnIkLVruX4UVyxWhlqm | Skyfall
-Pharrell Williams | Happy | 2013 | spotify:60nZcImufyMA1MKQY3dcCH | Mi villano favorito 2
+Pharrell Williams | Happy | 2013 | spotify:60nZcImufyMA1MKQY3dcCH | Mi villano favorito 2 / Despicable Me 2
 Idina Menzel | Let It Go | 2013 | spotify:5SEFk7Qt1kbXxUVkJ44wJ2, fuera | Frozen
-Wiz Khalifa | See You Again | 2015 | spotify:4KhqxmMYkjiiNLHzNnB7Dh, ok-versión | Rápidos y furiosos 7
+Wiz Khalifa | See You Again | 2015 | spotify:4KhqxmMYkjiiNLHzNnB7Dh, ok-versión | Rápidos y furiosos 7 / Furious 7
 Sam Smith | Writing's on the Wall | 2015 | spotify:1PWnAEQcbwQwK759otUbta, ok-versión | Spectre
 Justin Timberlake | Can't Stop the Feeling! | 2016 | spotify:6JV2JOEocMgcZxYSZelKcc, ok-versión | Trolls
 Ryan Gosling | City of Stars | 2016 | spotify:5BMwpS4iYKR30kq9U9beaT | La La Land
 Auli'i Cravalho | How Far I'll Go | 2016 | spotify:6mb6lVLNrcUgLnEN8QnDJd, ok-versión | Moana
-Keala Settle | This Is Me | 2017 | spotify:2xGjteMU3E1tkEPVFBO08U | El gran showman
-Lady Gaga | Shallow | 2018 | spotify:2VxeLyX666F8uXCJ0dZF8B | Nace una estrella
-Kendrick Lamar | All the Stars | 2018 | spotify:66kQ7wr4d2LwwSjr7HXcyr, ok-versión | Pantera Negra
-Post Malone | Sunflower | 2018 | spotify:0RiRZpuVRbi7oqRdSMwhQY, ok-versión | Spider-Man: un nuevo universo
-Billie Eilish | No Time To Die | 2020 | spotify:73SpzrcaHk0RQPFP73vqVR | Sin tiempo para morir
+Keala Settle | This Is Me | 2017 | spotify:2xGjteMU3E1tkEPVFBO08U | El gran showman / The Greatest Showman
+Lady Gaga | Shallow | 2018 | spotify:2VxeLyX666F8uXCJ0dZF8B | Nace una estrella / A Star Is Born
+Kendrick Lamar | All the Stars | 2018 | spotify:66kQ7wr4d2LwwSjr7HXcyr, ok-versión | Pantera Negra / Black Panther
+Post Malone | Sunflower | 2018 | spotify:0RiRZpuVRbi7oqRdSMwhQY, ok-versión | Spider-Man: un nuevo universo / Spider-Man: Into the Spider-Verse
+Billie Eilish | No Time To Die | 2020 | spotify:73SpzrcaHk0RQPFP73vqVR | Sin tiempo para morir / No Time to Die
 Carolina Gaitán | We Don't Talk About Bruno | 2021 | spotify:52xJxFP6TqMuO4Yt0eOkMz | Encanto
 Lady Gaga | Hold My Hand | 2022 | spotify:0oWraSo5ASJ0h1BEagTyEw | Top Gun: Maverick
 Dua Lipa | Dance The Night | 2023 | spotify:1vYXt7VSjH9JIM5oRRo7vA, ok-versión | Barbie
 Billie Eilish | What Was I Made For? | 2023 | spotify:6wf7Yu7cxBSPrRlWeSeK0Q, ok-versión | Barbie
-Judy Garland | Over the Rainbow | 1939 | spotify:06x3nxqPS7NbvVyuW9aUdz, ok-año, ok-versión | El mago de Oz
+Judy Garland | Over the Rainbow | 1939 | spotify:06x3nxqPS7NbvVyuW9aUdz, ok-año, ok-versión | El mago de Oz / The Wizard of Oz
 Dooley Wilson | As Time Goes By | 1942 | ok-año, ok-versión, spotify:3gDPjU8URd9mtZhBBYwI2R | Casablanca
-Gene Kelly | Singin' in the Rain | 1952 | spotify:1Manf5JK8RFq82sJo5zOYv | Cantando bajo la lluvia
-Dick Dale & His Del-Tones | Misirlou | 1962 | ok-año, spotify:6wmb6Mi0XcPEALiyCGWi2N | Tiempos violentos
-Simon & Garfunkel | The Sound of Silence | 1965 | spotify:2YplrdHMBoRdnHgMeHEwHm, ok-año, ok-versión | El graduado
-Dusty Springfield | Son of a Preacher Man | 1968 | spotify:6ek9SiEj5a65WIs2EV7qiM | Tiempos violentos
+Gene Kelly | Singin' in the Rain | 1952 | spotify:1Manf5JK8RFq82sJo5zOYv | Cantando bajo la lluvia / Singin' in the Rain
+Dick Dale & His Del-Tones | Misirlou | 1962 | ok-año, spotify:6wmb6Mi0XcPEALiyCGWi2N, fuera | Tiempos violentos / Pulp Fiction
+Simon & Garfunkel | The Sound of Silence | 1965 | spotify:2YplrdHMBoRdnHgMeHEwHm, ok-año, ok-versión | El graduado / The Graduate
+Dusty Springfield | Son of a Preacher Man | 1968 | spotify:6ek9SiEj5a65WIs2EV7qiM | Tiempos violentos / Pulp Fiction
 Bill Conti | Gonna Fly Now | 1976 | ok-versión, spotify:7iXYRR70wewzVYzWScm99j | Rocky
-Joe Cocker | Up Where We Belong | 1982 | ok-versión, spotify:4U6mBgGP8FXN6UH4T3AJhu | Reto al destino
-Queen | Bohemian Rhapsody | 1975 | spotify:2JiDi0qAXsPwhPqA2qaKGt | El mundo según Wayne
-The Cardigans | Lovefool | 1996 | spotify:7aQjPecQdIuNd1sz3KCDhD | Romeo + Julieta
-Sixpence None the Richer | Kiss Me | 1997 | spotify:754kgU5rWscRTfvlsuEwFp | Ella es así
-The Goo Goo Dolls | Iris | 1998 | spotify:6Qyc6fS4DsZjB2mRW9DsQs | Un ángel enamorado
-Elvis Presley | Can't Help Falling in Love | 1961 | spotify:44AyOl4qVkzS48vBsbNXaC | Amor en Hawái
-Monty Norman | James Bond Theme | 1962 | ok-año, ok-versión, spotify:14GqpIDY8agKfzHjqfzEWM | El satánico Dr. No
-Henry Mancini | The Pink Panther Theme | 1963 | spotify:0juPSJLFnLFim7BK6VzTes | La pantera rosa
-Ennio Morricone | The Good, the Bad and the Ugly | 1966 | ok-año, ok-versión, spotify:150bCeASorH3nlZHCrWWz9 | El bueno, el malo y el feo
-John Williams | Star Wars (Main Title) | 1977 | spotify:3ZSf1TJZyRb0rnWYuUtdX4, ok-año, ok-versión | La guerra de las galaxias
-Vangelis | Chariots of Fire | 1981 | spotify:2JsQOAw8XVii6RMxiPmVZj, ok-versión | Carrozas de fuego
-Harold Faltermeyer | Axel F | 1984 | spotify:3pgTnWleIriTapci1F71Fz | Un detective suelto en Hollywood
+Joe Cocker | Up Where We Belong | 1982 | ok-versión, spotify:4U6mBgGP8FXN6UH4T3AJhu | Reto al destino / An Officer and a Gentleman
+Queen | Bohemian Rhapsody | 1975 | spotify:2JiDi0qAXsPwhPqA2qaKGt | El mundo según Wayne / Wayne's World
+The Cardigans | Lovefool | 1996 | spotify:7aQjPecQdIuNd1sz3KCDhD | Romeo + Julieta / Romeo + Juliet
+Sixpence None the Richer | Kiss Me | 1997 | spotify:754kgU5rWscRTfvlsuEwFp | Ella es así / She's All That
+The Goo Goo Dolls | Iris | 1998 | spotify:6Qyc6fS4DsZjB2mRW9DsQs | Un ángel enamorado / City of Angels
+Elvis Presley | Can't Help Falling in Love | 1961 | spotify:44AyOl4qVkzS48vBsbNXaC | Amor en Hawái / Blue Hawaii
+Monty Norman | James Bond Theme | 1962 | ok-año, ok-versión, spotify:14GqpIDY8agKfzHjqfzEWM | El satánico Dr. No / Dr. No
+Henry Mancini | The Pink Panther Theme | 1963 | spotify:0juPSJLFnLFim7BK6VzTes | La pantera rosa / The Pink Panther
+Ennio Morricone | The Good, the Bad and the Ugly | 1966 | ok-año, ok-versión, spotify:150bCeASorH3nlZHCrWWz9 | El bueno, el malo y el feo / The Good, the Bad and the Ugly
+John Williams | Star Wars (Main Title) | 1977 | spotify:3ZSf1TJZyRb0rnWYuUtdX4, ok-año, ok-versión | La guerra de las galaxias / Star Wars
+Vangelis | Chariots of Fire | 1981 | spotify:2JsQOAw8XVii6RMxiPmVZj, ok-versión | Carrozas de fuego / Chariots of Fire
+Harold Faltermeyer | Axel F | 1984 | spotify:3pgTnWleIriTapci1F71Fz | Un detective suelto en Hollywood / Beverly Hills Cop
 Prince | Purple Rain | 1984 | spotify:1uvyZBs4IZYRebHIB1747m | Purple Rain
-Klaus Badelt | He's a Pirate | 2003 | fuera, spotify:2lDWq3rUnYGLjr2CymZluh | Piratas del Caribe
-A. R. Rahman | Jai Ho | 2008 | spotify:4L9GjflAckf3yTNKRkgELa | ¿Quién quiere ser millonario?
+Klaus Badelt | He's a Pirate | 2003 | fuera, spotify:2lDWq3rUnYGLjr2CymZluh | Piratas del Caribe / Pirates of the Caribbean
+A. R. Rahman | Jai Ho | 2008 | spotify:4L9GjflAckf3yTNKRkgELa | ¿Quién quiere ser millonario? / Slumdog Millionaire

@@ -562,7 +562,7 @@ function stageInner(cw){
     return `<div class="note" style="--pc:${a.color}">
         <div class="result ${cls}">${head}</div>
         <div><b>${esc(s.t)}</b> · ${esc(s.a)} · <span class="mono">${s.y}</span></div>
-        ${s.pe?`<div class="soft" style="font-size:14px">${ORIGEN(s.mz).de} <b style="color:var(--ink)">${esc(s.pe)}</b></div>`:""}
+        ${s.pe?`<div class="soft" style="font-size:14px">${ORIGEN(s.mz).de} ${(([es,en])=>`<b style="color:var(--ink)">${esc(es)}</b>${en?` <span style="font-style:italic">(${esc(en)})</span>`:""}`)(String(s.pe).split(" / "))}</div>`:""}
       </div>
       <div class="note"><span class="soft" style="font-size:13px">¿${esc(a.name)} dijo tema y artista antes de darla vuelta?${full?` (ya tiene ${maxTok()} fichas)`:""}</span>
         <div class="tools"><button class="btn small ${state.guess===true?"sel":""}" data-act="guess" data-v="1" ${sinLugar(state.guess)?"disabled":""}>Sí, +1 ficha</button><button class="btn small ${state.guess===false?"sel":""}" data-act="guess" data-v="0">No</button></div>
