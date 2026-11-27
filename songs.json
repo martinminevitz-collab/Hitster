@@ -5895,9 +5895,28 @@
         "okVersion": false,
         "spotify": null
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null,
+      "spotify": "5i9yLs9LPercK6BJgj87gj",
+      "duracion_ms": 556426,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5i9yLs9LPercK6BJgj87gj",
+          "nombre": "Por Lo Que Yo Te Quiero",
+          "artistas": "Rodrigo",
+          "disco": "Cuarteto Característico (A2000)",
+          "tipo": "album",
+          "fecha": "2000-08-12",
+          "isrc": "ARG991012368"
+        },
+        "musicbrainz": {
+          "fecha": "1999",
+          "grabacion": "622a88d5-35d8-4593-917d-db5f20119a54",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1999
+      },
       "pelicula": null
     },
     {
@@ -28276,12 +28295,31 @@
         "fuera": false,
         "reserva": false,
         "okAnio": false,
-        "okVersion": false,
-        "spotify": null
+        "okVersion": true,
+        "spotify": "2Foc5Q5nqNiosCNqttzHof"
       },
-      "spotify": null,
-      "duracion_ms": null,
-      "verificacion": null,
+      "spotify": "2Foc5Q5nqNiosCNqttzHof",
+      "duracion_ms": 247632,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2Foc5Q5nqNiosCNqttzHof",
+          "nombre": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+          "artistas": "Daft Punk, Pharrell Williams, Nile Rodgers",
+          "disco": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+          "tipo": "single",
+          "fecha": "2013-04-19",
+          "isrc": "USQX91300809"
+        },
+        "musicbrainz": {
+          "fecha": "2013",
+          "grabacion": "b1211755-60d8-4f27-8c28-ba0cb1f0cf56",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2013
+      },
       "pelicula": null
     },
     {

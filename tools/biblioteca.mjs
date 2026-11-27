@@ -194,7 +194,8 @@ function puntaje(t, titulo, artista = "") {
   if (artista) {
     const nombres = t.artists.map(a => a.name), es = n => mismoArtista([n], artista);
     const extra = nombres.filter(n => !es(n) && !norm(t.name).includes(norm(n)));
-    if (!es(nombres[0])) { p += 3; motivos.push("otro artista primero"); }
+    // "Daft Punk Experience" contiene "Daft Punk" pero es una banda tributo: el primer artista tiene que ser el buscado (o parte de él)
+    if (!norm(artista).includes(norm(nombres[0]))) { p += 3; motivos.push("otro artista primero"); }
     if (extra.length >= 2) { p += 3; motivos.push("artistas de más"); }
   }
   t = { ...t, name: SIN_FROM(t.name) };
