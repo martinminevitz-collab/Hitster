@@ -2,22 +2,35 @@
 
 Generado el 2026-11-27 por `node tools/biblioteca.mjs`.
 
-**1518 temas** en 13 mazo(s) · **1366 listos para jugar** · 7 para revisar · 0 sin procesar · 110 fuera del mazo · 35 en reserva.
+**1596 temas** en 13 mazo(s) · **1420 listos para jugar** · 3 para revisar · 17 sin procesar · 121 fuera del mazo · 35 en reserva.
 
 Las correcciones se hacen en `tools/mazos/*.txt`: el año en la 3ª columna, y en la 4ª (opcional, separadas por comas) `fuera`, `ok-año`, `ok-versión` o `spotify:ID` / link de Spotify para fijar la versión a mano.
 
-## No encontré el año en MusicBrainz (4)
+## Todavía sin procesar (17)
 
-No hay dato para verificar: queda el año del juego.
+Se procesan la próxima vez que se corra el script.
 
-| Artista | Tema | Año del juego | Disco en Spotify |
-|---|---|---|---|
-| Richard Stone | Animaniacs Main Title Theme | 1993 | Steven Spielberg Presents Animaniacs (Soundtrack from the Original Series) (1993-11-16) |
-| Gummibär | I'm a Gummy Bear (The Gummy Bear Song) | 2006 | I'm A Gummy Bear (The Gummy Bear Song) (2006-08-28) |
-| María Elena Walsh | Manuelita | 1964 | Canciones Para Mí (1964-10-31) |
-| Ramin Djawadi | Game of Thrones Main Title | 2011 | Game Of Thrones (Music From The HBO Series) (2011-01-01) |
+| Artista | Tema | Año del juego |
+|---|---|---|
+| Teen Angels | Casi ángeles | 2007 |
+| Lord Huron | The Night We Met | 2015 |
+| Ramin Djawadi | Light of the Seven | 2016 |
+| Billie Eilish | lovely | 2018 |
+| Labrinth | I'm Tired | 2022 |
+| Kyle Dixon & Michael Stein | Kids | 2016 |
+| Irma Thomas | Anyone Who Knows What Love Is (Will Understand) | 1964 |
+| The Rolling Stones | Paint It Black | 1966 |
+| Joan Jett & The Blackhearts | Bad Reputation | 1981 |
+| Survivor | The Moment of Truth | 1984 |
+| Tiffany | I Think We're Alone Now | 1987 |
+| Danny Elfman | Desperate Housewives Main Title | 2004 |
+| The Scrantones | The Office Theme | 2005 |
+| The High Strung | The Luck You Got | 2007 |
+| Gaby Moreno | Parks and Recreation Theme | 2009 |
+| Dan Marocco | Brooklyn Nine-Nine Theme | 2013 |
+| Michael Kiwanuka | Cold Little Heart | 2016 |
 
-## Solo hay remaster (aviso) (56)
+## Solo hay remaster (aviso) (58)
 
 No hay versión sin remasterizar: se usa el remaster del disco original. No hace falta hacer nada.
 
@@ -26,6 +39,7 @@ No hay versión sin remasterizar: se usa el remaster del disco original. No hace
 | Peabo Bryson | A Whole New World | A Whole New World (Aladdin's Theme) - Remastered 2022 | Walt Disney Records The Legacy Collection: Aladdin (2022-09-16) |
 | The Cardigans | Lovefool | Lovefool | First Band On The Moon (Remastered) (1996-01-01) |
 | Robin Williams | Friend Like Me | Friend Like Me - Remastered 2022 | Walt Disney Records The Legacy Collection: Aladdin (2022-09-16) |
+| Robin Williams | Prince Ali | Prince Ali - Remastered 2022 | Walt Disney Records The Legacy Collection: Aladdin (2022-09-16) |
 | Sister Sledge | We Are Family | We Are Family - 1995 Remaster | We Are Family (1995 Remaster) (1979) |
 | Kaoma | Lambada | Lambada - Remastered 2022 | Lambada (Remastered 2022) (2022-09-01) |
 | Pet Shop Boys | Go West | Go West - 2018 Remaster; Hidden Track | Very (2018 Remaster) (1993-09-27) |
@@ -79,6 +93,7 @@ No hay versión sin remasterizar: se usa el remaster del disco original. No hace
 | Los Fabulosos Cadillacs | Vasos vacíos | Vasos Vacíos - Remasterizado 2008 | El Ritmo Mundial (1988-06-18) |
 | The Who | Won't Get Fooled Again | Won't Get Fooled Again - Remastered 2022 | Who's Next (Remastered 2022) (1971-08-14) |
 | Metallica | Master of Puppets | Master Of Puppets | Master Of Puppets (Remastered) (1986-03-03) |
+| Gary Portnoy | Where Everybody Knows Your Name | Where Everybody Knows Your Name (Cheers Theme) - 2025 Remaster | CHEERS to the 80's! (2025-11-20) |
 
 ## En reserva por variedad (35)
 
@@ -122,7 +137,7 @@ Marcados con `reserva`: no salen en el juego para que haya más artistas distint
 | Gustavo Cerati | Engaña | 1999 |
 | Gustavo Cerati | Cosas imposibles | 2002 |
 
-## Fuera del mazo (110)
+## Fuera del mazo (121)
 
 Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, pasá un link de Spotify con `spotify:` y sacá `fuera`.
 
@@ -167,6 +182,11 @@ Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, 
 | Bernard Hoffer | ThunderCats Theme | 1985 | no spotify, no musicbrainz |
 | Pipo Pescador | El auto de papá | 1968 | no spotify, no musicbrainz |
 | Cantando con Adriana | El monstruo de la laguna | 1993 | no spotify, no musicbrainz |
+| Shuki Levy | Inspector Gadget Main Title | 1983 | no spotify, no musicbrainz |
+| Make-Up | Pegasus Fantasy | 1986 | no spotify |
+| Nathan Lane | Hakuna Matata | 1994 | disco posterior |
+| Paw Patrol | Paw Patrol Theme | 2013 | no spotify, no musicbrainz |
+| Taron Egerton | I'm Still Standing | 2016 | disco posterior |
 | Chubby Checker | The Twist | 1960 | disco posterior, anio distinto |
 | Village People | Y.M.C.A. | 1978 | version dudosa: compilado, anio distinto |
 | KC and the Sunshine Band | Give It Up | 1983 | version dudosa: vivo/versión, anio distinto |
@@ -237,6 +257,12 @@ Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, 
 | Marius Constant | The Twilight Zone | 1959 | no spotify, anio distinto |
 | Mike Post | The A-Team | 1983 | version dudosa: otro artista primero, artistas de más, título con agregado, anio distinto |
 | Will Smith | The Fresh Prince of Bel-Air | 1990 | version dudosa: vivo/versión, compilado, anio distinto |
+| Delia Derbyshire | Doctor Who Theme | 1963 | no spotify, no musicbrainz |
+| The Monkees | (Theme from) The Monkees | 1966 | — |
+| Limahl | Never Ending Story | 1984 | disco posterior |
+| Love Spit Love | How Soon Is Now? | 1997 | no spotify, anio distinto |
+| Nerf Herder | Buffy the Vampire Slayer Theme | 1997 | no spotify, anio distinto |
+| Cheap Trick | In the Street | 1998 | no spotify, no musicbrainz |
 | Run-DMC | Walk This Way | 1986 | no spotify, anio distinto |
 
 - Error con Patrick Swayze – She's Like the Wind: error en MusicBrainz: MusicBrainz 400

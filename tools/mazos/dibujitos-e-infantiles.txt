@@ -30,7 +30,7 @@ Robin Williams | Friend Like Me | 1992 | spotify:2ov4LhWJZ2J7zGnHQqoWvZ | Aladd�
 Peabo Bryson | A Whole New World | 1992 | spotify:32eutEsa8LRg7AsnCZHJaE | Aladdín
 Ron Wasserman | Go Go Power Rangers | 1993 | spotify:4WXqcpieti5YFe92zxW7PQ, ok-año, ok-versión | Power Rangers
 Reel 2 Real | I Like to Move It | 1993 | spotify:4l2ljvyXOCVNbD5ff7NpM7, ok-año, ok-versión | Madagascar
-Richard Stone | Animaniacs Main Title Theme | 1993 | spotify:0SAgtmTBNemNGTIyjaD07b, ok-versión | Animaniacs
+Richard Stone | Animaniacs Main Title Theme | 1993 | spotify:0SAgtmTBNemNGTIyjaD07b, ok-versión, ok-año | Animaniacs
 Carmen Twillie | Circle of Life | 1994 | ok-versión, spotify:0HU5JnVaKNTWf6GykV9Zn8 | El rey león
 Jason Weaver | I Just Can't Wait to Be King | 1994 | ok-versión, spotify:0qxtQ8rf3W1nId3D2r0xH4 | El rey león
 Judy Kuhn | Colors of the Wind | 1995 | ok-versión, spotify:1OYOLWqKmhkFIx2KC9ek1a | Pocahontas
@@ -53,7 +53,7 @@ Sheryl Crow | Real Gone | 2006 | ok-versión, spotify:45dGKmN6jw7PgK6Dw2rEp2 | C
 Troy, Gabriella | Breaking Free | 2006 | ok-versión, spotify:5zQ1Wq6HNYjGZWkVv5P8Eg | High School Musical
 Hannah Montana | The Best of Both Worlds | 2006 | spotify:6Z0F3Mqj7tq1CBZo5qMlUg | Hannah Montana
 Bowling for Soup | Today Is Gonna Be a Great Day | 2007 | ok-año, ok-versión, spotify:2monU2EJfR5m53ciaHNE6z | Phineas y Ferb
-Gummibär | I'm a Gummy Bear (The Gummy Bear Song) | 2006 | spotify:1JpN4DazIAv65GrwdKXKrJ | Osito Gominola
+Gummibär | I'm a Gummy Bear (The Gummy Bear Song) | 2006 | spotify:1JpN4DazIAv65GrwdKXKrJ, ok-año, ok-versión | Osito Gominola
 El Reino Infantil | La vaca Lola | 2011 | ok-año, ok-versión, spotify:70NIwhQTnE2a4wuE0roHTM | La granja de Zenón
 Martina Stoessel | En mi mundo | 2012 | ok-versión, spotify:3wfs0ssDxBBsUioKXQQTNc | Violetta
 Idina Menzel | Let It Go | 2013 | spotify:0qcr5FMsEO85NAQjrlDRKo, ok-versión | Frozen
@@ -69,8 +69,43 @@ Carlos Rivera | Recuérdame | 2017 | spotify:7iSVfyBiVaeD7I7J97AcTA, ok-versión
 Idina Menzel | Into the Unknown | 2019 | ok-versión, spotify:3Z0oQ8r78OUaHvGPiDBR3W | Frozen 2
 Carolina Gaitán | We Don't Talk About Bruno | 2021 | spotify:52xJxFP6TqMuO4Yt0eOkMz | Encanto
 Jessica Darrow | Surface Pressure | 2021 | spotify:760jhRscwGbIIe1m1IIQpU | Encanto
-María Elena Walsh | Manuelita | 1964 | spotify:7JdnkfmvN18HCKt0erf4ji, ok-versión
+María Elena Walsh | Manuelita | 1964 | spotify:7JdnkfmvN18HCKt0erf4ji, ok-versión, ok-año
 María Elena Walsh | El reino del revés | 1964 | ok-año, ok-versión, spotify:2T6ZYOrJVvscFv7AMBH3mW
 María Elena Walsh | La reina Batata | 1966 | spotify:15S0w5lmBhVQGrQGjKxNYh
 Pipo Pescador | El auto de papá | 1968 | fuera
 Cantando con Adriana | El monstruo de la laguna | 1993 | fuera
+Los Payasos de la Tele | Hola don Pepito | 1973 | ok-año, ok-versión, spotify:08pePte2XZ6ZGT5Ra4lnge | Había una vez un circo
+Shuki Levy | Inspector Gadget Main Title | 1983 | fuera | El Inspector Gadget
+Make-Up | Pegasus Fantasy | 1986 | fuera | Los Caballeros del Zodíaco
+Angela Lansbury | Beauty and the Beast | 1991 | ok-versión, spotify:2rJFFUEl1LURkV0b0OARXx | La Bella y la Bestia
+Robin Williams | Prince Ali | 1992 | spotify:7kyTxkkDXo8tClrKewPFJg | Aladdín
+Barney | I Love You | 1992 | ok-año, ok-versión, spotify:1rVBE5t59NtX8VfcOb1770 | Barney y sus amigos
+Nathan Lane | Hakuna Matata | 1994 | fuera, spotify:1FtFKXjGORcYvnw5EyIznl | El rey león
+Randy Newman | Strange Things | 1995 | spotify:5JypFayfT1V5OG4xJ8q7jK | Toy Story
+Lillias White | Zero to Hero | 1997 | ok-versión, spotify:4zDfgax6Ihb0UWdour1ZEs | Hércules
+Ricardo Silva | Mi corazón encantado | 1997 | ok-año, ok-versión, spotify:0osc1mQ01aW3D0vdqlCkP3 | Dragon Ball GT
+Phil Collins | Strangers Like Me | 1999 | ok-versión, spotify:3mmi9qWiD7wt9yIq8fmw1Q | Tarzán
+Phil Collins | Two Worlds | 1999 | ok-versión, spotify:0iIl3MuaddqIRpP93mDKxw | Tarzán
+Sarah McLachlan | When She Loved Me | 1999 | ok-versión, spotify:6lMh9k54E4mxbGBMkSwYhT | Toy Story 2
+John Goodman | If I Didn't Have You | 2001 | ok-versión, spotify:7xf3S6Bv8hDqOtevZou602 | Monsters, Inc.
+Christina Milian | Call Me, Beep Me! | 2002 | ok-año, ok-versión, spotify:47HmhXbYlMIxpN2ChwNMh9 | Kate Possible
+Mark Keali'i Ho'omalu | Hawaiian Roller Coaster Ride | 2002 | ok-versión, spotify:7GmiJVBAzWNikX5VkNQg85 | Lilo & Stitch
+They Might Be Giants | Hot Dog! | 2006 | ok-año, ok-versión, spotify:0grxFyenxR3OYMdIhxRzJ6 | La casa de Mickey Mouse
+Camille | Le festin | 2007 | ok-versión, spotify:02JIdsrod3BYucThfUFDUX | Ratatouille
+CeeLo Green | Kung Fu Fighting | 2008 | spotify:6LwjprBFV5NCDueLhLrS1O | Kung Fu Panda
+Michael Giacchino | Married Life | 2009 | ok-año, ok-versión, spotify:2FcIkhwW4Uv6I0WtxD1yWd | Up
+Anika Noni Rose | Almost There | 2009 | ok-versión, spotify:3aJgAgTI9srxcTuyzVDtkm | La princesa y el sapo
+Mandy Moore | When Will My Life Begin | 2010 | ok-versión, spotify:03xWMkKEbeO4SnylA53ipj | Enredados
+Mandy Moore | I See the Light | 2010 | ok-versión, spotify:6klpXs2uAjagnZMFkt4qkl | Enredados
+Jamie Foxx | Real in Rio | 2011 | ok-versión, spotify:3W0vkRqaXsFF9oo3Jy8q6y | Río
+Kristen Bell | For the First Time in Forever | 2013 | ok-versión, spotify:70b5Sq3ePOu3Gqg0hjlOtR | Frozen
+Kristen Bell | Love Is an Open Door | 2013 | ok-versión, spotify:3IPnBzGRMg6BfViFxxa0Gq | Frozen
+Steven Universe | We Are the Crystal Gems | 2013 | ok-año, ok-versión, spotify:0xmniyyldEt2E0T0sPvpOq | Steven Universe
+Canticuénticos | Cumbia del monstruo | 2013 | spotify:3wyR5QGncKmlkawPjD4iUv | 
+Paw Patrol | Paw Patrol Theme | 2013 | fuera | Paw Patrol
+El Reino Infantil | Pin Pon | 2012 | ok-año, ok-versión, spotify:3iVRschlgFOgHXw5NWk7lw
+Taron Egerton | I'm Still Standing | 2016 | fuera, spotify:1lLa9hW0l2pjTzwmhtRCI8 | Sing
+Anthony Gonzalez | Un poco loco | 2017 | ok-versión, spotify:0OFknyqxmSQ42SoKxWVTok | Coco
+Joff Bush | Bluey Theme Tune | 2018 | ok-año, ok-versión, spotify:2VdkVeCrh8yYDVWSoFYfA4 | Bluey
+Naomi Scott | Speechless | 2019 | ok-versión, spotify:0XPsOSYzDJZJArevQNm2AR | Aladdín
+Sebastián Yatra | Dos oruguitas | 2021 | spotify:5rohUzwEoRsUvAA1Bf3DLo | Encanto

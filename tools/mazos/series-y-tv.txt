@@ -47,7 +47,7 @@ Curtis Stigers & The Forest Rangers | This Life | 2008 | spotify:3fSKfGA4zXkzQh1
 Fever Ray | If I Had a Heart | 2009 | ok-año, spotify:5uuJFjN0COMQawlCpRnh89 | Vikingos
 Glee Cast | Don't Stop Believin' | 2009 | ok-versión, spotify:6w4JkiZU2ver1h2K0oUlfA | Glee
 Bear McCreary | The Walking Dead Main Title | 2010 | spotify:2cji350vUbvxQ9QwyL5Nkp, ok-año, ok-versión | The Walking Dead
-Ramin Djawadi | Game of Thrones Main Title | 2011 | spotify:2q6fxAvSpqXR4jx9Ne7RGz | Game of Thrones
+Ramin Djawadi | Game of Thrones Main Title | 2011 | spotify:2q6fxAvSpqXR4jx9Ne7RGz, ok-año | Game of Thrones
 Lady Gaga | Bloody Mary | 2011 | ok-año, ok-versión, spotify:2lIgUGoKAZUBfd2LmcHZIC | Merlina
 Regina Spektor | You've Got Time | 2013 | spotify:1vDMGBzqLJWZC5UzePDURw | Orange Is the New Black
 Rodrigo Amarante | Tuyo | 2015 | ok-versión, spotify:6Dc2tCivms1s2X9myWe4ni | Narcos
@@ -65,3 +65,46 @@ Cristobal Tapia de Veer | Aloha! | 2021 | ok-versión, spotify:4jNa66Mi5PgcXrEaC
 Jung Jae-il | Way Back Then | 2021 | spotify:1QZlW9PmwtZtHKraGG1JdB | El juego del calamar
 Nicholas Britell | Succession (Main Title Theme) | 2018 | ok-año, spotify:0bSHwuTOZVJUXWT03H9oD2 | Succession
 John Lunn | Downton Abbey - The Suite | 2010 | ok-año, ok-versión, spotify:5TeBHcKNBc7DzpIBQJdaIB | Downton Abbey
+Delia Derbyshire | Doctor Who Theme | 1963 | fuera | Doctor Who
+The Monkees | (Theme from) The Monkees | 1966 | fuera, spotify:7dvtNWoHd3ioEBmIl0s3In | The Monkees
+Tommy James & The Shondells | Crystal Blue Persuasion | 1969 | spotify:0aD8W0ChzDgEKpB1zsJ8zv | Breaking Bad
+Linda Ronstadt | Long, Long Time | 1970 | spotify:1khA4hwhZD4HMecyE1e9U1 | The Last of Us
+Carole King | Where You Lead | 1971 | spotify:0APt4t1Dab58sYmGQ4jgij | Gilmore Girls
+Andrew Gold | Thank You for Being a Friend | 1978 | spotify:5yNUgA66PbcPIJPOU2eBwR | Las chicas de oro
+Gary Portnoy | Where Everybody Knows Your Name | 1982 | ok-año, ok-versión, spotify:16LYmZSyl2MbO0vGPdti8l | Cheers
+Limahl | Never Ending Story | 1984 | fuera, spotify:2M6q8SznCTMo9XmppUmSJE | Stranger Things
+Depeche Mode | Never Let Me Down Again | 1987 | spotify:0T57cTUpYpvSvZ3GowBuTP | The Last of Us
+Jeff Buckley | Hallelujah | 1994 | spotify:3pRaLNL3b8x5uBOcsgvdqM | The O.C.
+Love Spit Love | How Soon Is Now? | 1997 | fuera | Hechiceras
+Nerf Herder | Buffy the Vampire Slayer Theme | 1997 | fuera | Buffy, la cazavampiros
+Vonda Shepard | Searchin' My Soul | 1998 | ok-año, spotify:1E3Z69s2MRO2b0tR5UOZsq | Ally McBeal
+Cheap Trick | In the Street | 1998 | fuera | That '70s Show
+The Solids | Hey Beautiful | 1998 | ok-año, ok-versión, spotify:1QvpsbjYAVVFvFrWVC0qnQ | Cómo conocí a tu madre
+Journey | Don't Stop Believin' | 1981 | spotify:5RKQ5NdjSh2QzD4MaunT91 | Los Soprano
+Lazlo Bane | Superman | 2002 | ok-año, ok-versión, spotify:19nAFg6Mb6jXN3yxPC2sSk | Scrubs
+The Blind Boys of Alabama | Way Down in the Hole | 2002 | ok-año, spotify:4sQw4mKiMSBvzcuUf7YAiT | The Wire
+Jane's Addiction | Superhero | 2002 | ok-año, spotify:6z4CTIToU7a03Rq07F9FF4 | El séquito
+Erreway | Resistiré | 2002 | spotify:50OMlsOv9GrJxDDR3kwWTI | Rebelde Way
+The Handsome Family | Far from Any Road | 2003 | spotify:3LDkLpuxQlEuEiZmkxpr8S | True Detective
+Sia | Breathe Me | 2004 | spotify:7jqzZyJJLrpkRFYGpkqSK6 | Six Feet Under
+Natasha Bedingfield | Unwritten | 2004 | spotify:3U5JVgI2x4rDyHGObzJfNf | The Hills
+Imogen Heap | Hide and Seek | 2005 | spotify:0904cqduzhGIS9llPW6ksT | The O.C.
+RJD2 | A Beautiful Mine | 2006 | ok-versión, spotify:0kepTaFAMW1uq096U9Gf0P | Mad Men
+Patito Feo | Las divinas | 2007 | spotify:1hJIW5EVJi9rQYIa5hU4Ln | Patito Feo
+Teen Angels | Casi ángeles | 2007 |  | Casi Ángeles
+Lord Huron | The Night We Met | 2015 |  | 13 Reasons Why
+Ramin Djawadi | Light of the Seven | 2016 |  | Game of Thrones
+Billie Eilish | lovely | 2018 |  | 13 Reasons Why
+Labrinth | I'm Tired | 2022 |  | Euphoria
+Kyle Dixon & Michael Stein | Kids | 2016 |  | Stranger Things
+Irma Thomas | Anyone Who Knows What Love Is (Will Understand) | 1964 |  | Black Mirror
+The Rolling Stones | Paint It Black | 1966 | spotify:63T7DJ1AFDD6Bn8VzG6JE8 | Misión del deber
+Joan Jett & The Blackhearts | Bad Reputation | 1981 |  | Freaks and Geeks
+Survivor | The Moment of Truth | 1984 |  | Cobra Kai
+Tiffany | I Think We're Alone Now | 1987 |  | The Umbrella Academy
+Danny Elfman | Desperate Housewives Main Title | 2004 |  | Esposas desesperadas
+The Scrantones | The Office Theme | 2005 |  | The Office
+The High Strung | The Luck You Got | 2007 |  | Shameless
+Gaby Moreno | Parks and Recreation Theme | 2009 |  | Parks and Recreation
+Dan Marocco | Brooklyn Nine-Nine Theme | 2013 |  | Brooklyn Nine-Nine
+Michael Kiwanuka | Cold Little Heart | 2016 |  | Big Little Lies
