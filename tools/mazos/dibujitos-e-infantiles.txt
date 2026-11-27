@@ -1,0 +1,76 @@
+# nombre: Dibujitos e infantiles
+# playlist: 0Xiga38vSdDCfTZvvgVkTF
+# formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión) | dibujito o película
+The Dwarfs | Heigh-Ho | 1937 | spotify:4OkD0WYpUTu8eJcDDVJERl, ok-año, ok-versión | Blancanieves
+Cliff Edwards | When You Wish Upon a Star | 1940 | ok-año, ok-versión, spotify:4BGM5OhJ1PRFDGB0mMrgW8 | Pinocho
+Ilene Woods | A Dream Is a Wish Your Heart Makes | 1950 | ok-año, ok-versión, spotify:2gEfOySO0JafmzfcsXQH8R | La Cenicienta
+Verna Felton | Bibbidi-Bobbidi-Boo | 1950 | ok-año, ok-versión, spotify:1vIZenMToAIzDh7FqWSnZm | La Cenicienta
+Hoyt Curtin | Meet the Flintstones | 1960 | fuera, spotify:5oqlY2I0NIU0SRkQzqgAkW | Los Picapiedra
+Hoyt Curtin | The Jetsons Main Theme | 1962 | fuera | Los Supersónicos
+Julie Andrews | Supercalifragilisticexpialidocious | 1964 | spotify:5cvzqk8wsmLA9P7LrZCRb2, ok-versión, ok-año | Mary Poppins
+Phil Harris | The Bare Necessities | 1967 | ok-versión, spotify:7h5crXBSY5SSpXRIlklv74 | El libro de la selva
+Louis Prima | I Wan'na Be Like You | 1967 | ok-versión, spotify:57nQC45HVPmUPsZ41ayzgA | El libro de la selva
+Paul Francis Webster | Spider-Man Theme | 1967 | fuera | El Hombre Araña
+Joe Raposo | Sesame Street Theme | 1969 | fuera, spotify:2m6shd9dmXiFZjGL0Yo0OP | Plaza Sésamo
+Scatman Crothers | Ev'rybody Wants to Be a Cat | 1970 | ok-versión, spotify:2dAOKHKapOngJv8sMI8GGZ | Los aristogatos
+Jean-Jacques Perrey | The Elephant Never Forgets | 1970 | spotify:5jEUZSxLX8EbuhcXncEnDE | El Chavo del 8
+Gaby, Fofó y Miliki | Había una vez un circo | 1973 | spotify:0haTHL4lee5ct353rCi9Cy, ok-año, ok-versión | Había una vez un circo
+The Muppets | The Muppet Show Theme | 1976 | ok-año, ok-versión, spotify:2fFnUnsRZ11zSqJoZalmxq | El show de los Muppets
+Father Abraham | The Smurf Song | 1977 | fuera | Los Pitufos
+Parchís | Cumpleaños feliz | 1981 | ok-año, ok-versión, spotify:3BS9n4iafEIruvhqroGBSe
+Bernard Hoffer | ThunderCats Theme | 1985 | fuera | Thundercats
+Chuck Lorre | Teenage Mutant Ninja Turtles | 1987 | spotify:4QpB8RyVWCAcZ5bWRk14bo, ok-año, ok-versión | Las Tortugas Ninja
+Jeff Pescetto | DuckTales Theme | 1987 | spotify:5pRpPmMdvAM0sHInhqRZXl, ok-año, ok-versión | Patoaventuras
+Xuxa | Ilarié | 1988 | spotify:2kQ8vjePBUExw1zC8shTpg | El show de Xuxa
+Jodi Benson | Part of Your World | 1989 | ok-versión, spotify:3dEboK18AXL9GBcCf2DrSy | La sirenita
+Samuel E. Wright | Under the Sea | 1989 | spotify:6oYkwjI1TKP9D0Y9II1GT7, ok-versión | La sirenita
+Samuel E. Wright | Kiss the Girl | 1989 | spotify:6CDiKAFgbWXlwQTU59GKYT, ok-versión | La sirenita
+Angela Lansbury | Be Our Guest | 1991 | ok-versión, spotify:6btdYzQ8eZFBrOlUKVHuz0 | La Bella y la Bestia
+Robin Williams | Friend Like Me | 1992 | spotify:2ov4LhWJZ2J7zGnHQqoWvZ | Aladdín
+Peabo Bryson | A Whole New World | 1992 | spotify:32eutEsa8LRg7AsnCZHJaE | Aladdín
+Ron Wasserman | Go Go Power Rangers | 1993 | spotify:4WXqcpieti5YFe92zxW7PQ, ok-año, ok-versión | Power Rangers
+Reel 2 Real | I Like to Move It | 1993 | spotify:4l2ljvyXOCVNbD5ff7NpM7, ok-año, ok-versión | Madagascar
+Richard Stone | Animaniacs Main Title Theme | 1993 | spotify:0SAgtmTBNemNGTIyjaD07b, ok-versión | Animaniacs
+Carmen Twillie | Circle of Life | 1994 | ok-versión, spotify:0HU5JnVaKNTWf6GykV9Zn8 | El rey león
+Jason Weaver | I Just Can't Wait to Be King | 1994 | ok-versión, spotify:0qxtQ8rf3W1nId3D2r0xH4 | El rey león
+Judy Kuhn | Colors of the Wind | 1995 | ok-versión, spotify:1OYOLWqKmhkFIx2KC9ek1a | Pocahontas
+Randy Newman | You've Got a Friend in Me | 1995 | spotify:2stkLJ0JNcXkIRDNF3ld6c | Toy Story
+Ricardo Silva | Cha-La Head-Cha-La | 1996 | ok-año, ok-versión, spotify:3j6vPHORBBkNVl55C9IAkh | Dragon Ball Z
+Roger Bart | Go the Distance | 1997 | ok-año, ok-versión, spotify:0D1OY0M5A0qD5HGBvFmFid | Hércules
+Teletubbies | Teletubbies say "Eh-oh!" | 1997 | spotify:66e2TRYYXe72Kj7iCBVkFC | Teletubbies
+Jason Paige | Pokémon Theme | 1998 | spotify:5WZd9ofTnuqsjHgHFQm5JR, ok-año, ok-versión | Pokémon
+Lea Salonga | Reflection | 1998 | spotify:2AILbz83cBnrAMAG06rZts, ok-versión | Mulán
+Donny Osmond | I'll Make a Man Out of You | 1998 | ok-versión, spotify:28UMEtwyUUy5u0UWOVHwiI | Mulán
+Chiquititas | Corazón con agujeritos | 1998 | ok-año, ok-versión, spotify:7v1ew5EhXSklZ5CqFYsEQo | Chiquititas
+Painty the Pirate | SpongeBob SquarePants Theme | 1999 | ok-año, ok-versión, spotify:1L76g7YKUBaOobB192tZBz | Bob Esponja
+Christopher Tyng | Futurama Theme | 1999 | spotify:6Lp427N88qjO6tIhTngQyt, ok-año, ok-versión | Futurama
+Smash Mouth | All Star | 1999 | spotify:3cfOd4CMv2snFaKAnMdnvK, ok-año, ok-versión | Shrek
+Bob the Builder | Can We Fix It? | 2000 | spotify:4Qh15ryVjlpce23xPio2Cy, ok-año, ok-versión | Bob el constructor
+Smash Mouth | I'm a Believer | 2001 | spotify:0C9jZPUv4SuaXkuEQw6L40 | Shrek
+Counting Crows | Accidentally in Love | 2004 | ok-año, spotify:2Y6uY65ZwKl9WbVOvKyZg6 | Shrek 2
+Rascal Flatts | Life Is a Highway | 2006 | spotify:2Fs18NaCDuluPG1DHGw1XG | Cars
+Sheryl Crow | Real Gone | 2006 | ok-versión, spotify:45dGKmN6jw7PgK6Dw2rEp2 | Cars
+Troy, Gabriella | Breaking Free | 2006 | ok-versión, spotify:5zQ1Wq6HNYjGZWkVv5P8Eg | High School Musical
+Hannah Montana | The Best of Both Worlds | 2006 | spotify:6Z0F3Mqj7tq1CBZo5qMlUg | Hannah Montana
+Bowling for Soup | Today Is Gonna Be a Great Day | 2007 | ok-año, ok-versión, spotify:2monU2EJfR5m53ciaHNE6z | Phineas y Ferb
+Gummibär | I'm a Gummy Bear (The Gummy Bear Song) | 2006 | spotify:1JpN4DazIAv65GrwdKXKrJ | Osito Gominola
+El Reino Infantil | La vaca Lola | 2011 | ok-año, ok-versión, spotify:70NIwhQTnE2a4wuE0roHTM | La granja de Zenón
+Martina Stoessel | En mi mundo | 2012 | ok-versión, spotify:3wfs0ssDxBBsUioKXQQTNc | Violetta
+Idina Menzel | Let It Go | 2013 | spotify:0qcr5FMsEO85NAQjrlDRKo, ok-versión | Frozen
+Kristen Bell | Do You Want to Build a Snowman? | 2013 | ok-versión, spotify:2yi7HZrBOC4bMUSTcs4VK6 | Frozen
+Pharrell Williams | Happy | 2013 | spotify:60nZcImufyMA1MKQY3dcCH | Mi villano favorito 2
+Shakira | Try Everything | 2016 | spotify:1N3dZ7TTWO6VcD4Y3hHYLZ | Zootopia
+Dwayne Johnson | You're Welcome | 2016 | ok-año, ok-versión, spotify:6H0JqH391qbGqe0zs3oZJW | Moana
+Auli'i Cravalho | How Far I'll Go | 2016 | spotify:6mb6lVLNrcUgLnEN8QnDJd, ok-versión | Moana
+Justin Timberlake | Can't Stop the Feeling! | 2016 | spotify:6JV2JOEocMgcZxYSZelKcc, ok-versión | Trolls
+Pinkfong | Baby Shark | 2016 | ok-año, spotify:5ygDXis42ncn6kYG14lEVG
+Elenco de Soy Luna | Alas | 2016 | spotify:4wWo2EHTXBQJG2PvTHyrRd | Soy Luna
+Carlos Rivera | Recuérdame | 2017 | spotify:7iSVfyBiVaeD7I7J97AcTA, ok-versión | Coco
+Idina Menzel | Into the Unknown | 2019 | ok-versión, spotify:3Z0oQ8r78OUaHvGPiDBR3W | Frozen 2
+Carolina Gaitán | We Don't Talk About Bruno | 2021 | spotify:52xJxFP6TqMuO4Yt0eOkMz | Encanto
+Jessica Darrow | Surface Pressure | 2021 | spotify:760jhRscwGbIIe1m1IIQpU | Encanto
+María Elena Walsh | Manuelita | 1964 | spotify:7JdnkfmvN18HCKt0erf4ji, ok-versión
+María Elena Walsh | El reino del revés | 1964 | ok-año, ok-versión, spotify:2T6ZYOrJVvscFv7AMBH3mW
+María Elena Walsh | La reina Batata | 1966 | spotify:15S0w5lmBhVQGrQGjKxNYh
+Pipo Pescador | El auto de papá | 1968 | fuera
+Cantando con Adriana | El monstruo de la laguna | 1993 | fuera

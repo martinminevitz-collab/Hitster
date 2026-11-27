@@ -9,6 +9,10 @@
       "nombre": "Cumbia, cuarteto y reggaetón"
     },
     {
+      "id": "dibujitos-e-infantiles",
+      "nombre": "Dibujitos e infantiles"
+    },
+    {
       "id": "fiesta-y-casamiento",
       "nombre": "Fiesta y casamiento"
     },
@@ -39,6 +43,10 @@
     {
       "id": "rock-nacional",
       "nombre": "Rock Nacional"
+    },
+    {
+      "id": "series-y-tv",
+      "nombre": "Series y TV"
     },
     {
       "id": "variados",
@@ -5893,7 +5901,7 @@
         "reserva": false,
         "okAnio": false,
         "okVersion": false,
-        "spotify": null
+        "spotify": "5i9yLs9LPercK6BJgj87gj"
       },
       "spotify": "5i9yLs9LPercK6BJgj87gj",
       "duracion_ms": 556426,
@@ -9287,6 +9295,2779 @@
           "via": "búsqueda"
         },
         "anio_mb": 2021
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-001",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "The Dwarfs",
+      "titulo": "Heigh-Ho",
+      "anio": 1937,
+      "pelicula": "Blancanieves",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "4OkD0WYpUTu8eJcDDVJERl"
+      },
+      "spotify": "4OkD0WYpUTu8eJcDDVJERl",
+      "duracion_ms": 166933,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "4OkD0WYpUTu8eJcDDVJERl",
+          "nombre": "Heigh-Ho",
+          "artistas": "The Dwarf Chorus",
+          "disco": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
+          "tipo": "compilation",
+          "fecha": "1997-01-01",
+          "isrc": "USWD10321898"
+        },
+        "musicbrainz": {
+          "fecha": "1988",
+          "grabacion": "408a427c-f48b-4d63-8c83-3b7c7bacb979",
+          "via": "isrc"
+        },
+        "anio_mb": 1988
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-002",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Cliff Edwards",
+      "titulo": "When You Wish Upon a Star",
+      "anio": 1940,
+      "pelicula": "Pinocho",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "4BGM5OhJ1PRFDGB0mMrgW8",
+      "duracion_ms": 188708,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "4BGM5OhJ1PRFDGB0mMrgW8",
+          "nombre": "When You Wish Upon a Star",
+          "artistas": "Cliff Edwards",
+          "disco": "I Can't Give You Anything But Love",
+          "tipo": "album",
+          "fecha": "2019-04-03",
+          "isrc": "ZAC481806824"
+        },
+        "musicbrainz": {
+          "fecha": "1940",
+          "grabacion": "b7b017b5-787e-42fb-a22e-0944b4ed5018",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1940
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-003",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Ilene Woods",
+      "titulo": "A Dream Is a Wish Your Heart Makes",
+      "anio": 1950,
+      "pelicula": "La Cenicienta",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "2gEfOySO0JafmzfcsXQH8R",
+      "duracion_ms": 162861,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "2gEfOySO0JafmzfcsXQH8R",
+          "nombre": "A Dream Is A Wish Your Heart Makes",
+          "artistas": "Ilene Woods",
+          "disco": "A Dream Is A Wish Your Heart Makes",
+          "tipo": "album",
+          "fecha": "2016-10-17",
+          "isrc": "DETL61610936"
+        },
+        "musicbrainz": {
+          "fecha": "1950",
+          "grabacion": "a89381dc-7156-46ee-bedc-097cff4e3de0",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1950
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-004",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Verna Felton",
+      "titulo": "Bibbidi-Bobbidi-Boo",
+      "anio": 1950,
+      "pelicula": "La Cenicienta",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "1vIZenMToAIzDh7FqWSnZm",
+      "duracion_ms": 213995,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: título con agregado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "1vIZenMToAIzDh7FqWSnZm",
+          "nombre": "Bibbidi-Bobbidi-Boo - Cinderella Original Soundtrack",
+          "artistas": "Verna Felton",
+          "disco": "Bibbidi-Bobbidi-Boo (Cinderella Original Soundtrack)",
+          "tipo": "single",
+          "fecha": "2012-05-07",
+          "isrc": "FR6V80119562"
+        },
+        "musicbrainz": {
+          "fecha": "1988",
+          "grabacion": "fe8c0b19-ef1e-49ae-a0d1-4855b855bd6d",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1988
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-005",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Hoyt Curtin",
+      "titulo": "Meet the Flintstones",
+      "anio": 1960,
+      "pelicula": "Los Picapiedra",
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "5oqlY2I0NIU0SRkQzqgAkW",
+      "duracion_ms": 50506,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: otro artista primero, artistas de más",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "5oqlY2I0NIU0SRkQzqgAkW",
+          "nombre": "Meet the Flintstones",
+          "artistas": "William Hanna, Joseph Barbera, Hoyt Curtin, Elisabeth Vannebo, Stein Ivar Mortensen, Elin Mortensen",
+          "disco": "Midt I Blinken – Altsaxofon – Lærebok 1",
+          "tipo": "album",
+          "fecha": "2018-01-01",
+          "isrc": "NO22O1803034"
+        },
+        "musicbrainz": {
+          "fecha": "2000",
+          "grabacion": "2e33f814-b89a-47cc-806a-5cd0308dce85",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-006",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Hoyt Curtin",
+      "titulo": "The Jetsons Main Theme",
+      "anio": 1962,
+      "pelicula": "Los Supersónicos",
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "no_musicbrainz"
+        ]
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-007",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Julie Andrews",
+      "titulo": "Supercalifragilisticexpialidocious",
+      "anio": 1964,
+      "pelicula": "Mary Poppins",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "5cvzqk8wsmLA9P7LrZCRb2"
+      },
+      "spotify": "5cvzqk8wsmLA9P7LrZCRb2",
+      "duracion_ms": 122026,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "5cvzqk8wsmLA9P7LrZCRb2",
+          "nombre": "Supercalifragilisticexpialidocious - From \"Mary Poppins\" Soundtrack",
+          "artistas": "Julie Andrews, Dick Van Dyke, The Pearlie Chorus",
+          "disco": "Saving Mr. Banks (Original Motion Picture Soundtrack [Deluxe Edition])",
+          "tipo": "album",
+          "fecha": "2013-01-01",
+          "isrc": "USWD10320942"
+        },
+        "musicbrainz": {
+          "fecha": "1963-01-01",
+          "grabacion": "4b433c39-652b-4e2c-b5c8-006e40ad8bb1",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1963
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-008",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Phil Harris",
+      "titulo": "The Bare Necessities",
+      "anio": 1967,
+      "pelicula": "El libro de la selva",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "7h5crXBSY5SSpXRIlklv74",
+      "duracion_ms": 291466,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "7h5crXBSY5SSpXRIlklv74",
+          "nombre": "The Bare Necessities",
+          "artistas": "Phil Harris, Bruce Reitherman",
+          "disco": "The Jungle Book",
+          "tipo": "compilation",
+          "fecha": "1997-01-01",
+          "isrc": "USWD10423008"
+        },
+        "musicbrainz": {
+          "fecha": "1967-12",
+          "grabacion": "2d253179-3974-4fba-bf19-7a6e0cbe4211",
+          "via": "isrc"
+        },
+        "anio_mb": 1967
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-009",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Louis Prima",
+      "titulo": "I Wan'na Be Like You",
+      "anio": 1967,
+      "pelicula": "El libro de la selva",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "57nQC45HVPmUPsZ41ayzgA",
+      "duracion_ms": 143000,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más"
+        ],
+        "spotify": {
+          "id": "57nQC45HVPmUPsZ41ayzgA",
+          "nombre": "I Wan'na Be Like You",
+          "artistas": "Louis Prima, Gia Maione, Sam Butera & The Witnesses",
+          "disco": "The New Sounds of the Louis Prima Show",
+          "tipo": "album",
+          "fecha": "1969-01-01",
+          "isrc": "USA560622953"
+        },
+        "musicbrainz": {
+          "fecha": "1967-12",
+          "grabacion": "07626971-355b-4c83-944b-8bfca5ba03cc",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1967
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-010",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Paul Francis Webster",
+      "titulo": "Spider-Man Theme",
+      "anio": 1967,
+      "pelicula": "El Hombre Araña",
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "anio_distinto"
+        ],
+        "musicbrainz": {
+          "fecha": "1997",
+          "grabacion": "e1c04e0e-45ee-4c23-aba1-4dc20b839816",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1997
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-011",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Joe Raposo",
+      "titulo": "Sesame Street Theme",
+      "anio": 1969,
+      "pelicula": "Plaza Sésamo",
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "2m6shd9dmXiFZjGL0Yo0OP",
+      "duracion_ms": 89453,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: artistas de más, compilado, título con agregado",
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "2m6shd9dmXiFZjGL0Yo0OP",
+          "nombre": "Sesame Street Theme - Arr. Richard Hayman",
+          "artistas": "Joe Raposo, Boston Pops Orchestra, Arthur Fiedler",
+          "disco": "Evening at Pops",
+          "tipo": "compilation",
+          "fecha": "2007-01-01",
+          "isrc": "USUM70604570"
+        }
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-012",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Scatman Crothers",
+      "titulo": "Ev'rybody Wants to Be a Cat",
+      "anio": 1970,
+      "pelicula": "Los aristogatos",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "2dAOKHKapOngJv8sMI8GGZ",
+      "duracion_ms": 123000,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más, compilado"
+        ],
+        "spotify": {
+          "id": "2dAOKHKapOngJv8sMI8GGZ",
+          "nombre": "Ev'rybody Wants to Be a Cat",
+          "artistas": "Scatman Crothers, Phil Harris, Thurl Ravenscroft, Liz English",
+          "disco": "Songs From The Aristocats",
+          "tipo": "compilation",
+          "fecha": "1996-01-01",
+          "isrc": "USWD10220404"
+        },
+        "musicbrainz": {
+          "fecha": "1970",
+          "grabacion": "f584fac5-6740-4fc3-aaa8-b02e1076c496",
+          "via": "isrc"
+        },
+        "anio_mb": 1970
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-013",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Jean-Jacques Perrey",
+      "titulo": "The Elephant Never Forgets",
+      "anio": 1970,
+      "pelicula": "El Chavo del 8",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "5jEUZSxLX8EbuhcXncEnDE",
+      "duracion_ms": 149000,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5jEUZSxLX8EbuhcXncEnDE",
+          "nombre": "The Elephant Never Forgets",
+          "artistas": "Jean-Jacques Perrey",
+          "disco": "Moog Indigo",
+          "tipo": "album",
+          "fecha": "1970",
+          "isrc": "USVG29652841"
+        },
+        "musicbrainz": {
+          "fecha": "1970",
+          "grabacion": "93feaa05-5003-4549-b582-9627f9eb8cea",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1970
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-014",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Gaby, Fofó y Miliki",
+      "titulo": "Había una vez un circo",
+      "anio": 1973,
+      "pelicula": "Había una vez un circo",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "0haTHL4lee5ct353rCi9Cy"
+      },
+      "spotify": "0haTHL4lee5ct353rCi9Cy",
+      "duracion_ms": 161800,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "0haTHL4lee5ct353rCi9Cy",
+          "nombre": "Habia una Vez un Circo",
+          "artistas": "Los Payasos de la Tele",
+          "disco": "¿Cómo Están Ustedes?",
+          "tipo": "album",
+          "fecha": "2003-09-09",
+          "isrc": "ESA031430047"
+        },
+        "musicbrainz": {
+          "fecha": "1973",
+          "grabacion": "d0ac79cc-0069-4a14-9625-a67dd9eb0fa3",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1973
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-015",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "The Muppets",
+      "titulo": "The Muppet Show Theme",
+      "anio": 1976,
+      "pelicula": "El show de los Muppets",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "2fFnUnsRZ11zSqJoZalmxq",
+      "duracion_ms": 50786,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "2fFnUnsRZ11zSqJoZalmxq",
+          "nombre": "The Muppet Show Theme",
+          "artistas": "The Muppets, Joanna Newsom",
+          "disco": "The Muppets (Original Motion Picture Soundtrack)",
+          "tipo": "album",
+          "fecha": "2011-11-21",
+          "isrc": "USWD11158957"
+        },
+        "musicbrainz": {
+          "fecha": "1977",
+          "grabacion": "61974f50-3a5b-474d-a28d-a6ef0c41382a",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1977
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-016",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Father Abraham",
+      "titulo": "The Smurf Song",
+      "anio": 1977,
+      "pelicula": "Los Pitufos",
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "anio_distinto"
+        ],
+        "musicbrainz": {
+          "fecha": "1978",
+          "grabacion": "8ef418a3-91de-48b1-91b6-8cd548e07f97",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1978
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-017",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Parchís",
+      "titulo": "Cumpleaños feliz",
+      "anio": 1981,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "3BS9n4iafEIruvhqroGBSe",
+      "duracion_ms": 173666,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "3BS9n4iafEIruvhqroGBSe",
+          "nombre": "Cumpleaños Feliz",
+          "artistas": "Parchis",
+          "disco": "Cumpleaños Feliz",
+          "tipo": "album",
+          "fecha": "1994-04-11",
+          "isrc": "ES7580500811"
+        },
+        "musicbrainz": {
+          "fecha": "1982",
+          "grabacion": "ba2127ef-e292-4109-8797-8aecdafc2bc7",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1982
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-018",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Bernard Hoffer",
+      "titulo": "ThunderCats Theme",
+      "anio": 1985,
+      "pelicula": "Thundercats",
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "no_musicbrainz"
+        ]
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-019",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Chuck Lorre",
+      "titulo": "Teenage Mutant Ninja Turtles",
+      "anio": 1987,
+      "pelicula": "Las Tortugas Ninja",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "4QpB8RyVWCAcZ5bWRk14bo"
+      },
+      "spotify": "4QpB8RyVWCAcZ5bWRk14bo",
+      "duracion_ms": 60672,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "error en MusicBrainz: MusicBrainz 400"
+        ],
+        "spotify": {
+          "id": "4QpB8RyVWCAcZ5bWRk14bo",
+          "nombre": "Teenage Mutant Ninja Turtles Cartoon Opening Theme (1987)",
+          "artistas": "Teenage Mutant Ninja Turtles",
+          "disco": "Let's Kick Shell!",
+          "tipo": "single",
+          "fecha": "2015-12-24",
+          "isrc": "ushm21547405"
+        }
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-020",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Jeff Pescetto",
+      "titulo": "DuckTales Theme",
+      "anio": 1987,
+      "pelicula": "Patoaventuras",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "5pRpPmMdvAM0sHInhqRZXl"
+      },
+      "spotify": "5pRpPmMdvAM0sHInhqRZXl",
+      "duracion_ms": 173680,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "5pRpPmMdvAM0sHInhqRZXl",
+          "nombre": "Duck Tales Theme - From “Duck Tales“",
+          "artistas": "The Disney Afternoon Studio Chorus",
+          "disco": "The Disney Afternoon",
+          "tipo": "album",
+          "fecha": "2008-01-01",
+          "isrc": "USWD10321622"
+        }
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-021",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Xuxa",
+      "titulo": "Ilarié",
+      "anio": 1988,
+      "pelicula": "El show de Xuxa",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "2kQ8vjePBUExw1zC8shTpg",
+      "duracion_ms": 341466,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2kQ8vjePBUExw1zC8shTpg",
+          "nombre": "Ilariê",
+          "artistas": "Xuxa",
+          "disco": "Xou da Xuxa 3",
+          "tipo": "album",
+          "fecha": "1988-07-11",
+          "isrc": "BRSGL8800026"
+        },
+        "musicbrainz": {
+          "fecha": "1988-06-23",
+          "grabacion": "64260017-3ada-4167-a048-76bb989853af",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1988
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-022",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Jodi Benson",
+      "titulo": "Part of Your World",
+      "anio": 1989,
+      "pelicula": "La sirenita",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "3dEboK18AXL9GBcCf2DrSy",
+      "duracion_ms": 194106,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "3dEboK18AXL9GBcCf2DrSy",
+          "nombre": "Part of Your World - From \"The Little Mermaid\" Soundtrack",
+          "artistas": "Jodi Benson, Disney",
+          "disco": "Princess Collection",
+          "tipo": "compilation",
+          "fecha": "1995-01-01",
+          "isrc": "USWD10220403"
+        },
+        "musicbrainz": {
+          "fecha": "1989-10-13",
+          "grabacion": "55189d79-1c46-405f-8db9-3da3e48ee763",
+          "via": "isrc"
+        },
+        "anio_mb": 1989
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-023",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Samuel E. Wright",
+      "titulo": "Under the Sea",
+      "anio": 1989,
+      "pelicula": "La sirenita",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "6oYkwjI1TKP9D0Y9II1GT7"
+      },
+      "spotify": "6oYkwjI1TKP9D0Y9II1GT7",
+      "duracion_ms": 195146,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "6oYkwjI1TKP9D0Y9II1GT7",
+          "nombre": "Under the Sea",
+          "artistas": "Alan Menken, Howard Ashman, Samuel E. Wright, Disney",
+          "disco": "The Little Mermaid Special Edition",
+          "tipo": "album",
+          "fecha": "2006-01-01",
+          "isrc": "USWD10220463"
+        },
+        "musicbrainz": {
+          "fecha": "1989-10-13",
+          "grabacion": "6382ff4e-3309-4f86-8762-ae7c2d8b79d4",
+          "via": "isrc"
+        },
+        "anio_mb": 1989
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-024",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Samuel E. Wright",
+      "titulo": "Kiss the Girl",
+      "anio": 1989,
+      "pelicula": "La sirenita",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "6CDiKAFgbWXlwQTU59GKYT"
+      },
+      "spotify": "6CDiKAFgbWXlwQTU59GKYT",
+      "duracion_ms": 163386,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "6CDiKAFgbWXlwQTU59GKYT",
+          "nombre": "Kiss the Girl",
+          "artistas": "Samuel E. Wright, Disney",
+          "disco": "The Little Mermaid (Original Motion Picture Soundtrack)",
+          "tipo": "compilation",
+          "fecha": "1997-01-01",
+          "isrc": "USWD10110093"
+        },
+        "musicbrainz": {
+          "fecha": "1989-10-13",
+          "grabacion": "5938b6e6-5631-457b-b59e-9ea9ec35a15d",
+          "via": "isrc"
+        },
+        "anio_mb": 1989
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-025",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Angela Lansbury",
+      "titulo": "Be Our Guest",
+      "anio": 1991,
+      "pelicula": "La Bella y la Bestia",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "6btdYzQ8eZFBrOlUKVHuz0",
+      "duracion_ms": 224733,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más, compilado"
+        ],
+        "spotify": {
+          "id": "6btdYzQ8eZFBrOlUKVHuz0",
+          "nombre": "Be Our Guest",
+          "artistas": "Angela Lansbury, Jerry Orbach, Chorus - Beauty And the Beast, Disney",
+          "disco": "Beauty and the Beast",
+          "tipo": "compilation",
+          "fecha": "1991-01-01",
+          "isrc": "USWD10423006"
+        },
+        "musicbrainz": {
+          "fecha": "1991-10-29",
+          "grabacion": "5c927e27-713c-491c-9a58-5e0da29ca48e",
+          "via": "isrc"
+        },
+        "anio_mb": 1991
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-026",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Robin Williams",
+      "titulo": "Friend Like Me",
+      "anio": 1992,
+      "pelicula": "Aladdín",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "2ov4LhWJZ2J7zGnHQqoWvZ",
+      "duracion_ms": 146773,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "2ov4LhWJZ2J7zGnHQqoWvZ",
+          "nombre": "Friend Like Me - Remastered 2022",
+          "artistas": "Robin Williams",
+          "disco": "Walt Disney Records The Legacy Collection: Aladdin",
+          "tipo": "album",
+          "fecha": "2022-09-16",
+          "isrc": "USWD12214657"
+        },
+        "musicbrainz": {
+          "fecha": "1992-11-06",
+          "grabacion": "8f95fc4b-7eb8-46eb-8247-6e03c27a013f",
+          "via": "isrc"
+        },
+        "anio_mb": 1992
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-027",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Peabo Bryson",
+      "titulo": "A Whole New World",
+      "anio": 1992,
+      "pelicula": "Aladdín",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "32eutEsa8LRg7AsnCZHJaE"
+      },
+      "spotify": "32eutEsa8LRg7AsnCZHJaE",
+      "duracion_ms": 246826,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "32eutEsa8LRg7AsnCZHJaE",
+          "nombre": "A Whole New World (Aladdin's Theme) - Remastered 2022",
+          "artistas": "Peabo Bryson, Regina Belle",
+          "disco": "Walt Disney Records The Legacy Collection: Aladdin",
+          "tipo": "album",
+          "fecha": "2022-09-16",
+          "isrc": "USWD12214681"
+        },
+        "musicbrainz": {
+          "fecha": "1992",
+          "grabacion": "32cae2a1-60bb-47c1-9647-3975f9906c21",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1992
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-028",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Ron Wasserman",
+      "titulo": "Go Go Power Rangers",
+      "anio": 1993,
+      "pelicula": "Power Rangers",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "4WXqcpieti5YFe92zxW7PQ"
+      },
+      "spotify": "4WXqcpieti5YFe92zxW7PQ",
+      "duracion_ms": 44689,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "4WXqcpieti5YFe92zxW7PQ",
+          "nombre": "Go Go Power Rangers Theme",
+          "artistas": "Power Rangers, Ron Wasserman",
+          "disco": "Mighty Morphin Power Rangers: Once & Always (Original Soundtrack)",
+          "tipo": "album",
+          "fecha": "2023-07-07",
+          "isrc": "QM7282315366"
+        },
+        "musicbrainz": {
+          "fecha": "2003",
+          "grabacion": "33313c98-eb72-4784-8e02-729c24266dd1",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2003
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-029",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Reel 2 Real",
+      "titulo": "I Like to Move It",
+      "anio": 1993,
+      "pelicula": "Madagascar",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "4l2ljvyXOCVNbD5ff7NpM7"
+      },
+      "spotify": "4l2ljvyXOCVNbD5ff7NpM7",
+      "duracion_ms": 230760,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4l2ljvyXOCVNbD5ff7NpM7",
+          "nombre": "I Like to Move It (feat. The Mad Stuntman) - Erick \"More\" Album Mix",
+          "artistas": "Reel 2 Real, Erick Morillo, The Mad Stuntman",
+          "disco": "Move It!",
+          "tipo": "album",
+          "fecha": "1994-10-10",
+          "isrc": "QMRSZ1800990"
+        },
+        "musicbrainz": {
+          "fecha": "1993-01-31",
+          "grabacion": "30773a2b-6d9b-41f4-8348-8bdafe959f80",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1993
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-030",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Richard Stone",
+      "titulo": "Animaniacs Main Title Theme",
+      "anio": 1993,
+      "pelicula": "Animaniacs",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "0SAgtmTBNemNGTIyjaD07b"
+      },
+      "spotify": "0SAgtmTBNemNGTIyjaD07b",
+      "duracion_ms": 69133,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "0SAgtmTBNemNGTIyjaD07b",
+          "nombre": "Animaniacs - Opening Title",
+          "artistas": "Animaniacs",
+          "disco": "Steven Spielberg Presents Animaniacs (Soundtrack from the Original Series)",
+          "tipo": "album",
+          "fecha": "1993-11-16",
+          "isrc": "USNLR2001314"
+        }
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-031",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Carmen Twillie",
+      "titulo": "Circle of Life",
+      "anio": 1994,
+      "pelicula": "El rey león",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "0HU5JnVaKNTWf6GykV9Zn8",
+      "duracion_ms": 239146,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "0HU5JnVaKNTWf6GykV9Zn8",
+          "nombre": "Circle of Life",
+          "artistas": "Carmen Twillie, Lebo M.",
+          "disco": "The Lion King",
+          "tipo": "compilation",
+          "fecha": "1994-01-01",
+          "isrc": "USWD10220440"
+        },
+        "musicbrainz": {
+          "fecha": "1994-05-31",
+          "grabacion": "ba905205-612d-49e6-ad5e-30bbbbf20f56",
+          "via": "isrc"
+        },
+        "anio_mb": 1994
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-032",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Jason Weaver",
+      "titulo": "I Just Can't Wait to Be King",
+      "anio": 1994,
+      "pelicula": "El rey león",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "0qxtQ8rf3W1nId3D2r0xH4",
+      "duracion_ms": 170880,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más, compilado"
+        ],
+        "spotify": {
+          "id": "0qxtQ8rf3W1nId3D2r0xH4",
+          "nombre": "I Just Can't Wait to Be King",
+          "artistas": "Jason Weaver, Rowan Atkinson, Laura Williams",
+          "disco": "The Lion King",
+          "tipo": "compilation",
+          "fecha": "1994-01-01",
+          "isrc": "USWD10321345"
+        },
+        "musicbrainz": {
+          "fecha": "1994",
+          "grabacion": "6f921f85-4449-43a4-828d-d64379d3b74b",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1994
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-033",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Judy Kuhn",
+      "titulo": "Colors of the Wind",
+      "anio": 1995,
+      "pelicula": "Pocahontas",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "1OYOLWqKmhkFIx2KC9ek1a",
+      "duracion_ms": 214400,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "1OYOLWqKmhkFIx2KC9ek1a",
+          "nombre": "Colors of the Wind",
+          "artistas": "Judy Kuhn",
+          "disco": "Pocahontas",
+          "tipo": "compilation",
+          "fecha": "1995-01-01",
+          "isrc": "USWD10423005"
+        },
+        "musicbrainz": {
+          "fecha": "1995-05-30",
+          "grabacion": "e370b2ca-200e-4007-b785-20f4a4502f18",
+          "via": "isrc"
+        },
+        "anio_mb": 1995
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-034",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Randy Newman",
+      "titulo": "You've Got a Friend in Me",
+      "anio": 1995,
+      "pelicula": "Toy Story",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2stkLJ0JNcXkIRDNF3ld6c"
+      },
+      "spotify": "2stkLJ0JNcXkIRDNF3ld6c",
+      "duracion_ms": 124160,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2stkLJ0JNcXkIRDNF3ld6c",
+          "nombre": "You've Got a Friend in Me",
+          "artistas": "Randy Newman",
+          "disco": "Toy Story (Original Motion Picture Soundtrack)",
+          "tipo": "album",
+          "fecha": "1995-01-01",
+          "isrc": "USWD10110108"
+        },
+        "musicbrainz": {
+          "fecha": "1995",
+          "grabacion": "74d106e0-db9e-4288-8983-7d216938f2d8",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1995
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-035",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Ricardo Silva",
+      "titulo": "Cha-La Head-Cha-La",
+      "anio": 1996,
+      "pelicula": "Dragon Ball Z",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "3j6vPHORBBkNVl55C9IAkh",
+      "duracion_ms": 198826,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "3j6vPHORBBkNVl55C9IAkh",
+          "nombre": "Cha-La Head Cha-La",
+          "artistas": "Ricardo Silva",
+          "disco": "The Best Soundtrack Of Dragon Ball Z In Spanish",
+          "tipo": "single",
+          "fecha": "2013-09-19",
+          "isrc": "MXF171304163"
+        },
+        "musicbrainz": {
+          "fecha": "2013-04-03",
+          "grabacion": "708a9feb-eba5-4708-9e4c-c083337f3e78",
+          "via": "isrc"
+        },
+        "anio_mb": 2013
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-036",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Roger Bart",
+      "titulo": "Go the Distance",
+      "anio": 1997,
+      "pelicula": "Hércules",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "0D1OY0M5A0qD5HGBvFmFid",
+      "duracion_ms": 194160,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0D1OY0M5A0qD5HGBvFmFid",
+          "nombre": "Go the Distance",
+          "artistas": "Roger Bart, Disney",
+          "disco": "Hercules (Original Motion Picture Soundtrack)",
+          "tipo": "compilation",
+          "fecha": "1997-01-01",
+          "isrc": "USWD10220438"
+        },
+        "musicbrainz": {
+          "fecha": "1996",
+          "grabacion": "19780480-06c1-44ae-979e-9a59b4f0f883",
+          "via": "isrc"
+        },
+        "anio_mb": 1996
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-037",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Teletubbies",
+      "titulo": "Teletubbies say \"Eh-oh!\"",
+      "anio": 1997,
+      "pelicula": "Teletubbies",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "66e2TRYYXe72Kj7iCBVkFC",
+      "duracion_ms": 210200,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "66e2TRYYXe72Kj7iCBVkFC",
+          "nombre": "Teletubbies Say \"Eh-Oh!\"",
+          "artistas": "Teletubbies",
+          "disco": "Teletubbies: The Album",
+          "tipo": "album",
+          "fecha": "1998",
+          "isrc": "CAN031400021"
+        },
+        "musicbrainz": {
+          "fecha": "1997-12-01",
+          "grabacion": "19f944e6-de67-48ce-8c87-f3cc3f61d2a7",
+          "via": "isrc"
+        },
+        "anio_mb": 1997
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-038",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Jason Paige",
+      "titulo": "Pokémon Theme",
+      "anio": 1998,
+      "pelicula": "Pokémon",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "5WZd9ofTnuqsjHgHFQm5JR"
+      },
+      "spotify": "5WZd9ofTnuqsjHgHFQm5JR",
+      "duracion_ms": 200066,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "5WZd9ofTnuqsjHgHFQm5JR",
+          "nombre": "Tema de Pokémon",
+          "artistas": "Pokémon",
+          "disco": "Pokémon: 2.B.A. Master (Music from the TV Series) [Spanish Version]",
+          "tipo": "album",
+          "fecha": "2000-06-27",
+          "isrc": "USKO10406167"
+        },
+        "musicbrainz": {
+          "fecha": "2000-02-22",
+          "grabacion": "4bc7bf07-e03e-4335-b228-0257e67bea67",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-039",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Lea Salonga",
+      "titulo": "Reflection",
+      "anio": 1998,
+      "pelicula": "Mulán",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "2AILbz83cBnrAMAG06rZts"
+      },
+      "spotify": "2AILbz83cBnrAMAG06rZts",
+      "duracion_ms": 146760,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2AILbz83cBnrAMAG06rZts",
+          "nombre": "Reflection",
+          "artistas": "Lea Salonga, Disney",
+          "disco": "Mulan (Original Soundtrack)",
+          "tipo": "compilation",
+          "fecha": "1998-01-01",
+          "isrc": "USWD10110091"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "8a3cb196-99d5-4863-a4b5-4f13a65f9cce",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-040",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Donny Osmond",
+      "titulo": "I'll Make a Man Out of You",
+      "anio": 1998,
+      "pelicula": "Mulán",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "28UMEtwyUUy5u0UWOVHwiI",
+      "duracion_ms": 201680,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más, compilado"
+        ],
+        "spotify": {
+          "id": "28UMEtwyUUy5u0UWOVHwiI",
+          "nombre": "I'll Make a Man Out of You",
+          "artistas": "Donny Osmond, Chorus - Mulan, Disney",
+          "disco": "Mulan (Original Soundtrack)",
+          "tipo": "compilation",
+          "fecha": "1998-01-01",
+          "isrc": "USWD10423004"
+        },
+        "musicbrainz": {
+          "fecha": "1998-04-01",
+          "grabacion": "f20a042d-55cf-46ac-9cd4-391590fe6a83",
+          "via": "isrc"
+        },
+        "anio_mb": 1998
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-041",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Chiquititas",
+      "titulo": "Corazón con agujeritos",
+      "anio": 1998,
+      "pelicula": "Chiquititas",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "7v1ew5EhXSklZ5CqFYsEQo",
+      "duracion_ms": 272013,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "7v1ew5EhXSklZ5CqFYsEQo",
+          "nombre": "Corazon Con Agujeritos",
+          "artistas": "Chiquititas",
+          "disco": "La Musica De Chiquititas Vol.2",
+          "tipo": "album",
+          "fecha": "1996-01-01",
+          "isrc": "ARF040601437"
+        }
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-042",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Painty the Pirate",
+      "titulo": "SpongeBob SquarePants Theme",
+      "anio": 1999,
+      "pelicula": "Bob Esponja",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "1L76g7YKUBaOobB192tZBz",
+      "duracion_ms": 45533,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: otro artista primero, compilado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "1L76g7YKUBaOobB192tZBz",
+          "nombre": "SpongeBob SquarePants Theme",
+          "artistas": "Painty The Pirate and Kids",
+          "disco": "Spongebob Squarepants: Original Theme Highlights",
+          "tipo": "compilation",
+          "fecha": "2001-08-14",
+          "isrc": "USN1R0100001"
+        },
+        "musicbrainz": {
+          "fecha": "2001-08-14",
+          "grabacion": "d4e98284-b396-42dc-9b2c-8f5176703a25",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2001
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-043",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Christopher Tyng",
+      "titulo": "Futurama Theme",
+      "anio": 1999,
+      "pelicula": "Futurama",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "6Lp427N88qjO6tIhTngQyt"
+      },
+      "spotify": "6Lp427N88qjO6tIhTngQyt",
+      "duracion_ms": 30394,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "6Lp427N88qjO6tIhTngQyt",
+          "nombre": "Futurama Main Theme - From \"Futurama\"/TV Version",
+          "artistas": "Christopher Tyng",
+          "disco": "Futurama Main Theme (From \"Futurama\")",
+          "tipo": "single",
+          "fecha": "2012-12-11",
+          "isrc": "USFM91200173"
+        }
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-044",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Smash Mouth",
+      "titulo": "All Star",
+      "anio": 1999,
+      "pelicula": "Shrek",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "3cfOd4CMv2snFaKAnMdnvK"
+      },
+      "spotify": "3cfOd4CMv2snFaKAnMdnvK",
+      "duracion_ms": 200373,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "3cfOd4CMv2snFaKAnMdnvK",
+          "nombre": "All Star",
+          "artistas": "Smash Mouth",
+          "disco": "Astro Lounge",
+          "tipo": "album",
+          "fecha": "1999-06-08",
+          "isrc": "USIR19902220"
+        },
+        "musicbrainz": {
+          "fecha": "1997",
+          "grabacion": "e2fecf2a-c7ae-49f6-8e6d-4cde06c46edd",
+          "via": "isrc"
+        },
+        "anio_mb": 1997
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-045",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Bob the Builder",
+      "titulo": "Can We Fix It?",
+      "anio": 2000,
+      "pelicula": "Bob el constructor",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "4Qh15ryVjlpce23xPio2Cy"
+      },
+      "spotify": "4Qh15ryVjlpce23xPio2Cy",
+      "duracion_ms": 53346,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "4Qh15ryVjlpce23xPio2Cy",
+          "nombre": "Bob The Builder (Main Title)",
+          "artistas": "Bob The Builder",
+          "disco": "Never Mind The Breeze Blocks",
+          "tipo": "album",
+          "fecha": "2008-01-01",
+          "isrc": "GBUM70815889"
+        },
+        "musicbrainz": {
+          "fecha": "2000-12-04",
+          "grabacion": "9b428240-66c1-47a1-98fc-16e2c6410f35",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2000
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-046",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Smash Mouth",
+      "titulo": "I'm a Believer",
+      "anio": 2001,
+      "pelicula": "Shrek",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0C9jZPUv4SuaXkuEQw6L40"
+      },
+      "spotify": "0C9jZPUv4SuaXkuEQw6L40",
+      "duracion_ms": 185306,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0C9jZPUv4SuaXkuEQw6L40",
+          "nombre": "I'm A Believer",
+          "artistas": "Smash Mouth",
+          "disco": "Smash Mouth",
+          "tipo": "album",
+          "fecha": "2001-01-01",
+          "isrc": "USDW10110177"
+        },
+        "musicbrainz": {
+          "fecha": "2001-05-14",
+          "grabacion": "b7f9aa63-4013-49df-8ecb-95349d354fde",
+          "via": "isrc"
+        },
+        "anio_mb": 2001
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-047",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Counting Crows",
+      "titulo": "Accidentally in Love",
+      "anio": 2004,
+      "pelicula": "Shrek 2",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "2Y6uY65ZwKl9WbVOvKyZg6",
+      "duracion_ms": 188640,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "2Y6uY65ZwKl9WbVOvKyZg6",
+          "nombre": "Accidentally In Love - From \"Shrek 2\" Soundtrack",
+          "artistas": "Counting Crows",
+          "disco": "Accidentally In Love (From Shrek 2 S/T)",
+          "tipo": "single",
+          "fecha": "2004-01-01",
+          "isrc": "USIR10400291"
+        },
+        "musicbrainz": {
+          "fecha": "2003-01-01",
+          "grabacion": "33532c1d-86a0-49a9-af13-05541e05b985",
+          "via": "isrc"
+        },
+        "anio_mb": 2003
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-048",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Rascal Flatts",
+      "titulo": "Life Is a Highway",
+      "anio": 2006,
+      "pelicula": "Cars",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "2Fs18NaCDuluPG1DHGw1XG",
+      "duracion_ms": 276320,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2Fs18NaCDuluPG1DHGw1XG",
+          "nombre": "Life is a Highway",
+          "artistas": "Rascal Flatts",
+          "disco": "Me And My Gang",
+          "tipo": "album",
+          "fecha": "2006-11-13",
+          "isrc": "USL2S0620350"
+        },
+        "musicbrainz": {
+          "fecha": "2006",
+          "grabacion": "b0a8713f-99c2-4f9a-99dd-7d8a9a3b56ed",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2006
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-049",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Sheryl Crow",
+      "titulo": "Real Gone",
+      "anio": 2006,
+      "pelicula": "Cars",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "45dGKmN6jw7PgK6Dw2rEp2",
+      "duracion_ms": 200733,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "45dGKmN6jw7PgK6Dw2rEp2",
+          "nombre": "Real Gone",
+          "artistas": "Sheryl Crow",
+          "disco": "Cars (Original Motion Picture Soundtrack)",
+          "tipo": "compilation",
+          "fecha": "2006-01-01",
+          "isrc": "USWD10628831"
+        },
+        "musicbrainz": {
+          "fecha": "2006-06-06",
+          "grabacion": "cc2f7214-5f27-456b-8b7d-4031b8a92d21",
+          "via": "isrc"
+        },
+        "anio_mb": 2006
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-050",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Troy, Gabriella",
+      "titulo": "Breaking Free",
+      "anio": 2006,
+      "pelicula": "High School Musical",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "5zQ1Wq6HNYjGZWkVv5P8Eg",
+      "duracion_ms": 207200,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "5zQ1Wq6HNYjGZWkVv5P8Eg",
+          "nombre": "Breaking Free",
+          "artistas": "Troy, Gabriella, Disney",
+          "disco": "High School Musical",
+          "tipo": "compilation",
+          "fecha": "2006-01-01",
+          "isrc": "USWD10527742"
+        },
+        "musicbrainz": {
+          "fecha": "2006-01-10",
+          "grabacion": "2994173a-96df-450e-8e0e-0b6eb62446e5",
+          "via": "isrc"
+        },
+        "anio_mb": 2006
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-051",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Hannah Montana",
+      "titulo": "The Best of Both Worlds",
+      "anio": 2006,
+      "pelicula": "Hannah Montana",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "6Z0F3Mqj7tq1CBZo5qMlUg",
+      "duracion_ms": 174120,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6Z0F3Mqj7tq1CBZo5qMlUg",
+          "nombre": "The Best of Both Worlds",
+          "artistas": "Hannah Montana",
+          "disco": "Hannah Montana",
+          "tipo": "album",
+          "fecha": "2006-01-01",
+          "isrc": "USWD10628673"
+        },
+        "musicbrainz": {
+          "fecha": "2006-01-11",
+          "grabacion": "2c9b33a7-ce9d-4187-bc84-405f06bf9bb7",
+          "via": "isrc"
+        },
+        "anio_mb": 2006
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-052",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Bowling for Soup",
+      "titulo": "Today Is Gonna Be a Great Day",
+      "anio": 2007,
+      "pelicula": "Phineas y Ferb",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "2monU2EJfR5m53ciaHNE6z",
+      "duracion_ms": 181026,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado, título con agregado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "2monU2EJfR5m53ciaHNE6z",
+          "nombre": "Today is Gonna be a Great Day - Theme Song to Phineas and Ferb",
+          "artistas": "Bowling For Soup",
+          "disco": "Phineas and Ferb",
+          "tipo": "compilation",
+          "fecha": "2009-01-01",
+          "isrc": "USWD10936377"
+        },
+        "musicbrainz": {
+          "fecha": "2008",
+          "grabacion": "accb014f-e77f-4115-99f0-9a543173e399",
+          "via": "isrc"
+        },
+        "anio_mb": 2008
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-053",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Gummibär",
+      "titulo": "I'm a Gummy Bear (The Gummy Bear Song)",
+      "anio": 2006,
+      "pelicula": "Osito Gominola",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "1JpN4DazIAv65GrwdKXKrJ",
+      "duracion_ms": 190200,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "1JpN4DazIAv65GrwdKXKrJ",
+          "nombre": "I'm A Gummy Bear (The Gummy Bear Song)",
+          "artistas": "Gummibär",
+          "disco": "I'm A Gummy Bear (The Gummy Bear Song)",
+          "tipo": "single",
+          "fecha": "2006-08-28",
+          "isrc": "USR3R1800167"
+        }
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-054",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "El Reino Infantil",
+      "titulo": "La vaca Lola",
+      "anio": 2011,
+      "pelicula": "La granja de Zenón",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "70NIwhQTnE2a4wuE0roHTM",
+      "duracion_ms": 127520,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "70NIwhQTnE2a4wuE0roHTM",
+          "nombre": "La Vaca Lola",
+          "artistas": "El Reino Infantil, La Granja de Zenón",
+          "disco": "La Granja de Zenón Vol. 2",
+          "tipo": "album",
+          "fecha": "2014-04-23",
+          "isrc": "ARF061400160"
+        },
+        "musicbrainz": {
+          "fecha": "2021-11-05",
+          "grabacion": "d3ac9e72-1306-45cd-80a1-c994a7f97183",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2021
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-055",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Martina Stoessel",
+      "titulo": "En mi mundo",
+      "anio": 2012,
+      "pelicula": "Violetta",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "3wfs0ssDxBBsUioKXQQTNc",
+      "duracion_ms": 212520,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "3wfs0ssDxBBsUioKXQQTNc",
+          "nombre": "En Mi Mundo - From \"Violetta\" Music from the TV Series",
+          "artistas": "Martina Stoessel",
+          "disco": "Violetta",
+          "tipo": "compilation",
+          "fecha": "2012-01-01",
+          "isrc": "USWD11262480"
+        },
+        "musicbrainz": {
+          "fecha": "2012-10-26",
+          "grabacion": "e554793a-1fcd-4951-b726-f1078b5a4f21",
+          "via": "isrc"
+        },
+        "anio_mb": 2012
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-056",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Idina Menzel",
+      "titulo": "Let It Go",
+      "anio": 2013,
+      "pelicula": "Frozen",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "0qcr5FMsEO85NAQjrlDRKo"
+      },
+      "spotify": "0qcr5FMsEO85NAQjrlDRKo",
+      "duracion_ms": 223840,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0qcr5FMsEO85NAQjrlDRKo",
+          "nombre": "Let It Go - From \"Frozen\"/Soundtrack Version",
+          "artistas": "Idina Menzel, Disney",
+          "disco": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+          "tipo": "compilation",
+          "fecha": "2013-01-01",
+          "isrc": "USWD11366376"
+        },
+        "musicbrainz": {
+          "fecha": "2013-11-25",
+          "grabacion": "4c1a9d5a-57c4-4cf0-a153-d7c53077263e",
+          "via": "isrc"
+        },
+        "anio_mb": 2013
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-057",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Kristen Bell",
+      "titulo": "Do You Want to Build a Snowman?",
+      "anio": 2013,
+      "pelicula": "Frozen",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "2yi7HZrBOC4bMUSTcs4VK6",
+      "duracion_ms": 206506,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más, compilado"
+        ],
+        "spotify": {
+          "id": "2yi7HZrBOC4bMUSTcs4VK6",
+          "nombre": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
+          "artistas": "Kristen Bell, Agatha Lee Monn, Katie Lopez, Disney",
+          "disco": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+          "tipo": "compilation",
+          "fecha": "2013-01-01",
+          "isrc": "USWD11366364"
+        },
+        "musicbrainz": {
+          "fecha": "2013-11-25",
+          "grabacion": "d6a95282-77f6-442a-9ca3-c3d0cd83376d",
+          "via": "isrc"
+        },
+        "anio_mb": 2013
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-058",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Pharrell Williams",
+      "titulo": "Happy",
+      "anio": 2013,
+      "pelicula": "Mi villano favorito 2",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "60nZcImufyMA1MKQY3dcCH"
+      },
+      "spotify": "60nZcImufyMA1MKQY3dcCH",
+      "duracion_ms": 233306,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "60nZcImufyMA1MKQY3dcCH",
+          "nombre": "Happy - From \"Despicable Me 2\"",
+          "artistas": "Pharrell Williams",
+          "disco": "G I R L",
+          "tipo": "album",
+          "fecha": "2014-03-03",
+          "isrc": "USQ4E1300686"
+        },
+        "musicbrainz": {
+          "fecha": "2013",
+          "grabacion": "a0569af8-dbdc-422d-86e5-c316f69d23e8",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2013
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-059",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Shakira",
+      "titulo": "Try Everything",
+      "anio": 2016,
+      "pelicula": "Zootopia",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "1N3dZ7TTWO6VcD4Y3hHYLZ",
+      "duracion_ms": 196853,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1N3dZ7TTWO6VcD4Y3hHYLZ",
+          "nombre": "Try Everything",
+          "artistas": "Shakira, Disney",
+          "disco": "Zootopia (Original Motion Picture Soundtrack)",
+          "tipo": "album",
+          "fecha": "2016-02-12",
+          "isrc": "USWD11575402"
+        },
+        "musicbrainz": {
+          "fecha": "2016-01-08",
+          "grabacion": "10dbdbe5-be32-43e6-bea8-b9a2f8b88915",
+          "via": "isrc"
+        },
+        "anio_mb": 2016
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-060",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Dwayne Johnson",
+      "titulo": "You're Welcome",
+      "anio": 2016,
+      "pelicula": "Moana",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "6H0JqH391qbGqe0zs3oZJW",
+      "duracion_ms": 167186,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "6H0JqH391qbGqe0zs3oZJW",
+          "nombre": "You're Welcome",
+          "artistas": "Dwayne Johnson, Disney",
+          "disco": "Moana (Original Motion Picture Soundtrack)",
+          "tipo": "album",
+          "fecha": "2026-06-26",
+          "isrc": "USWD12640832"
+        },
+        "musicbrainz": {
+          "fecha": "2016-11-18",
+          "grabacion": "29469a77-fba7-48ff-bb66-eee6d29c1ded",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2016
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-061",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Auli'i Cravalho",
+      "titulo": "How Far I'll Go",
+      "anio": 2016,
+      "pelicula": "Moana",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "6mb6lVLNrcUgLnEN8QnDJd"
+      },
+      "spotify": "6mb6lVLNrcUgLnEN8QnDJd",
+      "duracion_ms": 163386,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6mb6lVLNrcUgLnEN8QnDJd",
+          "nombre": "How Far I'll Go",
+          "artistas": "Auli'i Cravalho, Disney",
+          "disco": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+          "tipo": "compilation",
+          "fecha": "2016-11-18",
+          "isrc": "USWD11677855"
+        },
+        "musicbrainz": {
+          "fecha": "2016-11-18",
+          "grabacion": "f8877d54-6670-4b43-9d49-a584f7dea5a2",
+          "via": "isrc"
+        },
+        "anio_mb": 2016
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-062",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Justin Timberlake",
+      "titulo": "Can't Stop the Feeling!",
+      "anio": 2016,
+      "pelicula": "Trolls",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "6JV2JOEocMgcZxYSZelKcc"
+      },
+      "spotify": "6JV2JOEocMgcZxYSZelKcc",
+      "duracion_ms": 236001,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6JV2JOEocMgcZxYSZelKcc",
+          "nombre": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+          "artistas": "Justin Timberlake",
+          "disco": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+          "tipo": "single",
+          "fecha": "2016-05-06",
+          "isrc": "USRC11600876"
+        },
+        "musicbrainz": {
+          "fecha": "2016-05-06",
+          "grabacion": "2bb74cf7-acd5-4f7b-9be1-1c9eceb96a3d",
+          "via": "isrc"
+        },
+        "anio_mb": 2016
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-063",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Pinkfong",
+      "titulo": "Baby Shark",
+      "anio": 2016,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "5ygDXis42ncn6kYG14lEVG",
+      "duracion_ms": 80927,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "5ygDXis42ncn6kYG14lEVG",
+          "nombre": "Baby Shark",
+          "artistas": "Pinkfong",
+          "disco": "Pinkfong Animal Songs",
+          "tipo": "album",
+          "fecha": "2017-07-27",
+          "isrc": "KRE671700001"
+        },
+        "musicbrainz": {
+          "fecha": "2017-07-27",
+          "grabacion": "4d19d9d5-9174-4037-9dec-21b6c2cbcbb9",
+          "via": "isrc"
+        },
+        "anio_mb": 2017
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-064",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Elenco de Soy Luna",
+      "titulo": "Alas",
+      "anio": 2016,
+      "pelicula": "Soy Luna",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "4wWo2EHTXBQJG2PvTHyrRd",
+      "duracion_ms": 198760,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4wWo2EHTXBQJG2PvTHyrRd",
+          "nombre": "Alas",
+          "artistas": "Elenco de Soy Luna",
+          "disco": "Soy Luna",
+          "tipo": "album",
+          "fecha": "2016-02-26",
+          "isrc": "USWD11575316"
+        },
+        "musicbrainz": {
+          "fecha": "2016-01-15",
+          "grabacion": "65332936-48eb-4fe6-92fe-dde43a19d17f",
+          "via": "isrc"
+        },
+        "anio_mb": 2016
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-065",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Carlos Rivera",
+      "titulo": "Recuérdame",
+      "anio": 2017,
+      "pelicula": "Coco",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "7iSVfyBiVaeD7I7J97AcTA"
+      },
+      "spotify": "7iSVfyBiVaeD7I7J97AcTA",
+      "duracion_ms": 163328,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "7iSVfyBiVaeD7I7J97AcTA",
+          "nombre": "Recuérdame",
+          "artistas": "Carlos Rivera",
+          "disco": "Coco (Banda Sonora Original en Español)",
+          "tipo": "compilation",
+          "fecha": "2017-10-27",
+          "isrc": "USWD11781632"
+        },
+        "musicbrainz": {
+          "fecha": "2017-10-27",
+          "grabacion": "28ff6524-b1f9-4e61-a2c8-f5f4fc1e1a4a",
+          "via": "isrc"
+        },
+        "anio_mb": 2017
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-066",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Idina Menzel",
+      "titulo": "Into the Unknown",
+      "anio": 2019,
+      "pelicula": "Frozen 2",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "3Z0oQ8r78OUaHvGPiDBR3W",
+      "duracion_ms": 194848,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más, compilado"
+        ],
+        "spotify": {
+          "id": "3Z0oQ8r78OUaHvGPiDBR3W",
+          "nombre": "Into the Unknown",
+          "artistas": "Idina Menzel, AURORA, Disney",
+          "disco": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+          "tipo": "compilation",
+          "fecha": "2019-11-15",
+          "isrc": "USWD11994667"
+        },
+        "musicbrainz": {
+          "fecha": "2019-09-30",
+          "grabacion": "04a5ce60-2d8e-43da-97a8-9861484123a6",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2019
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-067",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Carolina Gaitán",
+      "titulo": "We Don't Talk About Bruno",
+      "anio": 2021,
+      "pelicula": "Encanto",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "52xJxFP6TqMuO4Yt0eOkMz"
+      },
+      "spotify": "52xJxFP6TqMuO4Yt0eOkMz",
+      "duracion_ms": 216120,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "52xJxFP6TqMuO4Yt0eOkMz",
+          "nombre": "We Don't Talk About Bruno",
+          "artistas": "Carolina Gaitán - La Gaita, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz, Encanto - Cast",
+          "disco": "Encanto (Original Motion Picture Soundtrack)",
+          "tipo": "album",
+          "fecha": "2021-11-19",
+          "isrc": "USWD12112915"
+        },
+        "musicbrainz": {
+          "fecha": "2021-11-19",
+          "grabacion": "5b16f667-1eec-4a29-be37-9b0961fc0f91",
+          "via": "isrc"
+        },
+        "anio_mb": 2021
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-068",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Jessica Darrow",
+      "titulo": "Surface Pressure",
+      "anio": 2021,
+      "pelicula": "Encanto",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "760jhRscwGbIIe1m1IIQpU",
+      "duracion_ms": 202226,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "760jhRscwGbIIe1m1IIQpU",
+          "nombre": "Surface Pressure",
+          "artistas": "Jessica Darrow",
+          "disco": "Encanto (Original Motion Picture Soundtrack)",
+          "tipo": "album",
+          "fecha": "2021-11-19",
+          "isrc": "USWD12112914"
+        },
+        "musicbrainz": {
+          "fecha": "2021-11-19",
+          "grabacion": "b20dc64a-5da2-4a5c-936b-8e14188b8554",
+          "via": "isrc"
+        },
+        "anio_mb": 2021
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-069",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "María Elena Walsh",
+      "titulo": "Manuelita",
+      "anio": 1964,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "7JdnkfmvN18HCKt0erf4ji"
+      },
+      "spotify": "7JdnkfmvN18HCKt0erf4ji",
+      "duracion_ms": 180720,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "7JdnkfmvN18HCKt0erf4ji",
+          "nombre": "Manuelita La Tortuga",
+          "artistas": "María Elena Walsh",
+          "disco": "Canciones Para Mí",
+          "tipo": "album",
+          "fecha": "1964-10-31",
+          "isrc": "ARF109902609"
+        }
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-070",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "María Elena Walsh",
+      "titulo": "El reino del revés",
+      "anio": 1964,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": null
+      },
+      "spotify": "2T6ZYOrJVvscFv7AMBH3mW",
+      "duracion_ms": 155520,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "2T6ZYOrJVvscFv7AMBH3mW",
+          "nombre": "El Reino Del Revés",
+          "artistas": "María Elena Walsh",
+          "disco": "Canciones Para Mirar",
+          "tipo": "album",
+          "fecha": "1964-10-31",
+          "isrc": "ARF109900578"
+        },
+        "musicbrainz": {
+          "fecha": "1960",
+          "grabacion": "9f2271c9-6c65-4451-b26e-da157093e1db",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1960
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-071",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "María Elena Walsh",
+      "titulo": "La reina Batata",
+      "anio": 1966,
+      "pelicula": null,
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": "15S0w5lmBhVQGrQGjKxNYh",
+      "duracion_ms": 150106,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "15S0w5lmBhVQGrQGjKxNYh",
+          "nombre": "La Reina Batata",
+          "artistas": "María Elena Walsh",
+          "disco": "El País De Nomeacuerdo",
+          "tipo": "album",
+          "fecha": "1966-10-31",
+          "isrc": "ARF109900577"
+        },
+        "musicbrainz": {
+          "fecha": "1966-01-01",
+          "grabacion": "3b987a01-4a0e-4f5f-834a-5abfe8d35b3c",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1966
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-072",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Pipo Pescador",
+      "titulo": "El auto de papá",
+      "anio": 1968,
+      "pelicula": null,
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "no_musicbrainz"
+        ]
+      }
+    },
+    {
+      "id": "dibujitos-e-infantiles-073",
+      "mazo": "dibujitos-e-infantiles",
+      "artista": "Cantando con Adriana",
+      "titulo": "El monstruo de la laguna",
+      "anio": 1993,
+      "pelicula": null,
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "no_musicbrainz"
+        ]
       }
     },
     {
@@ -51409,6 +54190,2510 @@
           "via": "isrc"
         },
         "anio_mb": 2014
+      }
+    },
+    {
+      "id": "series-y-tv-001",
+      "mazo": "series-y-tv",
+      "artista": "Frank Sinatra",
+      "titulo": "Love and Marriage",
+      "anio": 1955,
+      "pelicula": "Casados con hijos",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "4lZo31VihgAR8sO2H2yOR7"
+      },
+      "spotify": "4lZo31VihgAR8sO2H2yOR7",
+      "duracion_ms": 89466,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "4lZo31VihgAR8sO2H2yOR7",
+          "nombre": "Love And Marriage",
+          "artistas": "Frank Sinatra",
+          "disco": "A Man And His Music",
+          "tipo": "album",
+          "fecha": "1965-12",
+          "isrc": "USRH10800913"
+        },
+        "musicbrainz": {
+          "fecha": "1955",
+          "grabacion": "7a9fd8c7-bf3b-4716-b5ea-578dce85ed0b",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1955
+      }
+    },
+    {
+      "id": "series-y-tv-002",
+      "mazo": "series-y-tv",
+      "artista": "Marius Constant",
+      "titulo": "The Twilight Zone",
+      "anio": 1959,
+      "pelicula": "La dimensión desconocida",
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": null
+      },
+      "spotify": null,
+      "duracion_ms": null,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "no_spotify",
+          "anio_distinto"
+        ],
+        "musicbrainz": {
+          "fecha": "1984",
+          "grabacion": "6540a577-c3be-4631-afcc-dd5d8f93b4fe",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1984
+      }
+    },
+    {
+      "id": "series-y-tv-003",
+      "mazo": "series-y-tv",
+      "artista": "Malvina Reynolds",
+      "titulo": "Little Boxes",
+      "anio": 1962,
+      "pelicula": "Weeds",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "0cXOyIxBEJBPvspi3XLoW3"
+      },
+      "spotify": "0cXOyIxBEJBPvspi3XLoW3",
+      "duracion_ms": 98594,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0cXOyIxBEJBPvspi3XLoW3",
+          "nombre": "Little Boxes",
+          "artistas": "Malvina Reynolds",
+          "disco": "Sings the Truth",
+          "tipo": "album",
+          "fecha": "1967-02-13",
+          "isrc": "USSM11709185"
+        },
+        "musicbrainz": {
+          "fecha": "1967-02-03",
+          "grabacion": "a60cbbe3-c737-4cb6-af76-b656341ae57b",
+          "via": "isrc"
+        },
+        "anio_mb": 1967
+      }
+    },
+    {
+      "id": "series-y-tv-004",
+      "mazo": "series-y-tv",
+      "artista": "Neal Hefti",
+      "titulo": "Batman Theme",
+      "anio": 1966,
+      "pelicula": "Batman",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "4lwV7SpU0JSM1OIm0aIkNP"
+      },
+      "spotify": "4lwV7SpU0JSM1OIm0aIkNP",
+      "duracion_ms": 138666,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "4lwV7SpU0JSM1OIm0aIkNP",
+          "nombre": "Batman Theme - from \"Batman\" A Greenway Production in association with Twentieth Century-Fox Television",
+          "artistas": "Neal Hefti & his Orchestra and Chorus",
+          "disco": "Batman Theme & Other Bat Songs (Expanded Edition)",
+          "tipo": "compilation",
+          "fecha": "1997-12-11",
+          "isrc": "USRC16604891"
+        },
+        "musicbrainz": {
+          "fecha": "1965",
+          "grabacion": "e7a387dc-eae3-499f-a6b1-5a589673be44",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1965
+      }
+    },
+    {
+      "id": "series-y-tv-005",
+      "mazo": "series-y-tv",
+      "artista": "Alexander Courage",
+      "titulo": "Star Trek Theme",
+      "anio": 1966,
+      "pelicula": "Viaje a las estrellas",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "2gWRVVlT7O3LjER4sw0KcL"
+      },
+      "spotify": "2gWRVVlT7O3LjER4sw0KcL",
+      "duracion_ms": 54466,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: título con agregado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "2gWRVVlT7O3LjER4sw0KcL",
+          "nombre": "Star Trek Theme (Main Title)",
+          "artistas": "Alexander Courage",
+          "disco": "Star Trek: Volume 1 - The Cage and Where No Man Has Gone Before",
+          "tipo": "album",
+          "fecha": "1985",
+          "isrc": "US29S0401594"
+        },
+        "musicbrainz": {
+          "fecha": "1991",
+          "grabacion": "741467e2-c7f4-47e8-a582-03360b099490",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1991
+      }
+    },
+    {
+      "id": "series-y-tv-006",
+      "mazo": "series-y-tv",
+      "artista": "Lalo Schifrin",
+      "titulo": "Mission: Impossible Theme",
+      "anio": 1967,
+      "pelicula": "Misión imposible",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0VlxbRzdOyA56BviBK9vkc"
+      },
+      "spotify": "0VlxbRzdOyA56BviBK9vkc",
+      "duracion_ms": 152760,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0VlxbRzdOyA56BviBK9vkc",
+          "nombre": "Mission: Impossible",
+          "artistas": "Lalo Schifrin",
+          "disco": "Music From Mission: Impossible (Original Television Soundtrack)",
+          "tipo": "album",
+          "fecha": "1967-01-01",
+          "isrc": "USMC16846967"
+        },
+        "musicbrainz": {
+          "fecha": "1967",
+          "grabacion": "ce9762c6-9497-4996-9d23-2cad321a7174",
+          "via": "isrc"
+        },
+        "anio_mb": 1967
+      }
+    },
+    {
+      "id": "series-y-tv-007",
+      "mazo": "series-y-tv",
+      "artista": "Joe Cocker",
+      "titulo": "With a Little Help from My Friends",
+      "anio": 1968,
+      "pelicula": "Los años maravillosos",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "0YZ3J8xzGwLOg4yEgST1YK"
+      },
+      "spotify": "0YZ3J8xzGwLOg4yEgST1YK",
+      "duracion_ms": 312173,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0YZ3J8xzGwLOg4yEgST1YK",
+          "nombre": "With A Little Help From My Friends",
+          "artistas": "Joe Cocker",
+          "disco": "With A Little Help From My Friends",
+          "tipo": "album",
+          "fecha": "1969-05-01",
+          "isrc": "USAM16800382"
+        },
+        "musicbrainz": {
+          "fecha": "1969-04-01",
+          "grabacion": "96a5f2b7-4dd2-4f6e-98d8-a0697865d08e",
+          "via": "isrc"
+        },
+        "anio_mb": 1969
+      }
+    },
+    {
+      "id": "series-y-tv-008",
+      "mazo": "series-y-tv",
+      "artista": "The Ventures",
+      "titulo": "Hawaii Five-O",
+      "anio": 1969,
+      "pelicula": "Hawaii 5-0",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "3UUwbJd2j4RORlalTUhaDk"
+      },
+      "spotify": "3UUwbJd2j4RORlalTUhaDk",
+      "duracion_ms": 113893,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "3UUwbJd2j4RORlalTUhaDk",
+          "nombre": "Hawaii Five-O",
+          "artistas": "The Ventures",
+          "disco": "Hawaii Five-O",
+          "tipo": "album",
+          "fecha": "1969",
+          "isrc": "USEM38700090"
+        },
+        "musicbrainz": {
+          "fecha": "1968",
+          "grabacion": "46505379-6003-4533-940c-5875bad299ed",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1968
+      }
+    },
+    {
+      "id": "series-y-tv-009",
+      "mazo": "series-y-tv",
+      "artista": "The Who",
+      "titulo": "Won't Get Fooled Again",
+      "anio": 1971,
+      "pelicula": "CSI: Miami",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0M5VXinuVGeuyMT0AyooZK"
+      },
+      "spotify": "0M5VXinuVGeuyMT0AyooZK",
+      "duracion_ms": 514373,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "0M5VXinuVGeuyMT0AyooZK",
+          "nombre": "Won't Get Fooled Again - Remastered 2022",
+          "artistas": "The Who",
+          "disco": "Who's Next (Remastered 2022)",
+          "tipo": "album",
+          "fecha": "1971-08-14",
+          "isrc": "GBUM72203488"
+        },
+        "musicbrainz": {
+          "fecha": "1971-06-25",
+          "grabacion": "8b8ba889-dcdd-4c5f-b091-e0de1713ecd0",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1971
+      }
+    },
+    {
+      "id": "series-y-tv-010",
+      "mazo": "series-y-tv",
+      "artista": "Badfinger",
+      "titulo": "Baby Blue",
+      "anio": 1972,
+      "pelicula": "Breaking Bad",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "6S3JlDAGk3uu3NtZbPnuhS"
+      },
+      "spotify": "6S3JlDAGk3uu3NtZbPnuhS",
+      "duracion_ms": 217346,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "6S3JlDAGk3uu3NtZbPnuhS",
+          "nombre": "Baby Blue - Remastered 2010",
+          "artistas": "Badfinger",
+          "disco": "Straight Up (Remastered 2010 / Deluxe Edition)",
+          "tipo": "album",
+          "fecha": "1971-12-13",
+          "isrc": "GBDCE1000031"
+        },
+        "musicbrainz": {
+          "fecha": "1971-12-13",
+          "grabacion": "9d1f3e52-1b17-4fc9-b01f-ad675694a879",
+          "via": "isrc"
+        },
+        "anio_mb": 1971
+      }
+    },
+    {
+      "id": "series-y-tv-011",
+      "mazo": "series-y-tv",
+      "artista": "Pratt & McClain",
+      "titulo": "Happy Days",
+      "anio": 1976,
+      "pelicula": "Días felices",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "1CCuMgDauGruOwxrSh9NSW"
+      },
+      "spotify": "1CCuMgDauGruOwxrSh9NSW",
+      "duracion_ms": 156493,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: título con agregado"
+        ],
+        "spotify": {
+          "id": "1CCuMgDauGruOwxrSh9NSW",
+          "nombre": "Happy Days (Theme from ''Happy Days'')",
+          "artistas": "Pratt & McClain",
+          "disco": "Pratt & McClain featuring \"Happy Days\"",
+          "tipo": "album",
+          "fecha": "1976",
+          "isrc": "USRE10001246"
+        },
+        "musicbrainz": {
+          "fecha": "1976",
+          "grabacion": "aa122946-3893-4121-b314-21118ff7e275",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1976
+      }
+    },
+    {
+      "id": "series-y-tv-012",
+      "mazo": "series-y-tv",
+      "artista": "The Who",
+      "titulo": "Who Are You",
+      "anio": 1978,
+      "pelicula": "CSI",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "23IJ5wLRhEZ9DOuia5mPiZ"
+      },
+      "spotify": "23IJ5wLRhEZ9DOuia5mPiZ",
+      "duracion_ms": 381626,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "23IJ5wLRhEZ9DOuia5mPiZ",
+          "nombre": "Who Are You",
+          "artistas": "The Who",
+          "disco": "Who Are You",
+          "tipo": "album",
+          "fecha": "1978-08-18",
+          "isrc": "GBAKW7801011"
+        },
+        "musicbrainz": {
+          "fecha": "1977",
+          "grabacion": "85d7f559-7dcb-4d45-b02b-7290b01a3535",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1977
+      }
+    },
+    {
+      "id": "series-y-tv-013",
+      "mazo": "series-y-tv",
+      "artista": "Joey Scarbury",
+      "titulo": "Believe It or Not",
+      "anio": 1981,
+      "pelicula": "El gran héroe americano",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "6gF0Jyt5b3HvU4c5vV1qln"
+      },
+      "spotify": "6gF0Jyt5b3HvU4c5vV1qln",
+      "duracion_ms": 195293,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "6gF0Jyt5b3HvU4c5vV1qln",
+          "nombre": "Believe It or Not (From \"Greatest American Hero\")",
+          "artistas": "Joey Scarbury",
+          "disco": "Soft Pop",
+          "tipo": "compilation",
+          "fecha": "2018-11-16",
+          "isrc": "USEE10251052"
+        },
+        "musicbrainz": {
+          "fecha": "2024-06-07",
+          "grabacion": "45c74448-de12-4d96-bacb-c3ca13729487",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2024
+      }
+    },
+    {
+      "id": "series-y-tv-014",
+      "mazo": "series-y-tv",
+      "artista": "Stu Phillips",
+      "titulo": "Knight Rider Theme",
+      "anio": 1982,
+      "pelicula": "El auto fantástico",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "2R2gMe3zb9BgCdT2PZh1s3"
+      },
+      "spotify": "2R2gMe3zb9BgCdT2PZh1s3",
+      "duracion_ms": 80266,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "2R2gMe3zb9BgCdT2PZh1s3",
+          "nombre": "Main Title (from the Television Series \"Knight Rider\")",
+          "artistas": "Stu Phillips",
+          "disco": "Knight Rider (Original Television Soundtrack)",
+          "tipo": "album",
+          "fecha": "2020-10-09",
+          "isrc": "USQ4E1904295"
+        },
+        "musicbrainz": {
+          "fecha": "2005-06-03",
+          "grabacion": "61a299b9-ba72-4a1e-bea8-32f6f6a5a93f",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2005
+      }
+    },
+    {
+      "id": "series-y-tv-015",
+      "mazo": "series-y-tv",
+      "artista": "Mike Post",
+      "titulo": "The A-Team",
+      "anio": 1983,
+      "pelicula": "Brigada A",
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0mdtYfR8hE1Eb6hwLMJWRX"
+      },
+      "spotify": "0mdtYfR8hE1Eb6hwLMJWRX",
+      "duracion_ms": 188554,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: otro artista primero, artistas de más, título con agregado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0mdtYfR8hE1Eb6hwLMJWRX",
+          "nombre": "The A-Team - Theme from the TV Series",
+          "artistas": "Dominik Hauser, Mike Post, Roy Wiegand",
+          "disco": "The \"A\" Team - Theme from the Television Series (Mike Post)",
+          "tipo": "single",
+          "fecha": "2012-04-03",
+          "isrc": "QMT281200707"
+        },
+        "musicbrainz": {
+          "fecha": "1984",
+          "grabacion": "9ad658bc-b8dc-4b73-9344-d969193233f3",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1984
+      }
+    },
+    {
+      "id": "series-y-tv-016",
+      "mazo": "series-y-tv",
+      "artista": "Glenn Frey",
+      "titulo": "You Belong to the City",
+      "anio": 1985,
+      "pelicula": "Miami Vice",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "7kJpjZREKndVut0CYrDU3P"
+      },
+      "spotify": "7kJpjZREKndVut0CYrDU3P",
+      "duracion_ms": 351160,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "7kJpjZREKndVut0CYrDU3P",
+          "nombre": "You Belong To The City",
+          "artistas": "Glenn Frey",
+          "disco": "Music From The TV Series Miami Vice",
+          "tipo": "compilation",
+          "fecha": "1985-01-01",
+          "isrc": "USMC18318513"
+        },
+        "musicbrainz": {
+          "fecha": "1985-10",
+          "grabacion": "7f99a730-980f-401e-9f46-684d813209ca",
+          "via": "isrc"
+        },
+        "anio_mb": 1985
+      }
+    },
+    {
+      "id": "series-y-tv-017",
+      "mazo": "series-y-tv",
+      "artista": "Jan Hammer",
+      "titulo": "Crockett's Theme",
+      "anio": 1986,
+      "pelicula": "Miami Vice",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3TnJ7M6in8Pb5EyGBUK02Y"
+      },
+      "spotify": "3TnJ7M6in8Pb5EyGBUK02Y",
+      "duracion_ms": 211800,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3TnJ7M6in8Pb5EyGBUK02Y",
+          "nombre": "Crockett's Theme",
+          "artistas": "Jan Hammer",
+          "disco": "Escape From Television",
+          "tipo": "album",
+          "fecha": "1987-01-01",
+          "isrc": "USMC18622096"
+        },
+        "musicbrainz": {
+          "fecha": "1986-12-29",
+          "grabacion": "306fc551-0eee-480e-92fd-1ac3b9319661",
+          "via": "isrc"
+        },
+        "anio_mb": 1986
+      }
+    },
+    {
+      "id": "series-y-tv-018",
+      "mazo": "series-y-tv",
+      "artista": "Al Jarreau",
+      "titulo": "Moonlighting",
+      "anio": 1985,
+      "pelicula": "Luz de luna",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "6Rx1YIKO5T2g5hXu9dPHUW"
+      },
+      "spotify": "6Rx1YIKO5T2g5hXu9dPHUW",
+      "duracion_ms": 183973,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "6Rx1YIKO5T2g5hXu9dPHUW",
+          "nombre": "Moonlighting",
+          "artistas": "Al Jarreau",
+          "disco": "We're In This Love Together",
+          "tipo": "album",
+          "fecha": "2018-04-20",
+          "isrc": "USRH10903649"
+        },
+        "musicbrainz": {
+          "fecha": "1987",
+          "grabacion": "9608e57f-217a-43c5-a9c4-08bbaf005ce2",
+          "via": "isrc"
+        },
+        "anio_mb": 1987
+      }
+    },
+    {
+      "id": "series-y-tv-019",
+      "mazo": "series-y-tv",
+      "artista": "Kate Bush",
+      "titulo": "Running Up That Hill (A Deal with God)",
+      "anio": 1985,
+      "pelicula": "Stranger Things",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1PtQJZVZIdWIYdARpZRDFO"
+      },
+      "spotify": "1PtQJZVZIdWIYdARpZRDFO",
+      "duracion_ms": 298933,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1PtQJZVZIdWIYdARpZRDFO",
+          "nombre": "Running Up That Hill (A Deal With God)",
+          "artistas": "Kate Bush",
+          "disco": "Hounds Of Love",
+          "tipo": "album",
+          "fecha": "1985-09-16",
+          "isrc": "GBCNR8500002"
+        },
+        "musicbrainz": {
+          "fecha": "1985-07-30",
+          "grabacion": "6029d549-5858-4936-9156-b90770d2ae92",
+          "via": "isrc"
+        },
+        "anio_mb": 1985
+      }
+    },
+    {
+      "id": "series-y-tv-020",
+      "mazo": "series-y-tv",
+      "artista": "Metallica",
+      "titulo": "Master of Puppets",
+      "anio": 1986,
+      "pelicula": "Stranger Things",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2MuWTIM3b0YEAskbeeFE1i"
+      },
+      "spotify": "2MuWTIM3b0YEAskbeeFE1i",
+      "duracion_ms": 515386,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "solo_remaster"
+        ],
+        "spotify": {
+          "id": "2MuWTIM3b0YEAskbeeFE1i",
+          "nombre": "Master Of Puppets",
+          "artistas": "Metallica",
+          "disco": "Master Of Puppets (Remastered)",
+          "tipo": "album",
+          "fecha": "1986-03-03",
+          "isrc": "QMKHM1600219"
+        },
+        "musicbrainz": {
+          "fecha": "1986-03-03",
+          "grabacion": "0151d8a4-50c8-4036-b824-4a4f4b140e8e",
+          "via": "isrc"
+        },
+        "anio_mb": 1986
+      }
+    },
+    {
+      "id": "series-y-tv-021",
+      "mazo": "series-y-tv",
+      "artista": "Danny Elfman",
+      "titulo": "The Simpsons Theme",
+      "anio": 1989,
+      "pelicula": "Los Simpson",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "7CD8O3gZ5NB7jkfO5cv0WD"
+      },
+      "spotify": "7CD8O3gZ5NB7jkfO5cv0WD",
+      "duracion_ms": 83226,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "7CD8O3gZ5NB7jkfO5cv0WD",
+          "nombre": "\"The Simpsons\" Main Title Theme",
+          "artistas": "The Simpsons",
+          "disco": "Testify (A Whole Lot More Original Music from the Television Series)",
+          "tipo": "album",
+          "fecha": "2007",
+          "isrc": "USSE90729473"
+        },
+        "musicbrainz": {
+          "fecha": "1990-10-15",
+          "grabacion": "15e739cf-9a82-465e-a033-0e8fd26e847b",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1990
+      }
+    },
+    {
+      "id": "series-y-tv-022",
+      "mazo": "series-y-tv",
+      "artista": "Will Smith",
+      "titulo": "The Fresh Prince of Bel-Air",
+      "anio": 1990,
+      "pelicula": "El príncipe del rap",
+      "fuera": true,
+      "opciones": {
+        "fuera": true,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "3O3aPUd6Z4eU1e1gT7O0Wc"
+      },
+      "spotify": "3O3aPUd6Z4eU1e1gT7O0Wc",
+      "duracion_ms": 128050,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "version_dudosa: vivo/versión, compilado",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "3O3aPUd6Z4eU1e1gT7O0Wc",
+          "nombre": "The Fresh Prince of Bel Air - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",
+          "artistas": "Will Smith",
+          "disco": "Live 8 (Live, July 2005)",
+          "tipo": "compilation",
+          "fecha": "2019-05-28",
+          "isrc": "UK6821903046"
+        },
+        "musicbrainz": {
+          "fecha": "1999",
+          "grabacion": "9992aa47-e239-42d8-b0d9-efa7fa131bf3",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1999
+      }
+    },
+    {
+      "id": "series-y-tv-023",
+      "mazo": "series-y-tv",
+      "artista": "Angelo Badalamenti",
+      "titulo": "Twin Peaks Theme",
+      "anio": 1990,
+      "pelicula": "Twin Peaks",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "5xdtUZKYnE4l7KSzgQ6MBD"
+      },
+      "spotify": "5xdtUZKYnE4l7KSzgQ6MBD",
+      "duracion_ms": 304720,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "5xdtUZKYnE4l7KSzgQ6MBD",
+          "nombre": "Twin Peaks Theme",
+          "artistas": "Angelo Badalamenti",
+          "disco": "Twin Peaks (Limited Event Series Soundtrack)",
+          "tipo": "compilation",
+          "fecha": "2017-09-08",
+          "isrc": "USRH11701394"
+        },
+        "musicbrainz": {
+          "fecha": "1990-08-31",
+          "grabacion": "e2607e63-3647-4a0f-918e-e7a9b9364177",
+          "via": "isrc"
+        },
+        "anio_mb": 1990
+      }
+    },
+    {
+      "id": "series-y-tv-024",
+      "mazo": "series-y-tv",
+      "artista": "Jimi Jamison",
+      "titulo": "I'm Always Here",
+      "anio": 1991,
+      "pelicula": "Guardianes de la bahía",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "6C4MEmdAhoMPOMRcuIJ4KK"
+      },
+      "spotify": "6C4MEmdAhoMPOMRcuIJ4KK",
+      "duracion_ms": 243461,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "6C4MEmdAhoMPOMRcuIJ4KK",
+          "nombre": "I'm Always Here",
+          "artistas": "Jimi Jamison",
+          "disco": "Empires",
+          "tipo": "album",
+          "fecha": "1999",
+          "isrc": "USJ3V1161783"
+        },
+        "musicbrainz": {
+          "fecha": "1993-09-28",
+          "grabacion": "661d2647-58e6-4f34-9538-be5c5d3b6370",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1993
+      }
+    },
+    {
+      "id": "series-y-tv-025",
+      "mazo": "series-y-tv",
+      "artista": "Mark Snow",
+      "titulo": "The X-Files",
+      "anio": 1993,
+      "pelicula": "Los expedientes secretos X",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "4th0mPYPuZUs564oCu5I1U"
+      },
+      "spotify": "4th0mPYPuZUs564oCu5I1U",
+      "duracion_ms": 202066,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "4th0mPYPuZUs564oCu5I1U",
+          "nombre": "Materia Primoris: The X-Files Theme (Main Title)",
+          "artistas": "Mark Snow",
+          "disco": "The Truth And The Light: Music From The X-Files",
+          "tipo": "album",
+          "fecha": "1996",
+          "isrc": "USWB19600524"
+        },
+        "musicbrainz": {
+          "fecha": "1995",
+          "grabacion": "f201aa2f-f665-46b5-9ab2-6c865b8ebc38",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1995
+      }
+    },
+    {
+      "id": "series-y-tv-026",
+      "mazo": "series-y-tv",
+      "artista": "Nick Cave & The Bad Seeds",
+      "titulo": "Red Right Hand",
+      "anio": 1994,
+      "pelicula": "Peaky Blinders",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2m00UKm7wLk8SxHQTyBRFj"
+      },
+      "spotify": "2m00UKm7wLk8SxHQTyBRFj",
+      "duracion_ms": 372573,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "2m00UKm7wLk8SxHQTyBRFj",
+          "nombre": "Red Right Hand",
+          "artistas": "Nick Cave & The Bad Seeds",
+          "disco": "Red Right Hand (Theme from 'Peaky Blinders')",
+          "tipo": "single",
+          "fecha": "1994-10-24",
+          "isrc": "GBAJH1000621"
+        },
+        "musicbrainz": {
+          "fecha": "1994-04-15",
+          "grabacion": "2908df78-61f3-4389-b57e-784df5e5ce62",
+          "via": "isrc"
+        },
+        "anio_mb": 1994
+      }
+    },
+    {
+      "id": "series-y-tv-027",
+      "mazo": "series-y-tv",
+      "artista": "The Rembrandts",
+      "titulo": "I'll Be There for You",
+      "anio": 1995,
+      "pelicula": "Friends",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "4rHyHUicWjhlJDbPP7kMEg"
+      },
+      "spotify": "4rHyHUicWjhlJDbPP7kMEg",
+      "duracion_ms": 198294,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "4rHyHUicWjhlJDbPP7kMEg",
+          "nombre": "I'll Be There for You (From \"Friends\")",
+          "artistas": "The Rembrandts",
+          "disco": "Friends - I'll Be There For You",
+          "tipo": "single",
+          "fecha": "2011-09-19",
+          "isrc": "GBAJC0700120"
+        },
+        "musicbrainz": {
+          "fecha": "1995",
+          "grabacion": "3cffe82c-3d47-49f3-9073-530316b7c150",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1995
+      }
+    },
+    {
+      "id": "series-y-tv-028",
+      "mazo": "series-y-tv",
+      "artista": "Alabama 3",
+      "titulo": "Woke Up This Morning",
+      "anio": 1997,
+      "pelicula": "Los Soprano",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "21uRAQSdGG4nyNbTvwXYH9"
+      },
+      "spotify": "21uRAQSdGG4nyNbTvwXYH9",
+      "duracion_ms": 316600,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "21uRAQSdGG4nyNbTvwXYH9",
+          "nombre": "Woke Up This Morning",
+          "artistas": "Alabama 3",
+          "disco": "Exile On Coldharbour Lane",
+          "tipo": "album",
+          "fecha": "1997-11-11",
+          "isrc": "GBCDP9800021"
+        },
+        "musicbrainz": {
+          "fecha": "1997",
+          "grabacion": "e4d2397a-4cc1-43c8-aa8e-72491f74cd25",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1997
+      }
+    },
+    {
+      "id": "series-y-tv-029",
+      "mazo": "series-y-tv",
+      "artista": "Paula Cole",
+      "titulo": "I Don't Want to Wait",
+      "anio": 1997,
+      "pelicula": "Dawson's Creek",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "5MDQNJ7SZTytJwCbWKqJDL"
+      },
+      "spotify": "5MDQNJ7SZTytJwCbWKqJDL",
+      "duracion_ms": 320026,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "5MDQNJ7SZTytJwCbWKqJDL",
+          "nombre": "I Don't Want to Wait",
+          "artistas": "Paula Cole",
+          "disco": "This Fire",
+          "tipo": "album",
+          "fecha": "1996",
+          "isrc": "USWB19600586"
+        },
+        "musicbrainz": {
+          "fecha": "1996-10-15",
+          "grabacion": "5a637c1f-5749-472d-8775-1ab212d16cb9",
+          "via": "isrc"
+        },
+        "anio_mb": 1996
+      }
+    },
+    {
+      "id": "series-y-tv-030",
+      "mazo": "series-y-tv",
+      "artista": "Massive Attack",
+      "titulo": "Teardrop",
+      "anio": 1998,
+      "pelicula": "Dr. House",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "67Hna13dNDkZvBpTXRIaOJ"
+      },
+      "spotify": "67Hna13dNDkZvBpTXRIaOJ",
+      "duracion_ms": 330773,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "67Hna13dNDkZvBpTXRIaOJ",
+          "nombre": "Teardrop",
+          "artistas": "Massive Attack, Elizabeth Fraser",
+          "disco": "Mezzanine",
+          "tipo": "album",
+          "fecha": "1998-01-01",
+          "isrc": "GBAAA9800322"
+        },
+        "musicbrainz": {
+          "fecha": "1998",
+          "grabacion": "a31e069b-1025-4700-971d-c6cfe937e31a",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1998
+      }
+    },
+    {
+      "id": "series-y-tv-031",
+      "mazo": "series-y-tv",
+      "artista": "They Might Be Giants",
+      "titulo": "Boss of Me",
+      "anio": 2000,
+      "pelicula": "Malcolm",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "3N38mpqpqtDIy7LlpsVVsF"
+      },
+      "spotify": "3N38mpqpqtDIy7LlpsVVsF",
+      "duracion_ms": 177666,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior",
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "3N38mpqpqtDIy7LlpsVVsF",
+          "nombre": "Boss Of Me",
+          "artistas": "They Might Be Giants",
+          "disco": "Mink Car",
+          "tipo": "album",
+          "fecha": "2001-09-11",
+          "isrc": "USRY20600761"
+        },
+        "musicbrainz": {
+          "fecha": "1999",
+          "grabacion": "47fbc194-3a1d-4448-ad9c-1b41bdede130",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1999
+      }
+    },
+    {
+      "id": "series-y-tv-032",
+      "mazo": "series-y-tv",
+      "artista": "Remy Zero",
+      "titulo": "Save Me",
+      "anio": 2001,
+      "pelicula": "Smallville",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4pkFvX3AkuiSGPkv8gMlks"
+      },
+      "spotify": "4pkFvX3AkuiSGPkv8gMlks",
+      "duracion_ms": 239133,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4pkFvX3AkuiSGPkv8gMlks",
+          "nombre": "Save Me",
+          "artistas": "Remy Zero",
+          "disco": "The Golden Hum",
+          "tipo": "album",
+          "fecha": "2001-09-18",
+          "isrc": "USEE10100804"
+        },
+        "musicbrainz": {
+          "fecha": "2001",
+          "grabacion": "ad629a94-cc58-4168-bbbd-690e046ff382",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2001
+      }
+    },
+    {
+      "id": "series-y-tv-033",
+      "mazo": "series-y-tv",
+      "artista": "Erreway",
+      "titulo": "Bonita de más",
+      "anio": 2002,
+      "pelicula": "Rebelde Way",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5flsxti4z1h20X9hW6Ee7c"
+      },
+      "spotify": "5flsxti4z1h20X9hW6Ee7c",
+      "duracion_ms": 195240,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5flsxti4z1h20X9hW6Ee7c",
+          "nombre": "Bonita de Más",
+          "artistas": "Erreway",
+          "disco": "Señales",
+          "tipo": "album",
+          "fecha": "2002-02-24",
+          "isrc": "ARF540200002"
+        },
+        "musicbrainz": {
+          "fecha": "2002",
+          "grabacion": "6ce1d1bc-7b81-4e9e-a18c-f2d299e33ef9",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2002
+      }
+    },
+    {
+      "id": "series-y-tv-034",
+      "mazo": "series-y-tv",
+      "artista": "Phantom Planet",
+      "titulo": "California",
+      "anio": 2002,
+      "pelicula": "The O.C.",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "497Fkp3gRiGrRMoqBTDudr"
+      },
+      "spotify": "497Fkp3gRiGrRMoqBTDudr",
+      "duracion_ms": 193933,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "497Fkp3gRiGrRMoqBTDudr",
+          "nombre": "California - Tchad Blake Mix",
+          "artistas": "Phantom Planet",
+          "disco": "The Guest (Expanded Edition)",
+          "tipo": "album",
+          "fecha": "2002",
+          "isrc": "USSM10105453"
+        },
+        "musicbrainz": {
+          "fecha": "2001-12-18",
+          "grabacion": "79d185cc-8453-4020-85f3-0c53d4a2ebd1",
+          "via": "isrc"
+        },
+        "anio_mb": 2001
+      }
+    },
+    {
+      "id": "series-y-tv-035",
+      "mazo": "series-y-tv",
+      "artista": "Gavin DeGraw",
+      "titulo": "I Don't Want to Be",
+      "anio": 2003,
+      "pelicula": "One Tree Hill",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "17yReVjsDb7Hlvjqz6jhDm"
+      },
+      "spotify": "17yReVjsDb7Hlvjqz6jhDm",
+      "duracion_ms": 219080,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "17yReVjsDb7Hlvjqz6jhDm",
+          "nombre": "I Don't Want to Be",
+          "artistas": "Gavin DeGraw",
+          "disco": "Chariot",
+          "tipo": "album",
+          "fecha": "2003-01-01",
+          "isrc": "USJAY0300148"
+        },
+        "musicbrainz": {
+          "fecha": "2003-06-03",
+          "grabacion": "68521b62-3184-420f-af62-aa1477a49ac7",
+          "via": "isrc"
+        },
+        "anio_mb": 2003
+      }
+    },
+    {
+      "id": "series-y-tv-036",
+      "mazo": "series-y-tv",
+      "artista": "RBD",
+      "titulo": "Rebelde",
+      "anio": 2004,
+      "pelicula": "Rebelde",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "56tOMi4N980gmsdUoyaLb3"
+      },
+      "spotify": "56tOMi4N980gmsdUoyaLb3",
+      "duracion_ms": 214306,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: artistas de más"
+        ],
+        "spotify": {
+          "id": "56tOMi4N980gmsdUoyaLb3",
+          "nombre": "Rebelde",
+          "artistas": "RBD, Anahí, Dulce María, Maite Perroni, Christian Chávez, Christopher von Uckermann, Alfonso Herrera",
+          "disco": "Rebelde",
+          "tipo": "album",
+          "fecha": "2004-01-01",
+          "isrc": "MXF060400816"
+        },
+        "musicbrainz": {
+          "fecha": "2004-11-30",
+          "grabacion": "eb4acdf4-0972-413f-8206-75b7ad54c1cf",
+          "via": "isrc"
+        },
+        "anio_mb": 2004
+      }
+    },
+    {
+      "id": "series-y-tv-037",
+      "mazo": "series-y-tv",
+      "artista": "Floricienta",
+      "titulo": "Flores amarillas",
+      "anio": 2004,
+      "pelicula": "Floricienta",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "5wBBoVjoounI5e36oI8oZe"
+      },
+      "spotify": "5wBBoVjoounI5e36oI8oZe",
+      "duracion_ms": 223186,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "5wBBoVjoounI5e36oI8oZe",
+          "nombre": "Flores Amarillas",
+          "artistas": "Floricienta",
+          "disco": "Floricienta",
+          "tipo": "album",
+          "fecha": "2005-06-21",
+          "isrc": "ARF540500003"
+        },
+        "musicbrainz": {
+          "fecha": "2005-06-01",
+          "grabacion": "8106efa0-a02d-47e3-84d4-89dd8bfeb2b9",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2005
+      }
+    },
+    {
+      "id": "series-y-tv-038",
+      "mazo": "series-y-tv",
+      "artista": "The Fray",
+      "titulo": "How to Save a Life",
+      "anio": 2005,
+      "pelicula": "Grey's Anatomy",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5fVZC9GiM4e8vu99W0Xf6J"
+      },
+      "spotify": "5fVZC9GiM4e8vu99W0Xf6J",
+      "duracion_ms": 262533,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5fVZC9GiM4e8vu99W0Xf6J",
+          "nombre": "How to Save a Life",
+          "artistas": "The Fray",
+          "disco": "How To Save A Life",
+          "tipo": "album",
+          "fecha": "2005-09-13",
+          "isrc": "USSM10601178"
+        },
+        "musicbrainz": {
+          "fecha": "2005-07-22",
+          "grabacion": "5c5cae19-b26c-4542-907a-9c15b51ab6a6",
+          "via": "isrc"
+        },
+        "anio_mb": 2005
+      }
+    },
+    {
+      "id": "series-y-tv-039",
+      "mazo": "series-y-tv",
+      "artista": "Snow Patrol",
+      "titulo": "Chasing Cars",
+      "anio": 2006,
+      "pelicula": "Grey's Anatomy",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "5hnyJvgoWiQUYZttV4wXy6"
+      },
+      "spotify": "5hnyJvgoWiQUYZttV4wXy6",
+      "duracion_ms": 267960,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "5hnyJvgoWiQUYZttV4wXy6",
+          "nombre": "Chasing Cars",
+          "artistas": "Snow Patrol",
+          "disco": "Eyes Open",
+          "tipo": "album",
+          "fecha": "2006-01-01",
+          "isrc": "GBUM70600345"
+        },
+        "musicbrainz": {
+          "fecha": "2006",
+          "grabacion": "b4f8a747-7aa5-4357-9546-67cb33cb0f4f",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2006
+      }
+    },
+    {
+      "id": "series-y-tv-040",
+      "mazo": "series-y-tv",
+      "artista": "Jace Everett",
+      "titulo": "Bad Things",
+      "anio": 2005,
+      "pelicula": "True Blood",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4usXBAiuv8kCDDN1xSGy30"
+      },
+      "spotify": "4usXBAiuv8kCDDN1xSGy30",
+      "duracion_ms": 164440,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4usXBAiuv8kCDDN1xSGy30",
+          "nombre": "Bad Things",
+          "artistas": "Jace Everett",
+          "disco": "Bad Things",
+          "tipo": "single",
+          "fecha": "2005-10-18",
+          "isrc": "USSM10507166"
+        },
+        "musicbrainz": {
+          "fecha": "2005-09-27",
+          "grabacion": "a32b9616-2479-4e90-971f-183f122670fc",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2005
+      }
+    },
+    {
+      "id": "series-y-tv-041",
+      "mazo": "series-y-tv",
+      "artista": "Barenaked Ladies",
+      "titulo": "The Big Bang Theory Theme",
+      "anio": 2007,
+      "pelicula": "The Big Bang Theory",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "7s91gb6uV5PPDq6muq6z9g"
+      },
+      "spotify": "7s91gb6uV5PPDq6muq6z9g",
+      "duracion_ms": 105234,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "7s91gb6uV5PPDq6muq6z9g",
+          "nombre": "Big Bang Theory Theme",
+          "artistas": "Barenaked Ladies",
+          "disco": "Big Bang Theory Theme",
+          "tipo": "single",
+          "fecha": "2010-10-11",
+          "isrc": "TCAAS1024958"
+        }
+      }
+    },
+    {
+      "id": "series-y-tv-042",
+      "mazo": "series-y-tv",
+      "artista": "Apparat",
+      "titulo": "Goodbye",
+      "anio": 2011,
+      "pelicula": "Dark",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "4VxaUj96W2jw9UOtKHu51p"
+      },
+      "spotify": "4VxaUj96W2jw9UOtKHu51p",
+      "duracion_ms": 256786,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "4VxaUj96W2jw9UOtKHu51p",
+          "nombre": "Goodbye",
+          "artistas": "Apparat, Soap&Skin",
+          "disco": "The Devil's Walk",
+          "tipo": "album",
+          "fecha": "2011",
+          "isrc": "GBR8R1100102"
+        },
+        "musicbrainz": {
+          "fecha": "2011-09-26",
+          "grabacion": "b844904e-b2e5-4e22-a29c-bbda7138dbbb",
+          "via": "isrc"
+        },
+        "anio_mb": 2011
+      }
+    },
+    {
+      "id": "series-y-tv-043",
+      "mazo": "series-y-tv",
+      "artista": "Curtis Stigers & The Forest Rangers",
+      "titulo": "This Life",
+      "anio": 2008,
+      "pelicula": "Hijos de la anarquía",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "3fSKfGA4zXkzQh1huixeVw"
+      },
+      "spotify": "3fSKfGA4zXkzQh1huixeVw",
+      "duracion_ms": 142066,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "3fSKfGA4zXkzQh1huixeVw",
+          "nombre": "This Life (Theme from \"Sons of Anarchy\")",
+          "artistas": "Curtis Stigers, The Forest Rangers",
+          "disco": "Sons of Anarchy: North Country (Music from the TV Series)",
+          "tipo": "single",
+          "fecha": "2009-09-07",
+          "isrc": "USFM90900157"
+        },
+        "musicbrainz": {
+          "fecha": "2009-09-08",
+          "grabacion": "b58a35be-3a62-41bc-b379-002e52ef0adc",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2009
+      }
+    },
+    {
+      "id": "series-y-tv-044",
+      "mazo": "series-y-tv",
+      "artista": "Fever Ray",
+      "titulo": "If I Had a Heart",
+      "anio": 2009,
+      "pelicula": "Vikingos",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "5uuJFjN0COMQawlCpRnh89"
+      },
+      "spotify": "5uuJFjN0COMQawlCpRnh89",
+      "duracion_ms": 227493,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "5uuJFjN0COMQawlCpRnh89",
+          "nombre": "If I Had a Heart",
+          "artistas": "Fever Ray",
+          "disco": "If I Had a Heart",
+          "tipo": "single",
+          "fecha": "2008-12-15",
+          "isrc": "SEWCE0800301"
+        },
+        "musicbrainz": {
+          "fecha": "2008-12-15",
+          "grabacion": "55a6d83f-af43-449e-a6b4-1b8fa24b4039",
+          "via": "isrc"
+        },
+        "anio_mb": 2008
+      }
+    },
+    {
+      "id": "series-y-tv-045",
+      "mazo": "series-y-tv",
+      "artista": "Glee Cast",
+      "titulo": "Don't Stop Believin'",
+      "anio": 2009,
+      "pelicula": "Glee",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "6w4JkiZU2ver1h2K0oUlfA"
+      },
+      "spotify": "6w4JkiZU2ver1h2K0oUlfA",
+      "duracion_ms": 230546,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: título con agregado"
+        ],
+        "spotify": {
+          "id": "6w4JkiZU2ver1h2K0oUlfA",
+          "nombre": "Don't Stop Believin' - Cover of Journey",
+          "artistas": "Glee Cast",
+          "disco": "Glee: The Music, 2009",
+          "tipo": "single",
+          "fecha": "2009",
+          "isrc": "USQX90900224"
+        },
+        "musicbrainz": {
+          "fecha": "2009-05-19",
+          "grabacion": "3f3b4023-c714-4dab-ae8c-c57045f5d76d",
+          "via": "isrc"
+        },
+        "anio_mb": 2009
+      }
+    },
+    {
+      "id": "series-y-tv-046",
+      "mazo": "series-y-tv",
+      "artista": "Bear McCreary",
+      "titulo": "The Walking Dead Main Title",
+      "anio": 2010,
+      "pelicula": "The Walking Dead",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "2cji350vUbvxQ9QwyL5Nkp"
+      },
+      "spotify": "2cji350vUbvxQ9QwyL5Nkp",
+      "duracion_ms": 49321,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "2cji350vUbvxQ9QwyL5Nkp",
+          "nombre": "Theme from the Walking Dead",
+          "artistas": "Bear McCreary",
+          "disco": "The Walking Dead (Original Television Soundtrack)",
+          "tipo": "album",
+          "fecha": "2017-10-20",
+          "isrc": "USLS51702801"
+        }
+      }
+    },
+    {
+      "id": "series-y-tv-047",
+      "mazo": "series-y-tv",
+      "artista": "Ramin Djawadi",
+      "titulo": "Game of Thrones Main Title",
+      "anio": 2011,
+      "pelicula": "Game of Thrones",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "2q6fxAvSpqXR4jx9Ne7RGz"
+      },
+      "spotify": "2q6fxAvSpqXR4jx9Ne7RGz",
+      "duracion_ms": 106280,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "revisar",
+        "motivos": [
+          "no_musicbrainz"
+        ],
+        "spotify": {
+          "id": "2q6fxAvSpqXR4jx9Ne7RGz",
+          "nombre": "Main Title",
+          "artistas": "Ramin Djawadi",
+          "disco": "Game Of Thrones (Music From The HBO Series)",
+          "tipo": "album",
+          "fecha": "2011-01-01",
+          "isrc": "US3M51109701"
+        }
+      }
+    },
+    {
+      "id": "series-y-tv-048",
+      "mazo": "series-y-tv",
+      "artista": "Lady Gaga",
+      "titulo": "Bloody Mary",
+      "anio": 2011,
+      "pelicula": "Merlina",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "2lIgUGoKAZUBfd2LmcHZIC"
+      },
+      "spotify": "2lIgUGoKAZUBfd2LmcHZIC",
+      "duracion_ms": 244760,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "2lIgUGoKAZUBfd2LmcHZIC",
+          "nombre": "Bloody Mary",
+          "artistas": "Lady Gaga",
+          "disco": "BORN THIS WAY THE TENTH ANNIVERSARY",
+          "tipo": "album",
+          "fecha": "2021-06-25",
+          "isrc": "USUM71106449"
+        },
+        "musicbrainz": {
+          "fecha": "2011-05-20",
+          "grabacion": "ba305189-a85a-4ada-83bc-b75e204cba85",
+          "via": "isrc"
+        },
+        "anio_mb": 2011
+      }
+    },
+    {
+      "id": "series-y-tv-049",
+      "mazo": "series-y-tv",
+      "artista": "Regina Spektor",
+      "titulo": "You've Got Time",
+      "anio": 2013,
+      "pelicula": "Orange Is the New Black",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1vDMGBzqLJWZC5UzePDURw"
+      },
+      "spotify": "1vDMGBzqLJWZC5UzePDURw",
+      "duracion_ms": 189480,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1vDMGBzqLJWZC5UzePDURw",
+          "nombre": "You've Got Time",
+          "artistas": "Regina Spektor",
+          "disco": "You've Got Time",
+          "tipo": "single",
+          "fecha": "2013-07-05",
+          "isrc": "USWB11302031"
+        },
+        "musicbrainz": {
+          "fecha": "2013-07-05",
+          "grabacion": "cf92bc25-1851-4424-ab15-08ac93a48fdc",
+          "via": "isrc"
+        },
+        "anio_mb": 2013
+      }
+    },
+    {
+      "id": "series-y-tv-050",
+      "mazo": "series-y-tv",
+      "artista": "Rodrigo Amarante",
+      "titulo": "Tuyo",
+      "anio": 2015,
+      "pelicula": "Narcos",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "6Dc2tCivms1s2X9myWe4ni"
+      },
+      "spotify": "6Dc2tCivms1s2X9myWe4ni",
+      "duracion_ms": 89293,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: título con agregado"
+        ],
+        "spotify": {
+          "id": "6Dc2tCivms1s2X9myWe4ni",
+          "nombre": "Tuyo (Narcos Theme) - A Netflix Original Series Soundtrack",
+          "artistas": "Rodrigo Amarante",
+          "disco": "Tuyo (Narcos Theme) [A Netflix Original Series Soundtrack]",
+          "tipo": "single",
+          "fecha": "2015-09-18",
+          "isrc": "USLS51551202"
+        },
+        "musicbrainz": {
+          "fecha": "2015-08-21",
+          "grabacion": "a3f9acac-ddc8-41eb-b6ea-40a3980aa4a7",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2015
+      }
+    },
+    {
+      "id": "series-y-tv-051",
+      "mazo": "series-y-tv",
+      "artista": "Kyle Dixon & Michael Stein",
+      "titulo": "Stranger Things",
+      "anio": 2016,
+      "pelicula": "Stranger Things",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "0kwuKfWntoGh0EWyYb7Mpf"
+      },
+      "spotify": "0kwuKfWntoGh0EWyYb7Mpf",
+      "duracion_ms": 67520,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "0kwuKfWntoGh0EWyYb7Mpf",
+          "nombre": "Stranger Things",
+          "artistas": "Kyle Dixon & Michael Stein",
+          "disco": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+          "tipo": "album",
+          "fecha": "2016-08-12",
+          "isrc": "USLS51683401"
+        },
+        "musicbrainz": {
+          "fecha": "2016-08-12",
+          "grabacion": "dde1d77d-74f1-43e7-a87c-3afee05e5b06",
+          "via": "isrc"
+        },
+        "anio_mb": 2016
+      }
+    },
+    {
+      "id": "series-y-tv-052",
+      "mazo": "series-y-tv",
+      "artista": "Cecilia Krull",
+      "titulo": "My Life Is Going On",
+      "anio": 2017,
+      "pelicula": "La casa de papel",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "0i5uuTht3RgGuEF9K7u3Qh"
+      },
+      "spotify": "0i5uuTht3RgGuEF9K7u3Qh",
+      "duracion_ms": 222973,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "0i5uuTht3RgGuEF9K7u3Qh",
+          "nombre": "My Life is Going On",
+          "artistas": "Cecilia Krull",
+          "disco": "Now",
+          "tipo": "album",
+          "fecha": "2022-01-28",
+          "isrc": "ES7002150702"
+        },
+        "musicbrainz": {
+          "fecha": "2017",
+          "grabacion": "6648a22a-c43f-4532-8665-044de6f8c434",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2017
+      }
+    },
+    {
+      "id": "series-y-tv-053",
+      "mazo": "series-y-tv",
+      "artista": "Manu Pilas",
+      "titulo": "Bella ciao",
+      "anio": 2018,
+      "pelicula": "La casa de papel",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "3ISMDCuo2KDOC64nXz0Vah"
+      },
+      "spotify": "3ISMDCuo2KDOC64nXz0Vah",
+      "duracion_ms": 139844,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "3ISMDCuo2KDOC64nXz0Vah",
+          "nombre": "Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist",
+          "artistas": "Manu Pilas",
+          "disco": "Bella Ciao (Música Original de la Serie la Casa de Papel/ Money Heist)",
+          "tipo": "single",
+          "fecha": "2018-04-20",
+          "isrc": "ES84S1800619"
+        },
+        "musicbrainz": {
+          "fecha": "2018-04-20",
+          "grabacion": "a272bd4e-a7b3-4b15-91f8-22cefc5d354b",
+          "via": "isrc"
+        },
+        "anio_mb": 2018
+      }
+    },
+    {
+      "id": "series-y-tv-054",
+      "mazo": "series-y-tv",
+      "artista": "Labrinth",
+      "titulo": "All for Us",
+      "anio": 2019,
+      "pelicula": "Euphoria",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "10hMM5nsZQf66ldBlgWBfG"
+      },
+      "spotify": "10hMM5nsZQf66ldBlgWBfG",
+      "duracion_ms": 192986,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "10hMM5nsZQf66ldBlgWBfG",
+          "nombre": "All For Us - from the HBO Original Series Euphoria",
+          "artistas": "Labrinth, Zendaya",
+          "disco": "All For Us (from the HBO Original Series Euphoria)",
+          "tipo": "single",
+          "fecha": "2019-08-04",
+          "isrc": "USUG11902729"
+        },
+        "musicbrainz": {
+          "fecha": "2019-07-01",
+          "grabacion": "d1f477b1-603b-49a1-8f24-32c011abcc9e",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2019
+      }
+    },
+    {
+      "id": "series-y-tv-055",
+      "mazo": "series-y-tv",
+      "artista": "Ludwig Göransson",
+      "titulo": "The Mandalorian",
+      "anio": 2019,
+      "pelicula": "The Mandalorian",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "6tJFtthY0rI1x06qb8NjK0"
+      },
+      "spotify": "6tJFtthY0rI1x06qb8NjK0",
+      "duracion_ms": 198861,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "6tJFtthY0rI1x06qb8NjK0",
+          "nombre": "The Mandalorian",
+          "artistas": "Ludwig Göransson",
+          "disco": "The Mandalorian: Chapter 1 (Original Score)",
+          "tipo": "album",
+          "fecha": "2019-11-11",
+          "isrc": "USWD11995118"
+        },
+        "musicbrainz": {
+          "fecha": "2019-11-12",
+          "grabacion": "3bc4155f-da5a-4681-8728-abe2e57787af",
+          "via": "isrc"
+        },
+        "anio_mb": 2019
+      }
+    },
+    {
+      "id": "series-y-tv-056",
+      "mazo": "series-y-tv",
+      "artista": "Marcus Mumford",
+      "titulo": "Ted Lasso Theme",
+      "anio": 2020,
+      "pelicula": "Ted Lasso",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "0OvmDL6jiAksoqs01EAq9A"
+      },
+      "spotify": "0OvmDL6jiAksoqs01EAq9A",
+      "duracion_ms": 136918,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado"
+        ],
+        "spotify": {
+          "id": "0OvmDL6jiAksoqs01EAq9A",
+          "nombre": "Ted Lasso Theme",
+          "artistas": "Marcus Mumford, Tom Howe",
+          "disco": "Ted Lasso: Season 1 (Apple TV+ Original Series Soundtrack)",
+          "tipo": "compilation",
+          "fecha": "2020-10-02",
+          "isrc": "USNLR2000802"
+        },
+        "musicbrainz": {
+          "fecha": "2020-10-02",
+          "grabacion": "f03a99f5-7e41-4a57-81cd-5dbd7e681722",
+          "via": "isrc"
+        },
+        "anio_mb": 2020
+      }
+    },
+    {
+      "id": "series-y-tv-057",
+      "mazo": "series-y-tv",
+      "artista": "The Cramps",
+      "titulo": "Goo Goo Muck",
+      "anio": 1981,
+      "pelicula": "Merlina",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "3EEd6ldsPat620GVYMEhOP"
+      },
+      "spotify": "3EEd6ldsPat620GVYMEhOP",
+      "duracion_ms": 186038,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "3EEd6ldsPat620GVYMEhOP",
+          "nombre": "Goo Goo Muck",
+          "artistas": "The Cramps",
+          "disco": "Psychedelic Jungle",
+          "tipo": "album",
+          "fecha": "1981-05-01",
+          "isrc": "USIR38100013"
+        },
+        "musicbrainz": {
+          "fecha": "1980",
+          "grabacion": "01567de9-71b0-4674-8bc0-2e0803972a92",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1980
+      }
+    },
+    {
+      "id": "series-y-tv-058",
+      "mazo": "series-y-tv",
+      "artista": "Ann Hampton Callaway",
+      "titulo": "The Nanny Named Fran",
+      "anio": 1993,
+      "pelicula": "La niñera",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "2raTb5B5n7dFhhRpefH9bL"
+      },
+      "spotify": "2raTb5B5n7dFhhRpefH9bL",
+      "duracion_ms": 45824,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "2raTb5B5n7dFhhRpefH9bL",
+          "nombre": "The Nanny Named Fran (from \"The Nanny\" Television Series)",
+          "artistas": "Ann Hampton Callaway",
+          "disco": "The Nanny Named Fran (from \"The Nanny\" Television Series)",
+          "tipo": "single",
+          "fecha": "1993",
+          "isrc": "US4DG2590694"
+        },
+        "musicbrainz": {
+          "fecha": "1996-02-20",
+          "grabacion": "441adb8e-d619-4704-9e6d-9843ec91610c",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1996
+      }
+    },
+    {
+      "id": "series-y-tv-059",
+      "mazo": "series-y-tv",
+      "artista": "Phil Collins",
+      "titulo": "In the Air Tonight",
+      "anio": 1981,
+      "pelicula": "Miami Vice",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "18AXbzPzBS8Y3AkgSxzJPb"
+      },
+      "spotify": "18AXbzPzBS8Y3AkgSxzJPb",
+      "duracion_ms": 336453,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "18AXbzPzBS8Y3AkgSxzJPb",
+          "nombre": "In the Air Tonight - 2015 Remaster",
+          "artistas": "Phil Collins",
+          "disco": "Face Value (Deluxe Editon)",
+          "tipo": "album",
+          "fecha": "1981-01-01",
+          "isrc": "USAT21502120"
+        },
+        "musicbrainz": {
+          "fecha": "1981-01-05",
+          "grabacion": "03b5bad2-47c5-45c3-ad34-53135f3ec4cc",
+          "via": "isrc"
+        },
+        "anio_mb": 1981
+      }
+    },
+    {
+      "id": "series-y-tv-060",
+      "mazo": "series-y-tv",
+      "artista": "The Clash",
+      "titulo": "Should I Stay or Should I Go",
+      "anio": 1982,
+      "pelicula": "Stranger Things",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "39shmbIHICJ2Wxnk1fPSdz"
+      },
+      "spotify": "39shmbIHICJ2Wxnk1fPSdz",
+      "duracion_ms": 188987,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "39shmbIHICJ2Wxnk1fPSdz",
+          "nombre": "Should I Stay or Should I Go - Remastered",
+          "artistas": "The Clash",
+          "disco": "Combat Rock (Remastered)",
+          "tipo": "album",
+          "fecha": "1982",
+          "isrc": "GBARL1200670"
+        },
+        "musicbrainz": {
+          "fecha": "1981",
+          "grabacion": "a800295d-8488-44d4-9d06-ebbd97899b2c",
+          "via": "búsqueda"
+        },
+        "anio_mb": 1981
+      }
+    },
+    {
+      "id": "series-y-tv-061",
+      "mazo": "series-y-tv",
+      "artista": "Cristobal Tapia de Veer",
+      "titulo": "Aloha!",
+      "anio": 2021,
+      "pelicula": "The White Lotus",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": true,
+        "spotify": "4jNa66Mi5PgcXrEaCiPNMu"
+      },
+      "spotify": "4jNa66Mi5PgcXrEaCiPNMu",
+      "duracion_ms": 79093,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "version_dudosa: compilado, título con agregado"
+        ],
+        "spotify": {
+          "id": "4jNa66Mi5PgcXrEaCiPNMu",
+          "nombre": "Aloha! (Main Title Theme) - from “The White Lotus: Season 1”",
+          "artistas": "Cristobal Tapia De Veer",
+          "disco": "The White Lotus (Soundtrack from the HBO® Original Limited Series)",
+          "tipo": "compilation",
+          "fecha": "2021-07-11",
+          "isrc": "USNLR2100953"
+        },
+        "musicbrainz": {
+          "fecha": "2021-07-11",
+          "grabacion": "4e4f1857-ab23-4f2f-af4e-4f1466119f45",
+          "via": "isrc"
+        },
+        "anio_mb": 2021
+      }
+    },
+    {
+      "id": "series-y-tv-062",
+      "mazo": "series-y-tv",
+      "artista": "Jung Jae-il",
+      "titulo": "Way Back Then",
+      "anio": 2021,
+      "pelicula": "El juego del calamar",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": false,
+        "okVersion": false,
+        "spotify": "1QZlW9PmwtZtHKraGG1JdB"
+      },
+      "spotify": "1QZlW9PmwtZtHKraGG1JdB",
+      "duracion_ms": 151193,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [],
+        "spotify": {
+          "id": "1QZlW9PmwtZtHKraGG1JdB",
+          "nombre": "Way Back then",
+          "artistas": "jung jaeil",
+          "disco": "Squid Game (Original Soundtrack from the Netflix Series)",
+          "tipo": "album",
+          "fecha": "2021-09-17",
+          "isrc": "KRA492100878"
+        },
+        "musicbrainz": {
+          "fecha": "2021-09-17",
+          "grabacion": "32cd8fe4-33d1-4293-8d65-af2f2e3b9b2d",
+          "via": "isrc"
+        },
+        "anio_mb": 2021
+      }
+    },
+    {
+      "id": "series-y-tv-063",
+      "mazo": "series-y-tv",
+      "artista": "Nicholas Britell",
+      "titulo": "Succession (Main Title Theme)",
+      "anio": 2018,
+      "pelicula": "Succession",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": false,
+        "spotify": "0bSHwuTOZVJUXWT03H9oD2"
+      },
+      "spotify": "0bSHwuTOZVJUXWT03H9oD2",
+      "duracion_ms": 102013,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "anio_distinto"
+        ],
+        "spotify": {
+          "id": "0bSHwuTOZVJUXWT03H9oD2",
+          "nombre": "Succession (Main Title Theme)",
+          "artistas": "Nicholas Britell",
+          "disco": "Succession: Season 1 (HBO Original Series Soundtrack)",
+          "tipo": "album",
+          "fecha": "2019-08-09",
+          "isrc": "US5941411059"
+        },
+        "musicbrainz": {
+          "fecha": "2019-08-09",
+          "grabacion": "c712a03b-39d7-407c-badc-86da14795291",
+          "via": "isrc"
+        },
+        "anio_mb": 2019
+      }
+    },
+    {
+      "id": "series-y-tv-064",
+      "mazo": "series-y-tv",
+      "artista": "John Lunn",
+      "titulo": "Downton Abbey - The Suite",
+      "anio": 2010,
+      "pelicula": "Downton Abbey",
+      "fuera": false,
+      "opciones": {
+        "fuera": false,
+        "reserva": false,
+        "okAnio": true,
+        "okVersion": true,
+        "spotify": "5TeBHcKNBc7DzpIBQJdaIB"
+      },
+      "spotify": "5TeBHcKNBc7DzpIBQJdaIB",
+      "duracion_ms": 426096,
+      "verificacion": {
+        "fecha": "2026-11-27",
+        "estado": "ok",
+        "motivos": [
+          "disco_posterior"
+        ],
+        "spotify": {
+          "id": "5TeBHcKNBc7DzpIBQJdaIB",
+          "nombre": "Downton Abbey - The Suite",
+          "artistas": "John Lunn, The Chamber Orchestra Of London",
+          "disco": "Downton Abbey: A New Era (Original Motion Picture Soundtrack)",
+          "tipo": "album",
+          "fecha": "2022-04-29",
+          "isrc": "USQ4E2200282"
+        },
+        "musicbrainz": {
+          "fecha": "2010-11",
+          "grabacion": "f0ab62e2-4176-4a09-8436-548f705d5357",
+          "via": "búsqueda"
+        },
+        "anio_mb": 2010
       }
     },
     {

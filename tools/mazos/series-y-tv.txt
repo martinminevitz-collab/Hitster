@@ -1,0 +1,67 @@
+# nombre: Series y TV
+# playlist: 33WhvPFdiuQcCjx9Ue7B9h
+# formato: artista | tema | año | opciones (spotify:ID, fuera, ok-año, ok-versión) | serie
+Frank Sinatra | Love and Marriage | 1955 | ok-año, ok-versión, spotify:4lZo31VihgAR8sO2H2yOR7 | Casados con hijos
+Marius Constant | The Twilight Zone | 1959 | fuera | La dimensión desconocida
+Malvina Reynolds | Little Boxes | 1962 | ok-año, spotify:0cXOyIxBEJBPvspi3XLoW3 | Weeds
+Neal Hefti | Batman Theme | 1966 | spotify:4lwV7SpU0JSM1OIm0aIkNP, ok-año, ok-versión | Batman
+Alexander Courage | Star Trek Theme | 1966 | ok-año, ok-versión, spotify:2gWRVVlT7O3LjER4sw0KcL | Viaje a las estrellas
+Lalo Schifrin | Mission: Impossible Theme | 1967 | spotify:0VlxbRzdOyA56BviBK9vkc | Misión imposible
+Joe Cocker | With a Little Help from My Friends | 1968 | ok-año, spotify:0YZ3J8xzGwLOg4yEgST1YK | Los años maravillosos
+The Ventures | Hawaii Five-O | 1969 | ok-año, spotify:3UUwbJd2j4RORlalTUhaDk | Hawaii 5-0
+The Who | Won't Get Fooled Again | 1971 | spotify:0M5VXinuVGeuyMT0AyooZK | CSI: Miami
+Badfinger | Baby Blue | 1972 | spotify:6S3JlDAGk3uu3NtZbPnuhS, ok-año | Breaking Bad
+Pratt & McClain | Happy Days | 1976 | ok-versión, spotify:1CCuMgDauGruOwxrSh9NSW | Días felices
+The Who | Who Are You | 1978 | ok-año, spotify:23IJ5wLRhEZ9DOuia5mPiZ | CSI
+Joey Scarbury | Believe It or Not | 1981 | ok-año, ok-versión, spotify:6gF0Jyt5b3HvU4c5vV1qln | El gran héroe americano
+Stu Phillips | Knight Rider Theme | 1982 | spotify:2R2gMe3zb9BgCdT2PZh1s3, ok-año, ok-versión | El auto fantástico
+Mike Post | The A-Team | 1983 | fuera, spotify:0mdtYfR8hE1Eb6hwLMJWRX | Brigada A
+Glenn Frey | You Belong to the City | 1985 | ok-versión, spotify:7kJpjZREKndVut0CYrDU3P | Miami Vice
+Jan Hammer | Crockett's Theme | 1986 | spotify:3TnJ7M6in8Pb5EyGBUK02Y | Miami Vice
+Al Jarreau | Moonlighting | 1985 | ok-año, ok-versión, spotify:6Rx1YIKO5T2g5hXu9dPHUW | Luz de luna
+Kate Bush | Running Up That Hill (A Deal with God) | 1985 | spotify:1PtQJZVZIdWIYdARpZRDFO | Stranger Things
+Metallica | Master of Puppets | 1986 | spotify:2MuWTIM3b0YEAskbeeFE1i | Stranger Things
+Danny Elfman | The Simpsons Theme | 1989 | spotify:7CD8O3gZ5NB7jkfO5cv0WD, ok-año, ok-versión | Los Simpson
+Will Smith | The Fresh Prince of Bel-Air | 1990 | fuera, spotify:3O3aPUd6Z4eU1e1gT7O0Wc | El príncipe del rap
+Angelo Badalamenti | Twin Peaks Theme | 1990 | ok-versión, spotify:5xdtUZKYnE4l7KSzgQ6MBD | Twin Peaks
+Jimi Jamison | I'm Always Here | 1991 | ok-año, ok-versión, spotify:6C4MEmdAhoMPOMRcuIJ4KK | Guardianes de la bahía
+Mark Snow | The X-Files | 1993 | spotify:4th0mPYPuZUs564oCu5I1U, ok-año, ok-versión | Los expedientes secretos X
+Nick Cave & The Bad Seeds | Red Right Hand | 1994 | spotify:2m00UKm7wLk8SxHQTyBRFj | Peaky Blinders
+The Rembrandts | I'll Be There for You | 1995 | ok-versión, spotify:4rHyHUicWjhlJDbPP7kMEg | Friends
+Alabama 3 | Woke Up This Morning | 1997 | spotify:21uRAQSdGG4nyNbTvwXYH9 | Los Soprano
+Paula Cole | I Don't Want to Wait | 1997 | ok-año, spotify:5MDQNJ7SZTytJwCbWKqJDL | Dawson's Creek
+Massive Attack | Teardrop | 1998 | spotify:67Hna13dNDkZvBpTXRIaOJ | Dr. House
+They Might Be Giants | Boss of Me | 2000 | ok-año, ok-versión, spotify:3N38mpqpqtDIy7LlpsVVsF | Malcolm
+Remy Zero | Save Me | 2001 | spotify:4pkFvX3AkuiSGPkv8gMlks | Smallville
+Erreway | Bonita de más | 2002 | spotify:5flsxti4z1h20X9hW6Ee7c | Rebelde Way
+Phantom Planet | California | 2002 | spotify:497Fkp3gRiGrRMoqBTDudr, ok-año, ok-versión | The O.C.
+Gavin DeGraw | I Don't Want to Be | 2003 | spotify:17yReVjsDb7Hlvjqz6jhDm | One Tree Hill
+RBD | Rebelde | 2004 | ok-versión, spotify:56tOMi4N980gmsdUoyaLb3 | Rebelde
+Floricienta | Flores amarillas | 2004 | ok-año, spotify:5wBBoVjoounI5e36oI8oZe | Floricienta
+The Fray | How to Save a Life | 2005 | spotify:5fVZC9GiM4e8vu99W0Xf6J | Grey's Anatomy
+Snow Patrol | Chasing Cars | 2006 | spotify:5hnyJvgoWiQUYZttV4wXy6 | Grey's Anatomy
+Jace Everett | Bad Things | 2005 | spotify:4usXBAiuv8kCDDN1xSGy30 | True Blood
+Barenaked Ladies | The Big Bang Theory Theme | 2007 | spotify:7s91gb6uV5PPDq6muq6z9g, ok-año, ok-versión | The Big Bang Theory
+Apparat | Goodbye | 2011 | spotify:4VxaUj96W2jw9UOtKHu51p | Dark
+Curtis Stigers & The Forest Rangers | This Life | 2008 | spotify:3fSKfGA4zXkzQh1huixeVw, ok-año, ok-versión | Hijos de la anarquía
+Fever Ray | If I Had a Heart | 2009 | ok-año, spotify:5uuJFjN0COMQawlCpRnh89 | Vikingos
+Glee Cast | Don't Stop Believin' | 2009 | ok-versión, spotify:6w4JkiZU2ver1h2K0oUlfA | Glee
+Bear McCreary | The Walking Dead Main Title | 2010 | spotify:2cji350vUbvxQ9QwyL5Nkp, ok-año, ok-versión | The Walking Dead
+Ramin Djawadi | Game of Thrones Main Title | 2011 | spotify:2q6fxAvSpqXR4jx9Ne7RGz | Game of Thrones
+Lady Gaga | Bloody Mary | 2011 | ok-año, ok-versión, spotify:2lIgUGoKAZUBfd2LmcHZIC | Merlina
+Regina Spektor | You've Got Time | 2013 | spotify:1vDMGBzqLJWZC5UzePDURw | Orange Is the New Black
+Rodrigo Amarante | Tuyo | 2015 | ok-versión, spotify:6Dc2tCivms1s2X9myWe4ni | Narcos
+Kyle Dixon & Michael Stein | Stranger Things | 2016 | spotify:0kwuKfWntoGh0EWyYb7Mpf | Stranger Things
+Cecilia Krull | My Life Is Going On | 2017 | ok-año, ok-versión, spotify:0i5uuTht3RgGuEF9K7u3Qh | La casa de papel
+Manu Pilas | Bella ciao | 2018 | spotify:3ISMDCuo2KDOC64nXz0Vah, ok-versión | La casa de papel
+Labrinth | All for Us | 2019 | ok-versión, spotify:10hMM5nsZQf66ldBlgWBfG | Euphoria
+Ludwig Göransson | The Mandalorian | 2019 | spotify:6tJFtthY0rI1x06qb8NjK0 | The Mandalorian
+Marcus Mumford | Ted Lasso Theme | 2020 | ok-versión, spotify:0OvmDL6jiAksoqs01EAq9A | Ted Lasso
+The Cramps | Goo Goo Muck | 1981 | ok-año, spotify:3EEd6ldsPat620GVYMEhOP | Merlina
+Ann Hampton Callaway | The Nanny Named Fran | 1993 | ok-año, spotify:2raTb5B5n7dFhhRpefH9bL | La niñera
+Phil Collins | In the Air Tonight | 1981 | spotify:18AXbzPzBS8Y3AkgSxzJPb | Miami Vice
+The Clash | Should I Stay or Should I Go | 1982 | spotify:39shmbIHICJ2Wxnk1fPSdz, ok-año | Stranger Things
+Cristobal Tapia de Veer | Aloha! | 2021 | ok-versión, spotify:4jNa66Mi5PgcXrEaCiPNMu | The White Lotus
+Jung Jae-il | Way Back Then | 2021 | spotify:1QZlW9PmwtZtHKraGG1JdB | El juego del calamar
+Nicholas Britell | Succession (Main Title Theme) | 2018 | ok-año, spotify:0bSHwuTOZVJUXWT03H9oD2 | Succession
+John Lunn | Downton Abbey - The Suite | 2010 | ok-año, ok-versión, spotify:5TeBHcKNBc7DzpIBQJdaIB | Downton Abbey

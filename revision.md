@@ -2,11 +2,22 @@
 
 Generado el 2026-11-27 por `node tools/biblioteca.mjs`.
 
-**1381 temas** en 11 mazo(s) · **1245 listos para jugar** · 2 para revisar · 0 sin procesar · 99 fuera del mazo · 35 en reserva.
+**1518 temas** en 13 mazo(s) · **1366 listos para jugar** · 7 para revisar · 0 sin procesar · 110 fuera del mazo · 35 en reserva.
 
 Las correcciones se hacen en `tools/mazos/*.txt`: el año en la 3ª columna, y en la 4ª (opcional, separadas por comas) `fuera`, `ok-año`, `ok-versión` o `spotify:ID` / link de Spotify para fijar la versión a mano.
 
-## Solo hay remaster (aviso) (53)
+## No encontré el año en MusicBrainz (4)
+
+No hay dato para verificar: queda el año del juego.
+
+| Artista | Tema | Año del juego | Disco en Spotify |
+|---|---|---|---|
+| Richard Stone | Animaniacs Main Title Theme | 1993 | Steven Spielberg Presents Animaniacs (Soundtrack from the Original Series) (1993-11-16) |
+| Gummibär | I'm a Gummy Bear (The Gummy Bear Song) | 2006 | I'm A Gummy Bear (The Gummy Bear Song) (2006-08-28) |
+| María Elena Walsh | Manuelita | 1964 | Canciones Para Mí (1964-10-31) |
+| Ramin Djawadi | Game of Thrones Main Title | 2011 | Game Of Thrones (Music From The HBO Series) (2011-01-01) |
+
+## Solo hay remaster (aviso) (56)
 
 No hay versión sin remasterizar: se usa el remaster del disco original. No hace falta hacer nada.
 
@@ -14,6 +25,7 @@ No hay versión sin remasterizar: se usa el remaster del disco original. No hace
 |---|---|---|---|
 | Peabo Bryson | A Whole New World | A Whole New World (Aladdin's Theme) - Remastered 2022 | Walt Disney Records The Legacy Collection: Aladdin (2022-09-16) |
 | The Cardigans | Lovefool | Lovefool | First Band On The Moon (Remastered) (1996-01-01) |
+| Robin Williams | Friend Like Me | Friend Like Me - Remastered 2022 | Walt Disney Records The Legacy Collection: Aladdin (2022-09-16) |
 | Sister Sledge | We Are Family | We Are Family - 1995 Remaster | We Are Family (1995 Remaster) (1979) |
 | Kaoma | Lambada | Lambada - Remastered 2022 | Lambada (Remastered 2022) (2022-09-01) |
 | Pet Shop Boys | Go West | Go West - 2018 Remaster; Hidden Track | Very (2018 Remaster) (1993-09-27) |
@@ -65,6 +77,8 @@ No hay versión sin remasterizar: se usa el remaster del disco original. No hace
 | Serú Girán | Desarma y sangra | Desarma Y Sangra - Remastered 2012 | Bicicleta (Remastered 2012) (1980-11-01) |
 | Los Fabulosos Cadillacs | Yo no me sentaría en tu mesa | Yo No Me Sentaría en Tu Mesa - Remasterizado 2008 | Yo Te Avisé (1987-06-18) |
 | Los Fabulosos Cadillacs | Vasos vacíos | Vasos Vacíos - Remasterizado 2008 | El Ritmo Mundial (1988-06-18) |
+| The Who | Won't Get Fooled Again | Won't Get Fooled Again - Remastered 2022 | Who's Next (Remastered 2022) (1971-08-14) |
+| Metallica | Master of Puppets | Master Of Puppets | Master Of Puppets (Remastered) (1986-03-03) |
 
 ## En reserva por variedad (35)
 
@@ -108,7 +122,7 @@ Marcados con `reserva`: no salen en el juego para que haya más artistas distint
 | Gustavo Cerati | Engaña | 1999 |
 | Gustavo Cerati | Cosas imposibles | 2002 |
 
-## Fuera del mazo (99)
+## Fuera del mazo (110)
 
 Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, pasá un link de Spotify con `spotify:` y sacá `fuera`.
 
@@ -145,6 +159,14 @@ Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, 
 | Daniel Agostini | Hasta el día de hoy | 1996 | no spotify, no musicbrainz |
 | Banda XXI | Agüita | 1999 | no spotify, no musicbrainz |
 | Sabroso | Que se mueran de envidia | 2006 | no spotify, no musicbrainz |
+| Hoyt Curtin | Meet the Flintstones | 1960 | version dudosa: otro artista primero, artistas de más, anio distinto |
+| Hoyt Curtin | The Jetsons Main Theme | 1962 | no spotify, no musicbrainz |
+| Paul Francis Webster | Spider-Man Theme | 1967 | no spotify, anio distinto |
+| Joe Raposo | Sesame Street Theme | 1969 | version dudosa: artistas de más, compilado, título con agregado, no musicbrainz |
+| Father Abraham | The Smurf Song | 1977 | no spotify, anio distinto |
+| Bernard Hoffer | ThunderCats Theme | 1985 | no spotify, no musicbrainz |
+| Pipo Pescador | El auto de papá | 1968 | no spotify, no musicbrainz |
+| Cantando con Adriana | El monstruo de la laguna | 1993 | no spotify, no musicbrainz |
 | Chubby Checker | The Twist | 1960 | disco posterior, anio distinto |
 | Village People | Y.M.C.A. | 1978 | version dudosa: compilado, anio distinto |
 | KC and the Sunshine Band | Give It Up | 1983 | version dudosa: vivo/versión, anio distinto |
@@ -212,7 +234,11 @@ Marcados con `fuera` en la lista: no salen en el juego. Para volver a sumarlos, 
 | Bersuit Vergarabat | Un pacto | 2004 | anio distinto |
 | Los Tipitos | Campeón | 2004 | no spotify, no musicbrainz |
 | Las Pelotas | Shine | 2009 | no spotify, anio distinto |
+| Marius Constant | The Twilight Zone | 1959 | no spotify, anio distinto |
+| Mike Post | The A-Team | 1983 | version dudosa: otro artista primero, artistas de más, título con agregado, anio distinto |
+| Will Smith | The Fresh Prince of Bel-Air | 1990 | version dudosa: vivo/versión, compilado, anio distinto |
 | Run-DMC | Walk This Way | 1986 | no spotify, anio distinto |
 
 - Error con Patrick Swayze – She's Like the Wind: error en MusicBrainz: MusicBrainz 400
+- Error con Chuck Lorre – Teenage Mutant Ninja Turtles: error en MusicBrainz: MusicBrainz 400
 - Error con Zombie Nation – Kernkraft 400: error en MusicBrainz: MusicBrainz 400
